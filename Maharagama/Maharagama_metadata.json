@@ -298,5 +298,25 @@
     "rawPrice": 35000,
     "timestamp": "08 Jan 8:11 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 147,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê (Nữ) Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-girls-maharagama-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "31 Jan 10:53 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 152,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà ở tầng trên Pannipitiya",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-annex-for-rent-for-rent-colombo-201",
+    "rawPrice": 38000,
+    "timestamp": "03 Feb 11:02 am",
+    "gender": "Cả hai"
   }
 ]

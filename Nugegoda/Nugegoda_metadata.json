@@ -118,5 +118,15 @@
     "rawPrice": 9000,
     "timestamp": "07 Jan 8:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 461,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ratmalana-for-rent-colombo-275",
+    "rawPrice": 40000,
+    "timestamp": "21 Jan 4:14 pm",
+    "gender": "Cả hai"
   }
 ]
