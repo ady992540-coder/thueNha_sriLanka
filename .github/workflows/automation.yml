@@ -1,0 +1,39 @@
+name: Daily Real Estate Automation
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Chạy vào 00:00 UTC mỗi ngày (7:00 AM giờ VN)
+  workflow_dispatch: # Cho phép chạy thủ công bằng nút trên GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Cần quyền để push thay đổi lên repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run automation
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update history and metadata [skip ci]" && git push)
