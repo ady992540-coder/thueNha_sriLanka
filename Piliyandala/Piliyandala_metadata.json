@@ -238,5 +238,55 @@
     "rawPrice": 38000,
     "timestamp": "03 Feb 11:02 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 152,
+    "title": "Cho thuê phòng Các cô gái làm việc - Wijerama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-3",
+    "rawPrice": 22000,
+    "timestamp": "02 Feb 5:47 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 157,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Meegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-meegoda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Feb 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 162,
+    "title": "Phòng Sang Trọng Cho Thuê Tại Piliyandala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-rooms-for-rent-at-piliyandala-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "04 Feb 3:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 165,
+    "title": "phòng chia sẻ & bữa ăn cho các bạn nữ කාමර ආහාර පාන ශිෂ්‍යාවන් කාන්තාවන්ට",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-room-and-meals-for-girls-kaamr-aahaar-paan-shissyaavn-kaantaavntt-for-rent-colombo-3",
+    "rawPrice": 40000,
+    "timestamp": "03 Feb 8:28 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 170,
+    "title": "Phòng sang trọng cho thuê tại Battaramulla",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-rooms-for-rent-in-battaramulla-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "28 Jan 4:46 pm",
+    "gender": "Nam"
   }
 ]

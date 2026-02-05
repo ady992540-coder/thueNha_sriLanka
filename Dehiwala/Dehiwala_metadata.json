@@ -418,5 +418,35 @@
     "rawPrice": 22000,
     "timestamp": "02 Feb 5:47 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 215,
+    "title": "Cho Thuê Khu nhà riêng biệt, độc lập với chủ nhà ở Meegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-meegoda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Feb 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 220,
+    "title": "Phòng Cho Thuê Dehiwela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10150",
+    "rawPrice": 35000,
+    "timestamp": "04 Feb 1:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 223,
+    "title": "shearing room & meals for girls කාමර ආහාර පාන ශිෂ්‍යාවන් කාන්තාවන්ට",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-room-and-meals-for-girls-kaamr-aahaar-paan-shissyaavn-kaantaavntt-for-rent-colombo-3",
+    "rawPrice": 40000,
+    "timestamp": "03 Feb 8:28 am",
+    "gender": "Cả hai"
   }
 ]

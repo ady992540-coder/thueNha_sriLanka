@@ -148,5 +148,45 @@
     "rawPrice": 17500,
     "timestamp": "26 Jan 10:26 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 165,
+    "title": "Luxurious Rooms for Rent in Battaramulla",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-rooms-for-rent-in-battaramulla-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "28 Jan 4:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 174,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Meegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-meegoda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Feb 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 179,
+    "title": "Phòng cho thuê ở Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-gampaha-2",
+    "rawPrice": 9000,
+    "timestamp": "07 Jan 8:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 184,
+    "title": "shearing room & meals for girls කාමර ආහාර පාන ශිෂ්‍යාවන් කාන්තාවන්ට",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-room-and-meals-for-girls-kaamr-aahaar-paan-shissyaavn-kaantaavntt-for-rent-colombo-3",
+    "rawPrice": 40000,
+    "timestamp": "03 Feb 8:28 am",
+    "gender": "Cả hai"
   }
 ]

@@ -128,5 +128,65 @@
     "rawPrice": 40000,
     "timestamp": "21 Jan 4:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 478,
+    "title": "Phòng ở chung & bữa ăn cho nữ sinh කාමර ආහාර පාන ශිෂ්‍යාවන් කාන්තාවන්ට",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-room-and-meals-for-girls-kaamr-aahaar-paan-shissyaavn-kaantaavntt-for-rent-colombo-3",
+    "rawPrice": 40000,
+    "timestamp": "03 Feb 8:28 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 483,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Meegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-meegoda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Feb 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 488,
+    "title": "Phòng trọ cho nữ - Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-girls-nugegoda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "04 Feb 9:48 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 491,
+    "title": "Cho thuê phòng Nugegoda (Ở ghép)",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-sharing-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "04 Feb 7:52 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 495,
+    "title": "Fully Furnished Luxury AC Annex for Rent Panadura",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fullu-furnished-luxury-ac-annex-panadura-for-rent-colombo",
+    "rawPrice": 120000,
+    "timestamp": "21 Jan 3:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 501,
+    "title": "Phòng cho thuê ở Peradeniya",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-peradeniya-for-rent-kandy-14",
+    "rawPrice": 17500,
+    "timestamp": "26 Jan 10:26 am",
+    "gender": "Nam"
   }
 ]
