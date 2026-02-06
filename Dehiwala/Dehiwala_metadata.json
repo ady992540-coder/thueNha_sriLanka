@@ -448,5 +448,55 @@
     "rawPrice": 40000,
     "timestamp": "03 Feb 8:28 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 230,
+    "title": "Luxurious Rooms for Rent in Battaramulla",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-rooms-for-rent-in-battaramulla-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "28 Jan 4:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 239,
+    "title": "Phòng cho thuê ở Đường Kawdana, Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kawdana-road-dehiwala-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Feb 10:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 244,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Cho Thuê ở Dehiwala (Gần Cầu Vượt)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-near-fly-over-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "05 Feb 12:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 249,
+    "title": "Phòng Sang Trọng Cho Nữ Sinh Thuê Pittugala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-luxury-rooms-for-rent-pittugala-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "25 Jan 5:15 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 254,
+    "title": "Phòng sinh viên cho Nsbm Homagama - Chỉ dành cho nam",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/student-rooms-for-nsbm-homagama-boys-only-for-rent-colombo-2",
+    "rawPrice": 12000,
+    "timestamp": "02 Feb 2:58 pm",
+    "gender": "Nam"
   }
 ]

@@ -188,5 +188,45 @@
     "rawPrice": 17500,
     "timestamp": "26 Jan 10:26 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 507,
+    "title": "Cho thuê phòng ở Wijerama - Chỉ dành cho nữ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-in-wijerama-ladies-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "06 Feb 6:31 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 517,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho Nữ - Nugegoda",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-annex-for-girls-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "05 Feb 12:10 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 522,
+    "title": "Phòng Sang Trọng Cho Thuê tại Battaramulla",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-rooms-for-rent-in-battaramulla-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "28 Jan 4:46 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 531,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kurunegala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kurunegala-for-rent-kurunegala-17",
+    "rawPrice": 30000,
+    "timestamp": "03 Feb 7:51 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -348,5 +348,25 @@
     "rawPrice": 50000,
     "timestamp": "28 Jan 4:46 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 185,
+    "title": "Phòng Sang Trọng Cho Nữ Sinh Viên Cho Thuê Pittugala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-luxury-rooms-for-rent-pittugala-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "25 Jan 5:15 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 190,
+    "title": "Phòng sinh viên cho Nsbm Homagama - Chỉ dành cho nam sinh",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/student-rooms-for-nsbm-homagama-boys-only-for-rent-colombo-2",
+    "rawPrice": 12000,
+    "timestamp": "02 Feb 2:58 pm",
+    "gender": "Nam"
   }
 ]
