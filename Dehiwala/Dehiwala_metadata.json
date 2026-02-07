@@ -498,5 +498,25 @@
     "rawPrice": 12000,
     "timestamp": "02 Feb 2:58 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 259,
+    "title": "Annex for Rent in Kurunegala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kurunegala-for-rent-kurunegala-17",
+    "rawPrice": 30000,
+    "timestamp": "03 Feb 7:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 264,
+    "title": "Phòng Cho Thuê Tại Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kottawa-for-rent-colombo-5",
+    "rawPrice": 25000,
+    "timestamp": "06 Feb 1:19 pm",
+    "gender": "Nam"
   }
 ]

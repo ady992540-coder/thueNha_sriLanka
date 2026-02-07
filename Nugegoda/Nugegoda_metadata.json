@@ -228,5 +228,55 @@
     "rawPrice": 30000,
     "timestamp": "03 Feb 7:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 538,
+    "title": "Phòng cho thuê Nugegoda",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10157",
+    "rawPrice": 23000,
+    "timestamp": "06 Feb 11:21 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 542,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-rent-for-nugegoda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "06 Feb 7:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 547,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/anex-for-rent-for-rent-colombo-842",
+    "rawPrice": 25000,
+    "timestamp": "06 Feb 4:37 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 552,
+    "title": "Phòng Sang Trọng Cho Nữ Sinh Thuê Pittugala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-luxury-rooms-for-rent-pittugala-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "25 Jan 5:15 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 557,
+    "title": "Student Rooms for Nsbm Homagama- Boys Only",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/student-rooms-for-nsbm-homagama-boys-only-for-rent-colombo-2",
+    "rawPrice": 12000,
+    "timestamp": "02 Feb 2:58 pm",
+    "gender": "Cả hai"
   }
 ]
