@@ -398,5 +398,15 @@
     "rawPrice": 35000,
     "timestamp": "06 Feb 9:22 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 214,
+    "title": "Phòng Cho Thuê Gần Colombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-near-colombo-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "07 Feb 10:58 am",
+    "gender": "Cả hai"
   }
 ]

@@ -278,5 +278,35 @@
     "rawPrice": 12000,
     "timestamp": "02 Feb 2:58 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 562,
+    "title": "Phòng cho thuê Nugegoda - Nam",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boy-nugegoda-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "06 Feb 3:56 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 567,
+    "title": "Phòng cho thuê Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10161",
+    "rawPrice": 20000,
+    "timestamp": "07 Feb 11:46 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 572,
+    "title": "Rooms For Rent In Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kottawa-for-rent-colombo-5",
+    "rawPrice": 25000,
+    "timestamp": "06 Feb 1:19 pm",
+    "gender": "Cả hai"
   }
 ]
