@@ -538,5 +538,25 @@
     "rawPrice": 30000,
     "timestamp": "07 Feb 10:58 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 281,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà AC cho thuê ở negombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-in-negombo-for-rent-gampaha-16",
+    "rawPrice": 30000,
+    "timestamp": "08 Jan 9:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 286,
+    "title": "Girls Sharing Room Dehiwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-sharing-room-dehiwala-for-rent-colombo-2",
+    "rawPrice": 20000,
+    "timestamp": "08 Feb 8:57 pm",
+    "gender": "Cả hai"
   }
 ]

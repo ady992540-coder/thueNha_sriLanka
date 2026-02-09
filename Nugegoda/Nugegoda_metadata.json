@@ -308,5 +308,65 @@
     "rawPrice": 25000,
     "timestamp": "06 Feb 1:19 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 579,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà mới xây cho thuê tại Udahamulla, Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-annex-for-rent-at-udahamulla-nugegoda-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "07 Feb 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 584,
+    "title": "AC Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại negombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-in-negombo-for-rent-gampaha-16",
+    "rawPrice": 30000,
+    "timestamp": "08 Jan 9:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 589,
+    "title": "Phòng cho thuê ở Wijerama - Nugegoda (chỉ dành cho nam)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-wijerama-nugegoda-working-boys-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "08 Feb 12:46 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 594,
+    "title": "Phòng cho thuê ở Udahamulla",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-udahamulla-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "09 Feb 5:16 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 599,
+    "title": "Phòng Cho Thuê Gần Colombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-near-colombo-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "07 Feb 10:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 604,
+    "title": "Phòng cho thuê ở Pannipitiya",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pannipitiya-for-rent-colombo-333",
+    "rawPrice": 15000,
+    "timestamp": "08 Feb 10:51 am",
+    "gender": "Nữ"
   }
 ]

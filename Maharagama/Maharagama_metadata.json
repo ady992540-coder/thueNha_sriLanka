@@ -408,5 +408,45 @@
     "rawPrice": 30000,
     "timestamp": "07 Feb 10:58 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 221,
+    "title": "Cho thuê phòng ở Pannipitiya",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pannipitiya-for-rent-colombo-333",
+    "rawPrice": 15000,
+    "timestamp": "08 Feb 10:51 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 226,
+    "title": "Phòng Cho Thuê ở Peradeniya",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-peradeniya-for-rent-kandy-14",
+    "rawPrice": 17500,
+    "timestamp": "26 Jan 10:26 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 231,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kurunegala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kurunegala-for-rent-kurunegala-17",
+    "rawPrice": 30000,
+    "timestamp": "03 Feb 7:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 236,
+    "title": "Phòng cho thuê Nữ Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-for-rent-colombo-587",
+    "rawPrice": 15000,
+    "timestamp": "16 Jan 1:50 pm",
+    "gender": "Nữ"
   }
 ]

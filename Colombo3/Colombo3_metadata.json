@@ -238,5 +238,25 @@
     "rawPrice": 30000,
     "timestamp": "07 Feb 10:58 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 219,
+    "title": "Phòng cho thuê Nữ Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-for-rent-colombo-587",
+    "rawPrice": 15000,
+    "timestamp": "16 Jan 1:50 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 221,
+    "title": "Phòng cho thuê ở Pannipitiya",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pannipitiya-for-rent-colombo-333",
+    "rawPrice": 15000,
+    "timestamp": "08 Feb 10:51 am",
+    "gender": "Nữ"
   }
 ]
