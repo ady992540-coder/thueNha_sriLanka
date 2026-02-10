@@ -258,5 +258,15 @@
     "rawPrice": 15000,
     "timestamp": "08 Feb 10:51 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 228,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà tầng 1",
+    "price": "Rs 120 /tháng (~ 10.200 ₫)",
+    "url": "https://ikman.lk/en/ad/1st-flow-annex-for-rent-colombo",
+    "rawPrice": 120,
+    "timestamp": "09 Feb 9:22 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -558,5 +558,35 @@
     "rawPrice": 20000,
     "timestamp": "08 Feb 8:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 291,
+    "title": "Cho thuê phòng ở Pannipitiya",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pannipitiya-for-rent-colombo-333",
+    "rawPrice": 15000,
+    "timestamp": "08 Feb 10:51 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 296,
+    "title": "Phòng cho thuê ở Dehiwala cho nữ",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-ladies-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "09 Feb 11:02 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 300,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Cho Thuê ở Dehiwala (Gần Cầu Vượt)",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-near-fly-over-for-rent-colombo-1",
+    "rawPrice": 9000,
+    "timestamp": "09 Feb 2:52 pm",
+    "gender": "Cả hai"
   }
 ]

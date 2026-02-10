@@ -368,5 +368,25 @@
     "rawPrice": 15000,
     "timestamp": "08 Feb 10:51 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 611,
+    "title": "Phòng cho thuê Nữ Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-for-rent-colombo-587",
+    "rawPrice": 15000,
+    "timestamp": "16 Jan 1:50 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 613,
+    "title": "Phòng cho thuê (nữ) Nugegoda",
+    "price": "Rs 9,500 /tháng (~ 807.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-nugegoda-for-rent-colombo-35",
+    "rawPrice": 9500,
+    "timestamp": "10 Feb 7:27 am",
+    "gender": "Nữ"
   }
 ]
