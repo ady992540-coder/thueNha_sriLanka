@@ -388,5 +388,35 @@
     "rawPrice": 9500,
     "timestamp": "10 Feb 7:27 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 620,
+    "title": "Cho thuê phòng cho nữ ở Pita Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-rooms-for-rent-in-pita-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "10 Feb 4:45 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 627,
+    "title": "Boding Room for Rent Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boding-house-rent-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "10 Feb 10:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 631,
+    "title": "Phòng (Chỉ cho Nam) Cho thuê tại Wijerama, Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-gents-rent-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "10 Feb 10:03 am",
+    "gender": "Nam"
   }
 ]

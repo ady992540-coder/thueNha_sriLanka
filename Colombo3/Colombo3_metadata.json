@@ -268,5 +268,25 @@
     "rawPrice": 120,
     "timestamp": "09 Feb 9:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 235,
+    "title": "Phòng cho sinh viên thuê tại Karapitiya",
+    "price": "Rs 6,500 /tháng (~ 552.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-students-rent-in-karapitiya-for-rent-galle",
+    "rawPrice": 6500,
+    "timestamp": "10 Feb 1:54 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 240,
+    "title": "AC Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở negombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-in-negombo-for-rent-gampaha-16",
+    "rawPrice": 30000,
+    "timestamp": "08 Jan 9:28 am",
+    "gender": "Cả hai"
   }
 ]

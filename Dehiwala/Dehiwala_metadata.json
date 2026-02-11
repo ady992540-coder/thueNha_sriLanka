@@ -588,5 +588,25 @@
     "rawPrice": 9000,
     "timestamp": "09 Feb 2:52 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 308,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-dehiwala-for-rent-colombo-357",
+    "rawPrice": 35000,
+    "timestamp": "10 Feb 3:18 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 315,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Kadawatha",
+    "price": "Rs 53,000 /tháng (~ 4.505.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kadawatha-for-rent-colombo",
+    "rawPrice": 53000,
+    "timestamp": "10 Feb 3:50 pm",
+    "gender": "Nữ"
   }
 ]
