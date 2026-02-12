@@ -398,5 +398,15 @@
     "rawPrice": 15000,
     "timestamp": "16 Jan 1:50 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 241,
+    "title": "Phòng cho Sinh viên Thuê ở Karapitiya",
+    "price": "Rs 6,500 /tháng (~ 552.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-students-rent-in-karapitiya-for-rent-galle",
+    "rawPrice": 6500,
+    "timestamp": "10 Feb 1:54 pm",
+    "gender": "Nam"
   }
 ]

@@ -418,5 +418,55 @@
     "rawPrice": 35000,
     "timestamp": "10 Feb 10:03 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 637,
+    "title": "Phòng cho thuê (Chỉ dành cho nữ) ở Maharagama",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-only-in-maharagama-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "12 Feb 12:41 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 642,
+    "title": "Phòng cho thuê ở Nugegoda (Chỉ dành cho nam)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-males-only-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "11 Feb 3:24 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 645,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Nugegoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-boarding-house-for-rent-colombo-1",
+    "rawPrice": 12500,
+    "timestamp": "11 Feb 1:15 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 650,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Delkanda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-to-be-rented-in-delkanda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "11 Feb 1:25 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 654,
+    "title": "Rooms for Students Rent in Karapitiya",
+    "price": "Rs 6,500 /tháng (~ 552.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-students-rent-in-karapitiya-for-rent-galle",
+    "rawPrice": 6500,
+    "timestamp": "10 Feb 1:54 pm",
+    "gender": "Cả hai"
   }
 ]
