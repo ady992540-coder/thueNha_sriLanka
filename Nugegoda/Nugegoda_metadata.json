@@ -468,5 +468,45 @@
     "rawPrice": 6500,
     "timestamp": "10 Feb 1:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 665,
+    "title": "Phòng cho thuê - Mirihana",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-mirihana-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "12 Feb 7:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 670,
+    "title": "Nugegoda Phòng Chia Sẻ cho Nữ",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-sharing-rooms-for-females-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "12 Feb 2:01 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 673,
+    "title": "Phòng có nội thất cho thuê",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-for-rent-colombo-40",
+    "rawPrice": 25000,
+    "timestamp": "12 Feb 11:21 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 678,
+    "title": "Phòng cho thuê (Nữ) ở Maharagama",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-in-maharagama-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "12 Feb 2:06 pm",
+    "gender": "Nữ"
   }
 ]
