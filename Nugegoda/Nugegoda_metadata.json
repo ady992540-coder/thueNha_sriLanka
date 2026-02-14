@@ -508,5 +508,35 @@
     "rawPrice": 32000,
     "timestamp": "12 Feb 2:06 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 686,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Kottawa Mattegoda",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-kottawa-mattegoda-for-rent-colombo-1",
+    "rawPrice": 90000,
+    "timestamp": "13 Feb 2:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 691,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Gần Đường Cao Tốc Nugegoda (Chỉ Dành Cho Nữ)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-closer-to-high-level-road-nugegoda-female-only-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "13 Feb 5:08 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 695,
+    "title": "Cho thuê phòng cho nữ ở Nugegoda",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-girls-for-rent-colombo-4",
+    "rawPrice": 16500,
+    "timestamp": "13 Feb 12:09 pm",
+    "gender": "Nữ"
   }
 ]

@@ -618,5 +618,25 @@
     "rawPrice": 32000,
     "timestamp": "12 Feb 2:06 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 336,
+    "title": "Phòng cho thuê tại Mattegoda Kottawa",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-mattegoda-kottawa-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "13 Feb 2:03 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 341,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Kottawa Mattegoda",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-kottawa-mattegoda-for-rent-colombo-1",
+    "rawPrice": 90000,
+    "timestamp": "13 Feb 2:00 pm",
+    "gender": "Nữ"
   }
 ]
