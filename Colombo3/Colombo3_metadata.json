@@ -318,5 +318,45 @@
     "rawPrice": 30000,
     "timestamp": "13 Feb 2:03 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 268,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Kottawa Mattegoda",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-kottawa-mattegoda-for-rent-colombo-1",
+    "rawPrice": 90000,
+    "timestamp": "13 Feb 2:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 273,
+    "title": "Room for Rent in Kotikawatta (for two Girls)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo-2",
+    "rawPrice": 20000,
+    "timestamp": "14 Feb 12:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 278,
+    "title": "Room for Rent in Kotikawatta (for Two Girls)",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "14 Feb 12:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 283,
+    "title": "Room for Rent in Kotikawatta (for two Girls)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "14 Feb 12:49 pm",
+    "gender": "Cả hai"
   }
 ]

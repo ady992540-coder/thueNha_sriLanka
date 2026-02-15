@@ -498,5 +498,25 @@
     "rawPrice": 30000,
     "timestamp": "13 Feb 2:03 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 273,
+    "title": "Phòng cho thuê (Nữ) ở Maharagama",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-in-maharagama-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "12 Feb 2:06 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 278,
+    "title": "Room for Rent in Kotikawatta (for two Girls)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "14 Feb 12:49 pm",
+    "gender": "Cả hai"
   }
 ]

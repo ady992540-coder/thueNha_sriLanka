@@ -538,5 +538,35 @@
     "rawPrice": 16500,
     "timestamp": "13 Feb 12:09 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 701,
+    "title": "Phòng Cho Thuê ở Kotikawatta (Chỉ Dành Cho Hai Nữ)",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "14 Feb 12:46 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 706,
+    "title": "Phòng Đã Trang Bị Nội Thất với Phòng Tắm Riêng Dành Cho 2 Sinh Viên Nam - Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-with-attached-bathroom-for-2-male-students-nugegoda-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "14 Feb 12:55 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 711,
+    "title": "Room for Rent in Kotikawatta (for two Girls)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "14 Feb 12:49 pm",
+    "gender": "Cả hai"
   }
 ]
