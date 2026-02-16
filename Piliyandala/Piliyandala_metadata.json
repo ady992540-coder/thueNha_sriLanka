@@ -488,5 +488,45 @@
     "rawPrice": 20000,
     "timestamp": "14 Feb 12:52 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 293,
+    "title": "Boding Room for Rent Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boding-house-rent-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "15 Feb 12:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 298,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Piliyandala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-piliyandala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "16 Feb 6:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 303,
+    "title": "Phòng cho thuê ở Bopitiya",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-bopitiya-for-rent-gampaha",
+    "rawPrice": 18000,
+    "timestamp": "15 Feb 8:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 308,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ratmalana-for-rent-colombo-277",
+    "rawPrice": 40000,
+    "timestamp": "15 Feb 12:12 pm",
+    "gender": "Cả hai"
   }
 ]

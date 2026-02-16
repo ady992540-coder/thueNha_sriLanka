@@ -358,5 +358,35 @@
     "rawPrice": 25000,
     "timestamp": "14 Feb 12:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 290,
+    "title": "Phòng ở có triển vọng cho thuê Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boding-house-rent-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "15 Feb 12:02 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 295,
+    "title": "Cho thuê phòng Bopitiya",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-bopitiya-for-rent-gampaha",
+    "rawPrice": 18000,
+    "timestamp": "15 Feb 8:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 300,
+    "title": "Annex for Rent in Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ratmalana-for-rent-colombo-277",
+    "rawPrice": 40000,
+    "timestamp": "15 Feb 12:12 pm",
+    "gender": "Cả hai"
   }
 ]

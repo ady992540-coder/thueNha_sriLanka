@@ -518,5 +518,65 @@
     "rawPrice": 25000,
     "timestamp": "14 Feb 12:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 286,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ratmalana-for-rent-colombo-277",
+    "rawPrice": 40000,
+    "timestamp": "15 Feb 12:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 291,
+    "title": "Phòng cho thuê Wijerama Maharagama (Chỉ dành cho nam)",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-wijerama-maharagama-male-only-for-rent-colombo-1",
+    "rawPrice": 10000,
+    "timestamp": "15 Feb 9:04 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 294,
+    "title": "Room for Rent in Kotikawatta (for Two Girls)",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "14 Feb 12:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 299,
+    "title": "Room for Rent Bopitiya",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-bopitiya-for-rent-gampaha",
+    "rawPrice": 18000,
+    "timestamp": "15 Feb 8:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 304,
+    "title": "Boding Room for Rent Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boding-house-rent-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "15 Feb 12:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 312,
+    "title": "Room for Rent in Kotikawatta (for two Girls)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo-2",
+    "rawPrice": 20000,
+    "timestamp": "14 Feb 12:52 pm",
+    "gender": "Cả hai"
   }
 ]
