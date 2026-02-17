@@ -388,5 +388,15 @@
     "rawPrice": 40000,
     "timestamp": "15 Feb 12:12 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 307,
+    "title": "Rooms for Rent Makuludoowa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2680",
+    "rawPrice": 15000,
+    "timestamp": "16 Feb 9:42 am",
+    "gender": "Cả hai"
   }
 ]

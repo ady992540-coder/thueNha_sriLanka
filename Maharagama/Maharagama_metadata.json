@@ -578,5 +578,25 @@
     "rawPrice": 20000,
     "timestamp": "14 Feb 12:52 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 320,
+    "title": "Phòng Cho Thuê ở Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-963",
+    "rawPrice": 25000,
+    "timestamp": "17 Feb 6:14 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 322,
+    "title": "Rooms for Rent Makuludoowa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2680",
+    "rawPrice": 15000,
+    "timestamp": "16 Feb 9:42 am",
+    "gender": "Cả hai"
   }
 ]

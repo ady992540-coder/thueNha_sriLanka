@@ -628,5 +628,35 @@
     "rawPrice": 30000,
     "timestamp": "13 Feb 2:03 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 749,
+    "title": "Phòng cho thuê Abuldeniya ( R - 581 )",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/abuldeniya-room-for-rent-r-581-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "15 Feb 2:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 759,
+    "title": "Phòng cho thuê (Nữ) Nugegoda",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-nugegoda-for-rent-colombo-37",
+    "rawPrice": 8500,
+    "timestamp": "17 Feb 2:28 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 764,
+    "title": "Room for Rent in Kotikawatta (for two Girls)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-two-girls-for-rent-colombo-2",
+    "rawPrice": 20000,
+    "timestamp": "14 Feb 12:52 pm",
+    "gender": "Cả hai"
   }
 ]
