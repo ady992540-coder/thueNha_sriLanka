@@ -528,5 +528,35 @@
     "rawPrice": 40000,
     "timestamp": "15 Feb 12:12 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 316,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Ragama",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-gampaha-1516",
+    "rawPrice": 24000,
+    "timestamp": "17 Feb 8:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 321,
+    "title": "Phòng sang trọng cho thuê ở Battaramulla (Các cặp đôi)",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-room-for-rent-in-battaramullacouples-for-rent-colombo-1",
+    "rawPrice": 80000,
+    "timestamp": "17 Feb 12:59 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 330,
+    "title": "Phòng Cho Thuê ở Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kottawa-for-rent-colombo-6",
+    "rawPrice": 25000,
+    "timestamp": "17 Feb 10:17 pm",
+    "gender": "Nam"
   }
 ]

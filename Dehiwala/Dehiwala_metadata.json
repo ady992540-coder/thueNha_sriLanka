@@ -708,5 +708,25 @@
     "rawPrice": 15000,
     "timestamp": "16 Feb 9:42 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 389,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê - Mount Lavinia",
+    "price": "Rs 135,000 /tháng (~ 11.475.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 135000,
+    "timestamp": "17 Feb 6:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 394,
+    "title": "Phòng cho thuê tại Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kottawa-for-rent-colombo-6",
+    "rawPrice": 25000,
+    "timestamp": "17 Feb 10:17 pm",
+    "gender": "Nam"
   }
 ]

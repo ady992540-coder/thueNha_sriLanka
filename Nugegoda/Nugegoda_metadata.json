@@ -658,5 +658,75 @@
     "rawPrice": 20000,
     "timestamp": "14 Feb 12:52 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 772,
+    "title": "Phòng cho thuê Makuludoowa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2680",
+    "rawPrice": 15000,
+    "timestamp": "17 Feb 8:34 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 774,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Gần Ngã tư Delkanda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-near-delkanda-junction-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "18 Feb 12:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 779,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nugegoda, gần Wijerama",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-annex-for-rent-in-nugegoda-close-wijerama-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "17 Feb 3:18 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 784,
+    "title": "Phòng cho thuê tại Jambugasmulla Mawatha Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-jambugasmulla-mawatha-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "17 Feb 3:10 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 788,
+    "title": "Phòng Cho Thuê ở Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kottawa-for-rent-colombo-6",
+    "rawPrice": 25000,
+    "timestamp": "17 Feb 10:17 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 797,
+    "title": "Luxury Room for Rent in Battaramulla(Couples)",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-room-for-rent-in-battaramullacouples-for-rent-colombo-1",
+    "rawPrice": 80000,
+    "timestamp": "17 Feb 12:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 806,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Ragama",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-gampaha-1516",
+    "rawPrice": 24000,
+    "timestamp": "17 Feb 8:09 pm",
+    "gender": "Cả hai"
   }
 ]
