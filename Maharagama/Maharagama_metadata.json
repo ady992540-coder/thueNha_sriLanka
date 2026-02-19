@@ -628,5 +628,45 @@
     "rawPrice": 80000,
     "timestamp": "17 Feb 12:59 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 352,
+    "title": "Phòng ở ghép cho nữ nhân viên văn phòng Maharagama",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/shared-room-for-working-girls-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "18 Feb 10:52 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 357,
+    "title": "Phòng (Chỉ dành cho Nữ) Cho Thuê ở Thị trấn Maharagama",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-ladies-only-for-rent-in-maharagama-town-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "18 Feb 4:47 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 361,
+    "title": "Cho thuê phòng ở Maharagama (Chỉ dành cho nữ)",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-only-girls-for-rent-colombo-1",
+    "rawPrice": 8500,
+    "timestamp": "18 Feb 10:27 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 364,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Ragama",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-gampaha-1516",
+    "rawPrice": 24000,
+    "timestamp": "17 Feb 8:09 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -728,5 +728,15 @@
     "rawPrice": 24000,
     "timestamp": "17 Feb 8:09 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 815,
+    "title": "Phòng cho thuê ở Nugegoda",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1321",
+    "rawPrice": 22000,
+    "timestamp": "18 Feb 3:51 pm",
+    "gender": "Nam"
   }
 ]
