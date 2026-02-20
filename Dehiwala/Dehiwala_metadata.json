@@ -748,5 +748,15 @@
     "rawPrice": 50000,
     "timestamp": "18 Feb 10:49 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 409,
+    "title": "Luxury Room for Rent in Battaramulla(Couples)",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-room-for-rent-in-battaramullacouples-for-rent-colombo-1",
+    "rawPrice": 80000,
+    "timestamp": "17 Feb 12:59 pm",
+    "gender": "Cả hai"
   }
 ]
