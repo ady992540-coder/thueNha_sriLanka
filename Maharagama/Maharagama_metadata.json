@@ -668,5 +668,15 @@
     "rawPrice": 24000,
     "timestamp": "17 Feb 8:09 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 372,
+    "title": "Cho Thuê Khu nhà riêng biệt, độc lập với chủ nhà Maharagama",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/for-rent-for-rent-colombo-5972",
+    "rawPrice": 28000,
+    "timestamp": "21 Feb 7:55 am",
+    "gender": "Nữ"
   }
 ]

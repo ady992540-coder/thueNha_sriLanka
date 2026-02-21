@@ -738,5 +738,45 @@
     "rawPrice": 22000,
     "timestamp": "18 Feb 3:51 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 824,
+    "title": "Phòng ngủ chính có phòng tắm riêng cho nữ giới đi làm ở Wellawatte",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/master-bedroom-with-attached-bathroom-for-working-female-in-wellwatte-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "20 Feb 2:28 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 829,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà tại Ngã tư Nugegoda Gansaba",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-gansaba-junction-annex-for-rent-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "20 Feb 5:21 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 839,
+    "title": "Room for Rent in Wijerama, Nugegoda Boys Only",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-wijerama-nugegoda-boys-only-for-rent-colombo-3",
+    "rawPrice": 10000,
+    "timestamp": "20 Feb 2:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 842,
+    "title": "Room for Rent in Nugegoda (male Only)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-male-only-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "20 Feb 12:16 pm",
+    "gender": "Cả hai"
   }
 ]

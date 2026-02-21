@@ -558,5 +558,25 @@
     "rawPrice": 25000,
     "timestamp": "17 Feb 10:17 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 338,
+    "title": "Master Bedroom with Attached Bathroom for Working Female in Wellwatte",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/master-bedroom-with-attached-bathroom-for-working-female-in-wellwatte-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "20 Feb 2:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 343,
+    "title": "Một phòng trên tầng trên cùng chỉ dành cho phụ nữ",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/one-room-in-upper-floor-for-ladies-only-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "20 Feb 3:40 pm",
+    "gender": "Nữ"
   }
 ]
