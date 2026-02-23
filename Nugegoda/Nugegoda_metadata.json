@@ -778,5 +778,35 @@
     "rawPrice": 20000,
     "timestamp": "20 Feb 12:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 851,
+    "title": "Căn hộ cho thuê ở Nugegoda",
+    "price": "Rs 200,000 /tháng (~ 17.000.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-for-rent-in-nugegoda-for-rent-colombo-689",
+    "rawPrice": 200000,
+    "timestamp": "23 Feb 12:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 856,
+    "title": "Phòng cho thuê - Pitakotte (chỉ dành cho nam)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-pitakotte-boys-only-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "22 Feb 2:25 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 859,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà tầng trệt ở Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/first-floor-annex-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "22 Feb 9:06 am",
+    "gender": "Cả hai"
   }
 ]

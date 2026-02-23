@@ -698,5 +698,15 @@
     "rawPrice": 40000,
     "timestamp": "20 Feb 2:28 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 391,
+    "title": "Phòng cho thuê ở Nawinna (Nữ)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nawinna-women-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "22 Feb 7:54 pm",
+    "gender": "Nữ"
   }
 ]
