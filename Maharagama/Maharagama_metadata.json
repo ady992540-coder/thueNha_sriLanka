@@ -708,5 +708,25 @@
     "rawPrice": 15000,
     "timestamp": "22 Feb 7:54 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 399,
+    "title": "ගැහැනු ලමයෙකු සදහා කාමරයක් කුලියට Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaenu-lmyeku-sdhaa-kaamryk-kuliytt-maharagama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "24 Feb 3:12 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 404,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê – Balummahara, Gampaha",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-balummahara-gampaha-for-rent-gampaha",
+    "rawPrice": 30000,
+    "timestamp": "23 Feb 7:13 pm",
+    "gender": "Cả hai"
   }
 ]

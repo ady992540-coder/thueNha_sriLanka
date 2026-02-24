@@ -808,5 +808,15 @@
     "rawPrice": 65000,
     "timestamp": "22 Feb 9:06 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 868,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê – Balummahara, Gampaha",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-balummahara-gampaha-for-rent-gampaha",
+    "rawPrice": 30000,
+    "timestamp": "23 Feb 7:13 pm",
+    "gender": "Cả hai"
   }
 ]
