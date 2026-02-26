@@ -848,5 +848,35 @@
     "rawPrice": 35000,
     "timestamp": "25 Feb 8:03 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 472,
+    "title": "Annex for Rent in Dehiwala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-683",
+    "rawPrice": 50000,
+    "timestamp": "25 Feb 9:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 478,
+    "title": "Phòng cho thuê ở Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1171",
+    "rawPrice": 25000,
+    "timestamp": "25 Feb 9:04 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 482,
+    "title": "Annex for Rent (Female) Kandy",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-female-only-for-rent-kandy",
+    "rawPrice": 15000,
+    "timestamp": "11 Jan 4:03 pm",
+    "gender": "Cả hai"
   }
 ]
