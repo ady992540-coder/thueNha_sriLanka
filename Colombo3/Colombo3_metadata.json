@@ -458,5 +458,35 @@
     "rawPrice": 15000,
     "timestamp": "11 Jan 4:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 354,
+    "title": "Phòng Cho Thuê KDU Rathmalana",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kdu-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "26 Feb 3:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 359,
+    "title": "Rooms for Girls Nugegoda",
+    "price": "Rs 9,300 /tháng (~ 790.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-nugegoda-udahamulla-wijayarama-for-rent-colombo",
+    "rawPrice": 9300,
+    "timestamp": "26 Feb 1:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 364,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kelaniya",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kelaniya-for-rent-gampaha-336",
+    "rawPrice": 50000,
+    "timestamp": "26 Feb 3:21 pm",
+    "gender": "Cả hai"
   }
 ]

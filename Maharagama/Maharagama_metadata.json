@@ -728,5 +728,65 @@
     "rawPrice": 30000,
     "timestamp": "23 Feb 7:13 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 413,
+    "title": "Phòng Cho Thuê KDU Rathmalana",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kdu-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "26 Feb 3:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 418,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê - Gần Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-near-maharagama-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "26 Feb 10:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 423,
+    "title": "Phòng cho nhân viên văn phòng nam Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-office-boys-maharagama-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "26 Feb 4:34 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 426,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kelaniya",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kelaniya-for-rent-gampaha-336",
+    "rawPrice": 50000,
+    "timestamp": "26 Feb 3:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 431,
+    "title": "Phòng trọ chung có phòng tắm riêng cho thuê Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-with-attached-bathroom-for-rent-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "31 Dec 7:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 440,
+    "title": "Annex for Rent (Female) Kandy",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-female-only-for-rent-kandy",
+    "rawPrice": 15000,
+    "timestamp": "11 Jan 4:03 pm",
+    "gender": "Cả hai"
   }
 ]
