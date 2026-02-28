@@ -788,5 +788,55 @@
     "rawPrice": 15000,
     "timestamp": "11 Jan 4:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 446,
+    "title": "Fully Furnished Upstair Room (Only for Ladies) Rent in Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-upstair-room-only-for-ladies-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "27 Feb 1:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 451,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà ở Thị trấn Maharagama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-rent-in-maharagama-town-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "27 Feb 10:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 456,
+    "title": "Có chỗ ở cho nam sinh - Nාවින්න මහරගම",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/pirimi-llmun-sdhaa-pmnnk-naavaataen-phsukm-aet-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "27 Feb 9:06 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 461,
+    "title": "Phòng cho Nữ Nugegoda",
+    "price": "Rs 9,300 /tháng (~ 790.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-nugegoda-udahamulla-wijayarama-for-rent-colombo",
+    "rawPrice": 9300,
+    "timestamp": "26 Feb 1:02 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 466,
+    "title": "Phòng cho thuê (Nữ) - Homagama, đi bộ đến NSBM",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-homagama-walking-distance-to-nsbm-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "24 Feb 11:54 am",
+    "gender": "Nữ"
   }
 ]

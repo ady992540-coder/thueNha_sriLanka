@@ -488,5 +488,15 @@
     "rawPrice": 50000,
     "timestamp": "26 Feb 3:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 372,
+    "title": "Room for Rent (Girls) - Homagama Walking Distance to NSBM",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-homagama-walking-distance-to-nsbm-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "24 Feb 11:54 am",
+    "gender": "Cả hai"
   }
 ]

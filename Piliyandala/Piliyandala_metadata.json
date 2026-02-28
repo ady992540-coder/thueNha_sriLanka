@@ -648,5 +648,25 @@
     "rawPrice": 15000,
     "timestamp": "11 Jan 4:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 393,
+    "title": "Room for Rent - Piliyandala",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-only-for-rent-colombo-216",
+    "rawPrice": 17500,
+    "timestamp": "27 Feb 5:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 398,
+    "title": "Room for Rent (Girls) - Homagama Walking Distance to NSBM",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-homagama-walking-distance-to-nsbm-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "24 Feb 11:54 am",
+    "gender": "Cả hai"
   }
 ]

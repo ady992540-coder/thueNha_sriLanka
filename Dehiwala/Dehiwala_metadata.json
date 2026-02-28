@@ -918,5 +918,45 @@
     "rawPrice": 9000,
     "timestamp": "26 Feb 3:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 511,
+    "title": "Rooms For Rent in Nedimala, Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nedimala-dehiwala-for-rent-colombo-9",
+    "rawPrice": 40000,
+    "timestamp": "27 Feb 5:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 516,
+    "title": "Phòng Cho Thuê Tại Dehiwala (Chỉ Dành Cho Nam)",
+    "price": "Rs 14,300 /tháng (~ 1.215.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-males-only-for-rent-colombo-1",
+    "rawPrice": 14300,
+    "timestamp": "27 Feb 5:37 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 521,
+    "title": "Phòng cho thuê ở Dehiwala Nedimala chỉ dành cho Nữ",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-nedimala-room-for-rent-only-girls-for-rent-colombo",
+    "rawPrice": 17500,
+    "timestamp": "27 Feb 10:51 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 524,
+    "title": "Room for Rent (Girls) - Homagama Walking Distance to NSBM",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-homagama-walking-distance-to-nsbm-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "24 Feb 11:54 am",
+    "gender": "Cả hai"
   }
 ]
