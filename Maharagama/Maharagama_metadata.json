@@ -838,5 +838,85 @@
     "rawPrice": 25000,
     "timestamp": "24 Feb 11:54 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 471,
+    "title": "Điều này chỉ dành cho một người đàn ông hoặc con trai, තනි පිරිමි පුද්ගලයෙකුට පමණයි,",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/this-is-only-given-to-a-single-man-or-boy-tni-pirimi-pudglyekutt-pmnnyi-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "26 Feb 2:23 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 480,
+    "title": "Phòng cho thuê Maharagama chỉ dành cho nữ",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-964",
+    "rawPrice": 16500,
+    "timestamp": "27 Feb 10:00 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 485,
+    "title": "Căn hộ 3 phòng ngủ cho thuê hàng tháng tại Negombo",
+    "price": "Rs 195,000 /tháng (~ 16.575.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedroom-apartment-in-negombo-for-monthly-rent-for-rent-gampaha",
+    "rawPrice": 195000,
+    "timestamp": "28 Feb 7:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 495,
+    "title": "Room Rent In Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-maharagama-for-rent-colombo-15",
+    "rawPrice": 25000,
+    "timestamp": "28 Feb 4:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 500,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nawinna",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nawinna-for-rent-colombo-4",
+    "rawPrice": 60000,
+    "timestamp": "28 Feb 2:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 505,
+    "title": "Phòng cho thuê (Chỉ dành cho nữ) Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rentonly-girls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "28 Feb 8:05 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 509,
+    "title": "Phòng cho Nữ sinh viên học tập và làm việc - Wellawatte.",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-studying-and-working-girls-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Jan 4:59 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 514,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Mattegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mattegoda-for-rent-colombo-2",
+    "rawPrice": 45000,
+    "timestamp": "01 Mar 1:07 am",
+    "gender": "Nữ"
   }
 ]

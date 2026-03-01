@@ -668,5 +668,35 @@
     "rawPrice": 25000,
     "timestamp": "24 Feb 11:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 406,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Mattegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mattegoda-for-rent-colombo-2",
+    "rawPrice": 45000,
+    "timestamp": "01 Mar 1:07 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 411,
+    "title": "Room for Studying & Working Girls - Wellawatte.",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-studying-and-working-girls-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Jan 4:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 416,
+    "title": "Phòng Chia Sẻ Có Phòng Tắm Riêng Cho Thuê Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-with-attached-bathroom-for-rent-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "31 Dec 7:22 pm",
+    "gender": "Cả hai"
   }
 ]

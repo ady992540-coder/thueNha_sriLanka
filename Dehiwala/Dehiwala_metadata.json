@@ -958,5 +958,65 @@
     "rawPrice": 25000,
     "timestamp": "24 Feb 11:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 534,
+    "title": "phòng riêng biệt hoàn toàn ở tầng trệt có phòng tắm riêng cho thuê tại Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-fully-separate-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "27 Feb 10:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 537,
+    "title": "Phòng cho các bạn nữ sinh viên học tập và làm việc - Wellawatte.",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-studying-and-working-girls-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Jan 4:59 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 542,
+    "title": "Phòng Cho Thuê Dehiwala",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-547",
+    "rawPrice": 13000,
+    "timestamp": "28 Feb 4:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 544,
+    "title": "Phòng Cho Thuê ở Dehiwala",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1172",
+    "rawPrice": 9000,
+    "timestamp": "28 Feb 8:02 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 547,
+    "title": "Căn hộ 3 phòng ngủ cho thuê hàng tháng tại Negombo",
+    "price": "Rs 195,000 /tháng (~ 16.575.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedroom-apartment-in-negombo-for-monthly-rent-for-rent-gampaha",
+    "rawPrice": 195000,
+    "timestamp": "28 Feb 7:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 562,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Mattegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mattegoda-for-rent-colombo-2",
+    "rawPrice": 45000,
+    "timestamp": "01 Mar 1:07 am",
+    "gender": "Nữ"
   }
 ]
