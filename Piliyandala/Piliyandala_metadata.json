@@ -698,5 +698,35 @@
     "rawPrice": 8000,
     "timestamp": "31 Dec 7:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 425,
+    "title": "Phòng cho thuê Chỉ dành cho nữ Wijerama",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-7",
+    "rawPrice": 26000,
+    "timestamp": "27 Feb 7:42 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 430,
+    "title": "Boarding Room For Rent Kaduwela",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/bording-room-for-rent-for-rent-colombo-1",
+    "rawPrice": 8000,
+    "timestamp": "01 Mar 7:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 433,
+    "title": "Căn hộ 3 phòng ngủ cho thuê hàng tháng tại Negombo",
+    "price": "Rs 195,000 /tháng (~ 16.575.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedroom-apartment-in-negombo-for-monthly-rent-for-rent-gampaha",
+    "rawPrice": 195000,
+    "timestamp": "28 Feb 7:56 pm",
+    "gender": "Cả hai"
   }
 ]

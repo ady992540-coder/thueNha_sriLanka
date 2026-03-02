@@ -1018,5 +1018,35 @@
     "rawPrice": 45000,
     "timestamp": "01 Mar 1:07 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 572,
+    "title": "Boarding Room For Rent Kaduwela",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/bording-room-for-rent-for-rent-colombo-1",
+    "rawPrice": 8000,
+    "timestamp": "01 Mar 7:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 575,
+    "title": "Phòng cho thuê Chỉ dành cho các cô gái làm việc Wijerama",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-7",
+    "rawPrice": 26000,
+    "timestamp": "27 Feb 7:42 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 580,
+    "title": "Phòng cho thuê ở Horana (Nữ)",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-horana-female-for-rent-kalutara",
+    "rawPrice": 10000,
+    "timestamp": "01 Mar 4:35 pm",
+    "gender": "Nữ"
   }
 ]
