@@ -1088,5 +1088,35 @@
     "rawPrice": 8000,
     "timestamp": "01 Mar 7:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1039,
+    "title": "Cho thuê phòng ở Nugegoda Gần Wijerama",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-close-wijerama-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "01 Mar 4:35 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1044,
+    "title": "Căn hộ 3 phòng ngủ cho thuê theo tháng ở Negombo",
+    "price": "Rs 195,000 /tháng (~ 16.575.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedroom-apartment-in-negombo-for-monthly-rent-for-rent-gampaha",
+    "rawPrice": 195000,
+    "timestamp": "28 Feb 7:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1054,
+    "title": "Nhà cho thuê ở Borella (CHỈ DÀNH CHO NAM)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-in-borella-males-only-for-rent-colombo-2",
+    "rawPrice": 40000,
+    "timestamp": "02 Mar 1:55 pm",
+    "gender": "Nam"
   }
 ]

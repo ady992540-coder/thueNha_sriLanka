@@ -558,5 +558,15 @@
     "rawPrice": 26000,
     "timestamp": "27 Feb 7:42 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 419,
+    "title": "House for Rent in Borella (MALES ONLY)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-in-borella-males-only-for-rent-colombo-2",
+    "rawPrice": 40000,
+    "timestamp": "02 Mar 1:55 pm",
+    "gender": "Cả hai"
   }
 ]

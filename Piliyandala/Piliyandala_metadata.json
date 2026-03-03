@@ -728,5 +728,35 @@
     "rawPrice": 195000,
     "timestamp": "28 Feb 7:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 447,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Madapatha, Piliandala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-madapatha-piliyandala-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Mar 2:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 452,
+    "title": "Phòng cho thuê ở Horana (Nữ)",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-horana-female-for-rent-kalutara",
+    "rawPrice": 10000,
+    "timestamp": "01 Mar 4:35 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 456,
+    "title": "Nhà Cho Thuê ở Borella (CHỈ DÀNH CHO NAM)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-in-borella-males-only-for-rent-colombo-2",
+    "rawPrice": 40000,
+    "timestamp": "02 Mar 1:55 pm",
+    "gender": "Nam"
   }
 ]
