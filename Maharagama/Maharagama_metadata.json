@@ -968,5 +968,25 @@
     "rawPrice": 10000,
     "timestamp": "01 Mar 4:35 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 553,
+    "title": "Phòng Cho Thuê Ở Maharagama",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-965",
+    "rawPrice": 24000,
+    "timestamp": "03 Mar 9:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 558,
+    "title": "Annex Needed Colombo 2",
+    "price": "Thỏa thuận",
+    "url": "https://ikman.lk/en/ad/annex-needed-colombo-2-to-rent-colombo",
+    "rawPrice": 0,
+    "timestamp": "03 Mar 1:56 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -758,5 +758,25 @@
     "rawPrice": 40000,
     "timestamp": "02 Mar 1:55 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 462,
+    "title": "Phòng cho thuê cho nữ - Meegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-meegoda-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "24 Jan 9:54 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 467,
+    "title": "Annex Needed Colombo 2",
+    "price": "Thỏa thuận",
+    "url": "https://ikman.lk/en/ad/annex-needed-colombo-2-to-rent-colombo",
+    "rawPrice": 0,
+    "timestamp": "03 Mar 1:56 pm",
+    "gender": "Cả hai"
   }
 ]

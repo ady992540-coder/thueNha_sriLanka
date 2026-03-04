@@ -1118,5 +1118,55 @@
     "rawPrice": 40000,
     "timestamp": "02 Mar 1:55 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1064,
+    "title": "One Room with Attach Bathroom for Rent in Delkanda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-room-with-attach-bathroom-for-rent-in-delkanda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "03 Mar 4:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1068,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà 1 phòng ngủ có nội thất ở Nugegoda (SP1089)",
+    "price": "Rs 68,500 /tháng (~ 5.822.500 ₫)",
+    "url": "https://ikman.lk/en/ad/1-bed-annex-for-rent-in-nugegoda-with-furniture-sp1089-for-rent-colombo",
+    "rawPrice": 68500,
+    "timestamp": "03 Mar 7:33 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1078,
+    "title": "Furnished room for rent",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-for-rent-colombo-41",
+    "rawPrice": 20000,
+    "timestamp": "03 Mar 11:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1080,
+    "title": "Rooms for Rent Girls - Meegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-meegoda-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "24 Jan 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1085,
+    "title": "Room For Rent in Horana (Female)",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-horana-female-for-rent-kalutara",
+    "rawPrice": 10000,
+    "timestamp": "01 Mar 4:35 pm",
+    "gender": "Cả hai"
   }
 ]

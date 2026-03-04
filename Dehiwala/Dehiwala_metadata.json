@@ -1058,5 +1058,45 @@
     "rawPrice": 40000,
     "timestamp": "02 Mar 1:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 597,
+    "title": "Phòng chia sẻ cho nữ ở Dehiwala",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-girls-in-dehiwala-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "04 Mar 12:22 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 602,
+    "title": "rooms for rent – kohuwala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedroom-bath-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "03 Mar 5:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 607,
+    "title": "Phòng trọ ở Dehiwala cho nữ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-in-dehiwala-for-girls-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "03 Mar 11:48 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 612,
+    "title": "Phòng cho thuê cho nữ - Meegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-meegoda-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "24 Jan 9:54 am",
+    "gender": "Nữ"
   }
 ]
