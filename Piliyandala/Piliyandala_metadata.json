@@ -778,5 +778,25 @@
     "rawPrice": 0,
     "timestamp": "03 Mar 1:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 472,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà 3 phòng ngủ trên lầu Battaramulla",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedroom-upstairs-annex-rent-battaramulla-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "04 Mar 11:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 481,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Borella",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-borella-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "04 Mar 12:55 pm",
+    "gender": "Cả hai"
   }
 ]

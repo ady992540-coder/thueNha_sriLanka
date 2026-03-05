@@ -988,5 +988,75 @@
     "rawPrice": 0,
     "timestamp": "03 Mar 1:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 564,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Borella",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-borella-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "04 Mar 12:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 569,
+    "title": "Cho Thuê Khu Nhà Riêng Biệt, Độc Lập Với Chủ Nhà 3 Phòng Ngủ Trên Lầu Battaramulla",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedroom-upstairs-annex-rent-battaramulla-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "04 Mar 11:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 578,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-790",
+    "rawPrice": 40000,
+    "timestamp": "04 Mar 9:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 583,
+    "title": "Room (Only Girl) Rent in Maharagama, Navinna",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girl-rent-in-maharagama-navinna-for-rent-colombo",
+    "rawPrice": 7000,
+    "timestamp": "04 Mar 2:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 587,
+    "title": "Phòng Đã Trang Bị Đồ Đạc Cho Thuê Tại Navinna",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-at-navinna-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "04 Mar 10:41 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 595,
+    "title": "Phòng cho thuê cho nữ - Meegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-meegoda-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "24 Jan 9:54 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 600,
+    "title": "Phòng Sang Trọng Cho Thuê Ở Trincomalee",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-rooms-for-rent-trincomalee-to-rent-trincomalee",
+    "rawPrice": 20000,
+    "timestamp": "04 Mar 5:49 pm",
+    "gender": "Cả hai"
   }
 ]
