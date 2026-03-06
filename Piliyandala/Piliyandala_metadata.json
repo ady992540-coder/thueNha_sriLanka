@@ -798,5 +798,35 @@
     "rawPrice": 40000,
     "timestamp": "04 Mar 12:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 490,
+    "title": "Phòng trọ cho nam sinh – Katubadda, Moratuwa (Chỉ dành cho nam)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-boys-katubadda-moratuwa-mens-only-for-rent-colombo-4",
+    "rawPrice": 15000,
+    "timestamp": "01 Mar 3:20 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 493,
+    "title": "උඩුමහ‌ලෙහි කාමරයක් සිසුවියන්ට හෝ රැකියාවැති කාන්තාවන්ට පමණයි.",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/uddumhlehi-kaamryk-sisuviyntt-hoo-raekiyaavaeti-kaantaavntt-pmnnyi-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "05 Mar 5:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 498,
+    "title": "Luxurious Rooms for Rent Trincomalee",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-rooms-for-rent-trincomalee-to-rent-trincomalee",
+    "rawPrice": 20000,
+    "timestamp": "04 Mar 5:49 pm",
+    "gender": "Cả hai"
   }
 ]

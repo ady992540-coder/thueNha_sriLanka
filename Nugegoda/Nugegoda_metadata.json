@@ -1218,5 +1218,55 @@
     "rawPrice": 40000,
     "timestamp": "04 Mar 12:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1143,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nugegoda-for-rent-colombo-303",
+    "rawPrice": 50000,
+    "timestamp": "06 Mar 12:29 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1146,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nugegoda-for-rent-colombo-302",
+    "rawPrice": 65000,
+    "timestamp": "05 Mar 8:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1151,
+    "title": "Phòng đơn cho thuê tại Thalapathpitiya, Nugegoda - Chỉ dành cho nữ",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-thalapathpitiya-nugegoda-female-only-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "05 Mar 4:22 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1156,
+    "title": "Phòng có máy lạnh cho thuê ở Nugegoda, Ngã tư Wijerama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-c-room-for-rent-in-nugegoda-wijerama-junction-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "05 Mar 9:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1166,
+    "title": "Phòng trọ cho nam sinh – Katubadda, Moratuwa (Chỉ dành cho nam)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-boys-katubadda-moratuwa-mens-only-for-rent-colombo-4",
+    "rawPrice": 15000,
+    "timestamp": "01 Mar 3:20 pm",
+    "gender": "Nam"
   }
 ]

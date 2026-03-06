@@ -1058,5 +1058,15 @@
     "rawPrice": 20000,
     "timestamp": "04 Mar 5:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 610,
+    "title": "Phòng trọ cho nam sinh – Katubadda, Moratuwa (Chỉ dành cho nam)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-boys-katubadda-moratuwa-mens-only-for-rent-colombo-4",
+    "rawPrice": 15000,
+    "timestamp": "01 Mar 3:20 pm",
+    "gender": "Nam"
   }
 ]
