@@ -828,5 +828,15 @@
     "rawPrice": 20000,
     "timestamp": "04 Mar 5:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 505,
+    "title": "Cho Thuê Khu nhà riêng biệt, độc lập với chủ nhà Kiểu Studio Colombo 05",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-for-rent-colombo-05-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "06 Mar 4:14 pm",
+    "gender": "Cả hai"
   }
 ]

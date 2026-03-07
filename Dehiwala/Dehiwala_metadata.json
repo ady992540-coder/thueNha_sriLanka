@@ -1188,5 +1188,25 @@
     "rawPrice": 80000,
     "timestamp": "04 Mar 11:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 667,
+    "title": "Phòng Cho Thuê Ở Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1173",
+    "rawPrice": 25000,
+    "timestamp": "07 Mar 5:33 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 670,
+    "title": "Cho Thuê Khu nhà riêng biệt, độc lập với chủ nhà Loại Studio Colombo 05",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-for-rent-colombo-05-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "06 Mar 4:14 pm",
+    "gender": "Cả hai"
   }
 ]
