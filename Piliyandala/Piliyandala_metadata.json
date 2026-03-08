@@ -838,5 +838,45 @@
     "rawPrice": 50000,
     "timestamp": "06 Mar 4:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 514,
+    "title": "Phòng cho thuê Hadigama Piliyandala",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-hadigama-piliyandala-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "07 Mar 3:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 519,
+    "title": "Phòng Cho Thuê Panadura",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-panadura-for-rent-kalutara-1",
+    "rawPrice": 15000,
+    "timestamp": "07 Mar 11:33 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 523,
+    "title": "Cho thuê phòng cho nữ sinh Katubedda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-a-room-for-girls-katubedda-for-rent-colombo-1",
+    "rawPrice": 12500,
+    "timestamp": "07 Mar 5:37 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 528,
+    "title": "Phòng cho thuê ở Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-gampaha-2",
+    "rawPrice": 9000,
+    "timestamp": "06 Mar 9:11 am",
+    "gender": "Cả hai"
   }
 ]

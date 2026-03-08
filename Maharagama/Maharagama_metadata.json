@@ -1078,5 +1078,35 @@
     "rawPrice": 13000,
     "timestamp": "07 Mar 6:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 627,
+    "title": "Phòng cho thuê Panadura",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-panadura-for-rent-kalutara-1",
+    "rawPrice": 15000,
+    "timestamp": "07 Mar 11:33 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 631,
+    "title": "Cho thuê phòng cho nữ sinh Katubedda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-a-room-for-girls-katubedda-for-rent-colombo-1",
+    "rawPrice": 12500,
+    "timestamp": "07 Mar 5:37 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 636,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà dạng Studio cho thuê Colombo 05",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-for-rent-colombo-05-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "06 Mar 4:14 pm",
+    "gender": "Cả hai"
   }
 ]

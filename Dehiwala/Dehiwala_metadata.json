@@ -1208,5 +1208,55 @@
     "rawPrice": 50000,
     "timestamp": "06 Mar 4:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 681,
+    "title": "Phòng cho thuê – Dehiwala (Lý tưởng cho Hai Bạn Nữ)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-ideal-two-girls-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "08 Mar 12:33 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 683,
+    "title": "Phòng Riêng Hoàn Toàn Tầng Trệt với Phòng Tắm Riêng Cho Thuê ở Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-fully-separate-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "07 Mar 2:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 686,
+    "title": "Phòng cho thuê ở Đường Kawdana, Dehiwala - Chỉ dành cho nữ",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kawdana-road-dehiwala-girls-only-for-rent-colombo-1",
+    "rawPrice": 28000,
+    "timestamp": "07 Mar 5:22 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 691,
+    "title": "Phòng Cho Thuê Panadura",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-panadura-for-rent-kalutara-1",
+    "rawPrice": 15000,
+    "timestamp": "07 Mar 11:33 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 695,
+    "title": "Cho thuê phòng cho nữ ở Katubedda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-a-room-for-girls-katubedda-for-rent-colombo-1",
+    "rawPrice": 12500,
+    "timestamp": "07 Mar 5:37 pm",
+    "gender": "Nữ"
   }
 ]
