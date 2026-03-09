@@ -1398,5 +1398,35 @@
     "rawPrice": 12500,
     "timestamp": "07 Mar 5:37 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1254,
+    "title": "Boarding Room for Girls Rent in Nugegoda",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-girls-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "08 Mar 1:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1259,
+    "title": "Brand New Annex for Rent- Bokundara (piliyandala- Boralasgamuwa)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-annex-for-rent-bokundara-piliyandala-boralasgamuwa-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "08 Mar 7:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1264,
+    "title": "Phòng Cho Thuê Panadura",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-panadura-for-rent-kalutara-1",
+    "rawPrice": 15000,
+    "timestamp": "07 Mar 11:33 am",
+    "gender": "Nữ"
   }
 ]

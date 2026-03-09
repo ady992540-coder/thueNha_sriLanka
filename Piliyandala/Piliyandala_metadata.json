@@ -878,5 +878,25 @@
     "rawPrice": 9000,
     "timestamp": "06 Mar 9:11 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 537,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà mới toanh cho thuê - Bokundara (piliyandala- Boralasgamuwa)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-annex-for-rent-bokundara-piliyandala-boralasgamuwa-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "08 Mar 7:52 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 542,
+    "title": "Rooms for Rent Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2694",
+    "rawPrice": 15000,
+    "timestamp": "08 Mar 10:30 am",
+    "gender": "Cả hai"
   }
 ]

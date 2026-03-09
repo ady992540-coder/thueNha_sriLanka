@@ -1258,5 +1258,25 @@
     "rawPrice": 12500,
     "timestamp": "07 Mar 5:37 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 706,
+    "title": "phòng riêng biệt có nội thất ở tầng trệt có phòng tắm riêng cho thuê ở dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-separat-ground-floor-room-attached-bathroom-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "08 Mar 9:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 711,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Hoàn Toàn Mới Cho Thuê - Bokundara (piliyandala- Boralasgamuwa)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-annex-for-rent-bokundara-piliyandala-boralasgamuwa-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "08 Mar 7:52 pm",
+    "gender": "Nữ"
   }
 ]
