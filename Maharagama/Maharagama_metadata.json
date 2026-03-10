@@ -1108,5 +1108,45 @@
     "rawPrice": 50000,
     "timestamp": "06 Mar 4:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 646,
+    "title": "Phòng cho thuê cho phụ nữ ở Nawinna",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-women-to-rent-in-nawinna-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "10 Mar 12:04 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 650,
+    "title": "Rooms for Rent Girls Maharagama",
+    "price": "Rs 19,500 /tháng (~ 1.657.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-employed-girls-for-rent-colombo",
+    "rawPrice": 19500,
+    "timestamp": "09 Mar 4:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 655,
+    "title": "Brand New Room for Rent- Bokundara",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-bokundara-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "09 Mar 2:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 660,
+    "title": "Single Room for Rent In Ratmalana",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-ratmalana-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "09 Mar 2:38 pm",
+    "gender": "Cả hai"
   }
 ]

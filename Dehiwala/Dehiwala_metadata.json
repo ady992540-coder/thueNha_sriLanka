@@ -1278,5 +1278,35 @@
     "rawPrice": 55000,
     "timestamp": "08 Mar 7:52 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 716,
+    "title": "Single Room for Rent In Ratmalana",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-ratmalana-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "09 Mar 2:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 720,
+    "title": "Cho thuê phòng riêng biệt đầy đủ nội thất với phòng tắm liền kề ở Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-separate-furnished-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 Mar 10:26 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 729,
+    "title": "Phòng trọ thoải mái có nhà tắm riêng Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-sharing-rooms-with-attached-bathroom-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "09 Mar 8:42 am",
+    "gender": "Cả hai"
   }
 ]

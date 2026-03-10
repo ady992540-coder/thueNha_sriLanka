@@ -1428,5 +1428,55 @@
     "rawPrice": 15000,
     "timestamp": "07 Mar 11:33 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1269,
+    "title": "Phòng mới cho thuê - Bokundara",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-bokundara-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "09 Mar 2:39 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1274,
+    "title": "Cho thuê phòng ở Udahamulla",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-udahamulla-to-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "09 Mar 7:42 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1279,
+    "title": "Room for Rent Ladies - Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-only-two-ladies-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "09 Mar 4:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1284,
+    "title": "Phòng cho thuê Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10181",
+    "rawPrice": 30000,
+    "timestamp": "09 Mar 8:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1289,
+    "title": "Single Room for Rent In Ratmalana",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-ratmalana-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "09 Mar 2:38 pm",
+    "gender": "Cả hai"
   }
 ]
