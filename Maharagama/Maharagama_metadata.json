@@ -1148,5 +1148,45 @@
     "rawPrice": 20000,
     "timestamp": "09 Mar 2:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 669,
+    "title": "Cho thuê phòng chung Maharagama",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "10 Mar 3:12 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 671,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-791",
+    "rawPrice": 50000,
+    "timestamp": "10 Mar 9:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 676,
+    "title": "Phòng Chia Sẻ Tiện Nghi với Phòng Tắm Riêng Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-sharing-rooms-with-attached-bathroom-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "09 Mar 8:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 681,
+    "title": "PHÒNG CHO THUÊ BATTARAMULLA CHỈ DÀNH CHO NAM",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-battaramulla-boys-only-for-rent-colombo-2",
+    "rawPrice": 28000,
+    "timestamp": "10 Mar 10:29 am",
+    "gender": "Nam"
   }
 ]

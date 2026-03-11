@@ -928,5 +928,15 @@
     "rawPrice": 20000,
     "timestamp": "09 Mar 2:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 569,
+    "title": "PHÒNG CHO THUÊ TẠI BATTARAMULLA CHỈ DÀNH CHO NAM",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-battaramulla-boys-only-for-rent-colombo-2",
+    "rawPrice": 28000,
+    "timestamp": "10 Mar 10:29 am",
+    "gender": "Nam"
   }
 ]

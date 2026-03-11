@@ -1308,5 +1308,15 @@
     "rawPrice": 8000,
     "timestamp": "09 Mar 8:42 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 740,
+    "title": "ROOMS FOR RENT BATTARAMULLA BOYS ONLY",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-battaramulla-boys-only-for-rent-colombo-2",
+    "rawPrice": 28000,
+    "timestamp": "10 Mar 10:29 am",
+    "gender": "Cả hai"
   }
 ]

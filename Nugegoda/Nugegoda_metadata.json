@@ -1478,5 +1478,45 @@
     "rawPrice": 20000,
     "timestamp": "09 Mar 2:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1307,
+    "title": "CHO THUÊ KHU NHÀ RIÊNG BIỆT, ĐỘC LẬP VỚI CHỦ NHÀ 2 PHÒNG NGỦ TẠI NUGEGODA (sp1098)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2bed-annex-for-rent-in-nugegoda-sp1098-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "10 Mar 3:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1313,
+    "title": "Phòng ở chung thoải mái với phòng tắm riêng Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-sharing-rooms-with-attached-bathroom-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "09 Mar 8:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1318,
+    "title": "CHO THUÊ NHÀ 2 PHÒNG NGỦ RIÊNG BIỆT, ĐỘC LẬP VỚI CHỦ NHÀ Ở NUGEGODA (sp1098)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2bed-annex-for-rent-in-nugegoda-sp1098-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "10 Mar 3:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1324,
+    "title": "PHÒNG CHO THUÊ BATTARAMULLA CHỈ DÀNH CHO NAM",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-battaramulla-boys-only-for-rent-colombo-2",
+    "rawPrice": 28000,
+    "timestamp": "10 Mar 10:29 am",
+    "gender": "Nam"
   }
 ]
