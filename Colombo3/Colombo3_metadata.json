@@ -728,5 +728,45 @@
     "rawPrice": 28000,
     "timestamp": "10 Mar 10:29 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 523,
+    "title": "Phòng trọ cho nữ Rajagiriya",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-for-ladies-for-rent-colombo-3",
+    "rawPrice": 15000,
+    "timestamp": "10 Mar 5:05 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 530,
+    "title": "Phòng cho thuê Nữ - Narahenpita",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-roombedaa-gaeniimee-kaamrgaehaennu-llmun-sndhaa-pmnni-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Mar 11:26 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 535,
+    "title": "Rooms for Rent Girls Maharagama",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-employed-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "10 Mar 10:49 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 540,
+    "title": "Phòng cho thuê - Ethul Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ethul-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Mar 1:33 pm",
+    "gender": "Nam"
   }
 ]

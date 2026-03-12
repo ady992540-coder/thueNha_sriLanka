@@ -1318,5 +1318,55 @@
     "rawPrice": 28000,
     "timestamp": "10 Mar 10:29 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 751,
+    "title": "Phòng cho thuê Nữ - Narahenpita",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-roombedaa-gaeniimee-kaamrgaehaennu-llmun-sndhaa-pmnni-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Mar 11:26 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 756,
+    "title": "Phòng trọ cho nữ Rajagiriya",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-for-ladies-for-rent-colombo-3",
+    "rawPrice": 15000,
+    "timestamp": "10 Mar 5:05 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 763,
+    "title": "phòng đầy đủ tiện nghi riêng biệt với phòng tắm riêng cho thuê tại dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-fully-separate-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "11 Mar 10:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 773,
+    "title": "Brand New Room for Rent- Bokundara",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-bokundara-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "09 Mar 2:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 778,
+    "title": "Phòng cho thuê Nữ Maharagama",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-employed-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "10 Mar 10:49 am",
+    "gender": "Nữ"
   }
 ]

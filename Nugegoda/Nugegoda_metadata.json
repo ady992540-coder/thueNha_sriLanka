@@ -1518,5 +1518,55 @@
     "rawPrice": 28000,
     "timestamp": "10 Mar 10:29 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1336,
+    "title": "Phòng cho thuê Nữ - Narahenpita",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-roombedaa-gaeniimee-kaamrgaehaennu-llmun-sndhaa-pmnni-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Mar 11:26 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1341,
+    "title": "Phòng cho thuê Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-for-rent-colombo-32389",
+    "rawPrice": 15000,
+    "timestamp": "25 Feb 10:24 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1342,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Boralesgamuwa",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-boralesgamuwa-for-rent-colombo-327",
+    "rawPrice": 55000,
+    "timestamp": "11 Mar 11:10 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1347,
+    "title": "Phòng cho thuê Nữ - Nugegoda",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-nugegoda-for-rent-colombo-40",
+    "rawPrice": 8500,
+    "timestamp": "11 Mar 1:19 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1352,
+    "title": "Phòng cho thuê - Ethul Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ethul-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Mar 1:33 pm",
+    "gender": "Nam"
   }
 ]
