@@ -1228,5 +1228,35 @@
     "rawPrice": 15000,
     "timestamp": "10 Mar 5:05 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 716,
+    "title": "Phòng cho thuê - Ethul Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ethul-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Mar 1:33 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 721,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà Đường Wanatha, Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-wanatha-road-annex-for-rent-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "13 Mar 7:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 731,
+    "title": "Phòng trên lầu (Chỉ dành cho nữ) Cho thuê ở Maharagama",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-only-for-lady-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 23000,
+    "timestamp": "12 Mar 9:53 am",
+    "gender": "Nữ"
   }
 ]

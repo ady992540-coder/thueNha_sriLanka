@@ -768,5 +768,15 @@
     "rawPrice": 25000,
     "timestamp": "11 Mar 1:33 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 549,
+    "title": "Cho thuê phòng Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-for-rent-colombo-32389",
+    "rawPrice": 15000,
+    "timestamp": "25 Feb 10:24 am",
+    "gender": "Cả hai"
   }
 ]

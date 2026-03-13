@@ -1568,5 +1568,55 @@
     "rawPrice": 25000,
     "timestamp": "11 Mar 1:33 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1369,
+    "title": "Cho thuê phòng dành cho nữ ở Maharagama",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-employed-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "10 Mar 10:49 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1374,
+    "title": "Phòng (Chỉ dành cho nữ) Cho thuê ở Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-ladies-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "12 Mar 5:43 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1379,
+    "title": "Nugegoda, Embuldeniya Khu nhà riêng biệt, độc lập với chủ nhà ở tầng trệt có nội thất cho thuê (NZM1107)",
+    "price": "Rs 67,500 /tháng (~ 5.737.500 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-embuldeniya-furnished-ground-floor-annex-for-rent-nzm1107-for-rent-colombo",
+    "rawPrice": 67500,
+    "timestamp": "12 Mar 12:07 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1389,
+    "title": "Cho thuê phòng ở Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1323",
+    "rawPrice": 25000,
+    "timestamp": "12 Mar 3:07 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1394,
+    "title": "Phòng trọ cho nữ Rajagiriya",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-for-ladies-for-rent-colombo-3",
+    "rawPrice": 15000,
+    "timestamp": "10 Mar 5:05 pm",
+    "gender": "Nữ"
   }
 ]
