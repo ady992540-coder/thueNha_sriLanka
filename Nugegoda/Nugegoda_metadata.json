@@ -1618,5 +1618,25 @@
     "rawPrice": 15000,
     "timestamp": "10 Mar 5:05 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1415,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Pannipitiya",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-pannipitiya-for-rent-colombo-18",
+    "rawPrice": 35000,
+    "timestamp": "13 Mar 9:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1421,
+    "title": "Tầng trệt mới xây ở Nawala cho thuê",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-lower-ground-floor-in-nawala-for-rent-for-rent-colombo-1",
+    "rawPrice": 120000,
+    "timestamp": "29 Jan 6:21 pm",
+    "gender": "Cả hai"
   }
 ]

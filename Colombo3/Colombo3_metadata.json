@@ -778,5 +778,15 @@
     "rawPrice": 15000,
     "timestamp": "25 Feb 10:24 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 554,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Pannipitiya",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-pannipitiya-for-rent-colombo-18",
+    "rawPrice": 35000,
+    "timestamp": "13 Mar 9:01 pm",
+    "gender": "Cả hai"
   }
 ]

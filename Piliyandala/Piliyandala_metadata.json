@@ -988,5 +988,35 @@
     "rawPrice": 25000,
     "timestamp": "11 Mar 1:33 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 612,
+    "title": "Newly Built Lower Ground Floor in Nawala for Rent",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-lower-ground-floor-in-nawala-for-rent-for-rent-colombo-1",
+    "rawPrice": 120000,
+    "timestamp": "29 Jan 6:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 617,
+    "title": "Phòng cho thuê ở Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-piliyandala-for-rent-colombo-196",
+    "rawPrice": 15000,
+    "timestamp": "13 Mar 11:01 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 621,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Pannipitiya",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-pannipitiya-for-rent-colombo-18",
+    "rawPrice": 35000,
+    "timestamp": "13 Mar 9:01 pm",
+    "gender": "Cả hai"
   }
 ]

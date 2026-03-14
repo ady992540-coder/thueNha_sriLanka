@@ -1258,5 +1258,25 @@
     "rawPrice": 23000,
     "timestamp": "12 Mar 9:53 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 742,
+    "title": "Phòng cho thuê ở Boralasgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralasgamuwa-for-rent-colombo-3",
+    "rawPrice": 20000,
+    "timestamp": "13 Mar 1:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 746,
+    "title": "Tầng trệt mới xây ở Nawala cho thuê",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-lower-ground-floor-in-nawala-for-rent-for-rent-colombo-1",
+    "rawPrice": 120000,
+    "timestamp": "29 Jan 6:21 pm",
+    "gender": "Cả hai"
   }
 ]
