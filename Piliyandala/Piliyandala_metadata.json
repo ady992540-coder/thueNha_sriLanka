@@ -1018,5 +1018,45 @@
     "rawPrice": 35000,
     "timestamp": "13 Mar 9:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 632,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Đường Aluthmawatha, Colombo 15 (Modara)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-aluthmawatha-road-colombo-15-modara-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Mar 11:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 637,
+    "title": "phòng cho thuê",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10190",
+    "rawPrice": 16000,
+    "timestamp": "14 Mar 2:14 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 642,
+    "title": "Phòng cho thuê có nội thất ở Battaramulla (Nam)",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-rooms-for-rent-in-battaramulla-male-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "09 Mar 3:56 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 647,
+    "title": "Brand New Annex in Bokundara (Female)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-annex-in-bokundara-female-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "15 Mar 1:25 am",
+    "gender": "Cả hai"
   }
 ]

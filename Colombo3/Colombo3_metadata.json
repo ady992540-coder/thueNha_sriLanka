@@ -788,5 +788,35 @@
     "rawPrice": 35000,
     "timestamp": "13 Mar 9:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 564,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Đường Aluthmawatha, Colombo 15 (Modara)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-aluthmawatha-road-colombo-15-modara-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Mar 11:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 569,
+    "title": "Tầng trệt mới xây ở Nawala cho thuê",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-lower-ground-floor-in-nawala-for-rent-for-rent-colombo-1",
+    "rawPrice": 120000,
+    "timestamp": "29 Jan 6:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 574,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Mới Xây ở Bokundara (Nữ)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-annex-in-bokundara-female-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "15 Mar 1:25 am",
+    "gender": "Nữ"
   }
 ]

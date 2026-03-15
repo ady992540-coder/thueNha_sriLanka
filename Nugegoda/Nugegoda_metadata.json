@@ -1638,5 +1638,75 @@
     "rawPrice": 120000,
     "timestamp": "29 Jan 6:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1433,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại đường Aluthmawatha, Colombo 15 (Modara)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-aluthmawatha-road-colombo-15-modara-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Mar 11:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1438,
+    "title": "3 Giường | Phòng cho thuê ở Nugegoda",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-beds-room-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "14 Mar 4:22 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1442,
+    "title": "Cho thuê phòng ở Nugegoda",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 13000,
+    "timestamp": "14 Mar 2:25 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1447,
+    "title": "Cho thuê phòng - Homagama",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2696",
+    "rawPrice": 12000,
+    "timestamp": "14 Mar 1:30 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1452,
+    "title": "Room For Rent In Nugegoda",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1326",
+    "rawPrice": 32000,
+    "timestamp": "14 Mar 12:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1457,
+    "title": "Phòng cho thuê ở Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1325",
+    "rawPrice": 25000,
+    "timestamp": "14 Mar 11:09 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1462,
+    "title": "Phòng cho thuê có nội thất ở Battaramulla (Nam)",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-rooms-for-rent-in-battaramulla-male-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "09 Mar 3:56 pm",
+    "gender": "Nam"
   }
 ]
