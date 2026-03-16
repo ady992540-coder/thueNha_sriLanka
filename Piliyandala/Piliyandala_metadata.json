@@ -1058,5 +1058,15 @@
     "rawPrice": 55000,
     "timestamp": "15 Mar 1:25 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 657,
+    "title": "Phòng trọ cho nữ sinh viên Malabe",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/malabe-girls-boarding-room-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "15 Mar 11:36 am",
+    "gender": "Nữ"
   }
 ]

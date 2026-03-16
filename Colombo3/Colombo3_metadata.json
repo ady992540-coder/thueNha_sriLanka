@@ -818,5 +818,25 @@
     "rawPrice": 55000,
     "timestamp": "15 Mar 1:25 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 583,
+    "title": "Phòng có sẵn nội thất cho thuê ở Battaramulla (Nam)",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-rooms-for-rent-in-battaramulla-male-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "09 Mar 3:56 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 588,
+    "title": "Phòng trọ cho nữ sinh Malabe",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/malabe-girls-boarding-room-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "15 Mar 11:36 am",
+    "gender": "Nữ"
   }
 ]

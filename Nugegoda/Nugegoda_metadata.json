@@ -1708,5 +1708,35 @@
     "rawPrice": 22000,
     "timestamp": "09 Mar 3:56 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1467,
+    "title": "🏡 Furnished Ground Floor Annex for Rent – Ambuldeniya, Nugegoda",
+    "price": "Rs 68,500 /tháng (~ 5.822.500 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-ground-floor-annex-for-rent-ambuldeniya-nugegoda-for-rent-colombo",
+    "rawPrice": 68500,
+    "timestamp": "14 Mar 11:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1477,
+    "title": "Cho thuê phòng ở Nugegoda (Chỉ dành cho nữ)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-nugegoda-girls-only-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "15 Mar 4:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1482,
+    "title": "Phòng trọ cho nữ sinh Malabe",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/malabe-girls-boarding-room-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "15 Mar 11:36 am",
+    "gender": "Nữ"
   }
 ]
