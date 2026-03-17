@@ -1738,5 +1738,15 @@
     "rawPrice": 16000,
     "timestamp": "15 Mar 11:36 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1493,
+    "title": "Một chỗ ở ghép Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-boarding-place-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "16 Mar 8:54 pm",
+    "gender": "Nữ"
   }
 ]

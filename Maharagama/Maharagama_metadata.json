@@ -1328,5 +1328,15 @@
     "rawPrice": 16000,
     "timestamp": "15 Mar 11:36 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 793,
+    "title": "2 Phòng Cho Thuê Maharagama",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/2-rooms-for-rent-for-rent-colombo-86",
+    "rawPrice": 22500,
+    "timestamp": "16 Mar 10:12 pm",
+    "gender": "Nữ"
   }
 ]
