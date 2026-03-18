@@ -1748,5 +1748,35 @@
     "rawPrice": 15000,
     "timestamp": "16 Mar 8:54 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1505,
+    "title": "Phòng cho thuê Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-563",
+    "rawPrice": 25000,
+    "timestamp": "17 Mar 5:36 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1510,
+    "title": "Cho thuê phòng cho nữ nhân viên văn phòng Wijerama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-8",
+    "rawPrice": 17000,
+    "timestamp": "17 Mar 2:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1515,
+    "title": "Phòng cho thuê ở Nugegoda (Nữ)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girl-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "17 Mar 9:48 pm",
+    "gender": "Nữ"
   }
 ]

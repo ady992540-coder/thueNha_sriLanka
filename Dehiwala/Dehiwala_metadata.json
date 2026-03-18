@@ -1508,5 +1508,15 @@
     "rawPrice": 16000,
     "timestamp": "15 Mar 11:36 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 890,
+    "title": "Cho thuê phòng ở Dehiwala chỉ dành cho nữ",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-girl-only-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "17 Mar 4:45 pm",
+    "gender": "Nữ"
   }
 ]
