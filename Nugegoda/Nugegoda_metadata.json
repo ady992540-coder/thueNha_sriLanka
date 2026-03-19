@@ -1778,5 +1778,15 @@
     "rawPrice": 15000,
     "timestamp": "17 Mar 9:48 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1528,
+    "title": "Phòng cho thuê tại Delkanda Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-delkanda-nugegoda-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "17 Mar 3:19 pm",
+    "gender": "Nữ"
   }
 ]

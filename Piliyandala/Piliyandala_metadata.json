@@ -1078,5 +1078,15 @@
     "rawPrice": 20000,
     "timestamp": "16 Mar 7:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 675,
+    "title": "Sharing Room for Rent In ( Boys )",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-boys-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "18 Mar 9:16 am",
+    "gender": "Cả hai"
   }
 ]

@@ -1338,5 +1338,45 @@
     "rawPrice": 22500,
     "timestamp": "16 Mar 10:12 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 804,
+    "title": "Cho thuê khu nhà riêng biệt, độc lập với chủ nhà thoải mái ở khu vực Maharagama",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-prdeeshyen-suvphsu-aeneks-ekk-kuliytt-for-rent-colombo",
+    "rawPrice": 90000,
+    "timestamp": "18 Mar 11:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 809,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nawinna, mặt tiền Đường High Level",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nawinna-high-level-rd-facing-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "18 Mar 9:11 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 810,
+    "title": "Phòng ở ghép (Chỉ dành cho nữ) cho thuê tại Navinna, Maharagama",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-only-girls-rent-in-navinna-maharagama-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "18 Mar 9:08 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 815,
+    "title": "Phòng cho thuê tại Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralesgamuwa-for-rent-colombo-60",
+    "rawPrice": 20000,
+    "timestamp": "18 Mar 11:42 am",
+    "gender": "Nữ"
   }
 ]
