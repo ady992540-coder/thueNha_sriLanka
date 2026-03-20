@@ -1548,5 +1548,25 @@
     "rawPrice": 35000,
     "timestamp": "18 Mar 1:12 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 923,
+    "title": "Phòng đầy đủ nội thất có phòng tắm riêng cho thuê ở Dehiwala, gần đường Hill",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-with-bathroom-rent-in-dehiwala-off-hill-street-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "18 Mar 1:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 931,
+    "title": "Phòng Nadimala cho thuê (R- 627)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nadimala-rooms-for-rent-r-627-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "19 Mar 2:17 pm",
+    "gender": "Nữ"
   }
 ]

@@ -1378,5 +1378,25 @@
     "rawPrice": 20000,
     "timestamp": "18 Mar 11:42 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 825,
+    "title": "Cho Thuê Chung Một Phòng ở Maharagama Wijerama",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-one-room-for-rent-in-maharagama-wijerama-for-rent-colombo-1",
+    "rawPrice": 10000,
+    "timestamp": "19 Mar 4:04 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 828,
+    "title": "Phòng cho thuê - Maharagama",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-room-rent-with-pantry-and-living-area-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "19 Mar 12:39 pm",
+    "gender": "Nam"
   }
 ]
