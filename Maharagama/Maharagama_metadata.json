@@ -1398,5 +1398,15 @@
     "rawPrice": 32000,
     "timestamp": "19 Mar 12:39 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 838,
+    "title": "Phòng Đã Trang Bị Nội Thất với Chỗ Đậu Xe tại Navinna",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-with-car-park-at-navinna-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "20 Mar 9:22 am",
+    "gender": "Nam"
   }
 ]
