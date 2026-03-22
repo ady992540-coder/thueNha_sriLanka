@@ -1408,5 +1408,45 @@
     "rawPrice": 28000,
     "timestamp": "20 Mar 9:22 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 848,
+    "title": "Phòng cho thuê ở Maharagama dành cho nữ / කාන්තාවන් සඳහා කාමර කුලියට",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-room-rent-for-ladies-kaantaavn-sndhaa-kaamr-kuliytt-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "21 Mar 9:21 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 852,
+    "title": "Cho Thuê Khu nhà riêng biệt, độc lập với chủ nhà tại Maharagama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/3-bedrooms-for-rent-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "21 Mar 11:49 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 853,
+    "title": "Phòng Chia Sẻ Cho 3 Bạn Nữ Tại Moratuwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-3-girls-in-moratuwa-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "28 Feb 10:18 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 858,
+    "title": "Phòng cho thuê tại Katunayake và Seeduwa",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-and-seeduwa-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "16 Mar 10:25 am",
+    "gender": "Cả hai"
   }
 ]

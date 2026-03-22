@@ -838,5 +838,25 @@
     "rawPrice": 16000,
     "timestamp": "15 Mar 11:36 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 595,
+    "title": "Phòng Share cho 3 bạn nữ ở Moratuwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-3-girls-in-moratuwa-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "28 Feb 10:18 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 600,
+    "title": "Phòng cho thuê ở Katunayake và Seeduwa",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-and-seeduwa-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "16 Mar 10:25 am",
+    "gender": "Cả hai"
   }
 ]

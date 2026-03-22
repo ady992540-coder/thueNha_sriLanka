@@ -1838,5 +1838,35 @@
     "rawPrice": 18000,
     "timestamp": "20 Mar 10:15 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1586,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1327",
+    "rawPrice": 25000,
+    "timestamp": "21 Mar 1:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1591,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà ở tầng trên cho thuê – Delkanda (Gần Đường High Level)",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-for-rent-delkanda-near-high-level-road-for-rent-colombo-1",
+    "rawPrice": 70000,
+    "timestamp": "21 Mar 9:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1596,
+    "title": "Phòng cho thuê ở Katunayake và Seeduwa",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-and-seeduwa-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "16 Mar 10:25 am",
+    "gender": "Cả hai"
   }
 ]
