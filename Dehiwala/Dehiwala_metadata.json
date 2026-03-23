@@ -1588,5 +1588,25 @@
     "rawPrice": 16500,
     "timestamp": "16 Mar 10:25 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 949,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Beddagana, Pitakotte",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-beddagana-pitakotte-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "22 Mar 11:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 954,
+    "title": "Phòng cho thuê chỉ dành cho nữ ở Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-room-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "22 Mar 10:29 pm",
+    "gender": "Nữ"
   }
 ]

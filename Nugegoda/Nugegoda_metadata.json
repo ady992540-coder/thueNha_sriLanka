@@ -1868,5 +1868,65 @@
     "rawPrice": 16500,
     "timestamp": "16 Mar 10:25 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1609,
+    "title": "Phòng chung cho 3 bạn nữ ở Moratuwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-3-girls-in-moratuwa-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "28 Feb 10:18 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1614,
+    "title": "Phòng cho Quý Ông - Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-gentleman-nugegoda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "22 Mar 10:00 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1619,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Nugegoda",
+    "price": "Rs 200,000 /tháng (~ 17.000.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-698",
+    "rawPrice": 200000,
+    "timestamp": "22 Mar 11:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1624,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Beddagana, Pitakotte",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-beddagana-pitakotte-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "22 Mar 11:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1629,
+    "title": "Phòng Đã Trang Bị Đồ Đạc Cho Thuê ở Dehiwala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "18 Feb 10:49 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1634,
+    "title": "Phòng trọ thoải mái cho nữ, có phòng tắm riêng, Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-sharing-rooms-for-girls-with-attached-bathroom-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "22 Mar 10:06 pm",
+    "gender": "Nữ"
   }
 ]

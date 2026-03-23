@@ -1118,5 +1118,45 @@
     "rawPrice": 16500,
     "timestamp": "16 Mar 10:25 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 710,
+    "title": "Comfortable Sharing Rooms for Girls with Attached Bathroom Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-sharing-rooms-for-girls-with-attached-bathroom-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "22 Mar 10:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 715,
+    "title": "Thuê phòng ở Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-piliyandala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "22 Mar 12:00 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 720,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Beddagana, Pitakotte",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-beddagana-pitakotte-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "22 Mar 11:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 725,
+    "title": "Phòng có nội thất cho thuê ở Dehiwala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "18 Feb 10:49 am",
+    "gender": "Cả hai"
   }
 ]
