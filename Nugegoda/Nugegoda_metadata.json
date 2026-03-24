@@ -1928,5 +1928,45 @@
     "rawPrice": 8000,
     "timestamp": "22 Mar 10:06 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1648,
+    "title": "Annex for Rent - Nugegoda",
+    "price": "Rs 58,500 /tháng (~ 4.972.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nugegoda-for-rent-colombo-305",
+    "rawPrice": 58500,
+    "timestamp": "22 Mar 9:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1653,
+    "title": "Cho thuê phòng trọ ở Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/borddin-kaamr-kuliytt-diim-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "23 Mar 4:38 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1658,
+    "title": "Rooms for Rent in Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nugegoda-for-rent-colombo-333",
+    "rawPrice": 40000,
+    "timestamp": "23 Mar 11:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1663,
+    "title": "Cho thuê phòng trọ cho nữ sinh Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-rent-for-girls-nugegoda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "23 Mar 4:24 pm",
+    "gender": "Nữ"
   }
 ]

@@ -1608,5 +1608,15 @@
     "rawPrice": 30000,
     "timestamp": "22 Mar 10:29 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 958,
+    "title": "Phòng ở ghép thoải mái cho nữ, có phòng tắm riêng, Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-sharing-rooms-for-girls-with-attached-bathroom-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "22 Mar 10:06 pm",
+    "gender": "Nữ"
   }
 ]
