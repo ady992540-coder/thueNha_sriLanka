@@ -1618,5 +1618,45 @@
     "rawPrice": 8000,
     "timestamp": "22 Mar 10:06 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 970,
+    "title": "phòng riêng biệt tầng trệt có phòng tắm riêng cho thuê dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-fully-separate-room-with-attached-bathroom-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "24 Mar 6:12 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 980,
+    "title": "Cho thuê phòng trên đường Pathalawatte, Dehiwala",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-ground-floor-on-pathalawatte-road-for-rent-colombo",
+    "rawPrice": 85000,
+    "timestamp": "23 Mar 4:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 985,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Dehiwala",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-dehiwala-for-rent-colombo-360",
+    "rawPrice": 38000,
+    "timestamp": "24 Mar 7:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 991,
+    "title": "Phòng cho thuê đầy đủ tiện nghi ở Dehiwala (Chỉ dành cho nữ)",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-dehiwala-ladies-only-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "24 Mar 2:17 pm",
+    "gender": "Nữ"
   }
 ]

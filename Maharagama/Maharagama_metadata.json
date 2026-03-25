@@ -1478,5 +1478,25 @@
     "rawPrice": 8000,
     "timestamp": "22 Mar 10:06 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 890,
+    "title": "Cho thuê 4 phòng ở Pannipitiya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/4-rooms-for-rent-in-pannipitiya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "24 Mar 5:39 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 900,
+    "title": "Furnished Beautiful Room for Rent in Pamunuwa, Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-beautiful-room-for-rent-in-pamunuwa-maharagama-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "24 Mar 5:33 pm",
+    "gender": "Cả hai"
   }
 ]

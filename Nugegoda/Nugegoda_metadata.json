@@ -1968,5 +1968,45 @@
     "rawPrice": 25000,
     "timestamp": "23 Mar 4:24 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1677,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà hai tầng ở Embuldeniya Junction",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/embuldeniya-two-floors-annex-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "23 Mar 8:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1682,
+    "title": "Phòng cho thuê ở Nugegoda",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1328",
+    "rawPrice": 23000,
+    "timestamp": "24 Mar 12:39 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1686,
+    "title": "Phòng Đầy Đủ Tiện Nghi Cho Thuê – Nugegoda (Chỉ dành cho Nữ)",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-nugegoda-ladies-only-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "24 Mar 1:38 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1691,
+    "title": "Phòng cho thuê ở Nugegoda",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-boys-for-rent-colombo-7",
+    "rawPrice": 10000,
+    "timestamp": "24 Mar 11:36 am",
+    "gender": "Nam"
   }
 ]

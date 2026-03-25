@@ -1158,5 +1158,15 @@
     "rawPrice": 50000,
     "timestamp": "18 Feb 10:49 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 736,
+    "title": "4 Phòng cho thuê ở Pannipitiya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/4-rooms-for-rent-in-pannipitiya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "24 Mar 5:39 am",
+    "gender": "Nữ"
   }
 ]
