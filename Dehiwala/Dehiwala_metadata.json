@@ -1658,5 +1658,15 @@
     "rawPrice": 35000,
     "timestamp": "24 Mar 2:17 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1009,
+    "title": "phòng riêng biệt ở tầng trệt mới có phòng tắm riêng cho thuê ở dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/new-ground-floor-separate-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "25 Mar 9:22 am",
+    "gender": "Cả hai"
   }
 ]

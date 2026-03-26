@@ -2008,5 +2008,15 @@
     "rawPrice": 10000,
     "timestamp": "24 Mar 11:36 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1705,
+    "title": "Phòng Nugegoda cho Nữ",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-room-for-girls-for-rent-colombo",
+    "rawPrice": 7000,
+    "timestamp": "25 Mar 5:40 pm",
+    "gender": "Nữ"
   }
 ]
