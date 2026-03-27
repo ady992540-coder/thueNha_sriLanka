@@ -2018,5 +2018,35 @@
     "rawPrice": 7000,
     "timestamp": "25 Mar 5:40 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1719,
+    "title": "Nhà trọ Gần Punchi Borella - Cho thuê cho nữ",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-near-punchi-borella-rent-for-ladies-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "25 Mar 9:19 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1724,
+    "title": "Cho thuê phòng ở Nugegoda dành cho nữ",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-female-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "26 Mar 1:56 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1729,
+    "title": "Phòng cho thuê ở Nugegoda Melda Place (Chỉ dành cho nam)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-melda-place-room-for-rent-boys-only-for-rent-colombo-8",
+    "rawPrice": 20000,
+    "timestamp": "27 Mar 6:54 am",
+    "gender": "Nam"
   }
 ]

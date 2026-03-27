@@ -1668,5 +1668,25 @@
     "rawPrice": 35000,
     "timestamp": "25 Mar 9:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1019,
+    "title": "Nhà trọ nam cho thuê – Ratmalana (Ngã tư Maliban)",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/mens-hostel-for-rent-ratmalana-maliban-junction-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "19 Mar 6:59 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1029,
+    "title": "Cho thuê 4 phòng ở Pannipitiya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/4-rooms-for-rent-in-pannipitiya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "25 Mar 8:22 am",
+    "gender": "Nữ"
   }
 ]

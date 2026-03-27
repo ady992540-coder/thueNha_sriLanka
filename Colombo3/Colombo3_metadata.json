@@ -888,5 +888,15 @@
     "rawPrice": 25000,
     "timestamp": "24 Mar 5:39 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 637,
+    "title": "Nhà trọ gần Punchi Borella - Cho thuê cho nữ",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-near-punchi-borella-rent-for-ladies-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "25 Mar 9:19 am",
+    "gender": "Nữ"
   }
 ]

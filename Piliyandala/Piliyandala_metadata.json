@@ -1168,5 +1168,35 @@
     "rawPrice": 25000,
     "timestamp": "24 Mar 5:39 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 752,
+    "title": "Cho thuê phòng trọ cho sinh viên nữ tại Wijerama Nugegoda",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-rent-for-female-student-in-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 9000,
+    "timestamp": "01 Mar 7:07 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 757,
+    "title": "Nhà trọ nam cho thuê – Ratmalana (Ngã tư Maliban)",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/mens-hostel-for-rent-ratmalana-maliban-junction-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "19 Mar 6:59 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 767,
+    "title": "Cho Thuê Tầng Trên Khu nhà riêng biệt, độc lập với chủ nhà Piliyandala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upper-annex-floor-for-rent-piliyandala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "26 Mar 11:21 am",
+    "gender": "Cả hai"
   }
 ]
