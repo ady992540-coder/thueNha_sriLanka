@@ -2048,5 +2048,45 @@
     "rawPrice": 20000,
     "timestamp": "27 Mar 6:54 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1734,
+    "title": "4 Phòng cho thuê tại Pannipitiya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/4-rooms-for-rent-in-pannipitiya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "25 Mar 8:22 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1744,
+    "title": "Phòng Cho Thuê Cho Nữ Ở Nugegoda",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-girls-for-rent-colombo-5",
+    "rawPrice": 16500,
+    "timestamp": "28 Mar 12:43 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1749,
+    "title": "Cho Thuê Khu Nhà Riêng Biệt, Độc Lập Với Chủ Nhà Rộng Rãi Trên Lầu ở Delkanda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-spacious-annex-for-rent-in-delkanda-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "27 Mar 5:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1754,
+    "title": "Shared Room Rent for a Lady - Nugegoda",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shared-room-rent-for-a-lady-nugegoda-for-rent-colombo",
+    "rawPrice": 23000,
+    "timestamp": "27 Mar 11:44 am",
+    "gender": "Cả hai"
   }
 ]
