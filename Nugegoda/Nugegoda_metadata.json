@@ -2088,5 +2088,55 @@
     "rawPrice": 23000,
     "timestamp": "27 Mar 11:44 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1768,
+    "title": "Phòng cho thuê - Embuldeniya Nugegoda Chỉ chuyên gia nam",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-embuldeniya-nugegoda-only-male-profesional-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "27 Mar 11:08 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1773,
+    "title": "Phòng trọ cho nữ nhân viên và sinh viên nữ tại Wijerama Nugegoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-female-student-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "28 Mar 9:46 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1778,
+    "title": "Phòng Cho Thuê Tại Nugegoda - Pagoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-nugegoda-pagoda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "29 Mar 6:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1783,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà đầy đủ nội thất cho thuê tại Madiwella",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-in-madiwella-for-rent-colombo",
+    "rawPrice": 37000,
+    "timestamp": "29 Mar 12:12 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1788,
+    "title": "Phòng trọ cho thuê ở Nugegoda Wijerama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-in-nugegoda-wijerama-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "28 Mar 5:45 pm",
+    "gender": "Nữ"
   }
 ]

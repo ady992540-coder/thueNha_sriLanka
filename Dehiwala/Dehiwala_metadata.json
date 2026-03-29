@@ -1708,5 +1708,25 @@
     "rawPrice": 35000,
     "timestamp": "27 Mar 2:41 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1054,
+    "title": "phòng 1 phòng ngủ tầng trệt riêng biệt có phòng tắm riêng cho thuê tại dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-1br-separate-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "27 Mar 9:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1064,
+    "title": "Cho thuê tầng trên 3 phòng ngủ ở Dehiwala",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-3-bed-rooms-upstair-for-rent-for-rent-colombo",
+    "rawPrice": 120000,
+    "timestamp": "28 Mar 3:57 pm",
+    "gender": "Cả hai"
   }
 ]

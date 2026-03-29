@@ -1558,5 +1558,15 @@
     "rawPrice": 13000,
     "timestamp": "26 Mar 9:22 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 950,
+    "title": "Phòng trọ cho nữ sinh viên và phụ nữ đi làm tại Wijerama Nugegoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-female-student-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "28 Mar 9:46 am",
+    "gender": "Nữ"
   }
 ]

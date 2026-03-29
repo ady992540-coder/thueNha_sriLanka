@@ -1198,5 +1198,15 @@
     "rawPrice": 35000,
     "timestamp": "26 Mar 11:21 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 777,
+    "title": "Phòng cho thuê ở Mount Lavinia cho nữ",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mount-lavinia-ladies-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "28 Mar 9:13 am",
+    "gender": "Nữ"
   }
 ]
