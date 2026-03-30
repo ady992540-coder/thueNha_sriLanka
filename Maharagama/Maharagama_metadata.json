@@ -1568,5 +1568,35 @@
     "rawPrice": 12500,
     "timestamp": "28 Mar 9:46 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 962,
+    "title": "Phòng cho thuê ở Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-piliyandala-for-rent-colombo-196",
+    "rawPrice": 15000,
+    "timestamp": "14 Mar 12:59 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 967,
+    "title": "Phòng Đẹp Đã Trang Bị Nội Thất Cho Thuê tại Pamunuwa, Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-beautiful-room-for-rent-in-pamunuwa-maharagama-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "29 Mar 3:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 972,
+    "title": "Room for Rent in Mount Lavinia Ladies",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mount-lavinia-ladies-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "28 Mar 9:13 am",
+    "gender": "Cả hai"
   }
 ]

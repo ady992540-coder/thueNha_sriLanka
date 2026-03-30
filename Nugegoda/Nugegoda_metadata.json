@@ -2138,5 +2138,65 @@
     "rawPrice": 25000,
     "timestamp": "28 Mar 5:45 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1808,
+    "title": "Phòng Cho Thuê - Chỉ Dành Cho Nữ Nhân Viên Văn Phòng Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-executive-ladies-only-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "28 Mar 7:51 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1813,
+    "title": "Phòng cho thuê ở Katunayake",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "30 Mar 3:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1818,
+    "title": "Phòng cho nữ ở Nugegoda (Đường Jambugasmulla)",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/safe-and-convenient-room-for-2-girls-in-nugegoda-jambugasmulla-mawatha-for-rent-colombo",
+    "rawPrice": 36000,
+    "timestamp": "29 Mar 5:20 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1821,
+    "title": "Phòng Cho Thuê ở Nugegoda",
+    "price": "Rs 25,500 /tháng (~ 2.167.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1329",
+    "rawPrice": 25500,
+    "timestamp": "29 Mar 8:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1826,
+    "title": "Phòng cho thuê ở Nugegoda - Chùa",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-pagoda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "30 Mar 3:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1841,
+    "title": "Cho thuê phòng - Embuldeniya Nugegoda Chỉ Nam",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-embuldeniya-nugegoda-only-male-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "29 Mar 10:51 pm",
+    "gender": "Nam"
   }
 ]

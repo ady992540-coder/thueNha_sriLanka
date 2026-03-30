@@ -1728,5 +1728,85 @@
     "rawPrice": 120000,
     "timestamp": "28 Mar 3:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1077,
+    "title": "Phòng cho quý cô - Dehiwela",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-accomodation-dehiwela-for-rent-colombo-4",
+    "rawPrice": 14000,
+    "timestamp": "28 Mar 2:20 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1082,
+    "title": "Phòng trọ cho nữ sinh viên và phụ nữ đi làm tại Wijerama Nugegoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-female-student-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "28 Mar 9:46 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1087,
+    "title": "Phòng Cho Thuê Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-549",
+    "rawPrice": 15000,
+    "timestamp": "29 Mar 4:57 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1089,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/anex-for-rent-for-rent-colombo-846",
+    "rawPrice": 35000,
+    "timestamp": "29 Mar 12:31 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1094,
+    "title": "phòng riêng biệt có nội thất với phòng tắm riêng cho thuê tại đường Hill, Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-separate-room-with-attached-bathroom-rent-in-dehiwala-hill-st-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "29 Mar 11:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1109,
+    "title": "Phòng có sẵn nội thất cho thuê - Nedimala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nedimala-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "29 Mar 10:50 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1111,
+    "title": "Rooms for Rent in Nedimala, Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nedimala-dehiwala-for-rent-colombo-10",
+    "rawPrice": 40000,
+    "timestamp": "29 Mar 11:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1116,
+    "title": "Phòng cho thuê ở Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-piliyandala-for-rent-colombo-196",
+    "rawPrice": 15000,
+    "timestamp": "14 Mar 12:59 pm",
+    "gender": "Nữ"
   }
 ]
