@@ -1598,5 +1598,35 @@
     "rawPrice": 30000,
     "timestamp": "28 Mar 9:13 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 977,
+    "title": "Phòng mới xây cho thuê – Chỉ dành cho nữ - Navinna, Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-room-for-rent-ladies-only-navinna-maharagama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "30 Mar 10:55 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 982,
+    "title": "Annex for Rent in Kotikawatta",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-6",
+    "rawPrice": 50000,
+    "timestamp": "27 Mar 5:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 987,
+    "title": "Phòng Cho Thuê ở Katunayake",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "30 Mar 3:00 am",
+    "gender": "Cả hai"
   }
 ]

@@ -1808,5 +1808,45 @@
     "rawPrice": 15000,
     "timestamp": "14 Mar 12:59 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1129,
+    "title": "Cho thuê phòng chỉ dành cho nam Boralesgamuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-male-only-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "27 Mar 1:48 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1134,
+    "title": "Phòng cho quý cô - Dehiwala",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-ladies-dehiwala-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "30 Mar 3:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1139,
+    "title": "Phòng cho thuê tại Katunayake",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "30 Mar 3:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1144,
+    "title": "Cho thuê phòng ở Dehiwala",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "30 Mar 12:16 pm",
+    "gender": "Cả hai"
   }
 ]
