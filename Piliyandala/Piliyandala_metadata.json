@@ -1228,5 +1228,25 @@
     "rawPrice": 50000,
     "timestamp": "27 Mar 5:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 810,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-699",
+    "rawPrice": 60000,
+    "timestamp": "29 Mar 5:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 815,
+    "title": "Nhà trọ cho nam sinh ở Piliyandala",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-boding-in-piliyandala-for-rent-colombo-1",
+    "rawPrice": 12000,
+    "timestamp": "31 Mar 2:05 pm",
+    "gender": "Nam"
   }
 ]

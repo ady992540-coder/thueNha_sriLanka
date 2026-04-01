@@ -2218,5 +2218,55 @@
     "rawPrice": 30000,
     "timestamp": "28 Mar 9:13 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1868,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-699",
+    "rawPrice": 60000,
+    "timestamp": "29 Mar 5:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1873,
+    "title": "Phòng trọ cho nữ sinh viên và phụ nữ đi làm tại Wijerama Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-female-student-in-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "01 Apr 7:23 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1878,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-701",
+    "rawPrice": 35000,
+    "timestamp": "31 Mar 12:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1883,
+    "title": "Phòng cho thuê Nữ - Nugegoda",
+    "price": "Rs 13,500 /tháng (~ 1.147.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-nugegoda-for-rent-colombo-42",
+    "rawPrice": 13500,
+    "timestamp": "31 Mar 11:54 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1888,
+    "title": "Phòng cho thuê ở Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-piliyandala-for-rent-colombo-196",
+    "rawPrice": 15000,
+    "timestamp": "14 Mar 12:59 pm",
+    "gender": "Nữ"
   }
 ]

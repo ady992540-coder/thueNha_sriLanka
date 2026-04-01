@@ -918,5 +918,15 @@
     "rawPrice": 12500,
     "timestamp": "28 Mar 9:46 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 664,
+    "title": "Phòng cho thuê tại Katunayake",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "30 Mar 3:00 am",
+    "gender": "Cả hai"
   }
 ]
