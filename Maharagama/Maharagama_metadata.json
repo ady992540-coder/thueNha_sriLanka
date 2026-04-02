@@ -1638,5 +1638,35 @@
     "rawPrice": 18000,
     "timestamp": "31 Mar 10:34 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1002,
+    "title": "Phòng cho thuê Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-for-rent-colombo-368",
+    "rawPrice": 20000,
+    "timestamp": "01 Apr 7:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1005,
+    "title": "Phòng cho thuê dành cho nữ ở Maharagama",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaennu-llmyin-sndhaa-kaamryk-kuliytt-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "01 Apr 3:56 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1010,
+    "title": "Phòng cho thuê chỉ dành cho nam giới Boralesgamuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-male-only-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "31 Mar 8:39 pm",
+    "gender": "Nam"
   }
 ]

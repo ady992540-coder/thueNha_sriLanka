@@ -2268,5 +2268,15 @@
     "rawPrice": 15000,
     "timestamp": "14 Mar 12:59 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1908,
+    "title": "Cho thuê phòng cho thanh niên đi làm Nugegoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-rooms-for-employed-boys-nugegoda-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "31 Mar 10:44 pm",
+    "gender": "Nam"
   }
 ]

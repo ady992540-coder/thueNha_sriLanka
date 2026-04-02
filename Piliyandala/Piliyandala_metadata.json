@@ -1248,5 +1248,25 @@
     "rawPrice": 12000,
     "timestamp": "31 Mar 2:05 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 826,
+    "title": "Piliyandala Khu nhà riêng biệt, độc lập với chủ nhà cho thuê",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/piliyandala-annex-for-rent-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "31 Mar 4:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 831,
+    "title": "Phòng cho thuê Chỉ dành cho nam giới Boralesgamuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-male-only-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "31 Mar 8:39 pm",
+    "gender": "Nam"
   }
 ]

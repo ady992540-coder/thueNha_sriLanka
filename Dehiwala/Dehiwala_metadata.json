@@ -1868,5 +1868,15 @@
     "rawPrice": 35000,
     "timestamp": "31 Mar 9:11 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1174,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Kotikawatta",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-6",
+    "rawPrice": 50000,
+    "timestamp": "27 Mar 5:00 pm",
+    "gender": "Cả hai"
   }
 ]
