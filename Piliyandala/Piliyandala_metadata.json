@@ -1268,5 +1268,25 @@
     "rawPrice": 15000,
     "timestamp": "31 Mar 8:39 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 842,
+    "title": "Rooms for Rent Piliyandala Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-piliyandala-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Apr 11:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 847,
+    "title": "Phòng cho thuê Hadigama Suwarapola Piliyandala",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-hadigama-suwarapola-piliyandala-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "02 Apr 3:44 pm",
+    "gender": "Nữ"
   }
 ]

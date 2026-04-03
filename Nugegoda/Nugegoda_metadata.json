@@ -2278,5 +2278,55 @@
     "rawPrice": 11000,
     "timestamp": "31 Mar 10:44 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1922,
+    "title": "Phòng cho thuê tại Jambugasmulla Mawatha",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-jambugasmulla-mawatha-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "03 Apr 7:29 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1927,
+    "title": "Room for Rent in Papiliyana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-papiliyana-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "02 Apr 10:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1931,
+    "title": "Phòng Cho Thuê Tại Nugegoda",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1330",
+    "rawPrice": 28000,
+    "timestamp": "02 Apr 12:12 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1935,
+    "title": "Room (Only Girls) for Rent in Nugegoda, Delkanda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girls-for-rent-in-nugegoda-delkanda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "02 Apr 10:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1940,
+    "title": "Phòng cho thuê Piliyandala Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-piliyandala-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Apr 11:25 pm",
+    "gender": "Cả hai"
   }
 ]

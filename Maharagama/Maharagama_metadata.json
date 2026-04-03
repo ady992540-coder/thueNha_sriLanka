@@ -1668,5 +1668,25 @@
     "rawPrice": 15000,
     "timestamp": "31 Mar 8:39 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1023,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-699",
+    "rawPrice": 60000,
+    "timestamp": "29 Mar 5:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1028,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà được trang bị đầy đủ nội thất Bán Sang Trọng cho thuê tại Maharagama",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-semi-luxury-annexes-for-rent-at-maharagama-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "02 Apr 2:57 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -1878,5 +1878,25 @@
     "rawPrice": 50000,
     "timestamp": "27 Mar 5:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1187,
+    "title": "Phòng cho thuê ở Mount Lavinia cho nữ",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mount-lavinia-ladies-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "28 Mar 9:13 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1192,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kalubowila – Dehiwala (Đường Anderson)",
+    "price": "Rs 47,000 /tháng (~ 3.995.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kalubowila-dehiwala-anderson-road-for-rent-colombo",
+    "rawPrice": 47000,
+    "timestamp": "03 Apr 5:04 am",
+    "gender": "Cả hai"
   }
 ]

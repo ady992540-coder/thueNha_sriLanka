@@ -928,5 +928,15 @@
     "rawPrice": 16500,
     "timestamp": "30 Mar 3:00 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 673,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-699",
+    "rawPrice": 60000,
+    "timestamp": "29 Mar 5:59 pm",
+    "gender": "Cả hai"
   }
 ]
