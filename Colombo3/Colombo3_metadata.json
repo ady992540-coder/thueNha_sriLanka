@@ -938,5 +938,25 @@
     "rawPrice": 60000,
     "timestamp": "29 Mar 5:59 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 683,
+    "title": "Phòng cho thuê Piliyandala Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-piliyandala-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Apr 11:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 688,
+    "title": "Nhà trọ cho nam sinh ở Kollupitiya (Colombo 3)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-boys-in-kollupitiya-colombo-3-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "03 Apr 4:01 pm",
+    "gender": "Nam"
   }
 ]

@@ -1288,5 +1288,35 @@
     "rawPrice": 12000,
     "timestamp": "02 Apr 3:44 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 852,
+    "title": "Phòng cho thuê chung ở (Nam) Piliyandala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-boys-piliyandala-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "02 Apr 4:11 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 857,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kandy",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kandy-for-rent-kandy-311",
+    "rawPrice": 65000,
+    "timestamp": "01 Apr 3:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 862,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Ac cho thuê polgasowita",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-polgasowita-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "03 Apr 11:29 am",
+    "gender": "Nam"
   }
 ]

@@ -1688,5 +1688,45 @@
     "rawPrice": 32000,
     "timestamp": "02 Apr 2:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1033,
+    "title": "Annex for Rent in Nawinna",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nawinna-for-rent-colombo-5",
+    "rawPrice": 60000,
+    "timestamp": "02 Apr 7:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1038,
+    "title": "Phòng Chia Sẻ Cho Nữ Thuê tại Maharagama",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-sharing-room-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "04 Apr 4:51 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1043,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Maharagama",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-794",
+    "rawPrice": 55000,
+    "timestamp": "03 Apr 11:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1048,
+    "title": "Phòng Cho Thuê Piliyandala Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-piliyandala-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Apr 11:25 pm",
+    "gender": "Cả hai"
   }
 ]

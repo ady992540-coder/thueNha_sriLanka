@@ -1898,5 +1898,45 @@
     "rawPrice": 47000,
     "timestamp": "03 Apr 5:04 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1211,
+    "title": "Phòng có nội thất với phòng tắm riêng cho thuê ở Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-with-attached-bathroom-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "02 Apr 10:19 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1220,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-699",
+    "rawPrice": 60000,
+    "timestamp": "29 Mar 5:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1225,
+    "title": "Phòng cho thuê - Dehiwala (Chỉ dành cho nam)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-boys-only-for-rent-colombo-3",
+    "rawPrice": 15000,
+    "timestamp": "04 Apr 1:40 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1226,
+    "title": "Phòng cho Các Cô Gái Làm Việc - Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-working-girls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Apr 8:57 pm",
+    "gender": "Nữ"
   }
 ]
