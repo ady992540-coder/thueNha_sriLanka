@@ -1728,5 +1728,25 @@
     "rawPrice": 20000,
     "timestamp": "02 Apr 11:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1058,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê – Maharagama, Arawwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-maharagama-arawwala-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "03 Apr 11:15 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1063,
+    "title": "Cho Thuê Phòng ở Maharagama (Chỉ dành cho Nữ)",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-girls-only-for-rent-colombo-5",
+    "rawPrice": 10000,
+    "timestamp": "04 Apr 6:10 pm",
+    "gender": "Nữ"
   }
 ]

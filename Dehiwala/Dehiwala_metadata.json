@@ -1938,5 +1938,25 @@
     "rawPrice": 15000,
     "timestamp": "03 Apr 8:57 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1238,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kandy",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kandy-for-rent-kandy-311",
+    "rawPrice": 65000,
+    "timestamp": "01 Apr 3:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1243,
+    "title": "Cho thuê phòng Piliyandala Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-piliyandala-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Apr 11:25 pm",
+    "gender": "Cả hai"
   }
 ]
