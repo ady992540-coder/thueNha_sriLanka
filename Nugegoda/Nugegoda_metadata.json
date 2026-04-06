@@ -2338,5 +2338,45 @@
     "rawPrice": 25000,
     "timestamp": "03 Apr 12:53 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1960,
+    "title": "Annex for Rent in Kotikawatta",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-6",
+    "rawPrice": 50000,
+    "timestamp": "27 Mar 5:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1965,
+    "title": "Phòng cho thuê ở Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1333",
+    "rawPrice": 35000,
+    "timestamp": "05 Apr 1:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1970,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Ở Kandy",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kandy-for-rent-kandy-311",
+    "rawPrice": 65000,
+    "timestamp": "01 Apr 3:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1975,
+    "title": "Room for Rent in Katubedda University Boys",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katubedda-university-boys-only-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "05 Apr 10:26 am",
+    "gender": "Cả hai"
   }
 ]

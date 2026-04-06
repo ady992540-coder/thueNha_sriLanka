@@ -1958,5 +1958,15 @@
     "rawPrice": 20000,
     "timestamp": "02 Apr 11:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1257,
+    "title": "Phòng cho thuê ở Katubedda University Boys",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katubedda-university-boys-only-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "05 Apr 10:26 am",
+    "gender": "Nam"
   }
 ]
