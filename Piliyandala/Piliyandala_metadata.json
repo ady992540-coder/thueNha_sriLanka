@@ -1338,5 +1338,15 @@
     "rawPrice": 15000,
     "timestamp": "05 Apr 10:26 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 894,
+    "title": "Valuable Apartment House for Rent in Piliyandala",
+    "price": "Rs 200,000 /tháng (~ 17.000.000 ₫)",
+    "url": "https://ikman.lk/en/ad/valuable-apartment-house-for-rent-in-piliyandala-for-rent-colombo",
+    "rawPrice": 200000,
+    "timestamp": "06 Apr 9:18 am",
+    "gender": "Cả hai"
   }
 ]

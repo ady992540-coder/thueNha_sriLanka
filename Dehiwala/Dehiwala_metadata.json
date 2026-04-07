@@ -1968,5 +1968,25 @@
     "rawPrice": 15000,
     "timestamp": "05 Apr 10:26 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1270,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà 1 phòng ngủ ở tầng 1, tại Ngã tư Dehiwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-1st-floor-1-bedroom-annex-for-rent-in-dehiwala-junction-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "07 Apr 8:19 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1275,
+    "title": "Phòng được trang bị nội thất cho thuê Dehiwala",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-dehiwala-for-rent-colombo-2",
+    "rawPrice": 70000,
+    "timestamp": "06 Apr 10:47 am",
+    "gender": "Cả hai"
   }
 ]

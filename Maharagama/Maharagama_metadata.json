@@ -1758,5 +1758,25 @@
     "rawPrice": 65000,
     "timestamp": "01 Apr 3:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1086,
+    "title": "Phòng trọ cho phụ nữ đi làm và sinh viên nữ tại Wijerama Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-female-student-in-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "01 Apr 7:23 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1091,
+    "title": "Room for Rent in Nawina,Maharagama ( Girls Only)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nawinamaharagama-girls-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "06 Apr 12:04 pm",
+    "gender": "Cả hai"
   }
 ]
