@@ -1988,5 +1988,25 @@
     "rawPrice": 70000,
     "timestamp": "06 Apr 10:47 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1280,
+    "title": "Phòng trọ cho nữ sinh viên và phụ nữ đi làm tại Wijerama Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-female-student-in-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "01 Apr 7:23 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1285,
+    "title": "Phòng cho thuê Sinh viên Đại học Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-university-students-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "07 Apr 12:29 pm",
+    "gender": "Nữ"
   }
 ]

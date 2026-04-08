@@ -1778,5 +1778,35 @@
     "rawPrice": 20000,
     "timestamp": "06 Apr 12:04 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1103,
+    "title": "Phòng cho thuê ở Katubedda University Boys",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katubedda-university-boys-only-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "05 Apr 10:26 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1107,
+    "title": "Đường Maharagama Abuldeniya Khu nhà riêng biệt, độc lập với chủ nhà cho thuê cho một người.",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-abuldeniya-road-tni-pudglyeku-sdhaa-aeneks-ekk-kuliytt-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "07 Apr 12:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1114,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Maharagama",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-aeneks-ekk-kuliytt-for-rent-colombo",
+    "rawPrice": 90000,
+    "timestamp": "07 Apr 9:47 pm",
+    "gender": "Cả hai"
   }
 ]
