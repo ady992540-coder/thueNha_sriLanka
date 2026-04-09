@@ -2008,5 +2008,25 @@
     "rawPrice": 30000,
     "timestamp": "07 Apr 12:29 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1295,
+    "title": "Phòng trọ có nội thất ở đường Kawdana, Dehiwala – Chỉ dành cho nam",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-boarding-in-dehiwala-kawdana-road-boys-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "08 Apr 5:29 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1300,
+    "title": "Rooms for Rent In Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-dehiwala-for-rent-colombo-168",
+    "rawPrice": 30000,
+    "timestamp": "08 Apr 9:50 am",
+    "gender": "Cả hai"
   }
 ]

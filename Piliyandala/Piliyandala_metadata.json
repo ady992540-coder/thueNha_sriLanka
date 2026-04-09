@@ -1348,5 +1348,15 @@
     "rawPrice": 200000,
     "timestamp": "06 Apr 9:18 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 908,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Cho Thuê Gần Piliyandala",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-near-piliyandala-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "08 Apr 3:01 pm",
+    "gender": "Cả hai"
   }
 ]
