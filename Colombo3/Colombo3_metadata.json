@@ -1008,5 +1008,15 @@
     "rawPrice": 17000,
     "timestamp": "05 Apr 1:27 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 736,
+    "title": "Cho thuê phòng ở Pannipitiya (Chỉ dành cho nữ)",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pannipitiya-girls-only-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "10 Apr 1:56 pm",
+    "gender": "Nữ"
   }
 ]
