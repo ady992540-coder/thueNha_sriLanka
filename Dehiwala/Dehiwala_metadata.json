@@ -2048,5 +2048,15 @@
     "rawPrice": 45000,
     "timestamp": "10 Apr 7:01 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1320,
+    "title": "Room for Rent in Pannipitiya (Girls only)",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pannipitiya-girls-only-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "10 Apr 1:56 pm",
+    "gender": "Cả hai"
   }
 ]

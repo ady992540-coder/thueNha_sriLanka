@@ -1848,5 +1848,15 @@
     "rawPrice": 12500,
     "timestamp": "10 Apr 1:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1160,
+    "title": "Phòng cho hai quý cô làm việc ở Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-two-working-ladies-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "11 Apr 3:02 pm",
+    "gender": "Nữ"
   }
 ]

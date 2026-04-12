@@ -2438,5 +2438,25 @@
     "rawPrice": 30000,
     "timestamp": "08 Apr 11:18 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2040,
+    "title": "Phòng cho thuê ở Nugegoda (nữ)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girls-only-for-rent-colombo-14",
+    "rawPrice": 15000,
+    "timestamp": "11 Apr 9:00 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2042,
+    "title": "Phòng cho thuê ở Pannipitiya (Chỉ dành cho nữ)",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pannipitiya-girls-only-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "10 Apr 1:56 pm",
+    "gender": "Nữ"
   }
 ]
