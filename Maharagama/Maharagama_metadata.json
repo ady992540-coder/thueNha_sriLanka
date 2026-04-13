@@ -1858,5 +1858,15 @@
     "rawPrice": 20000,
     "timestamp": "11 Apr 3:02 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1174,
+    "title": "Phòng Cho Thuê Nữ Nhân Viên Văn Phòng tại Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-female-professional-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "12 Apr 1:52 pm",
+    "gender": "Nữ"
   }
 ]
