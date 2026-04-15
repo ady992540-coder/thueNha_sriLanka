@@ -1868,5 +1868,15 @@
     "rawPrice": 30000,
     "timestamp": "12 Apr 1:52 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1185,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Giá Trị Cho Thuê tại Kossinna Ganemulle Kadawatha",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/valuable-annex-for-rent-in-kossinna-ganemulle-kadawatha-for-rent-gampaha",
+    "rawPrice": 18500,
+    "timestamp": "13 Apr 8:48 pm",
+    "gender": "Cả hai"
   }
 ]
