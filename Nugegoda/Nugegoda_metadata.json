@@ -2468,5 +2468,15 @@
     "rawPrice": 18500,
     "timestamp": "13 Apr 8:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2076,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Boralesgamuwa (Gần Bellanwila)",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-boralesgamuwa-near-bellanwila-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "15 Apr 5:18 pm",
+    "gender": "Cả hai"
   }
 ]

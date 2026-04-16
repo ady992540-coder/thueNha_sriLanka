@@ -1018,5 +1018,25 @@
     "rawPrice": 12500,
     "timestamp": "10 Apr 1:56 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 744,
+    "title": "Valuable Annex for Rent in Kossinna Ganemulle Kadawatha",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/valuable-annex-for-rent-in-kossinna-ganemulle-kadawatha-for-rent-gampaha",
+    "rawPrice": 18500,
+    "timestamp": "13 Apr 8:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 754,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Boralesgamuwa (Gần Bellanwila)",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-boralesgamuwa-near-bellanwila-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "15 Apr 5:18 pm",
+    "gender": "Cả hai"
   }
 ]
