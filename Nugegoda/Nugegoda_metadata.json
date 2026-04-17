@@ -2478,5 +2478,25 @@
     "rawPrice": 80000,
     "timestamp": "15 Apr 5:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2094,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 13,500 /tháng (~ 1.147.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1334",
+    "rawPrice": 13500,
+    "timestamp": "16 Apr 9:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2099,
+    "title": "Phòng cho thuê ở Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "16 Apr 10:19 pm",
+    "gender": "Cả hai"
   }
 ]

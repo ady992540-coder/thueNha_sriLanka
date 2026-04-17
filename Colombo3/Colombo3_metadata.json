@@ -1038,5 +1038,25 @@
     "rawPrice": 80000,
     "timestamp": "15 Apr 5:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 766,
+    "title": "Phòng cho thuê ở Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "16 Apr 10:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 769,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ja-Ela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ja-ela-for-rent-gampaha-89",
+    "rawPrice": 35000,
+    "timestamp": "08 Apr 7:53 pm",
+    "gender": "Cả hai"
   }
 ]

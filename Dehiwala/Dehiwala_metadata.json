@@ -2108,5 +2108,35 @@
     "rawPrice": 18500,
     "timestamp": "13 Apr 8:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1382,
+    "title": "Phòng cho quý cô - Cho thuê tại Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-ladies-dehiwala-rent-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "16 Apr 8:01 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1387,
+    "title": "Phòng cho thuê ở Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "16 Apr 10:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1390,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ja-Ela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ja-ela-for-rent-gampaha-89",
+    "rawPrice": 35000,
+    "timestamp": "08 Apr 7:53 pm",
+    "gender": "Cả hai"
   }
 ]
