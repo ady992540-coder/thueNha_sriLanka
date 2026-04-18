@@ -2498,5 +2498,65 @@
     "rawPrice": 75000,
     "timestamp": "16 Apr 10:19 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2109,
+    "title": "Annex for Rent Athulkotte",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-athulkotte-for-rent-colombo-2",
+    "rawPrice": 30000,
+    "timestamp": "15 Apr 1:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2114,
+    "title": "Cho thuê phòng ở Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-colombo-1",
+    "rawPrice": 9000,
+    "timestamp": "29 Mar 10:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2119,
+    "title": "Boarding Rooms for Girls - Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-for-girls-for-rent-colombo-4",
+    "rawPrice": 15000,
+    "timestamp": "17 Apr 3:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2121,
+    "title": "කාමර කුලියට දීම සඳහා Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamr-kuliytt-diim-sndhaa-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "17 Apr 9:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2125,
+    "title": "Fully Furnished Annex for Rent Ladies – Pitipana, Homagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-ladies-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "17 Apr 12:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2142,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Ja-Ela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ja-ela-for-rent-gampaha-89",
+    "rawPrice": 35000,
+    "timestamp": "08 Apr 7:53 pm",
+    "gender": "Cả hai"
   }
 ]

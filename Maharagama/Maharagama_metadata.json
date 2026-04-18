@@ -1918,5 +1918,35 @@
     "rawPrice": 35000,
     "timestamp": "08 Apr 7:53 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1240,
+    "title": "Room for Rent in Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-colombo-1",
+    "rawPrice": 9000,
+    "timestamp": "29 Mar 10:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1245,
+    "title": "Phòng cho thuê Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-mount-lavinia-for-rent-colombo-322",
+    "rawPrice": 75000,
+    "timestamp": "17 Apr 5:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1249,
+    "title": "Annex for Rent Athulkotte",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-athulkotte-for-rent-colombo-2",
+    "rawPrice": 30000,
+    "timestamp": "15 Apr 1:47 pm",
+    "gender": "Cả hai"
   }
 ]
