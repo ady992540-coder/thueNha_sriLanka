@@ -1438,5 +1438,35 @@
     "rawPrice": 30000,
     "timestamp": "15 Apr 1:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 997,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà đầy đủ tiện nghi cho thuê dành cho nữ – Pitipana, Homagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-ladies-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "18 Apr 8:53 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1003,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Cho Thuê Thị Trấn Piliyandala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-piliyandala-town-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "18 Apr 9:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1008,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ja-Ela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ja-ela-for-rent-gampaha-89",
+    "rawPrice": 35000,
+    "timestamp": "08 Apr 7:53 pm",
+    "gender": "Cả hai"
   }
 ]

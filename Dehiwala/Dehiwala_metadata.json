@@ -2198,5 +2198,35 @@
     "rawPrice": 75000,
     "timestamp": "17 Apr 5:42 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1442,
+    "title": "Fully Furnished Annex for Rent Ladies – Pitipana, Homagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-ladies-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "18 Apr 8:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1448,
+    "title": "Phòng cho thuê ở Dehiwala - (Chỉ dành cho nam)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-dehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "18 Apr 1:11 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1453,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê - Dehiwala",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-dehiwala-for-rent-colombo-362",
+    "rawPrice": 90000,
+    "timestamp": "18 Apr 10:05 am",
+    "gender": "Cả hai"
   }
 ]
