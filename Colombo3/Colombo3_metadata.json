@@ -1098,5 +1098,15 @@
     "rawPrice": 9000,
     "timestamp": "29 Mar 10:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 804,
+    "title": "Phòng Sang Trọng Hiện Đại Cho Thuê ở Maharagama – Gần Bệnh Viện Apeksha",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-modern-rooms-for-rent-in-maharagama-near-apeksha-hospital-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "19 Apr 9:09 pm",
+    "gender": "Cả hai"
   }
 ]

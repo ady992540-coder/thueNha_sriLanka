@@ -2228,5 +2228,45 @@
     "rawPrice": 90000,
     "timestamp": "18 Apr 10:05 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1468,
+    "title": "Phòng Hiện Đại Sang Trọng Cho Thuê ở Maharagama – Gần Bệnh Viện Apeksha",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-modern-rooms-for-rent-in-maharagama-near-apeksha-hospital-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "19 Apr 9:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1473,
+    "title": "Furnished 1st Floor 1 Bedroom Portion For Rent In Dehiwala Junction",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-1st-floor-1-bedroom-portion-for-rent-in-dehiwala-junction-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "20 Apr 8:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1478,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1176",
+    "rawPrice": 35000,
+    "timestamp": "19 Apr 10:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1483,
+    "title": "Sharing Rooms for Girls and Boys in Dehiwala",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-girls-and-boys-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 13000,
+    "timestamp": "19 Apr 11:32 am",
+    "gender": "Cả hai"
   }
 ]

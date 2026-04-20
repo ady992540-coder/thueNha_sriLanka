@@ -2568,5 +2568,35 @@
     "rawPrice": 25500,
     "timestamp": "18 Apr 11:30 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2166,
+    "title": "Phòng Hiện Đại Sang Trọng Cho Thuê ở Maharagama – Gần Bệnh Viện Apeksha",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-modern-rooms-for-rent-in-maharagama-near-apeksha-hospital-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "19 Apr 9:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2171,
+    "title": "Phòng cho thuê cho nữ nhân viên văn phòng Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-nugegoda-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "19 Apr 7:15 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2176,
+    "title": "Cho thuê phòng Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-mount-lavinia-for-rent-colombo-322",
+    "rawPrice": 75000,
+    "timestamp": "17 Apr 5:42 pm",
+    "gender": "Cả hai"
   }
 ]
