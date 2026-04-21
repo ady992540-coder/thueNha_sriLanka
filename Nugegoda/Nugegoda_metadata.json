@@ -2598,5 +2598,45 @@
     "rawPrice": 75000,
     "timestamp": "17 Apr 5:42 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2181,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1335",
+    "rawPrice": 28000,
+    "timestamp": "20 Apr 9:33 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2185,
+    "title": "Phòng cho thuê Nawala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nawala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "20 Apr 11:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2189,
+    "title": "Annex for Rent in Ratmalana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ratmalana-for-rent-colombo-280",
+    "rawPrice": 30000,
+    "timestamp": "20 Apr 2:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2195,
+    "title": "Cho thuê phòng Kotte",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-room-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "02 Apr 4:45 pm",
+    "gender": "Nữ"
   }
 ]

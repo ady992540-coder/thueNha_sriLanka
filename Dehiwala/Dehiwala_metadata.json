@@ -2268,5 +2268,65 @@
     "rawPrice": 13000,
     "timestamp": "19 Apr 11:32 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1488,
+    "title": "Rooms for Rent in Dehiwala (Girls)",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-dehiwala-girls-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "19 Apr 9:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1491,
+    "title": "(NR543) Annex for Rent in Dehiwala",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nr543-annex-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 90000,
+    "timestamp": "20 Apr 9:27 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1496,
+    "title": "Phòng Cho Thuê Gái Làm Việc - Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-dehiwala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "20 Apr 9:33 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1499,
+    "title": "Phòng Cho Thuê Trên Lầu 3 Phòng Ngủ Ở Dehiwala",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-3-bed-upstair-rooms-for-rent-for-rent-colombo",
+    "rawPrice": 120000,
+    "timestamp": "20 Apr 9:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1504,
+    "title": "Phòng Cho Thuê Nawala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nawala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "20 Apr 11:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1514,
+    "title": "Cho thuê phòng Kotte",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-room-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "02 Apr 4:45 pm",
+    "gender": "Nữ"
   }
 ]

@@ -1478,5 +1478,35 @@
     "rawPrice": 70000,
     "timestamp": "19 Apr 9:09 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1030,
+    "title": "Phòng Cho Thuê Nawala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nawala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "20 Apr 11:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1034,
+    "title": "Cho thuê phòng Kotte",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-room-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "02 Apr 4:45 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1039,
+    "title": "Annex for Rent in Ratmalana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ratmalana-for-rent-colombo-280",
+    "rawPrice": 30000,
+    "timestamp": "20 Apr 2:58 pm",
+    "gender": "Cả hai"
   }
 ]
