@@ -1138,5 +1138,25 @@
     "rawPrice": 35000,
     "timestamp": "20 Apr 11:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 834,
+    "title": "Annex for Rent in Mount Lavinia",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mount-lavinia-for-rent-colombo-381",
+    "rawPrice": 35000,
+    "timestamp": "21 Apr 3:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 839,
+    "title": "Phòng đầy đủ tiện nghi với phòng tắm riêng – (dành cho bác sĩ) (Ragama)",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-with-attached-bathroom-ideal-for-doctors-ragama-for-rent-gampaha",
+    "rawPrice": 23000,
+    "timestamp": "20 Apr 3:13 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -1508,5 +1508,35 @@
     "rawPrice": 30000,
     "timestamp": "20 Apr 2:58 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1052,
+    "title": "Rooms for Rent ( Boys ) Piliyandala",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-piliyandala-for-rent-colombo",
+    "rawPrice": 17500,
+    "timestamp": "21 Apr 7:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1057,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà đầy đủ nội thất cho thuê tại Thị trấn Piliyandala",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-in-piliyandala-town-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "21 Apr 10:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1062,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Mount Lavinia",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mount-lavinia-for-rent-colombo-381",
+    "rawPrice": 35000,
+    "timestamp": "21 Apr 3:02 pm",
+    "gender": "Cả hai"
   }
 ]

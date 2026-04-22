@@ -2638,5 +2638,55 @@
     "rawPrice": 55000,
     "timestamp": "02 Apr 4:45 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2212,
+    "title": "Cho thuê phòng ở Nugegoda | Delkanda",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-delkanda-for-rent-colombo-16",
+    "rawPrice": 13000,
+    "timestamp": "21 Apr 2:07 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2217,
+    "title": "Room (Boy Only) Rent in Nugegoda, Wijerama (Near Japura Campus)",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-boy-only-rent-in-nugegoda-wijerama-near-japura-campus-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "21 Apr 11:27 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2220,
+    "title": "Phòng ở ghép tại ngã tư Nugegoda",
+    "price": "Rs 14,500 /tháng (~ 1.232.500 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-room-in-nugegoda-junction-for-rent-colombo",
+    "rawPrice": 14500,
+    "timestamp": "21 Apr 11:08 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2224,
+    "title": "Annex for Rent in Mount Lavinia",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mount-lavinia-for-rent-colombo-381",
+    "rawPrice": 35000,
+    "timestamp": "21 Apr 3:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2229,
+    "title": "Phòng đầy đủ tiện nghi có phòng tắm riêng – (cho Bác sĩ) (Ragama)",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-with-attached-bathroom-ideal-for-doctors-ragama-for-rent-gampaha",
+    "rawPrice": 23000,
+    "timestamp": "20 Apr 3:13 pm",
+    "gender": "Cả hai"
   }
 ]

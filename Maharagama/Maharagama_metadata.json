@@ -2048,5 +2048,45 @@
     "rawPrice": 55000,
     "timestamp": "02 Apr 4:45 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1345,
+    "title": "Sharing Boarding Rooms for Girls Maharagama",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-boarding-rooms-for-girls-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "21 Apr 2:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1350,
+    "title": "Furnished room for Rent",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-for-rent-colombo-45",
+    "rawPrice": 35000,
+    "timestamp": "21 Apr 1:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1351,
+    "title": "Newly build Annex Bed Space for girls— Nawinna, Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-build-annex-bed-space-for-girls-nawinna-maharagama-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "21 Apr 1:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1356,
+    "title": "Annex for Rent in Mount Lavinia",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mount-lavinia-for-rent-colombo-381",
+    "rawPrice": 35000,
+    "timestamp": "21 Apr 3:02 pm",
+    "gender": "Cả hai"
   }
 ]
