@@ -2088,5 +2088,75 @@
     "rawPrice": 35000,
     "timestamp": "21 Apr 3:02 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1366,
+    "title": "Phòng cho thuê ở Navinn, Maharagama (Chỉ dành cho nữ)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-navinna-maharagama-girls-only-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "22 Apr 8:17 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1371,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho 03 bạn nữ, Đường Highleval, Nawinna, Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-03-girls-highleval-road-nawinna-maharagama-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "23 Apr 8:06 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1375,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà đầy đủ tiện nghi ở Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-angsmpuurnn-aeneksiyk-kuliytt-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Apr 3:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1380,
+    "title": "Phòng cho thuê Nữ - Maharagama",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-for-rent-colombo-521",
+    "rawPrice": 8500,
+    "timestamp": "22 Apr 3:50 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1385,
+    "title": "Phòng cho thuê ở Maharagama",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-970",
+    "rawPrice": 21000,
+    "timestamp": "22 Apr 12:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1390,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Rathmalana",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-137",
+    "rawPrice": 27000,
+    "timestamp": "13 Apr 2:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1393,
+    "title": "Phòng cho thuê ở Boralesgamuwa",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralesgamuwa-for-rent-colombo-61",
+    "rawPrice": 26000,
+    "timestamp": "30 Mar 1:48 pm",
+    "gender": "Cả hai"
   }
 ]

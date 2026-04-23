@@ -1538,5 +1538,45 @@
     "rawPrice": 35000,
     "timestamp": "21 Apr 3:02 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1074,
+    "title": "Phòng Cho Thuê ở Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralesgamuwa-for-rent-colombo-60",
+    "rawPrice": 20000,
+    "timestamp": "18 Mar 11:42 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1078,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Rathmalana",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-138",
+    "rawPrice": 35000,
+    "timestamp": "19 Apr 8:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1083,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà 2 phòng ngủ cho thuê tại Colombo 6 – Có máy lạnh, Bãi đậu xe có mái che",
+    "price": "Rs 135,000 /tháng (~ 11.475.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-in-colombo-6-with-a-c-covered-parking-for-rent-colombo",
+    "rawPrice": 135000,
+    "timestamp": "19 Apr 10:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1093,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Rathmalana",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-137",
+    "rawPrice": 27000,
+    "timestamp": "13 Apr 2:54 am",
+    "gender": "Cả hai"
   }
 ]

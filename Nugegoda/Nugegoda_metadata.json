@@ -2688,5 +2688,85 @@
     "rawPrice": 23000,
     "timestamp": "20 Apr 3:13 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2244,
+    "title": "Room for Rent in Wijerama Nugegoda ( Male )",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-wijerama-nugegoda-male-for-rent-colombo",
+    "rawPrice": 27000,
+    "timestamp": "22 Apr 11:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2249,
+    "title": "Phòng cho thuê Delkanda Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-delkanda-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "22 Apr 9:36 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2253,
+    "title": "Room for Rent Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-a-house-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "22 Apr 11:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2254,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà nhỏ ở Wijerama cho thuê, Chỉ dành cho cặp đôi đang đi làm",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/small-ground-floor-annex-for-rent-in-wijerama-working-couples-only-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "22 Apr 9:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2264,
+    "title": "Shearing Room in Nugegoda Junction",
+    "price": "Rs 14,500 /tháng (~ 1.232.500 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-room-in-nugegoda-junction-for-rent-colombo-1",
+    "rawPrice": 14500,
+    "timestamp": "22 Apr 9:36 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2274,
+    "title": "Phòng cho thuê tại Navinn, Maharagama (Chỉ dành cho nữ)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-navinna-maharagama-girls-only-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "22 Apr 8:17 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2279,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Rathmalana",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-138",
+    "rawPrice": 35000,
+    "timestamp": "19 Apr 8:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2284,
+    "title": "Rooms for Rent in Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralesgamuwa-for-rent-colombo-60",
+    "rawPrice": 20000,
+    "timestamp": "18 Mar 11:42 am",
+    "gender": "Cả hai"
   }
 ]
