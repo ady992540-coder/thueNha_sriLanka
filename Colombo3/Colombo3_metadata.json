@@ -1198,5 +1198,25 @@
     "rawPrice": 26000,
     "timestamp": "30 Mar 1:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 871,
+    "title": "Furnished Annex for Rent in Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-ratmalana-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Apr 12:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 876,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà 2 phòng ngủ cho thuê tại Colombo 6 – Có máy lạnh, Bãi đậu xe có mái che",
+    "price": "Rs 135,000 /tháng (~ 11.475.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-in-colombo-6-with-a-c-covered-parking-for-rent-colombo",
+    "rawPrice": 135000,
+    "timestamp": "19 Apr 10:38 pm",
+    "gender": "Cả hai"
   }
 ]

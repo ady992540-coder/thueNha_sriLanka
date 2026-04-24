@@ -1578,5 +1578,35 @@
     "rawPrice": 27000,
     "timestamp": "13 Apr 2:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1103,
+    "title": "Phòng cho thuê tại Navinn, Maharagama (Chỉ dành cho nữ)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-navinna-maharagama-girls-only-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "22 Apr 8:17 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1108,
+    "title": "Furnished Annex for Rent in Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-ratmalana-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Apr 12:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1113,
+    "title": "Phòng đầy đủ tiện nghi có phòng tắm riêng – (dành cho bác sĩ) (Ragama)",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-with-attached-bathroom-ideal-for-doctors-ragama-for-rent-gampaha",
+    "rawPrice": 23000,
+    "timestamp": "20 Apr 3:13 pm",
+    "gender": "Cả hai"
   }
 ]

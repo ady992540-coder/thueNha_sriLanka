@@ -2418,5 +2418,55 @@
     "rawPrice": 26000,
     "timestamp": "30 Mar 1:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1578,
+    "title": "Cho Thuê Khu nhà riêng biệt, độc lập với chủ nhà Dehiwala",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/semi-furnished-mordern-annex-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "23 Apr 4:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1582,
+    "title": "Phòng cho thuê ở Nedimala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nedimala-for-rent-colombo-16",
+    "rawPrice": 35000,
+    "timestamp": "23 Apr 1:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1586,
+    "title": "Single Room for Rent in Dehiwala - Gents",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-dehiwala-gents-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "23 Apr 11:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1591,
+    "title": "Phòng cho thuê ở Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralesgamuwa-for-rent-colombo-60",
+    "rawPrice": 20000,
+    "timestamp": "18 Mar 11:42 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1595,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-ratmalana-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Apr 12:58 pm",
+    "gender": "Cả hai"
   }
 ]

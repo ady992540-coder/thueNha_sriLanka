@@ -2158,5 +2158,45 @@
     "rawPrice": 26000,
     "timestamp": "30 Mar 1:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1408,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Rathmalana",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-138",
+    "rawPrice": 35000,
+    "timestamp": "19 Apr 8:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1413,
+    "title": "Single Room for Office Working Girls – Maharagama",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-office-working-girls-maharagama-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "23 Apr 11:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1418,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-ratmalana-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Apr 12:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1423,
+    "title": "2 Bedroom Annex for Rent in Colombo 6 – With A/C, Covered Parking",
+    "price": "Rs 135,000 /tháng (~ 11.475.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-in-colombo-6-with-a-c-covered-parking-for-rent-colombo",
+    "rawPrice": 135000,
+    "timestamp": "19 Apr 10:38 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -2768,5 +2768,45 @@
     "rawPrice": 20000,
     "timestamp": "18 Mar 11:42 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2294,
+    "title": "Furnished Annex for Rent in Ratmalana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-ratmalana-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Apr 12:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2299,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1336",
+    "rawPrice": 30000,
+    "timestamp": "24 Apr 8:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2304,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Rathmalana",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-137",
+    "rawPrice": 27000,
+    "timestamp": "13 Apr 2:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2307,
+    "title": "Rooms for Rent in Boralesgamuwa",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralesgamuwa-for-rent-colombo-61",
+    "rawPrice": 26000,
+    "timestamp": "30 Mar 1:48 pm",
+    "gender": "Cả hai"
   }
 ]
