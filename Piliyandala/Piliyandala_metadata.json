@@ -1608,5 +1608,35 @@
     "rawPrice": 23000,
     "timestamp": "20 Apr 3:13 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1123,
+    "title": "Phòng cho thuê ở Boralesgamuwa",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-boralesgamuwa-for-rent-colombo-61",
+    "rawPrice": 26000,
+    "timestamp": "30 Mar 1:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1128,
+    "title": "Phòng Đơn Cho Nữ Nhân Viên Văn Phòng – Maharagama",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-office-working-girls-maharagama-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "24 Apr 11:21 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1133,
+    "title": "Phòng cho thuê Piliyandala Miriswatta",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-miriswatta-for-rent-colombo-1",
+    "rawPrice": 14000,
+    "timestamp": "24 Apr 5:07 pm",
+    "gender": "Nữ"
   }
 ]

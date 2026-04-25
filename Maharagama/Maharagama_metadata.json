@@ -2198,5 +2198,15 @@
     "rawPrice": 135000,
     "timestamp": "19 Apr 10:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1443,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Cho Thuê Maharagama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-maharagama-for-rent-colombo-265",
+    "rawPrice": 45000,
+    "timestamp": "24 Apr 1:53 pm",
+    "gender": "Cả hai"
   }
 ]

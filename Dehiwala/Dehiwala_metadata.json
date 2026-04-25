@@ -2468,5 +2468,45 @@
     "rawPrice": 40000,
     "timestamp": "23 Apr 12:58 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1606,
+    "title": "Cho thuê phòng ở Dehiwala chỉ dành cho nữ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-dehiwala-only-for-girls-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "24 Apr 8:14 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1611,
+    "title": "Phòng cho Nữ thuê tại Dehiwala",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-room-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "24 Apr 7:33 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1614,
+    "title": "Phòng đơn cho nữ nhân viên văn phòng – Maharagama",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-office-working-girls-maharagama-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "24 Apr 11:21 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1619,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà 2 phòng ngủ cho thuê tại Colombo 6 – Có máy lạnh, Bãi đậu xe có mái che",
+    "price": "Rs 135,000 /tháng (~ 11.475.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-in-colombo-6-with-a-c-covered-parking-for-rent-colombo",
+    "rawPrice": 135000,
+    "timestamp": "19 Apr 10:38 pm",
+    "gender": "Cả hai"
   }
 ]
