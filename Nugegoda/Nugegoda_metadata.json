@@ -2858,5 +2858,25 @@
     "rawPrice": 135000,
     "timestamp": "19 Apr 10:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2389,
+    "title": "Phòng cho thuê cho nữ nhân viên văn phòng Nugegoda",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-working-lady-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "26 Apr 8:21 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2394,
+    "title": "Nugegoda - căn hộ Studio một phòng ngủ đầy đủ nội thất cho thuê • TPM2024SUS",
+    "price": "Rs 130,000 /tháng (~ 11.050.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-one-bedroom-furnished-studio-apt-for-rent-tpm2024sus-for-rent-colombo",
+    "rawPrice": 130000,
+    "timestamp": "25 Apr 12:49 pm",
+    "gender": "Cả hai"
   }
 ]

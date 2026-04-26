@@ -2208,5 +2208,25 @@
     "rawPrice": 45000,
     "timestamp": "24 Apr 1:53 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1458,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Maharagama",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-798",
+    "rawPrice": 55000,
+    "timestamp": "25 Apr 8:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1463,
+    "title": "Phòng cho nữ ở Pelawatta",
+    "price": "Rs 9,500 /tháng (~ 807.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-at-pelawatta-for-rent-colombo",
+    "rawPrice": 9500,
+    "timestamp": "25 Apr 7:20 am",
+    "gender": "Nữ"
   }
 ]
