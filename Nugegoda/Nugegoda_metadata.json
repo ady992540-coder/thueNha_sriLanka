@@ -2878,5 +2878,35 @@
     "rawPrice": 130000,
     "timestamp": "25 Apr 12:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2399,
+    "title": "Phòng Đầy Đủ Tiện Nghi Cho Thuê – Wijerama Nugegoda (Chỉ Dành Cho Nữ)",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-wijerama-nugegoda-ladies-only-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "26 Apr 7:37 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2404,
+    "title": "Phòng cho thuê Pelawatta - Nữ",
+    "price": "Rs 9,500 /tháng (~ 807.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-pelawatta-girls-for-rent-colombo",
+    "rawPrice": 9500,
+    "timestamp": "26 Apr 11:02 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2409,
+    "title": "Phòng cho thuê ở Maharagama cho nữ",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-girls-for-rent-colombo-1",
+    "rawPrice": 29000,
+    "timestamp": "26 Apr 10:35 am",
+    "gender": "Nữ"
   }
 ]

@@ -1248,5 +1248,25 @@
     "rawPrice": 9500,
     "timestamp": "25 Apr 7:20 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 910,
+    "title": "Phòng cho thuê ở Maharagama (chỉ dành cho nữ)",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-girls-for-rent-colombo-1",
+    "rawPrice": 29000,
+    "timestamp": "26 Apr 10:35 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 915,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho nam sinh ở Kollupitiya (colombo 3)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-in-kollupitiya-colombo-3-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "26 Apr 9:34 pm",
+    "gender": "Nam"
   }
 ]

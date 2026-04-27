@@ -2538,5 +2538,35 @@
     "rawPrice": 9500,
     "timestamp": "25 Apr 7:20 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1655,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Dehiwala (Mã số 5367B)",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-file-no-5367b-for-rent-colombo-1",
+    "rawPrice": 90000,
+    "timestamp": "26 Apr 10:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1660,
+    "title": "Room for Rent in Nadimala",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nadimala-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "26 Apr 11:24 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1665,
+    "title": "Phòng Cho Thuê Pelawatta - Nữ",
+    "price": "Rs 9,500 /tháng (~ 807.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-pelawatta-girls-for-rent-colombo",
+    "rawPrice": 9500,
+    "timestamp": "26 Apr 11:02 pm",
+    "gender": "Nữ"
   }
 ]

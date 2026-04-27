@@ -2228,5 +2228,25 @@
     "rawPrice": 9500,
     "timestamp": "25 Apr 7:20 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1473,
+    "title": "Phòng cho thuê Pelawatta - Nữ",
+    "price": "Rs 9,500 /tháng (~ 807.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-pelawatta-girls-for-rent-colombo",
+    "rawPrice": 9500,
+    "timestamp": "26 Apr 11:02 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1478,
+    "title": "Phòng cho thuê ở Maharagama (Nữ)",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-girls-for-rent-colombo-1",
+    "rawPrice": 29000,
+    "timestamp": "26 Apr 10:35 am",
+    "gender": "Nữ"
   }
 ]
