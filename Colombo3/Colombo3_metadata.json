@@ -1268,5 +1268,25 @@
     "rawPrice": 13000,
     "timestamp": "26 Apr 9:34 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 920,
+    "title": "Shared Boarding for Boys in Kollupitiya (Colombo 3)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shared-boarding-for-boys-in-kollupitiya-colombo-3-for-rent-colombo-3",
+    "rawPrice": 13000,
+    "timestamp": "28 Apr 6:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 925,
+    "title": "Room for Rent Pelawatta - Girls",
+    "price": "Rs 9,500 /tháng (~ 807.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-pelawatta-girls-for-rent-colombo",
+    "rawPrice": 9500,
+    "timestamp": "26 Apr 11:02 pm",
+    "gender": "Cả hai"
   }
 ]

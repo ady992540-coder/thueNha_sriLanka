@@ -2568,5 +2568,55 @@
     "rawPrice": 9500,
     "timestamp": "26 Apr 11:02 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1680,
+    "title": "Room for Rent in Maharagama Girls",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-girls-for-rent-colombo-1",
+    "rawPrice": 29000,
+    "timestamp": "26 Apr 10:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1685,
+    "title": "(NR543) Annex for Rent in Dehiwala",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nr543-annex-for-rent-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 90000,
+    "timestamp": "28 Apr 8:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1690,
+    "title": "Room for Rent in Dehieala - only Ladies",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehieala-only-ladies-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "27 Apr 10:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1693,
+    "title": "1st Floor Apartment Rent In Attidiya Main Road 1 Bedroom",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1st-floor-apartment-rent-in-attidiya-main-road-1-bedroom-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "27 Apr 9:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1697,
+    "title": "Annex for Rent - Nadimala, Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nadimala-dehiwala-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "27 Apr 2:53 pm",
+    "gender": "Cả hai"
   }
 ]
