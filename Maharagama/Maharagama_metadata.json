@@ -2248,5 +2248,15 @@
     "rawPrice": 29000,
     "timestamp": "26 Apr 10:35 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1493,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Chỉ dành cho nữ tại Navinna, Maharagama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-ladies-only-at-navinna-maharagama-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "28 Apr 2:34 pm",
+    "gender": "Nữ"
   }
 ]
