@@ -2258,5 +2258,35 @@
     "rawPrice": 35000,
     "timestamp": "28 Apr 2:34 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1498,
+    "title": "Prime location hostel available for rent - Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/prime-location-hostel-available-for-rent-maharagama-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "28 Apr 10:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1508,
+    "title": "Phòng Đầy Đủ Tiện Nghi Cho Thuê Tại Pamunuwa, Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-rooms-for-rent-in-pamunuwa-maharagama-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "28 Apr 9:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1511,
+    "title": "Phòng cho thuê tại Katunayake",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-gampaha-8",
+    "rawPrice": 17000,
+    "timestamp": "29 Apr 5:18 pm",
+    "gender": "Cả hai"
   }
 ]

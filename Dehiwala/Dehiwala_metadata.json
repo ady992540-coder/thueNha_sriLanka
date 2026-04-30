@@ -2618,5 +2618,35 @@
     "rawPrice": 40000,
     "timestamp": "27 Apr 2:53 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1713,
+    "title": "Annex For Rent in Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-684",
+    "rawPrice": 25000,
+    "timestamp": "29 Apr 2:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1723,
+    "title": "Rooms for Ladies in Dehiwela",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-ladies-in-dehiwela-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "29 Apr 12:40 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1728,
+    "title": "Phòng cho thuê tại Katunayake",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-gampaha-8",
+    "rawPrice": 17000,
+    "timestamp": "29 Apr 5:18 pm",
+    "gender": "Cả hai"
   }
 ]

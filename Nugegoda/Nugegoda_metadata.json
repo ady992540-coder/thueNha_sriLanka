@@ -2938,5 +2938,55 @@
     "rawPrice": 25000,
     "timestamp": "28 Apr 1:59 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2444,
+    "title": "Phòng cho thuê Rajagiriya",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-for-working-ladies-for-rent-colombo",
+    "rawPrice": 17500,
+    "timestamp": "30 Apr 9:03 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2449,
+    "title": "Upstair Annex for Rent Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-annex-for-rent-for-rent-colombo-203",
+    "rawPrice": 60000,
+    "timestamp": "29 Apr 9:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2454,
+    "title": "Room for Rent in Nugegoda (Girls)",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girls-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "29 Apr 4:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2455,
+    "title": "Room for Rent in Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-gampaha-4",
+    "rawPrice": 9000,
+    "timestamp": "29 Apr 5:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2460,
+    "title": "Phòng Cho Thuê tại Katunayake",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-gampaha-8",
+    "rawPrice": 17000,
+    "timestamp": "29 Apr 5:18 pm",
+    "gender": "Cả hai"
   }
 ]
