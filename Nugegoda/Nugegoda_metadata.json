@@ -2988,5 +2988,35 @@
     "rawPrice": 17000,
     "timestamp": "29 Apr 5:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2487,
+    "title": "Boarding Rooms in Wijerama Nugegoda",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "30 Apr 7:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2492,
+    "title": "Furnished Room for Rent Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-15",
+    "rawPrice": 25000,
+    "timestamp": "30 Apr 2:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2497,
+    "title": "Annex for Rent in Moratuwa",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-moratuwa-for-rent-colombo-308",
+    "rawPrice": 50000,
+    "timestamp": "30 Apr 3:42 pm",
+    "gender": "Cả hai"
   }
 ]

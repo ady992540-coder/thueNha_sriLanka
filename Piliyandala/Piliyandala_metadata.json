@@ -1688,5 +1688,35 @@
     "rawPrice": 9000,
     "timestamp": "29 Apr 5:19 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1175,
+    "title": "Fully Furnished Room for Rent –Wijerama Nugegoda (Ladies Only)",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-wijerama-nugegoda-ladies-only-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "29 Apr 12:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1180,
+    "title": "Annex for Rent in Moratuwa",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-moratuwa-for-rent-colombo-308",
+    "rawPrice": 50000,
+    "timestamp": "30 Apr 3:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1185,
+    "title": "Rooms for Rent in Katunayake",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-gampaha-8",
+    "rawPrice": 17000,
+    "timestamp": "29 Apr 5:18 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -2648,5 +2648,35 @@
     "rawPrice": 17000,
     "timestamp": "29 Apr 5:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1743,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10223",
+    "rawPrice": 22000,
+    "timestamp": "01 May 12:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1748,
+    "title": "Rooms for Ladies in Dehiwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-ladies-in-dehiwala-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "30 Apr 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1753,
+    "title": "Fully Furnished Room for Rent –Wijerama Nugegoda (Ladies Only)",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-wijerama-nugegoda-ladies-only-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "29 Apr 12:58 am",
+    "gender": "Cả hai"
   }
 ]
