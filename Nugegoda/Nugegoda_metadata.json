@@ -3018,5 +3018,45 @@
     "rawPrice": 50000,
     "timestamp": "30 Apr 3:42 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2507,
+    "title": "Phòng Có Sẵn Tiện Nghi Cho Thuê - Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-16",
+    "rawPrice": 50000,
+    "timestamp": "30 Apr 9:22 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2517,
+    "title": "Phòng cho thuê Nữ nhân viên văn phòng - Wijerama Nugegoda",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 26000,
+    "timestamp": "30 Apr 1:14 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2522,
+    "title": "Phòng cho thuê Nawala - Nữ",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nawala-ladies-for-rent-colombo",
+    "rawPrice": 17500,
+    "timestamp": "02 May 6:43 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2527,
+    "title": "Phòng cho Quý Ông Điều Hành Độc Thân ở Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-single-executive-gents-in-kottawa-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "01 May 7:54 pm",
+    "gender": "Nam"
   }
 ]

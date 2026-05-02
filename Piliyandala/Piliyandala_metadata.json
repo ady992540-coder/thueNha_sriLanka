@@ -1718,5 +1718,25 @@
     "rawPrice": 17000,
     "timestamp": "29 Apr 5:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1195,
+    "title": "Phòng cho quý ông độc thân làm quản lý ở Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-single-executive-gents-in-kottawa-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "01 May 7:54 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1199,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà rộng rãi cho thuê – Mount Lavinia",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/spacious-annex-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 85000,
+    "timestamp": "29 Apr 1:29 pm",
+    "gender": "Cả hai"
   }
 ]

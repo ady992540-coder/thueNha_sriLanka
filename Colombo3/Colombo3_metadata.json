@@ -1328,5 +1328,25 @@
     "rawPrice": 45000,
     "timestamp": "29 Apr 12:58 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 965,
+    "title": "Phòng cho Quý ông Điều hành Độc thân ở Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-single-executive-gents-in-kottawa-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "01 May 7:54 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 969,
+    "title": "Colombo 8 - Cho Thuê Hai Phòng Đã Trang Bị Nội Thất Cho Phụ Nữ",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-for-rent-ladies-furnished-two-rooms-with-24-hour-security-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "01 May 11:35 am",
+    "gender": "Nữ"
   }
 ]

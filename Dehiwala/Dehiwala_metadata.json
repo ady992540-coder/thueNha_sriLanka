@@ -2678,5 +2678,45 @@
     "rawPrice": 45000,
     "timestamp": "29 Apr 12:58 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1770,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Moratuwa",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-moratuwa-for-rent-colombo-308",
+    "rawPrice": 50000,
+    "timestamp": "30 Apr 3:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1775,
+    "title": "Phòng Có Sẵn Tiện Nghi Cho Thuê - Attidiya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-attidiya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "01 May 10:15 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1778,
+    "title": "Spacious Annex for Rent – Mount Lavinia",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/spacious-annex-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 85000,
+    "timestamp": "29 Apr 1:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1783,
+    "title": "Phòng cho thuê ở Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-gampaha-4",
+    "rawPrice": 9000,
+    "timestamp": "29 Apr 5:19 pm",
+    "gender": "Cả hai"
   }
 ]

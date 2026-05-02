@@ -2328,5 +2328,35 @@
     "rawPrice": 30000,
     "timestamp": "30 Apr 2:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1550,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà ở tầng trên cho thuê, Chỉ dành cho đàn ông hoặc con trai",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-annex-for-rent-this-is-only-given-to-a-single-man-or-boy-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "26 Apr 2:22 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1559,
+    "title": "Phòng cho thuê ở Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-room-for-rent-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "01 May 1:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1564,
+    "title": "Phòng cho Quý Ông Điều Hành Độc Thân ở Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-single-executive-gents-in-kottawa-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "01 May 7:54 pm",
+    "gender": "Nam"
   }
 ]
