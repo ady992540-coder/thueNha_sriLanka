@@ -3058,5 +3058,35 @@
     "rawPrice": 25000,
     "timestamp": "01 May 7:54 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2544,
+    "title": "Cho thuê phòng cho nữ nhân viên - Wijerama Nugegoda",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 26000,
+    "timestamp": "02 May 3:52 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2549,
+    "title": "Phòng trên lầu (Chỉ dành cho nữ) Cho thuê tại Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-only-girls-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "02 May 11:08 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2554,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Rộng Rãi Cho Thuê – Mount Lavinia",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/spacious-annex-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 85000,
+    "timestamp": "29 Apr 1:29 pm",
+    "gender": "Cả hai"
   }
 ]

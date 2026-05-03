@@ -2718,5 +2718,55 @@
     "rawPrice": 9000,
     "timestamp": "29 Apr 5:19 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1800,
+    "title": "Cho Thuê Phòng Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-551",
+    "rawPrice": 30000,
+    "timestamp": "02 May 4:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1802,
+    "title": "Phòng Cho Thuê Nữ Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-dehiwala-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "02 May 10:41 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1805,
+    "title": "Phòng cho thuê Dehiwela",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10222",
+    "rawPrice": 18000,
+    "timestamp": "02 May 1:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1809,
+    "title": "Phòng cho quý ông điều hành độc thân ở Kottawa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-single-executive-gents-in-kottawa-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "01 May 7:54 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1813,
+    "title": "Phòng cho thuê cho nữ nhân viên văn phòng - Wijerama Nugegoda",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 26000,
+    "timestamp": "02 May 3:52 pm",
+    "gender": "Nữ"
   }
 ]
