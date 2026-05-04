@@ -1748,5 +1748,25 @@
     "rawPrice": 26000,
     "timestamp": "02 May 3:52 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1225,
+    "title": "Phòng chia sẻ cho nữ sinh tại Malabe, Pittugala",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-girls-at-malabe-pittugala-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "03 May 8:12 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1230,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Kadawatha",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kadawatha-for-rent-gampaha-172",
+    "rawPrice": 10000,
+    "timestamp": "02 May 10:40 am",
+    "gender": "Nam"
   }
 ]

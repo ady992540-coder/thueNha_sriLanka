@@ -2378,5 +2378,25 @@
     "rawPrice": 26000,
     "timestamp": "02 May 3:52 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1599,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Moratuwa",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-moratuwa-for-rent-colombo-308",
+    "rawPrice": 50000,
+    "timestamp": "30 Apr 3:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1604,
+    "title": "Phòng ở ghép cho Nữ tại Malabe, Pittugala",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-girls-at-malabe-pittugala-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "03 May 8:12 am",
+    "gender": "Nữ"
   }
 ]

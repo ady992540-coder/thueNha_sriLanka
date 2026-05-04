@@ -1378,5 +1378,35 @@
     "rawPrice": 85000,
     "timestamp": "29 Apr 1:29 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 995,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Rộng Rãi Đã Trang Bị Nội Thất Cho Thuê – Mount Lavinia",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/spacious-furnished-annex-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 85000,
+    "timestamp": "03 May 2:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1000,
+    "title": "Phòng Chia Sẻ Cho Nữ Tại Malabe, Pittugala",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-girls-at-malabe-pittugala-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "03 May 8:12 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1005,
+    "title": "Cho thuê phòng ở Horana",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-aet-horana-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "03 May 8:56 pm",
+    "gender": "Cả hai"
   }
 ]
