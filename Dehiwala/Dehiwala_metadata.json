@@ -2808,5 +2808,65 @@
     "rawPrice": 85000,
     "timestamp": "03 May 2:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1855,
+    "title": "Phòng Chia Sẻ Cho Nữ tại Malabe, Pittugala",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-girls-at-malabe-pittugala-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "03 May 8:12 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1860,
+    "title": "Room for Rent in Ja-Ela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ja-ela-for-rent-gampaha-5",
+    "rawPrice": 35000,
+    "timestamp": "10 Apr 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1865,
+    "title": "Phòng riêng cho thuê ở Dehiwale",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/separate-room-for-rent-in-dehiwale-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "04 May 1:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1869,
+    "title": "phòng trống riêng biệt có phòng tắm liền kề cho thuê tại dehiwala kawdana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/separate-empty-room-with-attached-bathroom-rent-in-dehiwala-kawdana-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "04 May 11:29 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1871,
+    "title": "phòng riêng biệt có nội thất với phòng tắm riêng cho thuê ở dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-separate-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "04 May 11:13 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1894,
+    "title": "Boarding Room in Wellawatta",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-in-wellawatta-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "04 May 8:16 pm",
+    "gender": "Cả hai"
   }
 ]

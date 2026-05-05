@@ -3128,5 +3128,55 @@
     "rawPrice": 85000,
     "timestamp": "03 May 2:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2598,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Kelaniya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-bedroom-annex-and-room-with-2-beds-for-rent-gampaha",
+    "rawPrice": 40000,
+    "timestamp": "02 May 6:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2602,
+    "title": "Phòng cho thuê Nugegoda",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-565",
+    "rawPrice": 32000,
+    "timestamp": "05 May 8:11 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2607,
+    "title": "Cho thuê phòng chung ở Nugegoda chỉ dành cho nữ",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-girls-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "04 May 4:27 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2611,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê - Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-annex-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "04 May 12:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2616,
+    "title": "Phòng trọ ở Wellawatta",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-in-wellawatta-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "04 May 8:16 pm",
+    "gender": "Cả hai"
   }
 ]
