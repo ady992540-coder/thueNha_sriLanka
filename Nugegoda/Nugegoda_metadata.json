@@ -3178,5 +3178,125 @@
     "rawPrice": 30000,
     "timestamp": "04 May 8:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2636,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà được trang bị đầy đủ nội thất ở Nugegoda",
+    "price": "Rs 220,000 /tháng (~ 18.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 220000,
+    "timestamp": "05 May 10:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2646,
+    "title": "Phòng cho thuê ở Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nugegoda-for-rent-colombo-334",
+    "rawPrice": 18000,
+    "timestamp": "05 May 5:35 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2650,
+    "title": "Ladies Annex for Rent in Nugegoda",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-annex-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "05 May 3:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2655,
+    "title": "Phòng cho thuê ở Nugegoda (Nữ)",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girls-for-rent-colombo-1",
+    "rawPrice": 14000,
+    "timestamp": "05 May 3:26 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2659,
+    "title": "Annex for Rent Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nugegoda-for-rent-colombo-306",
+    "rawPrice": 50000,
+    "timestamp": "05 May 2:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2675,
+    "title": "Phòng Sang Trọng Đầy Đủ Tiện Nghi Cho Thuê",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-for-rent-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "05 May 1:54 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2678,
+    "title": "Phòng cho thuê ở Nawala (Chỉ dành cho nữ)",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nawala-ladies-only-for-rent-colombo-1",
+    "rawPrice": 17500,
+    "timestamp": "05 May 11:16 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2682,
+    "title": "Phòng Đơn Cho Thuê – một Cô Gái Nugegoda",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-a-girl-nugegoda-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "05 May 11:20 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2685,
+    "title": "Phòng cho Nữ Delkanda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girl-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "05 May 10:30 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2690,
+    "title": "Phòng Đã Trang Bị Nội Thất Cho Thuê - Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-17",
+    "rawPrice": 50000,
+    "timestamp": "05 May 11:26 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2705,
+    "title": "Phòng Chia Sẻ Cho Thuê (Chỉ Dành Cho Nữ Đi Làm) Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-working-ladies-only-nugegoda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "05 May 10:05 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2710,
+    "title": "Có phòng cho thuê ở Horana",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-aet-horana-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "03 May 8:56 pm",
+    "gender": "Cả hai"
   }
 ]
