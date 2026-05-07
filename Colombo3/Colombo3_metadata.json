@@ -1448,5 +1448,45 @@
     "rawPrice": 10000,
     "timestamp": "02 May 10:40 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1041,
+    "title": "Phòng Cho Thuê Malabe",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10231",
+    "rawPrice": 18000,
+    "timestamp": "06 May 10:31 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1046,
+    "title": "Phòng ở ghép cho nữ nhân viên thuê ở Battaramulla",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-working-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "07 May 8:57 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1051,
+    "title": "Phòng cho thuê tại Ja-Ela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ja-ela-for-rent-gampaha-5",
+    "rawPrice": 35000,
+    "timestamp": "10 Apr 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1056,
+    "title": "Phòng trọ - Chỉ dành cho nữ (Jaffna)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-females-only-jaffna-for-rent-jaffna",
+    "rawPrice": 25000,
+    "timestamp": "06 May 10:12 am",
+    "gender": "Nữ"
   }
 ]

@@ -2908,5 +2908,45 @@
     "rawPrice": 8000,
     "timestamp": "30 Apr 7:29 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1926,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà ở Đường Attidiya Main (Không gian văn phòng hoặc Nơi ở)",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-rent-in-attidiya-main-road-office-space-or-resistance-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "05 May 7:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1930,
+    "title": "Phòng Cho Thuê Malabe",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10231",
+    "rawPrice": 18000,
+    "timestamp": "06 May 10:31 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1935,
+    "title": "Phòng trọ - Chỉ dành cho nữ (Jaffna)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-females-only-jaffna-for-rent-jaffna",
+    "rawPrice": 25000,
+    "timestamp": "06 May 10:12 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1943,
+    "title": "Phòng chia sẻ cho các bạn nữ đi làm thuê ở Battaramulla",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-working-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "07 May 8:57 am",
+    "gender": "Nữ"
   }
 ]
