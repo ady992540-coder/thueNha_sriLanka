@@ -2948,5 +2948,15 @@
     "rawPrice": 18000,
     "timestamp": "07 May 8:57 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1950,
+    "title": "phòng cho thuê",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10234",
+    "rawPrice": 35000,
+    "timestamp": "06 May 3:01 pm",
+    "gender": "Nữ"
   }
 ]

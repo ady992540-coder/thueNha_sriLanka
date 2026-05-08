@@ -2508,5 +2508,25 @@
     "rawPrice": 25000,
     "timestamp": "06 May 10:12 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1714,
+    "title": "Phòng cho nữ ở Maharagama",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-maharagama-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "08 May 6:40 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1719,
+    "title": "Phòng chia sẻ cho nữ làm việc thuê Battaramulla",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-working-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "07 May 8:57 am",
+    "gender": "Nữ"
   }
 ]
