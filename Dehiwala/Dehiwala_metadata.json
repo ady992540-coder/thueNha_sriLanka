@@ -2958,5 +2958,45 @@
     "rawPrice": 35000,
     "timestamp": "06 May 3:01 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1970,
+    "title": "Room For Rent Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-552",
+    "rawPrice": 15000,
+    "timestamp": "07 May 12:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1974,
+    "title": "Cho thuê Phòng riêng có nội thất ở tầng trệt với phòng tắm riêng ở Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-furnished-separate-room-attached-bathroom-rent-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "07 May 5:30 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1984,
+    "title": "Unfurnished Annex For Rent - Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/unfurnished-annex-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "07 May 10:26 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1990,
+    "title": "Phòng trống riêng biệt có phòng tắm kèm theo cho thuê ở Dehiwala Kawdana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/separate-empty-room-with-attached-bathroom-rent-in-dehiwala-kawdana-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "07 May 5:33 pm",
+    "gender": "Cả hai"
   }
 ]

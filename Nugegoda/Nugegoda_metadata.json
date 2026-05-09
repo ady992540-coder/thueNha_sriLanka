@@ -3398,5 +3398,15 @@
     "rawPrice": 45000,
     "timestamp": "07 May 12:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2787,
+    "title": "Room for Rent in Nadimala",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nadimala-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "30 Apr 2:36 pm",
+    "gender": "Cả hai"
   }
 ]
