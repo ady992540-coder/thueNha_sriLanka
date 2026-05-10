@@ -2528,5 +2528,75 @@
     "rawPrice": 18000,
     "timestamp": "07 May 8:57 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1724,
+    "title": "phòng cho thuê",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10235",
+    "rawPrice": 42000,
+    "timestamp": "10 May 7:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1729,
+    "title": "Phòng cho thuê - Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-for-rent-colombo-370",
+    "rawPrice": 30000,
+    "timestamp": "10 May 7:28 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1731,
+    "title": "Phòng cho thuê cho nam sinh viên ở thị trấn Maharagama",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-for-rent-in-maharagama-town-for-rent-colombo",
+    "rawPrice": 10500,
+    "timestamp": "10 May 6:03 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1736,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà (Tầng trên) Cho thuê ở Maharagama",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-upstair-for-rent-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "09 May 12:08 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1741,
+    "title": "Phòng cho thuê đường Maharagama Piliyandala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-piliyandala-road-room-for-rent-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 May 11:02 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1756,
+    "title": "Phòng cho thuê tại Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-971",
+    "rawPrice": 25000,
+    "timestamp": "09 May 10:39 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1760,
+    "title": "Phòng cho thuê ở Horana",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-aet-horana-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "03 May 8:56 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -2998,5 +2998,25 @@
     "rawPrice": 30000,
     "timestamp": "07 May 5:33 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2005,
+    "title": "phòng cho thuê",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10235",
+    "rawPrice": 42000,
+    "timestamp": "10 May 7:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2010,
+    "title": "Phòng cho thuê ở Dehiwala",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-room-for-rent-for-rent-colombo-1",
+    "rawPrice": 13000,
+    "timestamp": "09 May 8:47 pm",
+    "gender": "Cả hai"
   }
 ]

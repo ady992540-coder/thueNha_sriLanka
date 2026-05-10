@@ -1828,5 +1828,35 @@
     "rawPrice": 18000,
     "timestamp": "07 May 8:57 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1285,
+    "title": "Phòng cho thuê Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rentfor-working-boy-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "05 May 4:42 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1290,
+    "title": "Phòng cho thuê cho nam sinh viên ở thị trấn Maharagama",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-for-rent-in-maharagama-town-for-rent-colombo",
+    "rawPrice": 10500,
+    "timestamp": "10 May 6:03 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1295,
+    "title": "CHO THUÊ PHÒNG TRONG NHÀ (CÓ PHÒNG) ĐƯỜNG PILIYANDALA - MAHARAGAMA",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-room-rent-piliyandala-maharagama-road-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 May 12:08 pm",
+    "gender": "Nam"
   }
 ]

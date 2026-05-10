@@ -3408,5 +3408,65 @@
     "rawPrice": 38000,
     "timestamp": "30 Apr 2:36 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2802,
+    "title": "Phòng cho thuê",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10235",
+    "rawPrice": 42000,
+    "timestamp": "10 May 7:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2807,
+    "title": "Phòng trọ có sẵn – Nugegoda (Chỉ dành cho nữ)",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-available-nugegoda-ladies-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 May 12:52 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2810,
+    "title": "Phòng trên lầu cho thuê tại Udahamull, Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-for-rent-in-udahamullnugegoda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "09 May 12:39 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2814,
+    "title": "Phòng Sang Trọng Đầy Đủ Tiện Nghi Cho Thuê",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-for-rent-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "09 May 11:01 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2817,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê – Delkanda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-delkanda-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "09 May 9:15 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2832,
+    "title": "Phòng cho thuê cho nam sinh viên ở thị trấn Maharagama",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-for-rent-in-maharagama-town-for-rent-colombo",
+    "rawPrice": 10500,
+    "timestamp": "10 May 6:03 am",
+    "gender": "Nam"
   }
 ]
