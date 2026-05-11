@@ -1488,5 +1488,25 @@
     "rawPrice": 25000,
     "timestamp": "06 May 10:12 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1071,
+    "title": "Phòng cho thuê cho nam sinh viên ở Thị trấn Maharagama",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-for-rent-in-maharagama-town-for-rent-colombo",
+    "rawPrice": 10500,
+    "timestamp": "10 May 6:03 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1076,
+    "title": "Furnishings Boarding Room for Rent in Visaka Watta Ekala Jaela",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-boarding-room-for-rent-in-visaka-watta-ekala-jaela-for-rent-gampaha",
+    "rawPrice": 18000,
+    "timestamp": "08 May 11:44 pm",
+    "gender": "Cả hai"
   }
 ]

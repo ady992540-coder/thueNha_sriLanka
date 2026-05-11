@@ -2598,5 +2598,35 @@
     "rawPrice": 12000,
     "timestamp": "03 May 8:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1771,
+    "title": "Room for Rent in Nadimala",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nadimala-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "09 May 12:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1776,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê – Maharagama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-maharagama-for-rent-colombo-266",
+    "rawPrice": 22000,
+    "timestamp": "11 May 8:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1780,
+    "title": "Cho thuê phòng chung cho hai bạn nữ Colombo 7",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-for-two-girls-colombo-7-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "24 Apr 10:23 am",
+    "gender": "Nữ"
   }
 ]
