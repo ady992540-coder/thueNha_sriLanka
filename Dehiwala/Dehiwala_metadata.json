@@ -3038,5 +3038,55 @@
     "rawPrice": 45000,
     "timestamp": "11 May 9:13 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2030,
+    "title": "Phòng cho thuê ở Maharagama",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-maharagama-for-rent-colombo-15",
+    "rawPrice": 23000,
+    "timestamp": "09 May 5:08 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2035,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Pannipitiya",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-pannipitiya-for-rent-colombo-353",
+    "rawPrice": 55000,
+    "timestamp": "09 May 7:36 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2040,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5264",
+    "rawPrice": 45000,
+    "timestamp": "11 May 9:36 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2045,
+    "title": "Cho thuê Khu nhà riêng biệt, độc lập với chủ nhà 2 phòng ngủ ở Katubedda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-in-katubedda-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "18 Apr 9:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2050,
+    "title": "Phòng Cho Thuê Kadugannawa",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-room-for-rent-kandy",
+    "rawPrice": 12000,
+    "timestamp": "05 May 10:22 am",
+    "gender": "Cả hai"
   }
 ]

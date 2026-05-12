@@ -1868,5 +1868,15 @@
     "rawPrice": 22000,
     "timestamp": "10 May 6:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1314,
+    "title": "Phòng Chia Sẻ Cho Hai Bạn Nữ Colombo 7",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-for-two-girls-colombo-7-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "24 Apr 10:23 am",
+    "gender": "Nữ"
   }
 ]

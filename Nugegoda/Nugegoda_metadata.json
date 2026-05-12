@@ -3518,5 +3518,55 @@
     "rawPrice": 30000,
     "timestamp": "24 Apr 10:23 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2870,
+    "title": "Cho Thuê Tầng Trên (Chỉ Dành Cho Nữ) Rathmalana",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upper-floor-for-rent-girls-only-rathmalana-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "11 May 1:28 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2875,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Pannipitiya",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-pannipitiya-for-rent-colombo-353",
+    "rawPrice": 55000,
+    "timestamp": "09 May 7:36 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2880,
+    "title": "Phòng đầy đủ tiện nghi cho thuê",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "11 May 7:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2882,
+    "title": "Room for Rent in Nugegoda (Only a Lady)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-only-a-lady-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "11 May 6:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2887,
+    "title": "Ladies Room for Rent in Nugegoda",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-room-for-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 32000,
+    "timestamp": "11 May 12:17 pm",
+    "gender": "Cả hai"
   }
 ]
