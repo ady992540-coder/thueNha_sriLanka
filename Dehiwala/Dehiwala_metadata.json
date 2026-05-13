@@ -3088,5 +3088,55 @@
     "rawPrice": 12000,
     "timestamp": "05 May 10:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2053,
+    "title": "Room for Rent Dehiwala Girls Only",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-553",
+    "rawPrice": 10000,
+    "timestamp": "13 May 1:20 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2058,
+    "title": "Cho thuê phòng chia sẻ cho hai bạn nữ Colombo 7",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-for-two-girls-colombo-7-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "24 Apr 10:23 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2063,
+    "title": "phòng riêng có nội thất cho thuê ở tầng trệt đường Hill, Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-ground-floor-separate-room-for-rent-in-dehiwala-hill-street-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "12 May 1:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2073,
+    "title": "Room for Rent Dehiwala Girls Only",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-girls-only-for-rent-colombo-1",
+    "rawPrice": 10000,
+    "timestamp": "13 May 1:20 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2078,
+    "title": "Cho Thuê Tầng Trên (Chỉ Dành Cho Nữ) Rathmalana",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upper-floor-for-rent-girls-only-rathmalana-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "11 May 1:28 pm",
+    "gender": "Nữ"
   }
 ]

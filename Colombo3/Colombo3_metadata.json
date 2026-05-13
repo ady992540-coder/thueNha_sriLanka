@@ -1508,5 +1508,25 @@
     "rawPrice": 18000,
     "timestamp": "08 May 11:44 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1091,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê cho Nữ ở Kandy",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ladies-in-kandy-for-rent-kandy",
+    "rawPrice": 30000,
+    "timestamp": "09 May 7:37 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1095,
+    "title": "Nhà trọ tập thể cho nam sinh ở Kollupitiya (Colombo 3)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shared-boarding-for-boys-in-kollupitiya-colombo-3-for-rent-colombo-4",
+    "rawPrice": 13000,
+    "timestamp": "12 May 12:10 pm",
+    "gender": "Nam"
   }
 ]
