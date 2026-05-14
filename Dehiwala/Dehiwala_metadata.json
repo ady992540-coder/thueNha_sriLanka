@@ -3138,5 +3138,35 @@
     "rawPrice": 13000,
     "timestamp": "11 May 1:28 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2083,
+    "title": "Phòng cho thuê – Gần Cầu vượt Dehiwala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-near-dehiwala-flyover-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "12 May 4:55 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2088,
+    "title": "Phòng Cho Thuê Dehiwala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-room-for-rent-colombo-237",
+    "rawPrice": 10000,
+    "timestamp": "13 May 5:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2090,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê (Gothatuwa)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-gothatuwa-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "12 May 9:48 pm",
+    "gender": "Cả hai"
   }
 ]

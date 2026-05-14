@@ -1528,5 +1528,15 @@
     "rawPrice": 13000,
     "timestamp": "12 May 12:10 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1106,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê (Gothatuwa)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-gothatuwa-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "12 May 9:48 pm",
+    "gender": "Cả hai"
   }
 ]

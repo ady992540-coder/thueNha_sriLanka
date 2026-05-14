@@ -3618,5 +3618,45 @@
     "rawPrice": 12000,
     "timestamp": "05 May 10:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2941,
+    "title": "Phòng Đã Trang Bị Nội Thất Cho Thuê - Delkada",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-delkada-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "12 May 2:43 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2951,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê (Gothatuwa)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-gothatuwa-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "12 May 9:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2956,
+    "title": "Phòng cho thuê Nugegoda Jun",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-jun-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "14 May 7:46 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2959,
+    "title": "Cho thuê khu nhà riêng biệt, độc lập với chủ nhà ở Malabe",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/aeneks-ekk-kuliytt-diim-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "12 May 8:56 am",
+    "gender": "Cả hai"
   }
 ]

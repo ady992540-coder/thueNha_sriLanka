@@ -2698,5 +2698,15 @@
     "rawPrice": 13000,
     "timestamp": "11 May 1:28 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1849,
+    "title": "Phòng Nội thất Có Máy lạnh Cho Thuê ở Visaka Watta Ekala Jaela",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-boarding-a-c-room-for-rent-in-visaka-watta-ekala-jaela-for-rent-gampaha",
+    "rawPrice": 18000,
+    "timestamp": "12 May 10:26 pm",
+    "gender": "Nam"
   }
 ]
