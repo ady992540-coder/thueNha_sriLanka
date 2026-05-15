@@ -2708,5 +2708,15 @@
     "rawPrice": 18000,
     "timestamp": "12 May 10:26 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1871,
+    "title": "Phòng Cho Thuê Battaramulla",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rant-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "14 May 2:13 pm",
+    "gender": "Cả hai"
   }
 ]

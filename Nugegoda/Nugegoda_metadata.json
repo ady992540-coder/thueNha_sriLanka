@@ -3658,5 +3658,35 @@
     "rawPrice": 30000,
     "timestamp": "12 May 8:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2979,
+    "title": "Phòng Cho Thuê Battaramulla",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rant-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "14 May 2:13 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2984,
+    "title": "Phòng cho thuê Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10236",
+    "rawPrice": 25000,
+    "timestamp": "14 May 11:09 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2988,
+    "title": "Room for Rent in Nugegoda (Girls )",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girls-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "14 May 6:46 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -3168,5 +3168,25 @@
     "rawPrice": 55000,
     "timestamp": "12 May 9:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2109,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê dành cho nữ ở Kandy",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ladies-in-kandy-for-rent-kandy",
+    "rawPrice": 30000,
+    "timestamp": "09 May 7:37 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2113,
+    "title": "Phòng đầy đủ tiện nghi riêng biệt với phòng tắm riêng cho thuê ở Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-separate-furnished-room-with-attached-bathroom-rent-in-dehiwala-for-rent-colombo-3",
+    "rawPrice": 35000,
+    "timestamp": "14 May 11:48 am",
+    "gender": "Nữ"
   }
 ]
