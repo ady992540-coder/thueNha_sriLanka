@@ -2718,5 +2718,25 @@
     "rawPrice": 40000,
     "timestamp": "14 May 2:13 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1888,
+    "title": "Phòng Cho Thuê Maharagama Chỉ Dành Cho Nữ",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-female-only-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "16 May 8:01 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1891,
+    "title": "Room for Rent in Homagama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-homagama-for-rent-colombo-240",
+    "rawPrice": 8000,
+    "timestamp": "24 Apr 9:20 pm",
+    "gender": "Cả hai"
   }
 ]

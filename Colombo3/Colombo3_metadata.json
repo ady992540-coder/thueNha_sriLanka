@@ -1558,5 +1558,25 @@
     "rawPrice": 8000,
     "timestamp": "14 May 7:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1133,
+    "title": "Furnishings Boarding A/C Room for Rent in Visaka Watta Ekala Jaela",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-boarding-a-c-room-for-rent-in-visaka-watta-ekala-jaela-for-rent-gampaha",
+    "rawPrice": 18000,
+    "timestamp": "12 May 10:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1143,
+    "title": "Phòng trọ ở Wijerama Nugegoda (Chỉ dành cho nữ)",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-wijerama-nugegoda-females-only-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "15 May 6:04 pm",
+    "gender": "Nữ"
   }
 ]
