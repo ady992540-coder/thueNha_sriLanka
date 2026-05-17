@@ -3238,5 +3238,45 @@
     "rawPrice": 8000,
     "timestamp": "14 May 7:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2169,
+    "title": "Phòng cho thuê Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10238",
+    "rawPrice": 15000,
+    "timestamp": "17 May 8:10 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2173,
+    "title": "Phòng cho thuê cho nữ ở Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-single-girl-in-dehiwala-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "16 May 8:52 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2178,
+    "title": "Phòng Chia Sẻ Cho Thuê ở Dehiwala",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-dehiwala-for-rent-colombo-2",
+    "rawPrice": 13000,
+    "timestamp": "16 May 4:59 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2183,
+    "title": "Phòng cho thuê (Chỉ dành cho nữ) - Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-dehiwala-for-rent-colombo-1",
+    "rawPrice": 16000,
+    "timestamp": "16 May 4:31 pm",
+    "gender": "Nữ"
   }
 ]

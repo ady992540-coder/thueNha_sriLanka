@@ -2738,5 +2738,25 @@
     "rawPrice": 8000,
     "timestamp": "24 Apr 9:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1908,
+    "title": "Phòng cho Nhân viên văn phòng Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-available-for-office-boys-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "16 May 12:53 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1911,
+    "title": "Tầng Đỏ Khu nhà riêng biệt, độc lập với chủ nhà nhỏ Mahragama Arawala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/red-floor-small-annex-mahragama-arawala-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "16 May 10:52 am",
+    "gender": "Cả hai"
   }
 ]

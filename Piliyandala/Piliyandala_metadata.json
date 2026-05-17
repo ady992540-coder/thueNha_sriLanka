@@ -1938,5 +1938,25 @@
     "rawPrice": 12000,
     "timestamp": "05 May 10:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1385,
+    "title": "Room for Rent in Nadimala",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nadimala-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "09 May 12:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1390,
+    "title": "Cho thuê phòng – Gần Katubedda / Piliyandala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-near-katubedda-piliyandala-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "16 May 12:38 pm",
+    "gender": "Nữ"
   }
 ]
