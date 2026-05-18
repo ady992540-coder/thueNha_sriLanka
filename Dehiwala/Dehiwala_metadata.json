@@ -3278,5 +3278,25 @@
     "rawPrice": 16000,
     "timestamp": "16 May 4:31 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2193,
+    "title": "Phòng trọ ở Wijerama Nugegoda (Chỉ dành cho nữ)",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-wijerama-nugegoda-females-only-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "15 May 6:04 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2198,
+    "title": "Phòng cho thuê cho nam sinh viên ở thị trấn Maharagama",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-for-rent-in-maharagama-town-for-rent-colombo",
+    "rawPrice": 10500,
+    "timestamp": "10 May 6:03 am",
+    "gender": "Nam"
   }
 ]

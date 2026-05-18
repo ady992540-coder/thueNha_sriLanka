@@ -1578,5 +1578,15 @@
     "rawPrice": 8000,
     "timestamp": "15 May 6:04 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1155,
+    "title": "Room for Rent in Homagama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-homagama-for-rent-colombo-240",
+    "rawPrice": 8000,
+    "timestamp": "24 Apr 9:20 pm",
+    "gender": "Cả hai"
   }
 ]
