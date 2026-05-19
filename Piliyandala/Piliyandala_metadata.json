@@ -1958,5 +1958,15 @@
     "rawPrice": 25000,
     "timestamp": "16 May 12:38 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1400,
+    "title": "Room for Rent Piliyandala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-for-rent-colombo-35",
+    "rawPrice": 10000,
+    "timestamp": "18 May 10:27 am",
+    "gender": "Cả hai"
   }
 ]

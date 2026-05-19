@@ -1588,5 +1588,25 @@
     "rawPrice": 8000,
     "timestamp": "24 Apr 9:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1167,
+    "title": "Rooms for Rent Nsbm Girls Pitipana Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/hostel-for-rent-nsbm-girls-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "20 Apr 1:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1172,
+    "title": "Annex for Rent in Katubedda Two Girls",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-katubedda-two-girls-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "18 May 10:46 am",
+    "gender": "Cả hai"
   }
 ]

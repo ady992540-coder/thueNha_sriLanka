@@ -3298,5 +3298,15 @@
     "rawPrice": 10500,
     "timestamp": "10 May 6:03 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2217,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Katubedda Hai Cô Gái",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-katubedda-two-girls-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "18 May 10:46 am",
+    "gender": "Nữ"
   }
 ]

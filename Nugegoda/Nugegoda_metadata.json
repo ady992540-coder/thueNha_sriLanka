@@ -3758,5 +3758,35 @@
     "rawPrice": 30000,
     "timestamp": "17 May 12:45 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3055,
+    "title": "Phòng đơn/phòng ở ghép thoải mái cho thuê Kelaniya",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-single-sharing-rooms-for-rent-kelaniya-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "14 May 7:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3058,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Katubedda Hai Nữ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-katubedda-two-girls-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "18 May 10:46 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3063,
+    "title": "Phòng cho thuê dành cho nữ giới làm việc - Wijerama",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-12",
+    "rawPrice": 26000,
+    "timestamp": "18 May 11:56 am",
+    "gender": "Nữ"
   }
 ]
