@@ -3308,5 +3308,65 @@
     "rawPrice": 25000,
     "timestamp": "18 May 10:46 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2231,
+    "title": "Cho thuê phòng ở ghép tại Moratuwa (Chỉ dành cho nữ)",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-moratuwa-girls-only-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "03 May 1:09 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2236,
+    "title": "Rooms for Rent Nsbm Girls Pitipana Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/hostel-for-rent-nsbm-girls-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "20 Apr 1:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2241,
+    "title": "Phòng trong Biệt thự / Khách sạn cho thuê ở Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-a-villa-hotel-for-rent-mount-lavinia-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "25 Apr 8:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2245,
+    "title": "Phòng cho thuê Dehiwela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwela-for-rent-colombo-5",
+    "rawPrice": 35000,
+    "timestamp": "19 May 4:56 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2252,
+    "title": "Phòng Cho Thuê Kotte",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-for-rooms-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "19 May 10:15 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2265,
+    "title": "Phòng Cho Thuê ở Rathmalana (Nam/Nữ)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-female-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "18 May 12:19 pm",
+    "gender": "Nữ"
   }
 ]

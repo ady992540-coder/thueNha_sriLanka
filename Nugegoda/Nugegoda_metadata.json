@@ -3788,5 +3788,95 @@
     "rawPrice": 26000,
     "timestamp": "18 May 11:56 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3084,
+    "title": "Rooms for Rent Nsbm Girls Pitipana Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/hostel-for-rent-nsbm-girls-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "20 Apr 1:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3089,
+    "title": "Single Male Person Furnishings A/c Boarding Room Rent in Ekala Jaela",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-male-person-furnishings-a-c-boarding-room-rent-in-ekala-jaela-for-rent-gampaha-1",
+    "rawPrice": 18000,
+    "timestamp": "17 May 1:40 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3099,
+    "title": "Rooms for Rent in Rathmalana (Male/Female)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-female-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "18 May 12:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3104,
+    "title": "Cho thuê phòng Nugegoda (Chỉ nam)",
+    "price": "Rs 33,500 /tháng (~ 2.847.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-nugegodaonly-male-for-rent-colombo",
+    "rawPrice": 33500,
+    "timestamp": "20 May 8:00 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3109,
+    "title": "Phòng trong Biệt Thự / Khách Sạn Cho Thuê Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-a-villa-hotel-for-rent-mount-lavinia-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "25 Apr 8:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3119,
+    "title": "Cho thuê phòng chung ở Moratuwa (Chỉ dành cho nữ)",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-moratuwa-girls-only-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "03 May 1:09 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3124,
+    "title": "Cho thuê phòng Baththaramulla cho phụ nữ",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaantaavn-sndhaa-kaamr-kuliytt-diimtt-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "19 Apr 3:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3129,
+    "title": "Room for Rent in Homagama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-homagama-for-rent-colombo-240",
+    "rawPrice": 8000,
+    "timestamp": "24 Apr 9:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3134,
+    "title": "Phòng Cho Thuê Kotte",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-for-rooms-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "19 May 10:15 am",
+    "gender": "Nam"
   }
 ]

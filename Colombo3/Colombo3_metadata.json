@@ -1608,5 +1608,55 @@
     "rawPrice": 25000,
     "timestamp": "18 May 10:46 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1182,
+    "title": "Phòng trong Biệt thự / Khách sạn cho thuê tại Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-a-villa-hotel-for-rent-mount-lavinia-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "25 Apr 8:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1186,
+    "title": "Cho Thuê Tầng Trên (Chỉ Dành Cho Nữ) Rathmalana",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upper-floor-for-rent-girls-only-rathmalana-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "11 May 1:28 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1191,
+    "title": "Cho thuê phòng chung ở Moratuwa (Chỉ dành cho nữ)",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-moratuwa-girls-only-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "03 May 1:09 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1196,
+    "title": "Phòng cho thuê ở Rathmalana (Nam/Nữ)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-female-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "18 May 12:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1201,
+    "title": "Phòng Cho Thuê Kotte",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-for-rooms-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "19 May 10:15 am",
+    "gender": "Nam"
   }
 ]
