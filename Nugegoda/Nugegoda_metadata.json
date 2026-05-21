@@ -3878,5 +3878,35 @@
     "rawPrice": 33000,
     "timestamp": "19 May 10:15 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3154,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà 2 phòng ngủ đầy đủ nội thất cho thuê tại Nugegoda (p - 110)",
+    "price": "Rs 250,000 /tháng (~ 21.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-2-bhk-annex-for-rent-in-nugegoda-p-110-for-rent-colombo",
+    "rawPrice": 250000,
+    "timestamp": "21 May 3:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3164,
+    "title": "Phòng cho thuê ở Nugegoda, Embuldeniya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-lease-in-nugegoda-embuldeniya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "20 May 3:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3169,
+    "title": "Phòng Cho Thuê Nugegoda (Nam)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-male-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "21 May 1:42 am",
+    "gender": "Nam"
   }
 ]
