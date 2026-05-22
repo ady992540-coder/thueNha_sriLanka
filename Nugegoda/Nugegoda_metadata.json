@@ -3908,5 +3908,95 @@
     "rawPrice": 32000,
     "timestamp": "21 May 1:42 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3184,
+    "title": "Phòng cho thuê ở Delkanda, Nugegoda",
+    "price": "Rs 31,000 /tháng (~ 2.635.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-available-for-rent-in-delkanda-nugegoda-for-rent-colombo",
+    "rawPrice": 31000,
+    "timestamp": "21 May 6:58 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3189,
+    "title": "Phòng (Chỉ dành cho nữ) Cho thuê tại Wijerama, Nugegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-gilrs-rent-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "22 May 9:32 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3191,
+    "title": "Phòng Sang Trọng Đầy Đủ Tiện Nghi Cho Thuê Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-for-rent-nugegoda-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "21 May 6:59 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3195,
+    "title": "Phòng cho thuê tại Delkanda, Nugegoda",
+    "price": "Rs 31,000 /tháng (~ 2.635.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-delkanda-nugegoda-for-rent-colombo",
+    "rawPrice": 31000,
+    "timestamp": "21 May 6:58 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3200,
+    "title": "Phòng Chia Sẻ Cho Thuê Chỉ Dành Cho Nữ Nhân Viên Văn Phòng Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-working-ladies-only-nugegoda-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "21 May 7:30 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3210,
+    "title": "Rent Sharing Rooms for Girls Battaramulla",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-sharing-rooms-for-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "21 May 11:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3213,
+    "title": "Phòng cho thuê ở Kiribathgoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-room-for-rent-in-kiribathgoda-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "21 May 1:48 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3217,
+    "title": "Phòng cho thuê tại Rajagiriya",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-rajagiriya-for-rent-colombo-2",
+    "rawPrice": 60000,
+    "timestamp": "21 May 12:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3222,
+    "title": "Phòng cho thuê ở Madampe",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/0728289476-for-rent-puttalam",
+    "rawPrice": 12000,
+    "timestamp": "18 May 10:00 am",
+    "gender": "Cả hai"
   }
 ]

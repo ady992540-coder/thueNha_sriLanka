@@ -2088,5 +2088,25 @@
     "rawPrice": 18000,
     "timestamp": "17 May 1:40 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1502,
+    "title": "Phòng Cho Thuê tại Rajagiriya",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-rajagiriya-for-rent-colombo-2",
+    "rawPrice": 60000,
+    "timestamp": "21 May 12:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1507,
+    "title": "Cho thuê phòng trọ cho nữ sinh Battaramulla",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-sharing-rooms-for-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "21 May 11:43 am",
+    "gender": "Nữ"
   }
 ]

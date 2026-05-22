@@ -2908,5 +2908,55 @@
     "rawPrice": 55000,
     "timestamp": "12 May 9:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2046,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Gampaha",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-gampaha-for-rent-gampaha-6",
+    "rawPrice": 45000,
+    "timestamp": "02 May 1:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2051,
+    "title": "Cho thuê phòng dành cho hai bạn nữ Maharagama",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-two-girls-maharagama-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "21 May 6:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2056,
+    "title": "Phòng Cho Thuê tại Rajagiriya",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-rajagiriya-for-rent-colombo-2",
+    "rawPrice": 60000,
+    "timestamp": "21 May 12:58 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2061,
+    "title": "Cho thuê phòng trọ các bạn nữ đi làm - Wijerama",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-12",
+    "rawPrice": 16000,
+    "timestamp": "19 May 12:09 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2066,
+    "title": "Phòng Cho Thuê ở Kiribathgoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-room-for-rent-in-kiribathgoda-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "21 May 1:48 pm",
+    "gender": "Nam"
   }
 ]
