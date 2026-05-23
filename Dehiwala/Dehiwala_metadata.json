@@ -3438,5 +3438,55 @@
     "rawPrice": 60000,
     "timestamp": "21 May 12:58 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2344,
+    "title": "Phòng cho thuê ở Kiribathgoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-room-for-rent-in-kiribathgoda-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "21 May 1:48 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2348,
+    "title": "Cho thuê phòng ở Dehiwala",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1179",
+    "rawPrice": 9000,
+    "timestamp": "23 May 7:15 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2351,
+    "title": "Phòng Cho Thuê Ở Dehiwala - (Chỉ Dành Cho Nam)",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-males-only-for-rent-colombo-4",
+    "rawPrice": 17000,
+    "timestamp": "22 May 3:17 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2355,
+    "title": "Phòng cho thuê cho nữ nhân viên - Wijerama",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-12",
+    "rawPrice": 16000,
+    "timestamp": "19 May 12:09 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2360,
+    "title": "Rent Sharing Rooms for Girls Battaramulla",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-sharing-rooms-for-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "21 May 11:43 am",
+    "gender": "Cả hai"
   }
 ]

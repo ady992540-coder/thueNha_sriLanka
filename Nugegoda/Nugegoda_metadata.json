@@ -3998,5 +3998,25 @@
     "rawPrice": 12000,
     "timestamp": "18 May 10:00 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3243,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Đường Pagoda, Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-pagoda-rd-nugegoda-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "22 May 4:00 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3248,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê tại Ngã tư Gansabha Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-gansabha-junction-nugegoda-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "22 May 10:24 am",
+    "gender": "Nữ"
   }
 ]
