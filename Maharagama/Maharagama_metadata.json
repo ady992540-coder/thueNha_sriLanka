@@ -3008,5 +3008,45 @@
     "rawPrice": 15000,
     "timestamp": "22 May 3:35 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 2134,
+    "title": "Cho thuê phòng trọ ghép cho nữ sinh Battaramulla",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-sharing-rooms-for-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "23 May 6:55 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2137,
+    "title": "Phòng (Chỉ cho Nữ) Cho Thuê ở Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girl-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "23 May 1:30 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2140,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà 2 phòng đầy đủ nội thất cho thuê tại Pitipana, Homagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-2-room-annex-for-rent-in-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "18 May 10:03 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2146,
+    "title": "Phòng Cho Thuê Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-colombo-1024",
+    "rawPrice": 15000,
+    "timestamp": "22 May 11:24 am",
+    "gender": "Nữ"
   }
 ]

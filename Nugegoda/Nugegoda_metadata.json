@@ -4018,5 +4018,55 @@
     "rawPrice": 65000,
     "timestamp": "22 May 10:24 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3253,
+    "title": "Phòng Cho Thuê Đã Trang Bị Đầy Đủ Nội Thất",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-for-rent-colombo-2",
+    "rawPrice": 60000,
+    "timestamp": "24 May 9:23 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3256,
+    "title": "Cho thuê phòng ở ghép ở Wijerama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-wijerama-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "23 May 1:28 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3260,
+    "title": "Modern Annex for Rent Nugegoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/modern-annex-for-rent-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "23 May 9:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3265,
+    "title": "Phòng ở Wijerama Nugegoda (Chỉ dành cho nữ)",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-in-wijerama-nugegoda-females-only-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "23 May 4:16 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3270,
+    "title": "Phòng Cho Thuê Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-colombo-1024",
+    "rawPrice": 15000,
+    "timestamp": "22 May 11:24 am",
+    "gender": "Nữ"
   }
 ]

@@ -2138,5 +2138,25 @@
     "rawPrice": 15000,
     "timestamp": "22 May 11:24 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1543,
+    "title": "Phòng cho thuê ở Ratmalana",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ratmalana-for-rent-colombo-377",
+    "rawPrice": 11500,
+    "timestamp": "23 May 11:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1545,
+    "title": "Phòng cho thuê - Chỉ dành cho nữ Piliyandala",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-room-for-rent-ladies-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "23 May 11:48 am",
+    "gender": "Nữ"
   }
 ]

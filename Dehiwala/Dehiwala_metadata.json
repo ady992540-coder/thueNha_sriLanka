@@ -3488,5 +3488,25 @@
     "rawPrice": 16500,
     "timestamp": "21 May 11:43 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2370,
+    "title": "Phòng Cho Thuê Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-colombo-1024",
+    "rawPrice": 15000,
+    "timestamp": "22 May 11:24 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2374,
+    "title": "Phòng ở Wijerama Nugegoda (Chỉ dành cho Nữ)",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-in-wijerama-nugegoda-females-only-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "23 May 4:16 pm",
+    "gender": "Nữ"
   }
 ]
