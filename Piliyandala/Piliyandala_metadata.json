@@ -2158,5 +2158,35 @@
     "rawPrice": 12000,
     "timestamp": "23 May 11:48 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1556,
+    "title": "Rooms for Girls only Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-only-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "24 May 7:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1561,
+    "title": "Fully Furnished 2 Room Annex for Rent in Pitipana, Homagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-2-room-annex-for-rent-in-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "18 May 10:03 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1567,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Gampaha",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-gampaha-for-rent-gampaha-6",
+    "rawPrice": 45000,
+    "timestamp": "02 May 1:59 pm",
+    "gender": "Cả hai"
   }
 ]

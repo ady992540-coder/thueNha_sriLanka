@@ -4068,5 +4068,45 @@
     "rawPrice": 15000,
     "timestamp": "22 May 11:24 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3285,
+    "title": "Peradeniya Room for Rent",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/peradeniya-room-with-all-facilities-for-rent-kandy",
+    "rawPrice": 17000,
+    "timestamp": "06 May 12:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3290,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho nam sinh viên Nugegoda",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/pirimi-llmun-sndhaa-aeneks-nvaataen-nugegoda-for-rent-colombo",
+    "rawPrice": 36000,
+    "timestamp": "25 May 9:05 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3295,
+    "title": "Phòng chỉ dành cho nữ Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-only-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "24 May 7:43 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3300,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Gampaha",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-gampaha-for-rent-gampaha-6",
+    "rawPrice": 45000,
+    "timestamp": "02 May 1:59 pm",
+    "gender": "Cả hai"
   }
 ]

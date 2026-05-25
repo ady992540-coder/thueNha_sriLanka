@@ -3048,5 +3048,25 @@
     "rawPrice": 15000,
     "timestamp": "22 May 11:24 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2164,
+    "title": "Phòng ở Wijerama Nugegoda (Chỉ dành cho nữ)",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-in-wijerama-nugegoda-females-only-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "23 May 4:16 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2169,
+    "title": "Phòng chỉ dành cho nữ ở Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-only-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "24 May 7:43 pm",
+    "gender": "Nữ"
   }
 ]
