@@ -4108,5 +4108,35 @@
     "rawPrice": 45000,
     "timestamp": "02 May 1:59 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3315,
+    "title": "Phòng đầy đủ tiện nghi cho thuê Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-nugegoda-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "25 May 1:40 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3318,
+    "title": "Phòng cho thuê cho nam sinh Nugegoda",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-boys-nugegoda-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "25 May 3:41 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3323,
+    "title": "Nhà trọ NSBM Chỉ Dành Cho Nữ Sinh Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nsbm-hostel-for-girls-only-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "25 May 1:59 pm",
+    "gender": "Nữ"
   }
 ]

@@ -3518,5 +3518,25 @@
     "rawPrice": 17000,
     "timestamp": "18 May 10:03 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2406,
+    "title": "Peradeniya Room for Rent",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/peradeniya-room-with-all-facilities-for-rent-kandy",
+    "rawPrice": 17000,
+    "timestamp": "25 May 12:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2411,
+    "title": "NSBM Hostel For Girls Only Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nsbm-hostel-for-girls-only-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "25 May 1:59 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -1788,5 +1788,25 @@
     "rawPrice": 8000,
     "timestamp": "23 May 4:16 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1316,
+    "title": "Nhà trọ NSBM Chỉ Dành Cho Nữ Sinh Homagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nsbm-hostel-for-girls-only-homagama-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "25 May 1:59 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1321,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Badulla",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-badulla-for-rent-badulla-1",
+    "rawPrice": 15000,
+    "timestamp": "25 May 6:35 pm",
+    "gender": "Cả hai"
   }
 ]
