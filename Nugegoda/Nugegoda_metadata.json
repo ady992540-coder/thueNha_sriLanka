@@ -4138,5 +4138,45 @@
     "rawPrice": 9000,
     "timestamp": "25 May 1:59 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3330,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê Nugegoda",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nugegoda-for-rent-colombo-308",
+    "rawPrice": 55000,
+    "timestamp": "26 May 11:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3333,
+    "title": "Phòng cho thuê Nữ - Nugegoda",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-nugegoda-for-rent-colombo-43",
+    "rawPrice": 10000,
+    "timestamp": "26 May 6:10 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3338,
+    "title": "Phòng trọ cho nữ - Wijerama Nugegoda",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-girls-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "26 May 8:54 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3340,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà 2 phòng đầy đủ nội thất cho thuê tại Pitipana, Homagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-2-room-annex-for-rent-in-pitipana-homagama-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "18 May 10:03 am",
+    "gender": "Nữ"
   }
 ]

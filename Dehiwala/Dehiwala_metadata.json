@@ -3538,5 +3538,15 @@
     "rawPrice": 9000,
     "timestamp": "25 May 1:59 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2421,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà cho thuê ở Badulla",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-badulla-for-rent-badulla-1",
+    "rawPrice": 15000,
+    "timestamp": "25 May 6:35 pm",
+    "gender": "Cả hai"
   }
 ]
