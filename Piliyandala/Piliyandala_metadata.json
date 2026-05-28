@@ -2208,5 +2208,15 @@
     "rawPrice": 8000,
     "timestamp": "23 May 4:16 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1602,
+    "title": "Peradeniya Room for Rent",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/peradeniya-room-with-all-facilities-for-rent-kandy",
+    "rawPrice": 17000,
+    "timestamp": "25 May 12:10 pm",
+    "gender": "Cả hai"
   }
 ]

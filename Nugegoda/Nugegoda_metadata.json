@@ -4178,5 +4178,25 @@
     "rawPrice": 17000,
     "timestamp": "18 May 10:03 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3364,
+    "title": "Cho Thuê Khu nhà riêng biệt, độc lập với chủ nhà Ba Phòng Ngủ Đã Trang Bị Nội Thất ở Nugegoda",
+    "price": "Rs 140,000 /tháng (~ 11.900.000 ₫)",
+    "url": "https://ikman.lk/en/ad/three-bedroom-furnished-annex-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 140000,
+    "timestamp": "28 May 6:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3373,
+    "title": "Phòng Chia Sẻ Cho Thuê ở Nugegoda - Nam",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-boys-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "27 May 7:45 pm",
+    "gender": "Nam"
   }
 ]
