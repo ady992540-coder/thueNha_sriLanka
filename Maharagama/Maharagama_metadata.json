@@ -3098,5 +3098,25 @@
     "rawPrice": 15000,
     "timestamp": "25 May 6:35 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2221,
+    "title": "Phòng cho thuê Nữ Thalawathugoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-for-rent-colombo-64",
+    "rawPrice": 11000,
+    "timestamp": "28 May 12:32 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2225,
+    "title": "Room (Only Girls) for Rent in Maharagama",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girls-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "28 May 2:19 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -2218,5 +2218,25 @@
     "rawPrice": 17000,
     "timestamp": "25 May 12:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1617,
+    "title": "Phòng cho thuê Piliyandala Borelasgamuwa",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-piliyandala-borelasgamuwa-for-rent-colombo",
+    "rawPrice": 17500,
+    "timestamp": "28 May 9:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1622,
+    "title": "Phòng cho thuê nữ sinh Thalawathugoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-for-rent-colombo-64",
+    "rawPrice": 11000,
+    "timestamp": "28 May 12:32 pm",
+    "gender": "Nữ"
   }
 ]

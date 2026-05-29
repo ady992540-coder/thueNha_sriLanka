@@ -4198,5 +4198,55 @@
     "rawPrice": 9000,
     "timestamp": "27 May 7:45 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3384,
+    "title": "Phòng cho thuê có nội thất Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-18",
+    "rawPrice": 25000,
+    "timestamp": "29 May 8:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3389,
+    "title": "Rooms for Rent- Wijerama Junction, Nugegoda (Ladies only)",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-wijerama-junction-nugegoda-ladies-only-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "28 May 8:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3393,
+    "title": "Cho thuê phòng trọ Kotte dành cho nam giới đi làm",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-working-boys-kotte-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "28 May 6:43 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3397,
+    "title": "Phòng cho thuê - Piliyandala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-for-rent-colombo-36",
+    "rawPrice": 25000,
+    "timestamp": "28 May 2:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3399,
+    "title": "Phòng Cho Thuê Nữ Thalawathugoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-for-rent-colombo-64",
+    "rawPrice": 11000,
+    "timestamp": "28 May 12:32 pm",
+    "gender": "Nữ"
   }
 ]
