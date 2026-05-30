@@ -3118,5 +3118,35 @@
     "rawPrice": 14000,
     "timestamp": "28 May 2:19 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2236,
+    "title": "Phòng cho thuê tại Maharagama (Chỉ dành cho nữ)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-maharagamaonly-girls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "29 May 11:05 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2241,
+    "title": "Phòng Cho Thuê Nữ Thalawathugoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-thalawathugoda-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "29 May 3:15 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2245,
+    "title": "Phòng Chia Sẻ Cho Thuê ở Nugegoda - Nam",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-boys-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "27 May 7:45 pm",
+    "gender": "Nam"
   }
 ]

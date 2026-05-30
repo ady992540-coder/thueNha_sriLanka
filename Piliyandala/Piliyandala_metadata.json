@@ -2238,5 +2238,25 @@
     "rawPrice": 11000,
     "timestamp": "28 May 12:32 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1632,
+    "title": "Rooms for Rent Girls Thalawathugoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-thalawathugoda-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "29 May 3:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1636,
+    "title": "Phòng chia sẻ cho thuê ở Nugegoda - Nam",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-boys-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "27 May 7:45 pm",
+    "gender": "Nam"
   }
 ]

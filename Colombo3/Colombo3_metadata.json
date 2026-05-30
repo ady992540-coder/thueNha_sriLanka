@@ -1828,5 +1828,25 @@
     "rawPrice": 13000,
     "timestamp": "28 May 4:41 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1347,
+    "title": "Phòng trọ cho thuê - Nam Kalapaluwawa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-boys-kalapaluwawa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "30 May 7:16 am",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1352,
+    "title": "Phòng ở ghép cho thuê ở Nugegoda - Nam",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-boys-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "27 May 7:45 pm",
+    "gender": "Nam"
   }
 ]

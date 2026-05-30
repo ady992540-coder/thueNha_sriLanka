@@ -4248,5 +4248,35 @@
     "rawPrice": 11000,
     "timestamp": "28 May 12:32 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3415,
+    "title": "Phòng cho thuê tại ngã tư Wijerama",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-wijerama-for-rent-matara",
+    "rawPrice": 23000,
+    "timestamp": "29 May 6:05 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3417,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Ba Phòng ngủ Đã trang bị nội thất cho thuê tại Nugegoda",
+    "price": "Rs 140,000 /tháng (~ 11.900.000 ₫)",
+    "url": "https://ikman.lk/en/ad/three-bedroom-furnished-annex-for-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 140000,
+    "timestamp": "29 May 10:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3425,
+    "title": "Phòng cho thuê Nữ Thalawathugoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-thalawathugoda-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "29 May 3:15 pm",
+    "gender": "Nữ"
   }
 ]
