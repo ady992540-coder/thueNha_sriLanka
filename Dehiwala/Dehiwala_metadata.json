@@ -3668,5 +3668,15 @@
     "rawPrice": 11000,
     "timestamp": "29 May 3:15 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2536,
+    "title": "Phòng cho thuê ở Rajagiriya Chỉ dành cho nữ",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rajagiriya-rooms-for-rent-girls-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 May 12:24 pm",
+    "gender": "Nữ"
   }
 ]

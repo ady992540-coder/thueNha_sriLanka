@@ -1848,5 +1848,25 @@
     "rawPrice": 9000,
     "timestamp": "27 May 7:45 pm",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 1362,
+    "title": "Phòng cho thuê Rajagiriya cho Nữ",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rajagiriya-rooms-for-rent-girls-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 May 12:24 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1367,
+    "title": "Phòng cho thuê Nữ Thalawathugoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-thalawathugoda-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "29 May 3:15 pm",
+    "gender": "Nữ"
   }
 ]

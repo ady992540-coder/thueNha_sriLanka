@@ -4278,5 +4278,25 @@
     "rawPrice": 11000,
     "timestamp": "29 May 3:15 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3447,
+    "title": "Phòng trọ cho nữ sinh tại Kalubowila",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-rent-colombo-2",
+    "rawPrice": 10000,
+    "timestamp": "29 May 2:49 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3452,
+    "title": "Phòng Cho Thuê ở Rajagiriya Chỉ Dành Cho Nữ",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rajagiriya-rooms-for-rent-girls-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 May 12:24 pm",
+    "gender": "Nữ"
   }
 ]
