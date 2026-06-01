@@ -3678,5 +3678,25 @@
     "rawPrice": 35000,
     "timestamp": "09 May 12:24 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 2551,
+    "title": "Phòng cho thuê Kalubowila",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10246",
+    "rawPrice": 22000,
+    "timestamp": "01 Jun 10:15 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2556,
+    "title": "Sharing Rooms for Rent Battaramulla - Girls",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-rent-battaramulla-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "31 May 1:10 am",
+    "gender": "Cả hai"
   }
 ]

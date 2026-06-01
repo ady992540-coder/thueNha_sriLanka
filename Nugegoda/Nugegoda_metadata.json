@@ -4298,5 +4298,45 @@
     "rawPrice": 35000,
     "timestamp": "09 May 12:24 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 3467,
+    "title": "Sharing Rooms for Rent Battaramulla - Girls",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-rent-battaramulla-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "31 May 1:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3471,
+    "title": "Khu nhà riêng biệt, độc lập với chủ nhà Ba Phòng Ngủ Đã Trang Bị Nội Thất Cho Thuê tại Nugegoda",
+    "price": "Rs 140,000 /tháng (~ 11.900.000 ₫)",
+    "url": "https://ikman.lk/en/ad/three-bedroom-furnished-annex-for-rent-in-nugegoda-for-rent-colombo-2",
+    "rawPrice": 140000,
+    "timestamp": "01 Jun 7:59 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3480,
+    "title": "Cho thuê phòng đơn ở Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "31 May 2:55 pm",
+    "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3483,
+    "title": "Phòng Cho Thuê Tại Nugegoda, Delkanda",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-delkanda-for-rent-colombo-17",
+    "rawPrice": 13000,
+    "timestamp": "01 Jun 9:08 am",
+    "gender": "Nam"
   }
 ]

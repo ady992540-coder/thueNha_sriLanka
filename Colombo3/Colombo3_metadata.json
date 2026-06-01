@@ -1868,5 +1868,35 @@
     "rawPrice": 11000,
     "timestamp": "29 May 3:15 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1380,
+    "title": "Phòng trọ cho nữ sinh tại Kalubowila",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-rent-colombo-2",
+    "rawPrice": 10000,
+    "timestamp": "29 May 2:49 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1385,
+    "title": "Phòng Cho Thuê Udupila",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-gampaha-680",
+    "rawPrice": 16000,
+    "timestamp": "31 May 10:37 pm",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1388,
+    "title": "Cho thuê phòng ở ghép Battaramulla - Nữ",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-rent-battaramulla-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "31 May 1:10 am",
+    "gender": "Nữ"
   }
 ]

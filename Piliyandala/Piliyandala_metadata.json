@@ -2278,5 +2278,25 @@
     "rawPrice": 10000,
     "timestamp": "29 May 2:49 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1670,
+    "title": "Cho thuê phòng chung Battaramulla - Nữ",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-rent-battaramulla-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "31 May 1:10 am",
+    "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1674,
+    "title": "Phòng Cho Thuê Udupila",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-gampaha-680",
+    "rawPrice": 16000,
+    "timestamp": "31 May 10:37 pm",
+    "gender": "Nữ"
   }
 ]
