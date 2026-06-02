@@ -4338,5 +4338,55 @@
     "rawPrice": 13000,
     "timestamp": "01 Jun 9:08 am",
     "gender": "Nam"
+  },
+  {
+    "success": true,
+    "messageId": 3498,
+    "title": "Furnished room Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "01 Jun 4:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3502,
+    "title": "Room for Rent Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-566",
+    "rawPrice": 15000,
+    "timestamp": "01 Jun 12:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3507,
+    "title": "Single Room for Working Girls Delkanda",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-available-for-working-girls-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "01 Jun 11:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3512,
+    "title": "Upstair Room for Rent Thalawatugoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-for-rent-thalawatugoda-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "02 Jun 9:17 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3519,
+    "title": "Sharing Rooms (Girls) Kaduwela",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "01 Jun 5:26 pm",
+    "gender": "Cả hai"
   }
 ]

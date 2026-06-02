@@ -3188,5 +3188,35 @@
     "rawPrice": 16500,
     "timestamp": "31 May 1:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2303,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-972",
+    "rawPrice": 25000,
+    "timestamp": "01 Jun 4:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2308,
+    "title": "Annex for Rent in Thalawathugoda",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-thalawathugoda-for-rent-colombo-169",
+    "rawPrice": 29000,
+    "timestamp": "01 Jun 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2313,
+    "title": "Sharing Rooms (Girls) Kaduwela",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "01 Jun 5:26 pm",
+    "gender": "Cả hai"
   }
 ]

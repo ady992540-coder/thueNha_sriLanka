@@ -2298,5 +2298,25 @@
     "rawPrice": 16000,
     "timestamp": "31 May 10:37 pm",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1688,
+    "title": "Upstair Room for Rent Thalawatugoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-for-rent-thalawatugoda-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "02 Jun 9:17 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1695,
+    "title": "Sharing Rooms (Girls) Kaduwela",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "01 Jun 5:26 pm",
+    "gender": "Cả hai"
   }
 ]

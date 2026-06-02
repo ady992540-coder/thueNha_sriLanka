@@ -1898,5 +1898,35 @@
     "rawPrice": 16500,
     "timestamp": "31 May 1:10 am",
     "gender": "Nữ"
+  },
+  {
+    "success": true,
+    "messageId": 1401,
+    "title": "Sharing Rooms (Girls) Kaduwela",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "01 Jun 5:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1406,
+    "title": "Studio Apartment | For Rent Mount Lavinia Property ID - R9999",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-apartment-for-rent-mount-lavinia-property-id-r9999-for-rent-colombo-1",
+    "rawPrice": 70000,
+    "timestamp": "01 Jun 11:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1411,
+    "title": "Upstair Room for Rent Thalawatugoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-for-rent-thalawatugoda-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "02 Jun 9:17 am",
+    "gender": "Cả hai"
   }
 ]

@@ -3698,5 +3698,65 @@
     "rawPrice": 16500,
     "timestamp": "31 May 1:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2566,
+    "title": "Fully Furnished Anex For Rent Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-anex-for-rent-dehiwala-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "02 Jun 7:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2572,
+    "title": "Furnished Room For Rent - Kalubowila",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-kalubowila-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "01 Jun 10:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2580,
+    "title": "Room for Rent in Bellanwila",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-bellanwila-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Jun 4:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2585,
+    "title": "Furnished Luxury Room for Rent in Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-luxury-room-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "01 Jun 1:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2591,
+    "title": "Upstair Room for Rent Thalawatugoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-for-rent-thalawatugoda-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "02 Jun 9:17 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2605,
+    "title": "Sharing Rooms (Girls) Kaduwela",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "01 Jun 5:26 pm",
+    "gender": "Cả hai"
   }
 ]
