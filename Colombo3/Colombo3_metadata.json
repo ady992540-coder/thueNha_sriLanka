@@ -1928,5 +1928,25 @@
     "rawPrice": 70000,
     "timestamp": "02 Jun 9:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1427,
+    "title": "Annex for Rent in Thalawathugoda",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-thalawathugoda-for-rent-colombo-169",
+    "rawPrice": 29000,
+    "timestamp": "01 Jun 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1432,
+    "title": "Colombo 8 - Room for Rent Ladies",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-room-for-rent-ladies-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "02 Jun 10:44 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -3218,5 +3218,25 @@
     "rawPrice": 11000,
     "timestamp": "01 Jun 5:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2318,
+    "title": "Furnished Bedroom for Rent in Pamunuwa Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-bedroom-for-rent-in-pamunuwa-maharagama-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "03 Jun 9:03 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2323,
+    "title": "Upstair Room for Rent Thalawatugoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-room-for-rent-thalawatugoda-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "02 Jun 9:17 am",
+    "gender": "Cả hai"
   }
 ]

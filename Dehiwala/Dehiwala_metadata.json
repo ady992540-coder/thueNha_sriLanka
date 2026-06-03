@@ -3758,5 +3758,55 @@
     "rawPrice": 11000,
     "timestamp": "01 Jun 5:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2620,
+    "title": "Annex for Rent in Thalawathugoda",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-thalawathugoda-for-rent-colombo-169",
+    "rawPrice": 29000,
+    "timestamp": "01 Jun 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2625,
+    "title": "Fully Furnished Anex For Rent Dehiwala",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-anex-for-rent-dehiwala-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "03 Jun 6:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2628,
+    "title": "Boarding Room for Girls Only Dehiwala",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-girls-only-dehiwala-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "02 Jun 8:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2633,
+    "title": "(SLS3) Room for Rent in Kalubovila,Dehiwala ( Only Boys)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sls3-room-for-rent-in-kaluboviladehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "02 Jun 6:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2637,
+    "title": "Rooms for Rent Udupila",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-gampaha-680",
+    "rawPrice": 16000,
+    "timestamp": "31 May 10:37 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -4388,5 +4388,45 @@
     "rawPrice": 11000,
     "timestamp": "01 Jun 5:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3539,
+    "title": "Annex for Rent in Thalawathugoda",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-thalawathugoda-for-rent-colombo-169",
+    "rawPrice": 29000,
+    "timestamp": "01 Jun 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3544,
+    "title": "Room (Only Girls) Rent in Nugegoda, Delkanda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girls-rent-in-nugegoda-delkanda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "02 Jun 11:15 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3549,
+    "title": "Rooms for Rent Wijerama Junction, Nugegoda (Ladies)",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-wijerama-junction-nugegoda-ladies-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "03 Jun 8:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3553,
+    "title": "Rooms for Rent Udupila",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-gampaha-680",
+    "rawPrice": 16000,
+    "timestamp": "31 May 10:37 pm",
+    "gender": "Cả hai"
   }
 ]
