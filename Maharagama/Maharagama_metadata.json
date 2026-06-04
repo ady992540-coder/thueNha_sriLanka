@@ -3238,5 +3238,25 @@
     "rawPrice": 70000,
     "timestamp": "02 Jun 9:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2340,
+    "title": "Fully Furnished Annex (with Equipped Kitchen) Rent Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-with-equipped-kitchen-rent-maharagama-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "03 Jun 12:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2345,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-room-for-rent-colombo-237",
+    "rawPrice": 10000,
+    "timestamp": "13 May 5:15 pm",
+    "gender": "Cả hai"
   }
 ]

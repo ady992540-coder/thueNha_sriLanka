@@ -2318,5 +2318,25 @@
     "rawPrice": 11000,
     "timestamp": "01 Jun 5:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1711,
+    "title": "Annex for Rent in Thalawathugoda",
+    "price": "Rs 29,000 /tháng (~ 2.465.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-thalawathugoda-for-rent-colombo-169",
+    "rawPrice": 29000,
+    "timestamp": "01 Jun 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1716,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-room-for-rent-colombo-237",
+    "rawPrice": 10000,
+    "timestamp": "13 May 5:15 pm",
+    "gender": "Cả hai"
   }
 ]

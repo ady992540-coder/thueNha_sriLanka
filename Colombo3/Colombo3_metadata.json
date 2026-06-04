@@ -1948,5 +1948,15 @@
     "rawPrice": 28000,
     "timestamp": "02 Jun 10:44 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1442,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-room-for-rent-colombo-237",
+    "rawPrice": 10000,
+    "timestamp": "13 May 5:15 pm",
+    "gender": "Cả hai"
   }
 ]
