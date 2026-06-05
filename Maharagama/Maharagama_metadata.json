@@ -3258,5 +3258,15 @@
     "rawPrice": 10000,
     "timestamp": "13 May 5:15 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2355,
+    "title": "Room For Rent Hokandara",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10248",
+    "rawPrice": 25000,
+    "timestamp": "01 Jun 6:24 pm",
+    "gender": "Cả hai"
   }
 ]

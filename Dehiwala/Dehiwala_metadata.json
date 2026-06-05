@@ -3828,5 +3828,35 @@
     "rawPrice": 11500,
     "timestamp": "04 Jun 2:08 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2668,
+    "title": "Girls Room for Rent Dehiwala",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-room-for-rent-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "04 Jun 6:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2671,
+    "title": "Furnish Annex for Rent in Nedimala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-annex-for-rent-in-nedimala-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "04 Jun 4:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2676,
+    "title": "Room For Rent Hokandara",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10248",
+    "rawPrice": 25000,
+    "timestamp": "01 Jun 6:24 pm",
+    "gender": "Cả hai"
   }
 ]
