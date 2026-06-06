@@ -4468,5 +4468,55 @@
     "rawPrice": 10000,
     "timestamp": "05 Jun 8:28 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3599,
+    "title": "Room for Rent in Dehiwala only Boys",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 26000,
+    "timestamp": "05 Jun 11:27 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3604,
+    "title": "Room for Rent in Pita Kotte (Male Only)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pita-kotte-male-only-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Jun 8:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3609,
+    "title": "Room for Rent Working Girls only Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-working-girls-only-nugegoda-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "05 Jun 4:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3613,
+    "title": "Room for Rent in Mattegoda(Boys only Accommodation)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mattegodaboys-only-accommodation-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "05 Jun 6:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3618,
+    "title": "Room For Rent Hokandara",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10248",
+    "rawPrice": 25000,
+    "timestamp": "01 Jun 6:24 pm",
+    "gender": "Cả hai"
   }
 ]

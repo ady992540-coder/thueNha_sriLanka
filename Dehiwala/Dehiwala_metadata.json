@@ -3858,5 +3858,55 @@
     "rawPrice": 25000,
     "timestamp": "01 Jun 6:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2683,
+    "title": "Room for Rent Dehiwala ( Boys only )",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-boys-only-for-rent-colombo-4",
+    "rawPrice": 15000,
+    "timestamp": "06 Jun 12:34 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2684,
+    "title": "Room for Rent Dehiwela",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwela-for-rent-colombo-7",
+    "rawPrice": 55000,
+    "timestamp": "05 Jun 5:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2689,
+    "title": "Annex for Rent in Kalubovila",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kalubovila-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "05 Jun 4:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2692,
+    "title": "Room for Rent in Dehiwala only Boys",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 26000,
+    "timestamp": "05 Jun 11:27 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2697,
+    "title": "Room for Rent in Mattegoda(Boys only Accommodation)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mattegodaboys-only-accommodation-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "05 Jun 6:47 pm",
+    "gender": "Cả hai"
   }
 ]

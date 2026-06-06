@@ -2368,5 +2368,25 @@
     "rawPrice": 25000,
     "timestamp": "01 Jun 6:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1754,
+    "title": "Room for Rent in Mattegoda(Boys only Accommodation)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mattegodaboys-only-accommodation-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "05 Jun 6:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1759,
+    "title": "Room for Rent in Dehiwala only Boys",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 26000,
+    "timestamp": "05 Jun 11:27 am",
+    "gender": "Cả hai"
   }
 ]
