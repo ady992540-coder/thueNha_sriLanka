@@ -1988,5 +1988,25 @@
     "rawPrice": 26000,
     "timestamp": "05 Jun 11:27 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1485,
+    "title": "Rooms for Rent in Malabe (Ladies Only)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-malabe-ladies-only-for-rent-colombo-1",
+    "rawPrice": 32000,
+    "timestamp": "22 May 12:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1489,
+    "title": "Boarding for Boys in Kollupitiya (Colombo 3)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-boys-in-kollupitiya-colombo-3-for-rent-colombo-1",
+    "rawPrice": 13000,
+    "timestamp": "06 Jun 4:17 pm",
+    "gender": "Cả hai"
   }
 ]

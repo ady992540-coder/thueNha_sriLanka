@@ -4518,5 +4518,35 @@
     "rawPrice": 25000,
     "timestamp": "01 Jun 6:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3633,
+    "title": "Furnished room for rent",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-for-rent-colombo-49",
+    "rawPrice": 30000,
+    "timestamp": "07 Jun 9:09 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3636,
+    "title": "Ensuite Room -Nugegoda Town Suburb",
+    "price": "Rs 39,000 /tháng (~ 3.315.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ensuite-room-nugegoda-town-suburb-for-rent-colombo-1",
+    "rawPrice": 39000,
+    "timestamp": "07 Jun 1:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3641,
+    "title": "Rooms for Rent in Malabe (Ladies Only)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-malabe-ladies-only-for-rent-colombo-1",
+    "rawPrice": 32000,
+    "timestamp": "22 May 12:39 pm",
+    "gender": "Cả hai"
   }
 ]

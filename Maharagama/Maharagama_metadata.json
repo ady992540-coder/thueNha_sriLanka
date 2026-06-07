@@ -3278,5 +3278,55 @@
     "rawPrice": 15000,
     "timestamp": "05 Jun 6:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2394,
+    "title": "Rooms for Rent Maharagama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-for-rent-colombo-19",
+    "rawPrice": 22000,
+    "timestamp": "07 Jun 9:36 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2396,
+    "title": "Annex for Rent Maharagama",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-maharagama-for-rent-colombo-268",
+    "rawPrice": 38000,
+    "timestamp": "06 Jun 11:02 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2400,
+    "title": "Small Annex for Rent Maharagama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/small-annex-for-rent-maharagama-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "06 Jun 4:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2404,
+    "title": "Rooms for Rent in Malabe (Ladies Only)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-malabe-ladies-only-for-rent-colombo-1",
+    "rawPrice": 32000,
+    "timestamp": "22 May 12:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2408,
+    "title": "Room for Rent in Dehiwala only Boys",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 26000,
+    "timestamp": "05 Jun 11:27 am",
+    "gender": "Cả hai"
   }
 ]
