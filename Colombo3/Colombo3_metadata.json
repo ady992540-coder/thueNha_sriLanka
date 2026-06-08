@@ -2008,5 +2008,25 @@
     "rawPrice": 13000,
     "timestamp": "06 Jun 4:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1500,
+    "title": "Room for Rent in Villa Hotel Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-villa-hotel-mount-lavinia-for-rent-colombo-1",
+    "rawPrice": 75000,
+    "timestamp": "07 Jun 12:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1504,
+    "title": "Room for Rent- Boys Only Boralesgamuwa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boys-only-for-rent-colombo-27",
+    "rawPrice": 25000,
+    "timestamp": "06 Jun 5:14 pm",
+    "gender": "Cả hai"
   }
 ]

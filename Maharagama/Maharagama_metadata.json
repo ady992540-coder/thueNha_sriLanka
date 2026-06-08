@@ -3328,5 +3328,35 @@
     "rawPrice": 26000,
     "timestamp": "05 Jun 11:27 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2423,
+    "title": "Room for Rent in Villa Hotel Mount Lavinia",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-villa-hotel-mount-lavinia-for-rent-colombo-1",
+    "rawPrice": 75000,
+    "timestamp": "07 Jun 12:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2427,
+    "title": "Room near Maharagama-Piliyandala Road",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-near-maharagama-piliyandala-road-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "07 Jun 10:04 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2430,
+    "title": "Furnished Annex For Rent Mount Lavinia",
+    "price": "Rs 150,000 /tháng (~ 12.750.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-mount-lavinia-for-rent-colombo-1",
+    "rawPrice": 150000,
+    "timestamp": "30 Apr 2:38 pm",
+    "gender": "Cả hai"
   }
 ]
