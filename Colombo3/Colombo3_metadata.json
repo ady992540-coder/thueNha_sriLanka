@@ -2028,5 +2028,15 @@
     "rawPrice": 25000,
     "timestamp": "06 Jun 5:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1517,
+    "title": "Boarding Room for Rent - (Only Boys) Kalapaluwawa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-only-boys-kalapaluwawa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "09 Jun 6:57 am",
+    "gender": "Cả hai"
   }
 ]

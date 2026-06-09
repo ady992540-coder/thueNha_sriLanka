@@ -3358,5 +3358,35 @@
     "rawPrice": 150000,
     "timestamp": "30 Apr 2:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2443,
+    "title": "Room for Rent- Boys Only Boralesgamuwa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boys-only-for-rent-colombo-27",
+    "rawPrice": 25000,
+    "timestamp": "06 Jun 5:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2447,
+    "title": "Room for Rent in Maharagama - Girls",
+    "price": "Rs 19,000 /tháng (~ 1.615.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-girls-for-rent-colombo-2",
+    "rawPrice": 19000,
+    "timestamp": "09 Jun 6:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2452,
+    "title": "Room For Rent - Girls only Ethulkotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-only-ethulkotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "07 Jun 7:24 pm",
+    "gender": "Cả hai"
   }
 ]

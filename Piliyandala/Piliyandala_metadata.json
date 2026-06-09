@@ -2428,5 +2428,25 @@
     "rawPrice": 25000,
     "timestamp": "06 Jun 5:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1808,
+    "title": "Furnished Annex For Rent Mount Lavinia",
+    "price": "Rs 150,000 /tháng (~ 12.750.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-mount-lavinia-for-rent-colombo-1",
+    "rawPrice": 150000,
+    "timestamp": "30 Apr 2:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1813,
+    "title": "Rooms Available for Boys in Piliyandala",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-available-for-boys-for-rent-colombo-3",
+    "rawPrice": 11500,
+    "timestamp": "08 Jun 7:42 pm",
+    "gender": "Cả hai"
   }
 ]

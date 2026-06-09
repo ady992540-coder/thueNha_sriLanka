@@ -3978,5 +3978,55 @@
     "rawPrice": 150000,
     "timestamp": "30 Apr 2:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2745,
+    "title": "Room For Rent - Girls only Ethulkotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-only-ethulkotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "07 Jun 7:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2746,
+    "title": "Dehiwala Fully Furnished Annex For Rent (SM119)",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-fully-furnished-annex-for-rent-sm119-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "09 Jun 9:04 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2753,
+    "title": "annex available for rent",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-available-for-rent-for-rent-colombo-11",
+    "rawPrice": 40000,
+    "timestamp": "08 Jun 2:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2761,
+    "title": "Room For Rent Dehiwala",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-555",
+    "rawPrice": 18000,
+    "timestamp": "08 Jun 10:36 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2766,
+    "title": "Boarding Room for Rent Dehiwala - Girls only",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-dehiwala-girls-only-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "09 Jun 3:40 am",
+    "gender": "Cả hai"
   }
 ]

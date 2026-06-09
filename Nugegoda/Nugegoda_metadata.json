@@ -4618,5 +4618,25 @@
     "rawPrice": 25000,
     "timestamp": "06 Jun 5:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3697,
+    "title": "Room for Rent Nugegoda",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-567",
+    "rawPrice": 38000,
+    "timestamp": "09 Jun 3:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3700,
+    "title": "Room for Rent in Mattegoda (Boys only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mattegoda-boys-only-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "09 Jun 3:40 am",
+    "gender": "Cả hai"
   }
 ]
