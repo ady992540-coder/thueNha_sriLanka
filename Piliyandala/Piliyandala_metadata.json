@@ -2448,5 +2448,25 @@
     "rawPrice": 11500,
     "timestamp": "08 Jun 7:42 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1818,
+    "title": "Room for Rent in Piliyandala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-piliyandala-for-rent-colombo-199",
+    "rawPrice": 35000,
+    "timestamp": "09 Jun 3:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1823,
+    "title": "Furnish Annex for Rent in Nedimala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-annex-for-rent-in-nedimala-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "04 Jun 4:03 pm",
+    "gender": "Cả hai"
   }
 ]

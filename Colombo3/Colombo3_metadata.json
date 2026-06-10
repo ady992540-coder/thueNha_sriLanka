@@ -2038,5 +2038,15 @@
     "rawPrice": 15000,
     "timestamp": "09 Jun 6:57 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1531,
+    "title": "Colombo 8 - For Rent Ladies Furnished Two Rooms with Security",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-for-rent-ladies-furnished-two-rooms-with-security-for-rent-colombo-4",
+    "rawPrice": 28000,
+    "timestamp": "09 Jun 1:25 pm",
+    "gender": "Cả hai"
   }
 ]

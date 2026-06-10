@@ -4638,5 +4638,25 @@
     "rawPrice": 15000,
     "timestamp": "09 Jun 3:40 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3717,
+    "title": "Rooms for Rent in Rathmalana (Female)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-female-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "09 Jun 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3722,
+    "title": "Furnish Annex for Rent in Nedimala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-annex-for-rent-in-nedimala-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "04 Jun 4:03 pm",
+    "gender": "Cả hai"
   }
 ]

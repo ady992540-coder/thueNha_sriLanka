@@ -3388,5 +3388,35 @@
     "rawPrice": 25000,
     "timestamp": "07 Jun 7:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2458,
+    "title": "Furnish Annex for Rent in Nedimala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-annex-for-rent-in-nedimala-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "04 Jun 4:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2463,
+    "title": "Upstairs Annex for Rent in Malabe (thalahena)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-house-for-rent-in-malabe-thalahena-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "08 Jun 3:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2468,
+    "title": "Room for Rent (Girls) - Maharagama",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-maharagama-for-rent-colombo-4",
+    "rawPrice": 18000,
+    "timestamp": "09 Jun 7:11 pm",
+    "gender": "Cả hai"
   }
 ]

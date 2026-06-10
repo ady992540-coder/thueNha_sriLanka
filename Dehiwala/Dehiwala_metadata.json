@@ -4028,5 +4028,25 @@
     "rawPrice": 18000,
     "timestamp": "09 Jun 3:40 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2771,
+    "title": "Room for Rent in Dehiwala - Boys Only",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-boys-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "09 Jun 8:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2775,
+    "title": "1st Floor Annex Rent In Attidiya Main Road ( Commercial Or Resistance)",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1st-floor-annex-rent-in-attidiya-main-road-commercial-or-resistance-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "09 Jun 12:50 pm",
+    "gender": "Cả hai"
   }
 ]
