@@ -3418,5 +3418,35 @@
     "rawPrice": 18000,
     "timestamp": "09 Jun 7:11 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2486,
+    "title": "Rooms for Rent in Maharagama (For Girls Only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-maharagama-for-girls-only-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "10 Jun 1:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2491,
+    "title": "Rooms for Rent in Rathmalana (Female)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-female-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "09 Jun 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2496,
+    "title": "Room for Rent in Mattegoda (Boys only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mattegoda-boys-only-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "09 Jun 3:40 am",
+    "gender": "Cả hai"
   }
 ]

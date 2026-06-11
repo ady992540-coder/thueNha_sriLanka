@@ -4048,5 +4048,55 @@
     "rawPrice": 42000,
     "timestamp": "09 Jun 12:50 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2791,
+    "title": "Room available for rent",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-available-for-rent-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "10 Jun 4:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2797,
+    "title": "Furnished Room For Rent - Attidiya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-attidiya-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "10 Jun 11:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2800,
+    "title": "Room for Rent in Dehiwala - Boys",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-boys-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "10 Jun 7:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2804,
+    "title": "Upstairs Annex for Rent in Malabe (thalahena)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-house-for-rent-in-malabe-thalahena-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "08 Jun 3:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2809,
+    "title": "Annex for Rent in Kotugoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotugoda-for-rent-gampaha-1",
+    "rawPrice": 25000,
+    "timestamp": "03 May 10:38 am",
+    "gender": "Cả hai"
   }
 ]

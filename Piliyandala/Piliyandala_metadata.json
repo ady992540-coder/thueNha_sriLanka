@@ -2468,5 +2468,45 @@
     "rawPrice": 60000,
     "timestamp": "04 Jun 4:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1838,
+    "title": "Rooms for Rent in Rathmalana (Female)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-female-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "09 Jun 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1843,
+    "title": "Room For Rent - Girls only Ethulkotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-only-ethulkotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "07 Jun 7:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1844,
+    "title": "Room for Rent in Mattegoda (Boys only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mattegoda-boys-only-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "09 Jun 3:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1849,
+    "title": "Annex for Rent in Kotugoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotugoda-for-rent-gampaha-1",
+    "rawPrice": 25000,
+    "timestamp": "03 May 10:38 am",
+    "gender": "Cả hai"
   }
 ]

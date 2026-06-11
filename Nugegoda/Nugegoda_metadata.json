@@ -4658,5 +4658,45 @@
     "rawPrice": 60000,
     "timestamp": "04 Jun 4:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3727,
+    "title": "Annex for Rent in Nugegoda",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-705",
+    "rawPrice": 55000,
+    "timestamp": "11 Jun 9:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3732,
+    "title": "Upstairs Annex for Rent in Malabe (thalahena)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-house-for-rent-in-malabe-thalahena-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "08 Jun 3:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3737,
+    "title": "Room For Rent - Girls only Ethulkotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-only-ethulkotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "07 Jun 7:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3738,
+    "title": "Annex for Rent in Kotugoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotugoda-for-rent-gampaha-1",
+    "rawPrice": 25000,
+    "timestamp": "03 May 10:38 am",
+    "gender": "Cả hai"
   }
 ]
