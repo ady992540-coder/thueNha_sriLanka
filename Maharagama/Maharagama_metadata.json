@@ -3448,5 +3448,35 @@
     "rawPrice": 15000,
     "timestamp": "09 Jun 3:40 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2508,
+    "title": "Luxury Rooms for Rent Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-rooms-for-rent-maharagama-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "11 Jun 12:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2513,
+    "title": "Sharing Rooms (girls) Kaduwela",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo-1",
+    "rawPrice": 10500,
+    "timestamp": "11 Jun 5:49 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2518,
+    "title": "An Apartment in Walking distance to Karapitiya for rent",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-apartment-in-walking-distance-to-karapitiya-for-rent-gampaha",
+    "rawPrice": 100000,
+    "timestamp": "10 Jun 11:03 pm",
+    "gender": "Cả hai"
   }
 ]

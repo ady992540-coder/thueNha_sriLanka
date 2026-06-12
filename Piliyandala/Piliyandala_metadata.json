@@ -2508,5 +2508,35 @@
     "rawPrice": 25000,
     "timestamp": "03 May 10:38 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1865,
+    "title": "Room for Rent Piliyandala (for Girl)",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-for-girl-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "11 Jun 7:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1870,
+    "title": "Sharing Rooms (girls) Kaduwela",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo-1",
+    "rawPrice": 10500,
+    "timestamp": "11 Jun 5:49 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1875,
+    "title": "An Apartment in Walking distance to Karapitiya for rent",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-apartment-in-walking-distance-to-karapitiya-for-rent-gampaha",
+    "rawPrice": 100000,
+    "timestamp": "10 Jun 11:03 pm",
+    "gender": "Cả hai"
   }
 ]

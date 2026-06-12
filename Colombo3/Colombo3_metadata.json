@@ -2098,5 +2098,35 @@
     "rawPrice": 150000,
     "timestamp": "30 Apr 2:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1585,
+    "title": "WELLAWATHTHA FURNISHED ANNEX FOR RENT",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/wellawaththa-furnished-annex-for-rent-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "11 Jun 11:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1590,
+    "title": "Furnish Annex for Rent in Nedimala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnish-annex-for-rent-in-nedimala-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "04 Jun 4:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1595,
+    "title": "Room For Rent - Girls only Ethulkotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-only-ethulkotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "07 Jun 7:24 pm",
+    "gender": "Cả hai"
   }
 ]

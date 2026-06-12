@@ -4698,5 +4698,35 @@
     "rawPrice": 25000,
     "timestamp": "03 May 10:38 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3758,
+    "title": "Room Rent for Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-male-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "11 Jun 11:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3762,
+    "title": "Room for Rent in Nugegoda Boys",
+    "price": "Rs 13,500 /tháng (~ 1.147.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-boys-for-rent-colombo",
+    "rawPrice": 13500,
+    "timestamp": "11 Jun 7:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3767,
+    "title": "Sharing Rooms (girls) Kaduwela",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo-1",
+    "rawPrice": 10500,
+    "timestamp": "11 Jun 5:49 pm",
+    "gender": "Cả hai"
   }
 ]

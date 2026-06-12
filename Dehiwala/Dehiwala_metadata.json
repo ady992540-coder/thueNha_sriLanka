@@ -4098,5 +4098,45 @@
     "rawPrice": 25000,
     "timestamp": "03 May 10:38 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2819,
+    "title": "Rooms for Rent in Rathmalana (Female)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-female-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "09 Jun 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2824,
+    "title": "Fuinich Anex For Rent Dehiwala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fuinich-anex-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "11 Jun 4:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2829,
+    "title": "An Apartment in Walking distance to Karapitiya for rent",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-apartment-in-walking-distance-to-karapitiya-for-rent-gampaha",
+    "rawPrice": 100000,
+    "timestamp": "10 Jun 11:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2834,
+    "title": "Room for Rent in Mattegoda (Boys only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mattegoda-boys-only-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "09 Jun 3:40 am",
+    "gender": "Cả hai"
   }
 ]
