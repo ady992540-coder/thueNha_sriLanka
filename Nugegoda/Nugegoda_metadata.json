@@ -4728,5 +4728,75 @@
     "rawPrice": 10500,
     "timestamp": "11 Jun 5:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3790,
+    "title": "Single Room Rent For A Lady - Delkanda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-available-for-a-lady-delkanda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "12 Jun 5:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3795,
+    "title": "1 BHK Furnished Annex- only Girls Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1-bhk-furnished-annex-only-girls-nugegoda-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "12 Jun 5:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3799,
+    "title": "1BHK Unfurnished Ground Floor Annex Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bhk-unfurnished-ground-floor-annex-nugegoda-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "12 Jun 4:49 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3804,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1342",
+    "rawPrice": 30000,
+    "timestamp": "12 Jun 2:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3809,
+    "title": "Furnished Room for Rent in Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "12 Jun 12:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3818,
+    "title": "Boarding Rooms for Girls - Wijerama Nugegoda",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-girls-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 100000,
+    "timestamp": "12 Jun 1:13 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3820,
+    "title": "An Apartment in Walking distance to Karapitiya for rent",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-apartment-in-walking-distance-to-karapitiya-for-rent-gampaha",
+    "rawPrice": 100000,
+    "timestamp": "12 Jun 5:45 pm",
+    "gender": "Cả hai"
   }
 ]

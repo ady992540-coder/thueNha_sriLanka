@@ -3478,5 +3478,15 @@
     "rawPrice": 100000,
     "timestamp": "10 Jun 11:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2535,
+    "title": "Annex for Rent in Kotugoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotugoda-for-rent-gampaha-1",
+    "rawPrice": 25000,
+    "timestamp": "03 May 10:38 am",
+    "gender": "Cả hai"
   }
 ]

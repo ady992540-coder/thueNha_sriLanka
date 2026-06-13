@@ -4138,5 +4138,35 @@
     "rawPrice": 15000,
     "timestamp": "09 Jun 3:40 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2839,
+    "title": "Sharing Rooms (girls) Kaduwela",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-girls-kaduwela-for-rent-colombo-1",
+    "rawPrice": 10500,
+    "timestamp": "11 Jun 5:49 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2844,
+    "title": "1Room Anex For Rent Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1room-anex-for-rent-dehiwala-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "13 Jun 9:11 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2847,
+    "title": "Annex for Rent in Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-692",
+    "rawPrice": 30000,
+    "timestamp": "12 Jun 2:54 pm",
+    "gender": "Cả hai"
   }
 ]
