@@ -4798,5 +4798,45 @@
     "rawPrice": 100000,
     "timestamp": "12 Jun 5:45 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3834,
+    "title": "Annex For Rent Girls with A/c Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-annex-for-one-or-two-girls-with-a-c-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "13 Jun 5:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3838,
+    "title": "Upstairs Annex for Rent Delkanda , Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-for-rent-delkanda-nugegoda-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "13 Jun 3:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3843,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "08 Jun 8:27 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3848,
+    "title": "Rooms for Rent Boys only Battaramulla",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-only-battaramulla-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "13 Jun 1:25 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -4168,5 +4168,25 @@
     "rawPrice": 30000,
     "timestamp": "12 Jun 2:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2858,
+    "title": "1st Floor Annex Rent In Attidiya Main Road (Office Space Or Resistance )",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1st-floor-annex-rent-in-attidiya-main-road-office-space-or-resistance-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "13 Jun 5:31 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2862,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "08 Jun 8:27 am",
+    "gender": "Cả hai"
   }
 ]

@@ -2148,5 +2148,35 @@
     "rawPrice": 100000,
     "timestamp": "12 Jun 5:45 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1624,
+    "title": "WELLAWATHTHA FURNISHED ANNEX FOR RENT GIRLS ONLY",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/wellawaththa-furnished-annex-for-rent-girls-only-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "13 Jun 12:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1629,
+    "title": "Rooms for Rent Boys only Battaramulla",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-only-battaramulla-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "13 Jun 1:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1633,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "08 Jun 8:27 am",
+    "gender": "Cả hai"
   }
 ]

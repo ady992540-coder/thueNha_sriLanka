@@ -2538,5 +2538,45 @@
     "rawPrice": 100000,
     "timestamp": "10 Jun 11:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1880,
+    "title": "Spacious 1st Floor Boarding Room for Rent in Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/spacious-1st-floor-boarding-house-for-rent-in-piliyandala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "13 Jun 2:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1883,
+    "title": "Rooms for Rent Boys only Battaramulla",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-only-battaramulla-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "13 Jun 1:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1887,
+    "title": "Upstairs Annex for Rent in Malabe (thalahena)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-house-for-rent-in-malabe-thalahena-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "08 Jun 3:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1892,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "08 Jun 8:27 am",
+    "gender": "Cả hai"
   }
 ]

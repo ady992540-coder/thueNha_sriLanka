@@ -3488,5 +3488,55 @@
     "rawPrice": 25000,
     "timestamp": "03 May 10:38 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2552,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "08 Jun 8:27 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2557,
+    "title": "Room for 1 Girl Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-1-girl-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "13 Jun 4:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2561,
+    "title": "Fully Furnished Rooms for Rent - Pamunuwa Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-rooms-for-rent-pamunuwa-maharagama-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "13 Jun 3:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2564,
+    "title": "Rooms for Rent Boys only Battaramulla",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-only-battaramulla-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "13 Jun 1:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2568,
+    "title": "Room for Rent in Lewella Girls Gunnapana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-lewella-girls-gunnapana-for-rent-kandy",
+    "rawPrice": 15000,
+    "timestamp": "13 Jun 2:22 pm",
+    "gender": "Cả hai"
   }
 ]
