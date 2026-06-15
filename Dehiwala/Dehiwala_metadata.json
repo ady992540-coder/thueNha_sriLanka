@@ -4188,5 +4188,35 @@
     "rawPrice": 15000,
     "timestamp": "08 Jun 8:27 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2872,
+    "title": "Fuirnich Anex For Rent Dehiwala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fuirnich-anex-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "15 Jun 10:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2877,
+    "title": "room available for rent",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-available-for-rent-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "15 Jun 8:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2883,
+    "title": "Rooms for Rent Boys only Battaramulla",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-only-battaramulla-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "13 Jun 1:25 pm",
+    "gender": "Cả hai"
   }
 ]

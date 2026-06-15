@@ -4838,5 +4838,25 @@
     "rawPrice": 9000,
     "timestamp": "13 Jun 1:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3865,
+    "title": "Annex for Rent Nugegoda",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nugegoda-for-rent-colombo-310",
+    "rawPrice": 100000,
+    "timestamp": "14 Jun 4:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3867,
+    "title": "Room for Girl rent in Katubedda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girl-rent-in-katubedda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "14 Jun 3:48 pm",
+    "gender": "Cả hai"
   }
 ]

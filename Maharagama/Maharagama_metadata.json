@@ -3538,5 +3538,15 @@
     "rawPrice": 15000,
     "timestamp": "13 Jun 2:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2581,
+    "title": "Room for Girl rent in Katubedda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girl-rent-in-katubedda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "14 Jun 3:48 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -2578,5 +2578,25 @@
     "rawPrice": 15000,
     "timestamp": "08 Jun 8:27 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1909,
+    "title": "Room for Girl rent in Katubedda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girl-rent-in-katubedda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "14 Jun 3:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1914,
+    "title": "Boarding House only For Girls Piliyandala",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-only-for-girls-piliyandala-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "14 Jun 6:48 pm",
+    "gender": "Cả hai"
   }
 ]
