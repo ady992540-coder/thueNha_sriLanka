@@ -4858,5 +4858,15 @@
     "rawPrice": 12500,
     "timestamp": "14 Jun 3:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3881,
+    "title": "Room For Sale - Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-for-girls-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "15 Jun 12:15 pm",
+    "gender": "Cả hai"
   }
 ]

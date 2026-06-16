@@ -4218,5 +4218,55 @@
     "rawPrice": 9000,
     "timestamp": "13 Jun 1:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2900,
+    "title": "Upstairs Annex in walking distance to Karapitiya town",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-in-walking-distance-to-karapitiya-town-for-rent-galle",
+    "rawPrice": 100000,
+    "timestamp": "15 Jun 11:09 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2905,
+    "title": "Upstairs annex for rent in dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "16 Jun 7:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2910,
+    "title": "Annex For Rent - Kalubowila",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kalubowila-for-rent-colombo-34",
+    "rawPrice": 65000,
+    "timestamp": "15 Jun 12:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2915,
+    "title": "Annex for Rent in Kalubovila",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kalubovila-for-rent-colombo-3",
+    "rawPrice": 50000,
+    "timestamp": "15 Jun 12:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2919,
+    "title": "Room for Girl rent in Katubedda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girl-rent-in-katubedda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "14 Jun 3:48 pm",
+    "gender": "Cả hai"
   }
 ]
