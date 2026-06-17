@@ -2198,5 +2198,25 @@
     "rawPrice": 100000,
     "timestamp": "15 Jun 11:09 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1667,
+    "title": "Room for Girl Rent in Katubedda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girl-rent-in-katubedda-for-rent-colombo-1",
+    "rawPrice": 11000,
+    "timestamp": "16 Jun 8:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1672,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "16 Jun 11:23 am",
+    "gender": "Cả hai"
   }
 ]

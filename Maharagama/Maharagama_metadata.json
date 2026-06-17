@@ -3558,5 +3558,35 @@
     "rawPrice": 9000,
     "timestamp": "15 Jun 1:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2615,
+    "title": "Room for Rent in Nawinna ( Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nawinna-girls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "17 Jun 3:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2620,
+    "title": "Room for Girl Rent in Katubedda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girl-rent-in-katubedda-for-rent-colombo-1",
+    "rawPrice": 11000,
+    "timestamp": "16 Jun 8:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2625,
+    "title": "Upstairs Annex in walking distance to Karapitiya town",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-in-walking-distance-to-karapitiya-town-for-rent-galle",
+    "rawPrice": 100000,
+    "timestamp": "15 Jun 11:09 am",
+    "gender": "Cả hai"
   }
 ]

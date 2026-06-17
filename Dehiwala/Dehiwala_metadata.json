@@ -4268,5 +4268,55 @@
     "rawPrice": 12500,
     "timestamp": "14 Jun 3:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2941,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10264",
+    "rawPrice": 35000,
+    "timestamp": "15 Jun 11:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2946,
+    "title": "Annex for Rent in Galvihara Road",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-galvihara-road-for-rent-colombo-1",
+    "rawPrice": 28000,
+    "timestamp": "16 Jun 4:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2950,
+    "title": "1BED ANNEX FOR RENT IN KALUBOWILA (SP1222)",
+    "price": "Rs 68,000 /tháng (~ 5.780.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bed-annex-for-rent-in-kalubowila-sp1222-for-rent-colombo",
+    "rawPrice": 68000,
+    "timestamp": "16 Jun 1:13 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2955,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "16 Jun 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2960,
+    "title": "Room for Girl Rent in Katubedda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girl-rent-in-katubedda-for-rent-colombo-1",
+    "rawPrice": 11000,
+    "timestamp": "16 Jun 8:41 pm",
+    "gender": "Cả hai"
   }
 ]
