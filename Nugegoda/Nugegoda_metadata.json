@@ -4918,5 +4918,45 @@
     "rawPrice": 11000,
     "timestamp": "16 Jun 8:41 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3931,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "16 Jun 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3936,
+    "title": "Studio Annex for Rent in Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-annex-large-separate-room-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "17 Jun 11:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3941,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1343",
+    "rawPrice": 23000,
+    "timestamp": "17 Jun 3:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3946,
+    "title": "Boarding Room Near Punchi Borella - Rent for Ladies",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-near-punchi-borella-rent-for-ladies-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "17 Jun 12:51 pm",
+    "gender": "Cả hai"
   }
 ]

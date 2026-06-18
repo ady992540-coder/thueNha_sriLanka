@@ -3588,5 +3588,45 @@
     "rawPrice": 100000,
     "timestamp": "15 Jun 11:09 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2630,
+    "title": "Annex for Boys Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boys-rent-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "16 Jun 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2635,
+    "title": "Fully Furnished Annex in Maharagama",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-in-maharagama-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "17 Jun 1:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2639,
+    "title": "Rooftop Private Furnished Room for Rent Piliyandala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooftop-private-furnished-room-for-rent-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "17 Jun 10:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2643,
+    "title": "Boarding Room Near Punchi Borella - Rent for Ladies",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-near-punchi-borella-rent-for-ladies-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "17 Jun 12:51 pm",
+    "gender": "Cả hai"
   }
 ]

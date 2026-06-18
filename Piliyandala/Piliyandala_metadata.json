@@ -2628,5 +2628,15 @@
     "rawPrice": 15000,
     "timestamp": "16 Jun 11:23 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1938,
+    "title": "Boarding Room Near Punchi Borella - Rent for Ladies",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-near-punchi-borella-rent-for-ladies-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "17 Jun 12:51 pm",
+    "gender": "Cả hai"
   }
 ]

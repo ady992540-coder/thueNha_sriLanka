@@ -4318,5 +4318,45 @@
     "rawPrice": 11000,
     "timestamp": "16 Jun 8:41 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2965,
+    "title": "Fully Furnished Annex For Rent in Papiliyana Dehiwala",
+    "price": "Rs 130,000 /tháng (~ 11.050.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-in-papiliyana-dehiwala-for-rent-colombo",
+    "rawPrice": 130000,
+    "timestamp": "18 Jun 7:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2975,
+    "title": "Furnished Room for Rent Boys -Dehiwela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-boys-dehiwela-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "18 Jun 2:25 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2979,
+    "title": "Room For Rent In Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1181",
+    "rawPrice": 25000,
+    "timestamp": "17 Jun 12:31 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2982,
+    "title": "Boarding Room Near Punchi Borella - Rent for Ladies",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-near-punchi-borella-rent-for-ladies-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "17 Jun 12:51 pm",
+    "gender": "Cả hai"
   }
 ]
