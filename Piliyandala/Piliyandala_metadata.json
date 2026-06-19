@@ -2638,5 +2638,25 @@
     "rawPrice": 20000,
     "timestamp": "17 Jun 12:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1953,
+    "title": "Ground Floor Room for Rent in Piliyandala",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-room-for-rent-in-piliyandala-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "18 Jun 5:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1957,
+    "title": "Rooms Rent for Girls Only - Kandy",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-rooms-and-girls-only-for-rent-kandy",
+    "rawPrice": 16000,
+    "timestamp": "15 Jun 2:30 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -4958,5 +4958,25 @@
     "rawPrice": 20000,
     "timestamp": "17 Jun 12:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3955,
+    "title": "Upstairs Annex in walking distance to Karapitiya town",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-in-walking-distance-to-karapitiya-town-for-rent-galle",
+    "rawPrice": 100000,
+    "timestamp": "15 Jun 11:09 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3960,
+    "title": "Rooms Rent for Girls Only - Kandy",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-rooms-and-girls-only-for-rent-kandy",
+    "rawPrice": 16000,
+    "timestamp": "15 Jun 2:30 pm",
+    "gender": "Cả hai"
   }
 ]

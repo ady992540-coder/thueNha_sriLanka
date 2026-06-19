@@ -2238,5 +2238,15 @@
     "rawPrice": 20000,
     "timestamp": "17 Jun 12:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1702,
+    "title": "Boarding Rooms for Boys – Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-boys-moratuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "10 Jun 4:22 pm",
+    "gender": "Cả hai"
   }
 ]

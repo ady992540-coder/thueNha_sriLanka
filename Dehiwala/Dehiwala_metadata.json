@@ -4358,5 +4358,35 @@
     "rawPrice": 20000,
     "timestamp": "17 Jun 12:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2999,
+    "title": "ROOM FOR RENT IN MOUNT LAVINIA WITH FURNITURE (SP1227)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mount-lavinia-with-furniture-sp1227-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "18 Jun 7:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3002,
+    "title": "Furnished Room for Rent Boys - Dehiwela",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-boys-dehiwela-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "18 Jun 2:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3006,
+    "title": "Boarding Rooms for Boys – Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-boys-moratuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "10 Jun 4:22 pm",
+    "gender": "Cả hai"
   }
 ]
