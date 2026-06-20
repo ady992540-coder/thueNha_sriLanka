@@ -3648,5 +3648,35 @@
     "rawPrice": 16000,
     "timestamp": "15 Jun 2:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2680,
+    "title": "Boarding Sharing Room for Rent Facilities Working Girls Maharagama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-sharing-room-for-rent-facilities-working-girls-maharagama-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "20 Jun 9:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2685,
+    "title": "Luxury Semi-Serviced Room for Rent in Sri Jayawardenapura Kotte",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-semi-serviced-room-for-rent-in-sri-jayawardenapura-kotte-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "20 Jun 9:15 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2690,
+    "title": "Fully Furnished Annex in Piliyandala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-in-piliyandala-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "19 Jun 1:38 pm",
+    "gender": "Cả hai"
   }
 ]

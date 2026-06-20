@@ -2658,5 +2658,25 @@
     "rawPrice": 16000,
     "timestamp": "15 Jun 2:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1971,
+    "title": "සුවරපොල Annex එකක් කුලියට",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/suvrpol-annex-ekk-kuliytt-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "19 Jun 7:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1975,
+    "title": "කාමරයක් කුලියට දීමට Millawa",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-millawa-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "19 Jun 5:54 pm",
+    "gender": "Cả hai"
   }
 ]

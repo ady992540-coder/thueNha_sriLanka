@@ -4388,5 +4388,25 @@
     "rawPrice": 15000,
     "timestamp": "10 Jun 4:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3014,
+    "title": "කාමරයක් කුලියට දීමට Millawa",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-millawa-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "19 Jun 5:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3019,
+    "title": "Rooms Rent for Girls Only - Kandy",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-rooms-and-girls-only-for-rent-kandy",
+    "rawPrice": 16000,
+    "timestamp": "15 Jun 2:30 pm",
+    "gender": "Cả hai"
   }
 ]
