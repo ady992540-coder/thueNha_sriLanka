@@ -4998,5 +4998,65 @@
     "rawPrice": 20000,
     "timestamp": "20 Jun 8:48 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3992,
+    "title": "Room for Rent (Female) Pepiliyana Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-female-pepiliyana-nugegoda-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "20 Jun 1:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3997,
+    "title": "Room for Rent only Girls Nugegoda",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-only-girls-for-rent-colombo-129",
+    "rawPrice": 32000,
+    "timestamp": "20 Jun 1:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4002,
+    "title": "NUGEGODA : 4-AC-BR (1500 SQFT) FULLY FURNISHED GROUND FLOOR FOR RENT",
+    "price": "Rs 150,000 /tháng (~ 12.750.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-4-ac-br-1500-sqft-fully-furnished-ground-floor-for-rent-for-rent-colombo",
+    "rawPrice": 150000,
+    "timestamp": "20 Jun 10:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4012,
+    "title": "කාමරයක් කුලියට දීමට Millawa",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-millawa-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "19 Jun 5:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4017,
+    "title": "Ground Floor Annex for Rent Kurunegala",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-annex-for-rent-kurunegala-for-rent-kurunegala",
+    "rawPrice": 37000,
+    "timestamp": "07 Jun 3:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4022,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-151",
+    "rawPrice": 15000,
+    "timestamp": "20 Jun 1:34 pm",
+    "gender": "Cả hai"
   }
 ]

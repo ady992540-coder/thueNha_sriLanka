@@ -4408,5 +4408,65 @@
     "rawPrice": 16000,
     "timestamp": "15 Jun 2:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3028,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-558",
+    "rawPrice": 15000,
+    "timestamp": "21 Jun 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3032,
+    "title": "Fuirnich Room For Rent Dehiwala",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fuirnich-room-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "21 Jun 7:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3034,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-557",
+    "rawPrice": 25000,
+    "timestamp": "20 Jun 8:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3039,
+    "title": "Annex for Rent in Nedimala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nedimala-for-rent-colombo-10",
+    "rawPrice": 60000,
+    "timestamp": "20 Jun 4:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3043,
+    "title": "Room for Rent in Nedimala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nedimala-for-rent-colombo-18",
+    "rawPrice": 25000,
+    "timestamp": "20 Jun 4:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3055,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-151",
+    "rawPrice": 15000,
+    "timestamp": "20 Jun 1:34 pm",
+    "gender": "Cả hai"
   }
 ]

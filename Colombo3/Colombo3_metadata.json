@@ -2268,5 +2268,45 @@
     "rawPrice": 16000,
     "timestamp": "15 Jun 2:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1735,
+    "title": "Furnished sharing room Colombo 03",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-sharing-room-colombo-03-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "21 Jun 9:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1737,
+    "title": "Colombo 8 - For Rent Ladies One Furnished Room with Security",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-for-rent-ladies-one-furnished-room-with-security-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "21 Jun 2:12 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1742,
+    "title": "Ground Floor Annex for Rent Kurunegala",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-annex-for-rent-kurunegala-for-rent-kurunegala",
+    "rawPrice": 37000,
+    "timestamp": "07 Jun 3:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1747,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-151",
+    "rawPrice": 15000,
+    "timestamp": "20 Jun 1:34 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -3678,5 +3678,35 @@
     "rawPrice": 45000,
     "timestamp": "19 Jun 1:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2703,
+    "title": "Room (Only Gent) For Rent in Maharagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-gent-for-rent-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "18 Jun 5:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2708,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-151",
+    "rawPrice": 15000,
+    "timestamp": "20 Jun 1:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2713,
+    "title": "Ground Floor Annex for Rent Kurunegala",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-annex-for-rent-kurunegala-for-rent-kurunegala",
+    "rawPrice": 37000,
+    "timestamp": "07 Jun 3:12 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -2678,5 +2678,55 @@
     "rawPrice": 12000,
     "timestamp": "19 Jun 5:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1989,
+    "title": "Room ( Only Ladies) For Rent in Piliyandala",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-ladies-for-rent-in-piliyandala-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "20 Jun 12:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1994,
+    "title": "ගැහැණු ළමුන් / කාන්තාවන් සඳහා කාමර පහසුකම් – පිළියන්දල",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaennu-llmun-kaantaavn-sndhaa-kaamr-phsukm-pilliyndl-for-rent-colombo-1",
+    "rawPrice": 16000,
+    "timestamp": "20 Jun 10:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1999,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-151",
+    "rawPrice": 15000,
+    "timestamp": "20 Jun 1:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2004,
+    "title": "Boarding Rooms for Boys – Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-boys-moratuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "10 Jun 4:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2009,
+    "title": "Ground Floor Annex for Rent Kurunegala",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-annex-for-rent-kurunegala-for-rent-kurunegala",
+    "rawPrice": 37000,
+    "timestamp": "07 Jun 3:12 pm",
+    "gender": "Cả hai"
   }
 ]
