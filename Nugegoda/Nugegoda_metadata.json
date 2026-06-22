@@ -5058,5 +5058,55 @@
     "rawPrice": 15000,
     "timestamp": "20 Jun 1:34 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4039,
+    "title": "Room for Rent Mirihana",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-mirihana-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "20 Jun 11:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4044,
+    "title": "Room for Rent – Nugegoda Girls only",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-girls-only-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "21 Jun 8:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4048,
+    "title": "Comfortable Room for Rent Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-room-for-rent-nugegoda-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "21 Jun 11:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4049,
+    "title": "Annex for 2 to 3 Boys Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-2-to-3-boys-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "22 Jun 2:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4054,
+    "title": "Annex Rentals Jaela",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-and-annex-rentals-for-rent-gampaha",
+    "rawPrice": 9000,
+    "timestamp": "20 Jun 11:13 am",
+    "gender": "Cả hai"
   }
 ]

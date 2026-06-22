@@ -4468,5 +4468,65 @@
     "rawPrice": 15000,
     "timestamp": "20 Jun 1:34 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3068,
+    "title": "Ground Floor Annex for Rent Kurunegala",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-annex-for-rent-kurunegala-for-rent-kurunegala",
+    "rawPrice": 37000,
+    "timestamp": "07 Jun 3:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3073,
+    "title": "Spacious Room for Rent in Attidiya",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/spacious-room-for-rent-in-attidiya-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "21 Jun 4:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3076,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10271",
+    "rawPrice": 25000,
+    "timestamp": "21 Jun 2:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3079,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10270",
+    "rawPrice": 16000,
+    "timestamp": "21 Jun 11:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3082,
+    "title": "Annex For Rent Dehiwala",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-dehiwala-for-rent-colombo-365",
+    "rawPrice": 55000,
+    "timestamp": "21 Jun 4:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3095,
+    "title": "Annex for 2 to 3 Boys Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-2-to-3-boys-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "22 Jun 2:00 am",
+    "gender": "Cả hai"
   }
 ]

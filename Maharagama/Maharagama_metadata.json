@@ -3708,5 +3708,35 @@
     "rawPrice": 37000,
     "timestamp": "07 Jun 3:12 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2718,
+    "title": "Annex for 2 to 3 Boys Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-2-to-3-boys-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "22 Jun 2:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2723,
+    "title": "Boarding Rooms for Girls Maharagama",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-girls-for-rent-colombo-10",
+    "rawPrice": 11000,
+    "timestamp": "21 Jun 11:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2728,
+    "title": "Room for Rent Horana",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-horana-for-rent-kalutara",
+    "rawPrice": 10000,
+    "timestamp": "18 Jun 8:42 am",
+    "gender": "Cả hai"
   }
 ]
