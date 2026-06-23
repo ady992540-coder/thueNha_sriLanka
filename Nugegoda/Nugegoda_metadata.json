@@ -5108,5 +5108,15 @@
     "rawPrice": 9000,
     "timestamp": "20 Jun 11:13 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4067,
+    "title": "Room for Rent Horana",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-horana-for-rent-kalutara",
+    "rawPrice": 10000,
+    "timestamp": "18 Jun 8:42 am",
+    "gender": "Cả hai"
   }
 ]

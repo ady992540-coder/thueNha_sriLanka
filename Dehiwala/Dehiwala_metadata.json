@@ -4528,5 +4528,25 @@
     "rawPrice": 15000,
     "timestamp": "22 Jun 2:00 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3108,
+    "title": "Annex Rentals Jaela",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-and-annex-rentals-for-rent-gampaha",
+    "rawPrice": 9000,
+    "timestamp": "20 Jun 11:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3113,
+    "title": "Room for Rent Horana",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-horana-for-rent-kalutara",
+    "rawPrice": 10000,
+    "timestamp": "18 Jun 8:42 am",
+    "gender": "Cả hai"
   }
 ]

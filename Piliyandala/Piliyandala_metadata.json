@@ -2768,5 +2768,15 @@
     "rawPrice": 10000,
     "timestamp": "18 Jun 8:42 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2048,
+    "title": "Room for Rent - Moratuwa",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10274",
+    "rawPrice": 30000,
+    "timestamp": "22 Jun 12:53 pm",
+    "gender": "Cả hai"
   }
 ]
