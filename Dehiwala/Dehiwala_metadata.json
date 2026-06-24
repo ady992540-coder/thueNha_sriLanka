@@ -4548,5 +4548,35 @@
     "rawPrice": 10000,
     "timestamp": "18 Jun 8:42 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3126,
+    "title": "Annex for 2 to 3 Boys Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-2-to-3-boys-ratmalana-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "23 Jun 10:59 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3131,
+    "title": "Furnished Room for Rent Dehiwala",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-dehiwala-for-rent-colombo-3",
+    "rawPrice": 38000,
+    "timestamp": "23 Jun 1:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3133,
+    "title": "Furnished Room for Rent - Attidiya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-attidiya-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "23 Jun 1:39 pm",
+    "gender": "Cả hai"
   }
 ]

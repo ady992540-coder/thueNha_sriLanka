@@ -2778,5 +2778,15 @@
     "rawPrice": 30000,
     "timestamp": "22 Jun 12:53 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2064,
+    "title": "Upstair Rooms for Rent (Females Only) - Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-rooms-for-rent-females-only-piliyandala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "23 Jun 1:40 pm",
+    "gender": "Cả hai"
   }
 ]

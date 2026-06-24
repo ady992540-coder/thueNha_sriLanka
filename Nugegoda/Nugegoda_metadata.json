@@ -5118,5 +5118,55 @@
     "rawPrice": 10000,
     "timestamp": "18 Jun 8:42 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4084,
+    "title": "Room for Rent - Moratuwa",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10274",
+    "rawPrice": 30000,
+    "timestamp": "22 Jun 12:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4088,
+    "title": "Nugegoda - 1BR Fully furnished property for Rent • TPM2024SUS",
+    "price": "Rs 150,000 /tháng (~ 12.750.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-1br-fully-furnished-property-for-rent-tpm2024sus-for-rent-colombo",
+    "rawPrice": 150000,
+    "timestamp": "23 Jun 8:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4093,
+    "title": "Room for Rent in Mirihana, Nugegoda – Boys Only",
+    "price": "Rs 27,500 /tháng (~ 2.337.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mirihana-nugegoda-boys-only-for-rent-colombo",
+    "rawPrice": 27500,
+    "timestamp": "22 Jun 12:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4098,
+    "title": "Shearing Room for Rent Girls Nugegoda",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-room-for-rent-girls-nugegoda-for-rent-colombo",
+    "rawPrice": 18500,
+    "timestamp": "22 Jun 10:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4103,
+    "title": "Annex for 2 to 3 Boys Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-2-to-3-boys-ratmalana-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "23 Jun 10:59 am",
+    "gender": "Cả hai"
   }
 ]

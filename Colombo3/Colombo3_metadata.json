@@ -2338,5 +2338,15 @@
     "rawPrice": 15000,
     "timestamp": "22 Jun 2:00 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1777,
+    "title": "Room for Rent Boralesgamuwa",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-84",
+    "rawPrice": 16000,
+    "timestamp": "13 Jun 10:42 am",
+    "gender": "Cả hai"
   }
 ]
