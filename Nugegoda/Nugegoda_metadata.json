@@ -5168,5 +5168,25 @@
     "rawPrice": 15000,
     "timestamp": "23 Jun 10:59 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4112,
+    "title": "Rooms for Rent Nugegoda",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nugegoda-for-rent-colombo-24",
+    "rawPrice": 24000,
+    "timestamp": "24 Jun 6:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4117,
+    "title": "Room Rent Nugegoda ( Male Only)",
+    "price": "Rs 29,500 /tháng (~ 2.507.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-nugegoda-male-only-for-rent-colombo-1",
+    "rawPrice": 29500,
+    "timestamp": "25 Jun 3:01 am",
+    "gender": "Cả hai"
   }
 ]

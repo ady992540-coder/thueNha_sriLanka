@@ -3758,5 +3758,65 @@
     "rawPrice": 15000,
     "timestamp": "23 Jun 10:59 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2747,
+    "title": "Room for Rent Boralesgamuwa",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-84",
+    "rawPrice": 16000,
+    "timestamp": "13 Jun 10:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2751,
+    "title": "කාමරයක් කුලියට දීමට Millawa",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-millawa-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "19 Jun 5:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2756,
+    "title": "Room for Rent in Maharagama – Near Navinna",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-near-navinna-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "24 Jun 7:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2761,
+    "title": "Annex for Rent in Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-800",
+    "rawPrice": 40000,
+    "timestamp": "24 Jun 12:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2766,
+    "title": "Rooms for Rent in Kiribathgoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kiribathgoda-for-rent-gampaha-19",
+    "rawPrice": 25000,
+    "timestamp": "15 Jun 1:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2783,
+    "title": "Annex for Rent Ratmalana - Boys",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-boys-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "25 Jun 12:31 am",
+    "gender": "Cả hai"
   }
 ]

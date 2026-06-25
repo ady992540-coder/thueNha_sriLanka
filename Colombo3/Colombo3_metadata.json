@@ -2348,5 +2348,15 @@
     "rawPrice": 16000,
     "timestamp": "13 Jun 10:42 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1791,
+    "title": "Rooms for Rent in Kiribathgoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kiribathgoda-for-rent-gampaha-19",
+    "rawPrice": 25000,
+    "timestamp": "15 Jun 1:46 pm",
+    "gender": "Cả hai"
   }
 ]
