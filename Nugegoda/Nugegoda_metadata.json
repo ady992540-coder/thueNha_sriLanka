@@ -5188,5 +5188,45 @@
     "rawPrice": 29500,
     "timestamp": "25 Jun 3:01 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4122,
+    "title": "Annex for Rent In Jayewardenapura Kotte",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-706",
+    "rawPrice": 45000,
+    "timestamp": "25 Jun 9:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4127,
+    "title": "Room for Rent Boralesgamuwa",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-84",
+    "rawPrice": 16000,
+    "timestamp": "13 Jun 10:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4131,
+    "title": "Rooms for Rent in Ragama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-ragama-for-rent-gampaha-9",
+    "rawPrice": 20000,
+    "timestamp": "25 Jun 10:02 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4135,
+    "title": "Girls Boarding Rooms Rent – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-boarding-rooms-rent-katubedda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "25 Jun 1:53 pm",
+    "gender": "Cả hai"
   }
 ]

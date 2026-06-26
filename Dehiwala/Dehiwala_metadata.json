@@ -4598,5 +4598,35 @@
     "rawPrice": 38000,
     "timestamp": "25 Jun 9:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3149,
+    "title": "Room for Rent Boralesgamuwa",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-84",
+    "rawPrice": 16000,
+    "timestamp": "13 Jun 10:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3153,
+    "title": "Girls Boarding Rooms Rent – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-boarding-rooms-rent-katubedda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "25 Jun 1:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3157,
+    "title": "1st Floor Annex Rent In Attidiya Mantreemulla Road",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1st-floor-annex-rent-in-attidiya-mantreemulla-road-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "25 Jun 8:59 pm",
+    "gender": "Cả hai"
   }
 ]
