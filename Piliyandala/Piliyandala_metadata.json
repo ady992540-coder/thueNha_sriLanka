@@ -2798,5 +2798,45 @@
     "rawPrice": 15000,
     "timestamp": "25 Jun 12:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2090,
+    "title": "Girls Boarding Rooms Rent – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-boarding-rooms-rent-katubedda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "25 Jun 1:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2094,
+    "title": "Room For Rent Girls Kaduwela-Sharing",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-kaduwela-sharing-for-rent-colombo",
+    "rawPrice": 22500,
+    "timestamp": "06 Jun 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2099,
+    "title": "Boarding Room for Rent only Boys in Piliyandala",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-only-boys-in-piliyandala-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "26 Jun 10:46 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2104,
+    "title": "Rooms for Boys in Piliyandala",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-boys-in-piliyandala-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "26 Jun 1:37 pm",
+    "gender": "Cả hai"
   }
 ]
