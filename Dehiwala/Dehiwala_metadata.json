@@ -4678,5 +4678,45 @@
     "rawPrice": 22500,
     "timestamp": "06 Jun 9:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3201,
+    "title": "Girls' Boarding Rooms – Dehiwala",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-boarding-rooms-available-dehiwala-kadawatha-road-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "27 Jun 3:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3206,
+    "title": "Furnished Annex For Rent In Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "27 Jun 12:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3210,
+    "title": "Nugegoda - 1BR Fully furnished property for Rent • TPM2024SUS",
+    "price": "Rs 150,000 /tháng (~ 12.750.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-1br-fully-furnished-property-for-rent-tpm2024sus-for-rent-colombo",
+    "rawPrice": 150000,
+    "timestamp": "23 Jun 8:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3215,
+    "title": "Room For Rent In Dehiwala Boys",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-boys-for-rent-colombo-2",
+    "rawPrice": 26000,
+    "timestamp": "27 Jun 10:54 am",
+    "gender": "Cả hai"
   }
 ]

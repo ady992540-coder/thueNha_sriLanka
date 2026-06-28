@@ -2378,5 +2378,25 @@
     "rawPrice": 15000,
     "timestamp": "26 Jun 7:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1822,
+    "title": "A/C Room with A Parking for Working Male Person - Kotikawaththa",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-c-room-with-a-parking-for-working-male-person-kotikawaththa-for-rent-colombo",
+    "rawPrice": 52000,
+    "timestamp": "23 Jun 6:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1827,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-153",
+    "rawPrice": 50000,
+    "timestamp": "27 Jun 12:12 pm",
+    "gender": "Cả hai"
   }
 ]

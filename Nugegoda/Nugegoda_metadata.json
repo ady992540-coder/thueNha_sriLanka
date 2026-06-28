@@ -5278,5 +5278,55 @@
     "rawPrice": 15000,
     "timestamp": "27 Jun 8:31 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4179,
+    "title": "room available for rent in Liyanagemulla Seeduwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-available-for-rent-in-liyanagemulla-seeduwa-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "26 Jun 7:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4183,
+    "title": "Room For Rent Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rental-for-rent-colombo-2",
+    "rawPrice": 35000,
+    "timestamp": "27 Jun 7:31 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4188,
+    "title": "Rooms for Rent Working Girls Wijerama",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-13",
+    "rawPrice": 23000,
+    "timestamp": "27 Jun 4:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4193,
+    "title": "Fully Furnished Annex For Rent in Nugegoda, Wijerama",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-in-nugegoda-wijerama-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "27 Jun 1:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4198,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-153",
+    "rawPrice": 50000,
+    "timestamp": "27 Jun 12:12 pm",
+    "gender": "Cả hai"
   }
 ]

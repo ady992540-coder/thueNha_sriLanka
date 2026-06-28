@@ -2838,5 +2838,25 @@
     "rawPrice": 11500,
     "timestamp": "26 Jun 1:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2117,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-153",
+    "rawPrice": 50000,
+    "timestamp": "27 Jun 12:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2122,
+    "title": "Room for Rent in Piliyandala (Girls )",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-piliyandala-girls-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "27 Jun 6:43 pm",
+    "gender": "Cả hai"
   }
 ]

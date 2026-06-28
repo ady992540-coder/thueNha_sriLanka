@@ -3868,5 +3868,45 @@
     "rawPrice": 22500,
     "timestamp": "06 Jun 9:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2836,
+    "title": "Fully Furnished Annex For Rent in Maharagama Town Center",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-in-maharagama-town-center-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "27 Jun 11:06 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2841,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ratmalana-for-rent-colombo-153",
+    "rawPrice": 50000,
+    "timestamp": "27 Jun 12:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2846,
+    "title": "Girls Boarding Rooms Rent – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-boarding-rooms-rent-katubedda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "25 Jun 1:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2850,
+    "title": "Nawala Room for Rent",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nawala-room-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "24 Jun 10:00 pm",
+    "gender": "Cả hai"
   }
 ]
