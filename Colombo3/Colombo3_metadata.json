@@ -2398,5 +2398,35 @@
     "rawPrice": 50000,
     "timestamp": "27 Jun 12:12 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1832,
+    "title": "Colombo 8 - For Rent Ladies One Furnished Room",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-for-rent-ladies-one-furnished-room-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "27 Jun 7:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1837,
+    "title": "Nugegoda - 1BR Fully furnished property for Rent • TPM2024SUS",
+    "price": "Rs 150,000 /tháng (~ 12.750.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-1br-fully-furnished-property-for-rent-tpm2024sus-for-rent-colombo",
+    "rawPrice": 150000,
+    "timestamp": "23 Jun 8:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1842,
+    "title": "Nawala Room for Rent",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nawala-room-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "24 Jun 10:00 pm",
+    "gender": "Cả hai"
   }
 ]

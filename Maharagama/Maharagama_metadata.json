@@ -3908,5 +3908,25 @@
     "rawPrice": 18000,
     "timestamp": "24 Jun 10:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2867,
+    "title": "කන්තාවන්ට කාමර කුලියට දීමට - නුගේගොඩ",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kntaavntt-kaamr-kuliytt-diimtt-nugeegodd-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "26 Jun 2:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2871,
+    "title": "Room For Rent In Maharagama",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-973",
+    "rawPrice": 18000,
+    "timestamp": "28 Jun 11:24 am",
+    "gender": "Cả hai"
   }
 ]

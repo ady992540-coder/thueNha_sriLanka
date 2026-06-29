@@ -4718,5 +4718,25 @@
     "rawPrice": 26000,
     "timestamp": "27 Jun 10:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3228,
+    "title": "A/C Room with A Parking for Working Male Person - Kotikawaththa",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-c-room-with-a-parking-for-working-male-person-kotikawaththa-for-rent-colombo",
+    "rawPrice": 52000,
+    "timestamp": "23 Jun 6:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3233,
+    "title": "Room for Rent in Liyanagemulla Seeduwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-liyanagemulla-seeduwa-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "29 Jun 7:10 am",
+    "gender": "Cả hai"
   }
 ]

@@ -2858,5 +2858,25 @@
     "rawPrice": 12500,
     "timestamp": "27 Jun 6:43 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2131,
+    "title": "Annex for Rent in Makola",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-makola-for-rent-gampaha",
+    "rawPrice": 55000,
+    "timestamp": "23 Jun 3:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2136,
+    "title": "Rooms for Rent in Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-piliyandala-for-rent-colombo-16",
+    "rawPrice": 15000,
+    "timestamp": "29 Jun 7:11 am",
+    "gender": "Cả hai"
   }
 ]
