@@ -4758,5 +4758,35 @@
     "rawPrice": 150000,
     "timestamp": "29 Jun 12:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3256,
+    "title": "Upstairs Rooms for Rent University Students Girls - Matara",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-rooms-for-rent-university-students-girls-matara-for-rent-matara",
+    "rawPrice": 7000,
+    "timestamp": "06 May 7:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3261,
+    "title": "Room for Rent Males in Borella",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-males-in-borella-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "30 Jun 10:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3266,
+    "title": "Rooms for Rent in Kiribathgoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kiribathgoda-for-rent-gampaha-19",
+    "rawPrice": 25000,
+    "timestamp": "15 Jun 1:46 pm",
+    "gender": "Cả hai"
   }
 ]

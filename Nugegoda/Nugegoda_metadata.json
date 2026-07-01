@@ -5358,5 +5358,75 @@
     "rawPrice": 150000,
     "timestamp": "29 Jun 8:29 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4222,
+    "title": "Room For Rent Girls Kaduwela-Sharing",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-kaduwela-sharing-for-rent-colombo",
+    "rawPrice": 22500,
+    "timestamp": "06 Jun 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4227,
+    "title": "Room for Rent Males in Borella",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-males-in-borella-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "30 Jun 10:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4232,
+    "title": "Sharing Room - Jambugasmulla Mawatha, Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-jambugasmulla-mawatha-nugegoda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "30 Jun 8:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4237,
+    "title": "A Boarding Room Rent For Girls Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-boarding-room-only-for-girls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "30 Jun 1:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4241,
+    "title": "Annex for Rent in Galvihara Road",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-galvihara-road-for-rent-colombo-1",
+    "rawPrice": 28000,
+    "timestamp": "25 Jun 9:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4255,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "23 Jun 1:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4260,
+    "title": "A/C Room with A Parking for Working Male Person - Kotikawaththa",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-c-room-with-a-parking-for-working-male-person-kotikawaththa-for-rent-colombo",
+    "rawPrice": 52000,
+    "timestamp": "23 Jun 6:18 pm",
+    "gender": "Cả hai"
   }
 ]

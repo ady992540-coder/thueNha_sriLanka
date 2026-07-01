@@ -2888,5 +2888,95 @@
     "rawPrice": 150000,
     "timestamp": "29 Jun 12:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2159,
+    "title": "Room for Rent Males in Borella",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-males-in-borella-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "30 Jun 10:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2164,
+    "title": "Room for Rent Girl Piliyandala",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-gilr-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "30 Jun 12:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2165,
+    "title": "පිළියන්දල සුවරපොල Annex කුලියට",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/pilliyndl-suvrpol-annex-kuliytt-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "30 Jun 10:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2168,
+    "title": "Rooms for Rent Working Girls Wijerama",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-13",
+    "rawPrice": 23000,
+    "timestamp": "30 Jun 6:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2173,
+    "title": "Nawala Room for Rent",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nawala-room-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "24 Jun 10:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2190,
+    "title": "A/C Room with A Parking for Working Male Person - Kotikawaththa",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-c-room-with-a-parking-for-working-male-person-kotikawaththa-for-rent-colombo",
+    "rawPrice": 52000,
+    "timestamp": "23 Jun 6:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2195,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "23 Jun 1:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2200,
+    "title": "Rooms Rent in Jaffna Town (Girls only)",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-in-jaffna-town-girls-only-for-rent-jaffna",
+    "rawPrice": 10000,
+    "timestamp": "02 Jun 9:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2205,
+    "title": "Annex for Rent in Galvihara Road",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-galvihara-road-for-rent-colombo-1",
+    "rawPrice": 28000,
+    "timestamp": "25 Jun 9:22 am",
+    "gender": "Cả hai"
   }
 ]

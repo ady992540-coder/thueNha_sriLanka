@@ -2448,5 +2448,55 @@
     "rawPrice": 60000,
     "timestamp": "29 Jun 6:23 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1861,
+    "title": "Room for Rent Males in Borella",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-males-in-borella-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "30 Jun 10:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1866,
+    "title": "Rooms for Rent Working Girls Wijerama",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-13",
+    "rawPrice": 23000,
+    "timestamp": "30 Jun 6:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1871,
+    "title": "Upstairs Rooms for Rent University Students Girls - Matara",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-rooms-for-rent-university-students-girls-matara-for-rent-matara",
+    "rawPrice": 7000,
+    "timestamp": "06 May 7:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1876,
+    "title": "Room For Rent Girls Kaduwela-Sharing",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-kaduwela-sharing-for-rent-colombo",
+    "rawPrice": 22500,
+    "timestamp": "06 Jun 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1881,
+    "title": "Rooms Rent in Jaffna Town (Girls only)",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-in-jaffna-town-girls-only-for-rent-jaffna",
+    "rawPrice": 10000,
+    "timestamp": "02 Jun 9:51 am",
+    "gender": "Cả hai"
   }
 ]
