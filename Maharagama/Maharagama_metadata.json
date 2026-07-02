@@ -4008,5 +4008,25 @@
     "rawPrice": 28000,
     "timestamp": "25 Jun 9:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2935,
+    "title": "Annex for Rent Working Girls Maharagama",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-working-girls-maharagama-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "01 Jul 11:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2940,
+    "title": "Upstairs Rooms for Rent University Students Girls - Matara",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-rooms-for-rent-university-students-girls-matara-for-rent-matara",
+    "rawPrice": 7000,
+    "timestamp": "06 May 7:43 am",
+    "gender": "Cả hai"
   }
 ]

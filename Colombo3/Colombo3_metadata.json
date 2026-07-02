@@ -2498,5 +2498,35 @@
     "rawPrice": 10000,
     "timestamp": "02 Jun 9:51 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1894,
+    "title": "Annex for Rent in Galvihara Road",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-galvihara-road-for-rent-colombo-1",
+    "rawPrice": 28000,
+    "timestamp": "25 Jun 9:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1898,
+    "title": "Slit Boys only Hostel Malabe",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/slit-boys-only-hostel-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "01 Jul 9:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1901,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "23 Jun 1:35 pm",
+    "gender": "Cả hai"
   }
 ]

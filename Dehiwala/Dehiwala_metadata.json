@@ -4788,5 +4788,45 @@
     "rawPrice": 25000,
     "timestamp": "15 Jun 1:46 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3279,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "23 Jun 1:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3284,
+    "title": "Nawala Room for Rent",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nawala-room-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "24 Jun 10:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3288,
+    "title": "Annex for Rent in Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-693",
+    "rawPrice": 35000,
+    "timestamp": "01 Jul 5:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3293,
+    "title": "Slit Boys only Hostel Malabe",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/slit-boys-only-hostel-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "01 Jul 9:45 am",
+    "gender": "Cả hai"
   }
 ]
