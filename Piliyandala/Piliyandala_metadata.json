@@ -2998,5 +2998,35 @@
     "rawPrice": 7000,
     "timestamp": "06 May 7:43 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2228,
+    "title": "Rooms for Rent in Rathmalana (Male)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Jul 11:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2232,
+    "title": "Slit Boys only Hostel Malabe",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/slit-boys-only-hostel-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "01 Jul 9:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2235,
+    "title": "Rooms for Rent Polgolla (only Girl)",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rentonly-girl-for-rent-kandy",
+    "rawPrice": 7000,
+    "timestamp": "02 Jul 10:52 am",
+    "gender": "Cả hai"
   }
 ]

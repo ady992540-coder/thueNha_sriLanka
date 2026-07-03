@@ -4828,5 +4828,45 @@
     "rawPrice": 13000,
     "timestamp": "01 Jul 9:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3310,
+    "title": "Annex for rent in Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-694",
+    "rawPrice": 40000,
+    "timestamp": "03 Jul 1:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3315,
+    "title": "Boarding Rooms in Dehiwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-dehiwala-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Jul 4:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3317,
+    "title": "Rooms for Rent Polgolla (only Girl)",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rentonly-girl-for-rent-kandy",
+    "rawPrice": 7000,
+    "timestamp": "02 Jul 10:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3322,
+    "title": "Rooms for Rent in Rathmalana (Male)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Jul 11:21 am",
+    "gender": "Cả hai"
   }
 ]

@@ -5478,5 +5478,55 @@
     "rawPrice": 13000,
     "timestamp": "01 Jul 9:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4302,
+    "title": "කාමරයක් කුලියට - Boralasgamuwa",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamry-k-kuliytt-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "02 Jul 10:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4307,
+    "title": "Rooms for Rent Nugegoda - Girls",
+    "price": "Rs 9,300 /tháng (~ 790.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nugegoda-girls-for-rent-colombo",
+    "rawPrice": 9300,
+    "timestamp": "02 Jul 4:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4312,
+    "title": "Rooms for Rent in Rathmalana (Male)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Jul 11:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4316,
+    "title": "Upstairs Rooms for Rent University Students Girls - Matara",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-rooms-for-rent-university-students-girls-matara-for-rent-matara",
+    "rawPrice": 7000,
+    "timestamp": "06 May 7:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4321,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "02 Jul 10:41 am",
+    "gender": "Cả hai"
   }
 ]

@@ -2528,5 +2528,25 @@
     "rawPrice": 17000,
     "timestamp": "23 Jun 1:35 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1917,
+    "title": "Rooms for Rent in Rathmalana (Male)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Jul 11:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1921,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "02 Jul 10:41 am",
+    "gender": "Cả hai"
   }
 ]
