@@ -4068,5 +4068,55 @@
     "rawPrice": 20000,
     "timestamp": "02 Jul 11:21 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2977,
+    "title": "Rooms for Rent Polgolla (only Girl)",
+    "price": "Rs 7,000 /tháng (~ 595.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rentonly-girl-for-rent-kandy",
+    "rawPrice": 7000,
+    "timestamp": "02 Jul 10:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2982,
+    "title": "Annex For Rent in Maharagama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-801",
+    "rawPrice": 35000,
+    "timestamp": "03 Jul 1:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2987,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "02 Jul 10:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2992,
+    "title": "Annex for Rent in Mount Lavinia",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mount-lavinia-for-rent-colombo-391",
+    "rawPrice": 85000,
+    "timestamp": "03 Jul 12:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2997,
+    "title": "Room For Rent Hokandara",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-hokandara-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Jul 10:50 am",
+    "gender": "Cả hai"
   }
 ]

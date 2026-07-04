@@ -3028,5 +3028,35 @@
     "rawPrice": 7000,
     "timestamp": "02 Jul 10:52 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2247,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "02 Jul 10:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2252,
+    "title": "Annex for Rent in Mount Lavinia",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mount-lavinia-for-rent-colombo-391",
+    "rawPrice": 85000,
+    "timestamp": "03 Jul 12:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2257,
+    "title": "Room For Rent Hokandara",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-hokandara-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Jul 10:50 am",
+    "gender": "Cả hai"
   }
 ]
