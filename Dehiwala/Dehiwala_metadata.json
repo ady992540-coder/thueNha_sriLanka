@@ -4888,5 +4888,55 @@
     "rawPrice": 23000,
     "timestamp": "01 Jul 3:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3349,
+    "title": "Room for Rent in Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "02 Jul 10:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3354,
+    "title": "නවාතැන් පහසුකම් නාවල කොස්වත්ත Rent",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nvaataen-phsukm-naavl-kosvtt-rent-for-rent-colombo-1",
+    "rawPrice": 23000,
+    "timestamp": "04 Jul 3:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3359,
+    "title": "Ladies' Boarding Rent – Wijerama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-boarding-rent-wijerama-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "01 Jul 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3364,
+    "title": "Annex for Rent in Mount Lavinia",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mount-lavinia-for-rent-colombo-391",
+    "rawPrice": 85000,
+    "timestamp": "03 Jul 12:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3369,
+    "title": "Annex for Rent in Homagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-homagama-for-rent-colombo-242",
+    "rawPrice": 40000,
+    "timestamp": "05 Jul 9:12 am",
+    "gender": "Cả hai"
   }
 ]

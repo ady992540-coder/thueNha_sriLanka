@@ -2578,5 +2578,25 @@
     "rawPrice": 7000,
     "timestamp": "02 Jul 10:52 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1946,
+    "title": "නවාතැන් පහසුකම් නාවල කොස්වත්ත Rent",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nvaataen-phsukm-naavl-kosvtt-rent-for-rent-colombo-1",
+    "rawPrice": 23000,
+    "timestamp": "04 Jul 3:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1951,
+    "title": "Ladies' Boarding Rent – Wijerama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-boarding-rent-wijerama-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "01 Jul 11:23 am",
+    "gender": "Cả hai"
   }
 ]
