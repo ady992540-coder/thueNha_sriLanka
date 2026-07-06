@@ -2598,5 +2598,15 @@
     "rawPrice": 8000,
     "timestamp": "01 Jul 11:23 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1964,
+    "title": "Annex for Rent in Homagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-homagama-for-rent-colombo-242",
+    "rawPrice": 40000,
+    "timestamp": "05 Jul 9:12 am",
+    "gender": "Cả hai"
   }
 ]

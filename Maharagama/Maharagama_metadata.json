@@ -4178,5 +4178,15 @@
     "rawPrice": 23000,
     "timestamp": "04 Jul 3:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3060,
+    "title": "Annex for Rent in Mahabage (female)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mahabage-female-for-rent-gampaha-1",
+    "rawPrice": 32000,
+    "timestamp": "05 Jul 11:57 am",
+    "gender": "Cả hai"
   }
 ]
