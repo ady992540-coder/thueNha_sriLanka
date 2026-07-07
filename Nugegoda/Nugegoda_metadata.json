@@ -5678,5 +5678,25 @@
     "rawPrice": 65000,
     "timestamp": "06 Jul 5:55 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4439,
+    "title": "Annex for Rent in Mahabage (female)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mahabage-female-for-rent-gampaha-1",
+    "rawPrice": 32000,
+    "timestamp": "05 Jul 11:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4444,
+    "title": "Room for Rent Nugegoda , Gangodawila",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-gangodawila-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "06 Jul 5:16 pm",
+    "gender": "Cả hai"
   }
 ]
