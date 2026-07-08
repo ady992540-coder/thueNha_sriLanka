@@ -3128,5 +3128,15 @@
     "rawPrice": 32000,
     "timestamp": "05 Jul 11:57 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2325,
+    "title": "Annex for Rent in Piliyandala",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-piliyandala-for-rent-colombo-365",
+    "rawPrice": 28000,
+    "timestamp": "07 Jul 10:11 am",
+    "gender": "Cả hai"
   }
 ]

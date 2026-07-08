@@ -4958,5 +4958,45 @@
     "rawPrice": 50000,
     "timestamp": "06 Jul 12:03 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3388,
+    "title": "Annex for Rent in Mahabage (female)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mahabage-female-for-rent-gampaha-1",
+    "rawPrice": 32000,
+    "timestamp": "05 Jul 11:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3393,
+    "title": "Room for Rent - Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-559",
+    "rawPrice": 40000,
+    "timestamp": "08 Jul 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3399,
+    "title": "Boarding room Rent in Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-for-rent-colombo-64",
+    "rawPrice": 16000,
+    "timestamp": "07 Jul 8:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3404,
+    "title": "Room for Rent in Dehiwala Boys",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-boys-for-rent-colombo-3",
+    "rawPrice": 26000,
+    "timestamp": "07 Jul 4:22 pm",
+    "gender": "Cả hai"
   }
 ]

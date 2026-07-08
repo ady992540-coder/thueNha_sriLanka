@@ -2618,5 +2618,15 @@
     "rawPrice": 32000,
     "timestamp": "05 Jul 11:57 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 1996,
+    "title": "Fully Furnished Roomfor Rent in Colombo 3",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-roomfor-rent-in-colombo-3-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "08 Jul 5:38 am",
+    "gender": "Cả hai"
   }
 ]

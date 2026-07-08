@@ -5698,5 +5698,25 @@
     "rawPrice": 60000,
     "timestamp": "06 Jul 5:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4449,
+    "title": "Room ( Only Girl) For Rent in Nugegoda, Wijerama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girl-for-rent-in-nugegoda-wijerama-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "06 Jul 11:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4454,
+    "title": "Rooms for Rent in Wijerama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-wijerama-for-rent-colombo-4",
+    "rawPrice": 35000,
+    "timestamp": "07 Jul 1:19 pm",
+    "gender": "Cả hai"
   }
 ]
