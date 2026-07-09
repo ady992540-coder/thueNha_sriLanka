@@ -3138,5 +3138,25 @@
     "rawPrice": 28000,
     "timestamp": "07 Jul 10:11 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2342,
+    "title": "Annex for Rent in Mahabage (Female)",
+    "price": "Rs 34,000 /tháng (~ 2.890.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-mahabage-female-for-rent-gampaha-2",
+    "rawPrice": 34000,
+    "timestamp": "08 Jul 7:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2347,
+    "title": "Room for Rent piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10287",
+    "rawPrice": 15000,
+    "timestamp": "08 Jul 3:13 pm",
+    "gender": "Cả hai"
   }
 ]

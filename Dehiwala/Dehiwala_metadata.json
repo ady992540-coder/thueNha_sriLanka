@@ -4998,5 +4998,55 @@
     "rawPrice": 26000,
     "timestamp": "07 Jul 4:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3417,
+    "title": "Room For Rent - Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-560",
+    "rawPrice": 25000,
+    "timestamp": "08 Jul 7:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3423,
+    "title": "Furniture Room For Rent Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furniture-room-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "08 Jul 5:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3426,
+    "title": "Boarding Room for Working Ladies – Dehiwala",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-dehiwala-for-rent-colombo",
+    "rawPrice": 21000,
+    "timestamp": "08 Jul 4:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3428,
+    "title": "Furnished Room for Rent in Dehiwala",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "08 Jul 9:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3433,
+    "title": "Boarding Room Rent in Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "08 Jul 12:10 pm",
+    "gender": "Cả hai"
   }
 ]
