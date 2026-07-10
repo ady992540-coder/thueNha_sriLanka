@@ -3158,5 +3158,25 @@
     "rawPrice": 15000,
     "timestamp": "08 Jul 3:13 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2360,
+    "title": "2 Rooms Annex for Rent Kalutara",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-rooms-annex-for-rent-kalutara-for-rent-kalutara",
+    "rawPrice": 30000,
+    "timestamp": "09 Jul 11:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2365,
+    "title": "Annex for Rent Kesbewa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5284",
+    "rawPrice": 20000,
+    "timestamp": "09 Jul 3:15 pm",
+    "gender": "Cả hai"
   }
 ]

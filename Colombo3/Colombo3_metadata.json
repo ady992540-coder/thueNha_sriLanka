@@ -2638,5 +2638,35 @@
     "rawPrice": 48000,
     "timestamp": "06 Jul 1:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2031,
+    "title": "Annex for Rent Walpola",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-walpola-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "30 Jun 12:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2036,
+    "title": "Room for 3 Girls only - Maharagama",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-3-girls-only-maharagama-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "02 Jul 2:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2041,
+    "title": "2 Rooms Annex for Rent Kalutara",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-rooms-annex-for-rent-kalutara-for-rent-kalutara",
+    "rawPrice": 30000,
+    "timestamp": "09 Jul 11:51 am",
+    "gender": "Cả hai"
   }
 ]

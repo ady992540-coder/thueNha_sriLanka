@@ -5768,5 +5768,65 @@
     "rawPrice": 23000,
     "timestamp": "08 Jul 10:31 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4498,
+    "title": "Room for Rent (girl) Nugegoda",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girl-nugegoda-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "07 Jul 4:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4503,
+    "title": "Annex for Rent Walpola",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-walpola-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "30 Jun 12:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4508,
+    "title": "2 Rooms Annex for Rent Kalutara",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-rooms-annex-for-rent-kalutara-for-rent-kalutara",
+    "rawPrice": 30000,
+    "timestamp": "09 Jul 11:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4513,
+    "title": "Annex for Rent In Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-707",
+    "rawPrice": 45000,
+    "timestamp": "09 Jul 5:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4518,
+    "title": "Room for Rent - Nugegoda Embuldeniya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-embuldeniya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "09 Jul 5:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4535,
+    "title": "Annex for Rent – Rajagiriya",
+    "price": "Rs 48,000 /tháng (~ 4.080.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-rajagiriya-for-rent-colombo-158",
+    "rawPrice": 48000,
+    "timestamp": "06 Jul 1:54 pm",
+    "gender": "Cả hai"
   }
 ]
