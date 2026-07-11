@@ -5828,5 +5828,75 @@
     "rawPrice": 48000,
     "timestamp": "06 Jul 1:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4552,
+    "title": "Room for 3 Girls only - Maharagama",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-3-girls-only-maharagama-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "02 Jul 2:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4557,
+    "title": "අංග සම්පූර්ණ කාමරයක් Malabe",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ang-smpuurnn-kaamryk-malabe-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "10 Jul 1:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4562,
+    "title": "Fully Furnished Room For Rent",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-for-rent-colombo-6",
+    "rawPrice": 55000,
+    "timestamp": "11 Jul 8:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4567,
+    "title": "Annex for Rent – Delkanda, Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-delkanda-nugegoda-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "11 Jul 5:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4572,
+    "title": "Boarding Room Rent For 2 Girls In Nugegoda",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-rent-for-2-girls-in-nugegoda-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "10 Jul 8:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4589,
+    "title": "Room for rent in moratuwa- Girl Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-moratuwa-girl-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "10 Jul 9:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4594,
+    "title": "Annex for Rent Negombo",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-in-centre-of-negombo-town-for-rent-for-rent-gampaha",
+    "rawPrice": 35000,
+    "timestamp": "11 Jul 2:43 am",
+    "gender": "Cả hai"
   }
 ]

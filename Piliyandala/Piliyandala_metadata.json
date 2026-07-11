@@ -3178,5 +3178,45 @@
     "rawPrice": 20000,
     "timestamp": "09 Jul 3:15 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2378,
+    "title": "අංග සම්පූර්ණ කාමරයක් Malabe",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ang-smpuurnn-kaamryk-malabe-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "10 Jul 1:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2383,
+    "title": "Annex for Rent – Rajagiriya",
+    "price": "Rs 48,000 /tháng (~ 4.080.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-rajagiriya-for-rent-colombo-158",
+    "rawPrice": 48000,
+    "timestamp": "06 Jul 1:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2388,
+    "title": "Room for rent in moratuwa- Girl Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-moratuwa-girl-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "10 Jul 9:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2393,
+    "title": "Annex for Rent Walpola",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-walpola-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "30 Jun 12:10 pm",
+    "gender": "Cả hai"
   }
 ]
