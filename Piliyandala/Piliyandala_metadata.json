@@ -3218,5 +3218,55 @@
     "rawPrice": 40000,
     "timestamp": "30 Jun 12:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2412,
+    "title": "Piliyandala - 1BR Furnished Annex for Rent • TPM2024WARN",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/piliyandala-1br-furnished-annex-for-rent-tpm2024warn-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "11 Jul 10:14 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2416,
+    "title": "Single Room Rent For A Lady - Delkanda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-available-for-a-lady-delkanda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "12 Jun 5:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2421,
+    "title": "Room for 3 Girls only - Maharagama",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-3-girls-only-maharagama-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "02 Jul 2:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2426,
+    "title": "Room for Rent Gampaha",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-gampaha-1837",
+    "rawPrice": 16000,
+    "timestamp": "11 Jul 12:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2431,
+    "title": "Bording Rooms for Rent Gampaha",
+    "price": "Rs 7,500 /tháng (~ 637.500 ₫)",
+    "url": "https://ikman.lk/en/ad/bording-rooms-for-rent-gampaha-for-rent-gampaha-1",
+    "rawPrice": 7500,
+    "timestamp": "05 Jul 12:21 pm",
+    "gender": "Cả hai"
   }
 ]

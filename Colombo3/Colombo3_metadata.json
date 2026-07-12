@@ -2698,5 +2698,25 @@
     "rawPrice": 22000,
     "timestamp": "10 Jul 1:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2069,
+    "title": "Single Room Rent For A Lady - Delkanda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-available-for-a-lady-delkanda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "12 Jun 5:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2074,
+    "title": "Room for Rent piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10287",
+    "rawPrice": 15000,
+    "timestamp": "08 Jul 3:13 pm",
+    "gender": "Cả hai"
   }
 ]

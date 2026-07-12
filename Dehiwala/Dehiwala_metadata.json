@@ -5148,5 +5148,65 @@
     "rawPrice": 7500,
     "timestamp": "05 Jul 12:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3538,
+    "title": "Rooms For Rent in Nedimala, Dehiwala",
+    "price": "Rs 32,500 /tháng (~ 2.762.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nedimala-dehiwala-for-rent-colombo-11",
+    "rawPrice": 32500,
+    "timestamp": "11 Jul 5:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3543,
+    "title": "Room for Rent In Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1183",
+    "rawPrice": 40000,
+    "timestamp": "11 Jul 1:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3548,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-562",
+    "rawPrice": 16000,
+    "timestamp": "11 Jul 7:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3552,
+    "title": "Room for Rent piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10287",
+    "rawPrice": 15000,
+    "timestamp": "08 Jul 3:13 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3557,
+    "title": "අංග සම්පූර්ණ කාමරයක් Malabe",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ang-smpuurnn-kaamryk-malabe-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "10 Jul 1:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3574,
+    "title": "Single Room Rent For A Lady - Delkanda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-available-for-a-lady-delkanda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "12 Jun 5:56 pm",
+    "gender": "Cả hai"
   }
 ]

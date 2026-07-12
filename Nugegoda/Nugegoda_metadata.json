@@ -5898,5 +5898,35 @@
     "rawPrice": 35000,
     "timestamp": "11 Jul 2:43 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4607,
+    "title": "Luxury Comfortable room",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-comfortable-room-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "11 Jul 7:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4612,
+    "title": "Annex for Rent in Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-709",
+    "rawPrice": 40000,
+    "timestamp": "12 Jul 8:09 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4617,
+    "title": "Room For Rent Nugegoda",
+    "price": "Rs 13,500 /tháng (~ 1.147.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10290",
+    "rawPrice": 13500,
+    "timestamp": "11 Jul 12:20 pm",
+    "gender": "Cả hai"
   }
 ]
