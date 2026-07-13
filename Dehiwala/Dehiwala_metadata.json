@@ -5208,5 +5208,25 @@
     "rawPrice": 20000,
     "timestamp": "12 Jun 5:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3591,
+    "title": "Room for Rent Gampaha",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-gampaha-1837",
+    "rawPrice": 16000,
+    "timestamp": "11 Jul 12:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3596,
+    "title": "Furniture Room for Rent Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furniture-room-for-rent-dehiwala-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "13 Jul 1:20 am",
+    "gender": "Cả hai"
   }
 ]
