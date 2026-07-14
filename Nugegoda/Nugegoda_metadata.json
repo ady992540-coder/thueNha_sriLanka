@@ -5958,5 +5958,25 @@
     "rawPrice": 8000,
     "timestamp": "12 Jul 7:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4645,
+    "title": "Luxury Fully Furnished Room For Rent",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-for-rent-for-rent-colombo-3",
+    "rawPrice": 55000,
+    "timestamp": "14 Jul 6:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4649,
+    "title": "Room for Rent nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-for-room-for-rent-colombo-354",
+    "rawPrice": 20000,
+    "timestamp": "13 Jul 6:55 pm",
+    "gender": "Cả hai"
   }
 ]
