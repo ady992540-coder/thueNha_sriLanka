@@ -5978,5 +5978,35 @@
     "rawPrice": 20000,
     "timestamp": "13 Jul 6:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4663,
+    "title": "Room for Rent(boys Only) Nugegoada",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rentboys-only-nugegoada-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "14 Jul 10:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4668,
+    "title": "Room for Rent Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-568",
+    "rawPrice": 25000,
+    "timestamp": "14 Jul 11:25 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4673,
+    "title": "මාතලේ නගරය - Brand new Annex for Rent – Matale Town",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maatlee-ngry-brand-new-annex-for-rent-matale-town-for-rent-matale",
+    "rawPrice": 20000,
+    "timestamp": "14 Jul 1:30 pm",
+    "gender": "Cả hai"
   }
 ]

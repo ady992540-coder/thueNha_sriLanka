@@ -3298,5 +3298,25 @@
     "rawPrice": 35000,
     "timestamp": "11 Jul 2:43 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2483,
+    "title": "Boys Room for Rent Kaduwela",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-room-for-rent-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "14 Jul 3:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2488,
+    "title": "මාතලේ නගරය - Brand new Annex for Rent – Matale Town",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maatlee-ngry-brand-new-annex-for-rent-matale-town-for-rent-matale",
+    "rawPrice": 20000,
+    "timestamp": "14 Jul 1:30 pm",
+    "gender": "Cả hai"
   }
 ]
