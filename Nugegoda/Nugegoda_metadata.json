@@ -6008,5 +6008,25 @@
     "rawPrice": 20000,
     "timestamp": "14 Jul 1:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4682,
+    "title": "Annex for Rent in Embuldeniya",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-embuldeniya-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "15 Jul 3:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4687,
+    "title": "Room for Rent Boys Nugegoada",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boys-nugegoada-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "15 Jul 2:21 pm",
+    "gender": "Cả hai"
   }
 ]

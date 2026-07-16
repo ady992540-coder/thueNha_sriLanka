@@ -2738,5 +2738,25 @@
     "rawPrice": 20000,
     "timestamp": "14 Jul 1:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2120,
+    "title": "1 Bedroom Annex for Rent – Colombo 3",
+    "price": "Rs 185,000 /tháng (~ 15.725.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1-bedroom-annex-for-rent-colombo-3-for-rent-colombo-1",
+    "rawPrice": 185000,
+    "timestamp": "15 Jul 12:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2127,
+    "title": "Room for Rent - Shanthi Road",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-shanthi-road-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "04 Jul 9:10 am",
+    "gender": "Cả hai"
   }
 ]

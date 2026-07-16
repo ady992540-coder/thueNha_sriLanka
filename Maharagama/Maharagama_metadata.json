@@ -4328,5 +4328,15 @@
     "rawPrice": 20000,
     "timestamp": "14 Jul 1:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3193,
+    "title": "Boarding Rooms for Ladies in Nawinna Maharagama",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-ladies-in-nawinna-maharagama-for-rent-colombo-1",
+    "rawPrice": 8500,
+    "timestamp": "16 Jul 8:14 am",
+    "gender": "Cả hai"
   }
 ]
