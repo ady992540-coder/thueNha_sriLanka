@@ -6028,5 +6028,25 @@
     "rawPrice": 22000,
     "timestamp": "15 Jul 2:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4700,
+    "title": "Room for Rent in Nugegoda / Delkanda – Near J'pura University",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-delkanda-near-jpura-university-to-rent-colombo",
+    "rawPrice": 36000,
+    "timestamp": "16 Jul 2:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4704,
+    "title": "Annex for Rent at Delkada",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-delkanda-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "16 Jul 9:20 am",
+    "gender": "Cả hai"
   }
 ]

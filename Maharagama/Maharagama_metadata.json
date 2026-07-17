@@ -4338,5 +4338,15 @@
     "rawPrice": 8500,
     "timestamp": "16 Jul 8:14 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3210,
+    "title": "Newly built 03 Rooms for Rent Attidiya Rukattana mawatha",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-03-rooms-for-rent-attidiya-rukattana-mawatha-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "07 Jul 9:06 pm",
+    "gender": "Cả hai"
   }
 ]

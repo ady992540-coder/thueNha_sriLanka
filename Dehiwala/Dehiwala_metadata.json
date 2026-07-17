@@ -5248,5 +5248,55 @@
     "rawPrice": 20000,
     "timestamp": "14 Jul 1:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3643,
+    "title": "2-Bedroom Annex for Rent in Dehiwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-in-dehiwala-rs-45000-month-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "16 Jul 7:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3648,
+    "title": "Room for Rent Kawdana",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-colombo-1029",
+    "rawPrice": 10500,
+    "timestamp": "16 Jul 12:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3651,
+    "title": "Furniture Room For Rent Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furniture-room-for-rent-dehiwala-for-rent-colombo-2",
+    "rawPrice": 35000,
+    "timestamp": "16 Jul 10:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3654,
+    "title": "Sharing Room Rent for Girls in Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-for-girls-in-dehiwala-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "16 Jul 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3658,
+    "title": "Newly built 03 Rooms for Rent Attidiya Rukattana mawatha",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-03-rooms-for-rent-attidiya-rukattana-mawatha-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "07 Jul 9:06 pm",
+    "gender": "Cả hai"
   }
 ]
