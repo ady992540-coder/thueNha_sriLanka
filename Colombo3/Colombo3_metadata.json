@@ -2758,5 +2758,35 @@
     "rawPrice": 8500,
     "timestamp": "04 Jul 9:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2142,
+    "title": "Sharing Room For Rent Girls Kaduwela",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 22500,
+    "timestamp": "16 Jul 5:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2147,
+    "title": "Master Bedroom with Sea View Balcony - Dehiwala",
+    "price": "Rs 95,000 /tháng (~ 8.075.000 ₫)",
+    "url": "https://ikman.lk/en/ad/master-bedroom-with-sea-view-balcony-dehiwala-for-rent-colombo",
+    "rawPrice": 95000,
+    "timestamp": "17 Jul 2:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2157,
+    "title": "Newly built 03 Rooms for Rent Attidiya Rukattana mawatha",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-03-rooms-for-rent-attidiya-rukattana-mawatha-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "07 Jul 9:06 pm",
+    "gender": "Cả hai"
   }
 ]

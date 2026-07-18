@@ -5298,5 +5298,35 @@
     "rawPrice": 15000,
     "timestamp": "07 Jul 9:06 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3675,
+    "title": "Sharing Room For Rent Girls Kaduwela",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 22500,
+    "timestamp": "16 Jul 5:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3680,
+    "title": "Master Bedroom with Sea View Balcony - Dehiwala",
+    "price": "Rs 95,000 /tháng (~ 8.075.000 ₫)",
+    "url": "https://ikman.lk/en/ad/master-bedroom-with-sea-view-balcony-dehiwala-for-rent-colombo",
+    "rawPrice": 95000,
+    "timestamp": "17 Jul 2:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3690,
+    "title": "Room for Rent in Waikkala - Lady",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-waikkala-lady-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "17 Jul 11:41 am",
+    "gender": "Cả hai"
   }
 ]

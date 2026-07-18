@@ -6048,5 +6048,55 @@
     "rawPrice": 75000,
     "timestamp": "16 Jul 9:20 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4718,
+    "title": "Newly built 03 Rooms for Rent Attidiya Rukattana mawatha",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-03-rooms-for-rent-attidiya-rukattana-mawatha-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "07 Jul 9:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4723,
+    "title": "Master Bedroom with Sea View Balcony - Dehiwala",
+    "price": "Rs 95,000 /tháng (~ 8.075.000 ₫)",
+    "url": "https://ikman.lk/en/ad/master-bedroom-with-sea-view-balcony-dehiwala-for-rent-colombo",
+    "rawPrice": 95000,
+    "timestamp": "17 Jul 2:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4733,
+    "title": "Luxury Fully Furnished Room for Rent Nugegoda",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-for-rent-nugegoda-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "17 Jul 1:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4737,
+    "title": "Luxury Comfortable Room Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-comfortable-room-nugegoda-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "17 Jul 12:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4742,
+    "title": "Room for Rent in Waikkala - Lady",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-waikkala-lady-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "17 Jul 11:41 am",
+    "gender": "Cả hai"
   }
 ]
