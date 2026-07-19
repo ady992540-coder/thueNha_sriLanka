@@ -5328,5 +5328,35 @@
     "rawPrice": 15000,
     "timestamp": "17 Jul 11:41 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3717,
+    "title": "Girls’ Boarding Rooms for Rent – Near Dehiwala Flyover",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-boarding-rooms-for-rent-near-dehiwala-flyover-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "18 Jul 3:33 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3722,
+    "title": "Furnishings A/C Boarding Room for Rent in Visaka Watta Ja Ela",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-a-c-boarding-room-for-rent-in-visaka-watta-ja-ela-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "16 Jul 8:46 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3732,
+    "title": "Room for Rent - Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-88",
+    "rawPrice": 20000,
+    "timestamp": "03 Jul 12:01 pm",
+    "gender": "Cả hai"
   }
 ]

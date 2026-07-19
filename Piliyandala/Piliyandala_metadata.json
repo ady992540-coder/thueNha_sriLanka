@@ -3358,5 +3358,35 @@
     "rawPrice": 22500,
     "timestamp": "16 Jul 5:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2563,
+    "title": "Annex for Rent in Piliyandala Town",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-piliyandala-town-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "18 Jul 1:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2568,
+    "title": "Room for Rent in Waikkala - Lady",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-waikkala-lady-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "17 Jul 11:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2573,
+    "title": "Room for Rent - Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-88",
+    "rawPrice": 20000,
+    "timestamp": "03 Jul 12:01 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -6098,5 +6098,35 @@
     "rawPrice": 15000,
     "timestamp": "17 Jul 11:41 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4759,
+    "title": "Fully Furnished Room for Rent in Nugegoda ( Ladies )",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-in-nugegoda-ladies-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "18 Jul 4:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4764,
+    "title": "Room For Rent In Nugegoda",
+    "price": "Rs 23,500 /tháng (~ 1.997.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-2-for-ladies-for-rent-colombo",
+    "rawPrice": 23500,
+    "timestamp": "18 Jul 4:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4768,
+    "title": "Room for Rent - Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-88",
+    "rawPrice": 20000,
+    "timestamp": "03 Jul 12:01 pm",
+    "gender": "Cả hai"
   }
 ]

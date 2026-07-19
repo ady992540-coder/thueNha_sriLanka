@@ -2788,5 +2788,25 @@
     "rawPrice": 15000,
     "timestamp": "07 Jul 9:06 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2170,
+    "title": "Room for Rent - Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-88",
+    "rawPrice": 20000,
+    "timestamp": "03 Jul 12:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2171,
+    "title": "Furnishings A/C Boarding Room for Rent in Visaka Watta Ja Ela",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-a-c-boarding-room-for-rent-in-visaka-watta-ja-ela-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "16 Jul 8:46 am",
+    "gender": "Cả hai"
   }
 ]
