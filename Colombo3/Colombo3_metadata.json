@@ -2808,5 +2808,25 @@
     "rawPrice": 20000,
     "timestamp": "16 Jul 8:46 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2193,
+    "title": "Rooms for Rent in Rathmalana (Male)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "18 Jul 5:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2197,
+    "title": "Room for Rent in Waikkala - Lady",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-waikkala-lady-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "17 Jul 11:41 am",
+    "gender": "Cả hai"
   }
 ]

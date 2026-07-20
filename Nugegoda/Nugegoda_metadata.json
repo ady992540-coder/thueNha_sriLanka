@@ -6128,5 +6128,45 @@
     "rawPrice": 20000,
     "timestamp": "03 Jul 12:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4778,
+    "title": "Sharing Room For Rent Girls Kaduwela",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-kaduwela-for-rent-colombo",
+    "rawPrice": 22500,
+    "timestamp": "16 Jul 5:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4783,
+    "title": "Room for Rent (Girl) Nugegoda",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girl-nugegoda-for-rent-colombo-1",
+    "rawPrice": 23000,
+    "timestamp": "19 Jul 5:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4788,
+    "title": "Room for Rent - Shanthi Road",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-shanthi-road-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "04 Jul 9:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4791,
+    "title": "Rooms for Rent in Rathmalana (Male)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "18 Jul 5:28 pm",
+    "gender": "Cả hai"
   }
 ]

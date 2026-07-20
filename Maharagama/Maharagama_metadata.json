@@ -4388,5 +4388,55 @@
     "rawPrice": 25000,
     "timestamp": "18 Jul 11:59 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3272,
+    "title": "Room for Rent - Boralesgamuwa",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boralesgamuwa-for-rent-colombo-88",
+    "rawPrice": 20000,
+    "timestamp": "03 Jul 12:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3273,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-974",
+    "rawPrice": 25000,
+    "timestamp": "19 Jul 1:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3277,
+    "title": "Room for rent in Maharagama Town (for a lady)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-town-for-a-lady-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "20 Jul 8:33 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3282,
+    "title": "Rooms for Rent in Rathmalana (Male)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-male-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "18 Jul 5:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3286,
+    "title": "Furnishings A/C Boarding Room for Rent in Visaka Watta Ja Ela",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-a-c-boarding-room-for-rent-in-visaka-watta-ja-ela-for-rent-gampaha",
+    "rawPrice": 20000,
+    "timestamp": "16 Jul 8:46 am",
+    "gender": "Cả hai"
   }
 ]
