@@ -4438,5 +4438,35 @@
     "rawPrice": 20000,
     "timestamp": "16 Jul 8:46 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3312,
+    "title": "Room for Rent in Waikkala - Lady",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-waikkala-lady-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "17 Jul 11:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3317,
+    "title": "Furnishings A/c Boarding Room for Rent in Visaka Watta Ja Ela",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-a-c-boarding-room-for-rent-in-visaka-watta-ja-ela-for-rent-gampaha-1",
+    "rawPrice": 18500,
+    "timestamp": "20 Jul 9:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3327,
+    "title": "Male Boarding Accommodation – Katubedda, Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/male-boarding-accommodation-katubedda-moratuwa-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "13 Jul 3:50 pm",
+    "gender": "Cả hai"
   }
 ]

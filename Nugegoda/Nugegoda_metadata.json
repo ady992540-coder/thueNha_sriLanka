@@ -6168,5 +6168,35 @@
     "rawPrice": 20000,
     "timestamp": "18 Jul 5:28 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4812,
+    "title": "Room for Rent Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-colombo-1030",
+    "rawPrice": 20000,
+    "timestamp": "20 Jul 5:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4817,
+    "title": "Male Boarding Accommodation – Katubedda, Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/male-boarding-accommodation-katubedda-moratuwa-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "13 Jul 3:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4822,
+    "title": "Furnishings A/c Boarding Room for Rent in Visaka Watta Ja Ela",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-a-c-boarding-room-for-rent-in-visaka-watta-ja-ela-for-rent-gampaha-1",
+    "rawPrice": 18500,
+    "timestamp": "20 Jul 9:44 am",
+    "gender": "Cả hai"
   }
 ]

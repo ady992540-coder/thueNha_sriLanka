@@ -5368,5 +5368,45 @@
     "rawPrice": 20000,
     "timestamp": "18 Jul 5:28 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3762,
+    "title": "Rooms for Rent in Dehiwala – Only Girls",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-dehiwala-only-girls-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "20 Jul 12:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3767,
+    "title": "Male Boarding Accommodation – Katubedda, Moratuwa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/male-boarding-accommodation-katubedda-moratuwa-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "13 Jul 3:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3772,
+    "title": "Room for Rent - Shanthi Road",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-shanthi-road-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "04 Jul 9:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3775,
+    "title": "Furnishings A/c Boarding Room for Rent in Visaka Watta Ja Ela",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-a-c-boarding-room-for-rent-in-visaka-watta-ja-ela-for-rent-gampaha-1",
+    "rawPrice": 18500,
+    "timestamp": "20 Jul 9:44 am",
+    "gender": "Cả hai"
   }
 ]
