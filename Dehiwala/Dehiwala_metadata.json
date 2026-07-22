@@ -5408,5 +5408,25 @@
     "rawPrice": 18500,
     "timestamp": "20 Jul 9:44 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3801,
+    "title": "Annex For Rent In Kalubowila (IM711)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kalubowila-im711-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "21 Jul 2:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3802,
+    "title": "Rooms Rent for Girls Colombo 06",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-for-rent-colombo-50",
+    "rawPrice": 11500,
+    "timestamp": "21 Jul 11:34 am",
+    "gender": "Cả hai"
   }
 ]

@@ -3428,5 +3428,15 @@
     "rawPrice": 18500,
     "timestamp": "20 Jul 9:44 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2627,
+    "title": "Rooms Rent for Girls Colombo 06",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-for-rent-colombo-50",
+    "rawPrice": 11500,
+    "timestamp": "21 Jul 11:34 am",
+    "gender": "Cả hai"
   }
 ]

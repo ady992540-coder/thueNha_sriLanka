@@ -4468,5 +4468,15 @@
     "rawPrice": 15000,
     "timestamp": "13 Jul 3:50 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3340,
+    "title": "Well-Maintained Annex for Rent – Wattala Town",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/well-maintained-annex-for-rent-wattala-town-for-rent-gampaha",
+    "rawPrice": 40000,
+    "timestamp": "20 Jul 2:21 pm",
+    "gender": "Cả hai"
   }
 ]

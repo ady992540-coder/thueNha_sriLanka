@@ -2828,5 +2828,25 @@
     "rawPrice": 15000,
     "timestamp": "17 Jul 11:41 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2211,
+    "title": "Rooms Rent for Girls Colombo 06",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-for-rent-colombo-50",
+    "rawPrice": 11500,
+    "timestamp": "21 Jul 11:34 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2216,
+    "title": "Furnishings A/c Boarding Room for Rent in Visaka Watta Ja Ela",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishings-a-c-boarding-room-for-rent-in-visaka-watta-ja-ela-for-rent-gampaha-1",
+    "rawPrice": 18500,
+    "timestamp": "20 Jul 9:44 am",
+    "gender": "Cả hai"
   }
 ]
