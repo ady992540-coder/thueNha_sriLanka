@@ -4478,5 +4478,25 @@
     "rawPrice": 40000,
     "timestamp": "20 Jul 2:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3357,
+    "title": "Rooms Rent for Girls Colombo 06",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-for-rent-colombo-50",
+    "rawPrice": 11500,
+    "timestamp": "21 Jul 11:34 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3362,
+    "title": "Rooms for Rent Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2723",
+    "rawPrice": 25000,
+    "timestamp": "22 Jul 7:08 pm",
+    "gender": "Cả hai"
   }
 ]
