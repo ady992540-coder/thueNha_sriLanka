@@ -2848,5 +2848,15 @@
     "rawPrice": 18500,
     "timestamp": "20 Jul 9:44 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2238,
+    "title": "Room for Rent in Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-gampaha-8",
+    "rawPrice": 9000,
+    "timestamp": "15 Jul 2:58 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -6278,5 +6278,45 @@
     "rawPrice": 30000,
     "timestamp": "20 Jul 4:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4912,
+    "title": "Room for Rent in Katubedda Students",
+    "price": "Rs 5,500 /tháng (~ 467.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katubedda-students-only-for-rent-colombo",
+    "rawPrice": 5500,
+    "timestamp": "22 Jul 11:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4917,
+    "title": "Annex for Rent in Nugegoda",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-710",
+    "rawPrice": 90000,
+    "timestamp": "23 Jul 3:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4922,
+    "title": "Rooms Rent Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "23 Jul 9:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4927,
+    "title": "Room for Rent in Mount Lavinia",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mount-lavinia-for-rent-colombo-852",
+    "rawPrice": 10000,
+    "timestamp": "20 Jul 9:47 am",
+    "gender": "Cả hai"
   }
 ]

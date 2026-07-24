@@ -4498,5 +4498,25 @@
     "rawPrice": 25000,
     "timestamp": "22 Jul 7:08 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3375,
+    "title": "Room for Rent in Katubedda Students",
+    "price": "Rs 5,500 /tháng (~ 467.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katubedda-students-only-for-rent-colombo",
+    "rawPrice": 5500,
+    "timestamp": "22 Jul 11:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3380,
+    "title": "Boralesgamuwa ගැහැණු ළමුන් සදහා කාමර කුලියට දීමට ඇත",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaennu-llmun-sdhaa-kaamr-kuliytt-diimtt-aet-for-rent-colombo",
+    "rawPrice": 24000,
+    "timestamp": "24 Jul 6:35 am",
+    "gender": "Cả hai"
   }
 ]

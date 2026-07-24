@@ -5478,5 +5478,35 @@
     "rawPrice": 5500,
     "timestamp": "22 Jul 11:35 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3853,
+    "title": "පන්නිපිටිය වීරමාවත අලුතින් නිමකරන ලද ඇනෙක්සිය කුලිය",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/pnnipittiy-viirmaavt-alutin-nimkrn-ld-aeneksiy-kuliy-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "23 Jul 8:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3858,
+    "title": "Room for Rent in Dehiwala (Male Only)",
+    "price": "Rs 18,800 /tháng (~ 1.598.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-male-only-for-rent-colombo",
+    "rawPrice": 18800,
+    "timestamp": "23 Jul 5:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3861,
+    "title": "Room for Rent in Mount Lavinia",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mount-lavinia-for-rent-colombo-852",
+    "rawPrice": 10000,
+    "timestamp": "20 Jul 9:47 am",
+    "gender": "Cả hai"
   }
 ]
