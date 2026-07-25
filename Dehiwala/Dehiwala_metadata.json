@@ -5508,5 +5508,35 @@
     "rawPrice": 10000,
     "timestamp": "20 Jul 9:47 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3889,
+    "title": "Fist Floor Anex For Rent Dehiwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fist-floor-anex-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "24 Jul 3:33 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3893,
+    "title": "Room for Rent Piliyandala (Girl Only)",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-girl-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "24 Jul 9:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3897,
+    "title": "Room for Rent Kaduwela",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/0713513534-for-rent-colombo-2",
+    "rawPrice": 40000,
+    "timestamp": "19 Jul 12:32 pm",
+    "gender": "Cả hai"
   }
 ]

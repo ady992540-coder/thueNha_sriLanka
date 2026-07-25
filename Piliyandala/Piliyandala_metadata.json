@@ -3438,5 +3438,35 @@
     "rawPrice": 11500,
     "timestamp": "21 Jul 11:34 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2644,
+    "title": "Room for Rent Piliyandala (Girl Only)",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-girl-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "24 Jul 9:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2648,
+    "title": "Piliyandala - 1BR Fully furnished Annex for rent • TPM2024WARN2",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/piliyandala-1br-fully-furnished-annex-for-rent-tpm2024warn2-for-rent-colombo",
+    "rawPrice": 85000,
+    "timestamp": "24 Jul 3:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2653,
+    "title": "Room for Girls Only - Piliyandala",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-only-piliyandala-for-rent-colombo-1",
+    "rawPrice": 13000,
+    "timestamp": "24 Jul 2:16 pm",
+    "gender": "Cả hai"
   }
 ]
