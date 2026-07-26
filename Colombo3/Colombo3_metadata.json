@@ -2868,5 +2868,15 @@
     "rawPrice": 12000,
     "timestamp": "24 Jul 9:37 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2271,
+    "title": "Sharing Room for Rent (Girls) Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-1",
+    "rawPrice": 17500,
+    "timestamp": "24 Jul 4:47 pm",
+    "gender": "Cả hai"
   }
 ]

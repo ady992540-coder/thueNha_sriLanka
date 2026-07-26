@@ -6338,5 +6338,75 @@
     "rawPrice": 17500,
     "timestamp": "24 Jul 4:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4966,
+    "title": "Room for Rent Kaduwela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/0713513534-for-rent-colombo-2",
+    "rawPrice": 35000,
+    "timestamp": "25 Jul 5:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4971,
+    "title": "Room for Rent - Nugegoda (Girls)",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-nugegoda-for-rent-colombo-45",
+    "rawPrice": 11500,
+    "timestamp": "26 Jul 9:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4976,
+    "title": "Room Rent in Nugegoda ( Girls only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-nugegoda-girls-only-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "25 Jul 1:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4980,
+    "title": "Sharing Room (Only Girls) For Rent in Nugegoda, Mirihana",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-only-girls-for-rent-in-nugegoda-mirihana-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "25 Jul 11:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4985,
+    "title": "Luxury Fully Furnished Room For Rent",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-for-rent-for-rent-colombo-4",
+    "rawPrice": 55000,
+    "timestamp": "25 Jul 10:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4998,
+    "title": "Rooms for Rent in Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nugegoda-for-rent-colombo-336",
+    "rawPrice": 25000,
+    "timestamp": "25 Jul 9:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5003,
+    "title": "Room for Rent with Pool - Miriswatta Negombo",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-with-pool-miriswatta-negombo-for-rent-gampaha-2",
+    "rawPrice": 25000,
+    "timestamp": "26 Jul 7:17 am",
+    "gender": "Cả hai"
   }
 ]

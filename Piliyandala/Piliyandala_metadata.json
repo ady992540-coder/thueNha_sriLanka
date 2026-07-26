@@ -3468,5 +3468,25 @@
     "rawPrice": 13000,
     "timestamp": "24 Jul 2:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2663,
+    "title": "Room for Rent Kelaniya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kelaniya-for-rent-gampaha-104",
+    "rawPrice": 25000,
+    "timestamp": "22 Jul 9:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2668,
+    "title": "Room for Rent Piliyandala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-for-rent-colombo-39",
+    "rawPrice": 25000,
+    "timestamp": "25 Jul 2:35 pm",
+    "gender": "Cả hai"
   }
 ]

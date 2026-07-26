@@ -4538,5 +4538,25 @@
     "rawPrice": 17000,
     "timestamp": "24 Jul 5:36 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3411,
+    "title": "Room for Rent Piliyandala (Girl Only)",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-girl-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "24 Jul 9:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3415,
+    "title": "Room for Rent - Shanthi Road",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-shanthi-road-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "04 Jul 9:10 am",
+    "gender": "Cả hai"
   }
 ]
