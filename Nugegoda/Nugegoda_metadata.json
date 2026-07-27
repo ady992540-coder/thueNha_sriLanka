@@ -6408,5 +6408,55 @@
     "rawPrice": 25000,
     "timestamp": "26 Jul 7:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5016,
+    "title": "Room for Rent Piliyandala (Girl Only)",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-girl-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "24 Jul 9:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5020,
+    "title": "Room for Working Girls - Nugegoda",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-working-girls-nugegoda-for-rent-colombo",
+    "rawPrice": 37000,
+    "timestamp": "26 Jul 10:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5025,
+    "title": "Room for Rent in Embuldeniya",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-embuldeniya-nugegoda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "26 Jul 1:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5029,
+    "title": "Rooms for Rent in Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nugegoda-for-rent-colombo-338",
+    "rawPrice": 45000,
+    "timestamp": "27 Jul 8:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5034,
+    "title": "Room Rent in Nugegoda ( Girls Only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-nugegoda-girls-only-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "27 Jul 8:45 am",
+    "gender": "Cả hai"
   }
 ]

@@ -4558,5 +4558,25 @@
     "rawPrice": 8500,
     "timestamp": "04 Jul 9:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3429,
+    "title": "Boarding Annex for Working Ladies Maharagama",
+    "price": "Rs 27,500 /tháng (~ 2.337.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-annex-for-working-ladies-maharagama-for-rent-colombo",
+    "rawPrice": 27500,
+    "timestamp": "27 Jul 9:14 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3434,
+    "title": "Modern 1-Bedroom Annex for Rent in Ethul Kotte",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/modern-1-bedroom-annex-for-rent-in-ethul-kotte-lkr-55000-month-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "26 Jul 5:12 pm",
+    "gender": "Cả hai"
   }
 ]

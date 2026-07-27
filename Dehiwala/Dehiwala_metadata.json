@@ -5568,5 +5568,15 @@
     "rawPrice": 10000,
     "timestamp": "25 Jul 11:23 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3944,
+    "title": "Room for Rent - Nugegoda Embuldeniya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-embuldeniya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "15 Jul 2:37 pm",
+    "gender": "Cả hai"
   }
 ]
