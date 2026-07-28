@@ -3498,5 +3498,35 @@
     "rawPrice": 16000,
     "timestamp": "27 Jul 8:44 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2698,
+    "title": "Room For Rent Colombo 06",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-colombo-06-for-rent-colombo-12",
+    "rawPrice": 60000,
+    "timestamp": "27 Jul 10:11 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2703,
+    "title": "Room for Rent in Mount Lavinia",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-mount-lavinia-for-rent-colombo-852",
+    "rawPrice": 10000,
+    "timestamp": "20 Jul 9:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2708,
+    "title": "Room Sharing for rent Girls Only - Piliyandala",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-sharing-for-rent-girls-only-piliyandala-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "27 Jul 6:37 pm",
+    "gender": "Cả hai"
   }
 ]

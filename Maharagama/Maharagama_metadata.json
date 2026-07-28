@@ -4578,5 +4578,35 @@
     "rawPrice": 55000,
     "timestamp": "26 Jul 5:12 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3447,
+    "title": "Room for Rent - Nugegoda Embuldeniya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-embuldeniya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "15 Jul 2:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3452,
+    "title": "2 Bed Room Annex for Rent in Kalubowila",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bed-room-annex-for-rent-in-kalubowila-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "20 Jul 10:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3457,
+    "title": "කාමර 2 කක පහසුකම් ආහාර පාන සමඟ කාන්තාවන් / ශිෂ්‍යාවන්ට පමණී",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamr-2-kk-phsukm-aahaar-paan-smnng-kaantaavn-shissyaavntt-pmnnii-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "28 Jul 8:13 am",
+    "gender": "Cả hai"
   }
 ]

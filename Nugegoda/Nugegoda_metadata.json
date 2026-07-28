@@ -6458,5 +6458,55 @@
     "rawPrice": 15000,
     "timestamp": "27 Jul 8:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5051,
+    "title": "කාමරයක් කුලියට - Boralesgamuwa",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "27 Jul 9:06 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5056,
+    "title": "A/C Annex for Rent – Beddagana",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-c-annex-for-rent-beddagana-ideal-a-single-person-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "27 Jul 8:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5061,
+    "title": "Annex for Rent in Nugegoda Delkanda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-delkanda-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "27 Jul 1:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5067,
+    "title": "Room for Rent Nugegoda Junction",
+    "price": "Rs 14,500 /tháng (~ 1.232.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-junction-for-rent-colombo",
+    "rawPrice": 14500,
+    "timestamp": "27 Jul 2:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5069,
+    "title": "Newly Built Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-boarding-rooms-for-rent-boys-malabe-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "26 Jul 9:52 am",
+    "gender": "Cả hai"
   }
 ]

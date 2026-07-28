@@ -5578,5 +5578,35 @@
     "rawPrice": 25000,
     "timestamp": "15 Jul 2:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3961,
+    "title": "Annex for Rent in Kalubovila",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kalubovila-for-rent-colombo-5",
+    "rawPrice": 75000,
+    "timestamp": "27 Jul 2:31 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3965,
+    "title": "Room For Rent Colombo 06",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-colombo-06-for-rent-colombo-12",
+    "rawPrice": 60000,
+    "timestamp": "27 Jul 10:11 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3970,
+    "title": "Room Space for Rent (Only Females) – Miriswatta, Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-only-females-miriswatta-negombo-for-rent-gampaha-1",
+    "rawPrice": 10000,
+    "timestamp": "26 Jul 7:18 am",
+    "gender": "Cả hai"
   }
 ]

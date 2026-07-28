@@ -2888,5 +2888,15 @@
     "rawPrice": 10000,
     "timestamp": "20 Jul 9:47 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2307,
+    "title": "Room For Rent Colombo 06",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-colombo-06-for-rent-colombo-12",
+    "rawPrice": 60000,
+    "timestamp": "27 Jul 10:11 am",
+    "gender": "Cả hai"
   }
 ]
