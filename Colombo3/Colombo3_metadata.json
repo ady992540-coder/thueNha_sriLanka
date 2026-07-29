@@ -2898,5 +2898,65 @@
     "rawPrice": 60000,
     "timestamp": "27 Jul 10:11 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2325,
+    "title": "Room for Rent - Nugegoda Embuldeniya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-embuldeniya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "15 Jul 2:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2330,
+    "title": "Room for Rent in Villa Hotel Mount Lavinia",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-villa-hotel-mount-lavinia-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "28 Jul 2:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2335,
+    "title": "Boarding Room for Rent – Piliyandala (Working Girls)",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-piliyandala-working-girls-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "19 Jul 3:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2339,
+    "title": "Room for Working Boys Galle",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-working-boys-for-rent-galle",
+    "rawPrice": 8500,
+    "timestamp": "28 Jul 11:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2343,
+    "title": "Newly Built Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-boarding-rooms-for-rent-boys-malabe-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "26 Jul 9:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2366,
+    "title": "Room for Rent Kaduwela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/0713513534-for-rent-colombo-2",
+    "rawPrice": 35000,
+    "timestamp": "25 Jul 5:47 pm",
+    "gender": "Cả hai"
   }
 ]

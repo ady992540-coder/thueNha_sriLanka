@@ -4608,5 +4608,55 @@
     "rawPrice": 40000,
     "timestamp": "28 Jul 8:13 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3466,
+    "title": "Sharing Room for Rent (Girls) Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-1",
+    "rawPrice": 17500,
+    "timestamp": "24 Jul 4:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3471,
+    "title": "Room for Rent in Villa Hotel Mount Lavinia",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-villa-hotel-mount-lavinia-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "28 Jul 2:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3476,
+    "title": "Boarding Room for Rent – Piliyandala (Working Girls)",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-piliyandala-working-girls-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "19 Jul 3:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3480,
+    "title": "Newly Built Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-boarding-rooms-for-rent-boys-malabe-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "26 Jul 9:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3490,
+    "title": "Room For Rent Colombo 06",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-colombo-06-for-rent-colombo-12",
+    "rawPrice": 60000,
+    "timestamp": "27 Jul 10:11 am",
+    "gender": "Cả hai"
   }
 ]

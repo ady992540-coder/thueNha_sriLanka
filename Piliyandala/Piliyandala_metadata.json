@@ -3528,5 +3528,55 @@
     "rawPrice": 13000,
     "timestamp": "27 Jul 6:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2717,
+    "title": "Room for Rent in Villa Hotel Mount Lavinia",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-villa-hotel-mount-lavinia-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "28 Jul 2:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2722,
+    "title": "Sharing Room for Rent (Girls) Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-1",
+    "rawPrice": 17500,
+    "timestamp": "24 Jul 4:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2727,
+    "title": "Newly Built Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-boarding-rooms-for-rent-boys-malabe-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "26 Jul 9:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2737,
+    "title": "Room Space for Rent (Only Females) – Miriswatta, Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-only-females-miriswatta-negombo-for-rent-gampaha-1",
+    "rawPrice": 10000,
+    "timestamp": "26 Jul 7:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2741,
+    "title": "2 Bed Room Annex for Rent in Kalubowila",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bed-room-annex-for-rent-in-kalubowila-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "20 Jul 10:04 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -6508,5 +6508,65 @@
     "rawPrice": 15000,
     "timestamp": "26 Jul 9:52 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5095,
+    "title": "Room For Rent Colombo 06",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-colombo-06-for-rent-colombo-12",
+    "rawPrice": 60000,
+    "timestamp": "27 Jul 10:11 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5100,
+    "title": "Room for Rent in Villa Hotel Mount Lavinia",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-villa-hotel-mount-lavinia-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "28 Jul 2:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5105,
+    "title": "Annex for Rent Kalubowila",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kalubowila-for-rent-colombo-35",
+    "rawPrice": 50000,
+    "timestamp": "28 Jul 9:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5110,
+    "title": "Annex for Rent in Katubedda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-katubedda-for-rent-colombo-17",
+    "rawPrice": 45000,
+    "timestamp": "28 Jul 3:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5115,
+    "title": "A Room for Rent Girl Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-room-for-rent-girl-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "28 Jul 11:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5132,
+    "title": "Rooms for Rent in Nugegoda Wijerama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nugegoda-wijerama-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "28 Jul 9:51 am",
+    "gender": "Cả hai"
   }
 ]
