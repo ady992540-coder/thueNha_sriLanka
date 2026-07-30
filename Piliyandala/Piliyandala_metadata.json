@@ -3578,5 +3578,45 @@
     "rawPrice": 75000,
     "timestamp": "20 Jul 10:04 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2758,
+    "title": "Room for Rent - Nugegoda Embuldeniya",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-embuldeniya-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "15 Jul 2:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2763,
+    "title": "Room for Rent Ladies Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-nugegoda-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "29 Jul 9:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2767,
+    "title": "Newly Built Sharing Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "29 Jul 4:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2777,
+    "title": "Room for Rent Kaduwela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/0713513534-for-rent-colombo-2",
+    "rawPrice": 35000,
+    "timestamp": "25 Jul 5:47 pm",
+    "gender": "Cả hai"
   }
 ]

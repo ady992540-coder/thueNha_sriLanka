@@ -5658,5 +5658,45 @@
     "rawPrice": 75000,
     "timestamp": "20 Jul 10:04 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4016,
+    "title": "Semi Furnished Studio Room for Rent – Asgiriya, Kandy",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/semi-furnished-studio-room-for-rent-asgiriya-kandy-for-rent-kandy",
+    "rawPrice": 45000,
+    "timestamp": "23 Jul 7:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4021,
+    "title": "Room for Rent Ladies Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-nugegoda-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "29 Jul 9:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4025,
+    "title": "Newly Built Sharing Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "29 Jul 4:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4035,
+    "title": "Room for Working Boys Galle",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-working-boys-for-rent-galle",
+    "rawPrice": 8500,
+    "timestamp": "28 Jul 11:35 am",
+    "gender": "Cả hai"
   }
 ]

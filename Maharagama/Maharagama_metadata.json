@@ -4658,5 +4658,55 @@
     "rawPrice": 60000,
     "timestamp": "27 Jul 10:11 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3507,
+    "title": "Room Space for Rent Girls – Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-only-females-miriswatta-negombo-for-rent-gampaha-1",
+    "rawPrice": 10000,
+    "timestamp": "29 Jul 11:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3512,
+    "title": "Maharagama Room for Rent - Girl",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-room-for-rent-girl-for-rent-colombo-1",
+    "rawPrice": 8000,
+    "timestamp": "29 Jul 10:33 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3515,
+    "title": "Room for Rent Ladies Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-nugegoda-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "29 Jul 9:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3519,
+    "title": "Room Space for Rent Girls – Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-girls-negombo-for-rent-gampaha",
+    "rawPrice": 10000,
+    "timestamp": "29 Jul 11:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3524,
+    "title": "Room for Rent Kaduwela",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/0713513534-for-rent-colombo-2",
+    "rawPrice": 35000,
+    "timestamp": "25 Jul 5:47 pm",
+    "gender": "Cả hai"
   }
 ]

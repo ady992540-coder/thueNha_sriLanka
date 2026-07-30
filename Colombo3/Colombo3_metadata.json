@@ -2958,5 +2958,35 @@
     "rawPrice": 35000,
     "timestamp": "25 Jul 5:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2371,
+    "title": "2 Bed Room Annex for Rent in Kalubowila",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bed-room-annex-for-rent-in-kalubowila-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "20 Jul 10:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2376,
+    "title": "Newly Built Sharing Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "29 Jul 4:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2386,
+    "title": "Room for Rent Ladies Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-nugegoda-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "29 Jul 9:08 am",
+    "gender": "Cả hai"
   }
 ]

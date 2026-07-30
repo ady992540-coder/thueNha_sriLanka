@@ -6568,5 +6568,35 @@
     "rawPrice": 45000,
     "timestamp": "28 Jul 9:51 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5149,
+    "title": "Modern Annex for Rent in Nugegoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/modern-annex-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "28 Jul 10:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5154,
+    "title": "Room for Rent Ladies Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-nugegoda-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "29 Jul 9:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5158,
+    "title": "2 Bed Room Annex for Rent in Kalubowila",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bed-room-annex-for-rent-in-kalubowila-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "20 Jul 10:04 pm",
+    "gender": "Cả hai"
   }
 ]
