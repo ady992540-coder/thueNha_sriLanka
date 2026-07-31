@@ -3618,5 +3618,25 @@
     "rawPrice": 35000,
     "timestamp": "25 Jul 5:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2798,
+    "title": "Annex for Rent in Piliyandala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-piliyandala-for-rent-colombo-367",
+    "rawPrice": 50000,
+    "timestamp": "31 Jul 8:14 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2803,
+    "title": "Annex for Rent Ja-Ela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-gampaha-1537",
+    "rawPrice": 25000,
+    "timestamp": "12 Jul 1:32 pm",
+    "gender": "Cả hai"
   }
 ]

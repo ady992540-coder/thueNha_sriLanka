@@ -4708,5 +4708,55 @@
     "rawPrice": 35000,
     "timestamp": "25 Jul 5:47 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3541,
+    "title": "Newly Built Sharing Boarding Rooms for Rent - Boys Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "29 Jul 4:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3551,
+    "title": "Boarding Rooms for Ladies Maharagama",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-for-ladies-maharagama-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "30 Jul 10:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3556,
+    "title": "Newly Built Annex for Rent – Maharagama",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-annex-for-rent-maharagama-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "30 Jul 5:33 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3561,
+    "title": "Room for Working Boys Galle",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-working-boys-for-rent-galle",
+    "rawPrice": 8500,
+    "timestamp": "28 Jul 11:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3565,
+    "title": "Annex for Rent Ja-Ela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-gampaha-1537",
+    "rawPrice": 25000,
+    "timestamp": "12 Jul 1:32 pm",
+    "gender": "Cả hai"
   }
 ]

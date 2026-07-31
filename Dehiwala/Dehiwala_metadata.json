@@ -5698,5 +5698,25 @@
     "rawPrice": 8500,
     "timestamp": "28 Jul 11:35 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4056,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-564",
+    "rawPrice": 55000,
+    "timestamp": "30 Jul 6:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4061,
+    "title": "Room Space for Rent Girls – Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-girls-negombo-for-rent-gampaha",
+    "rawPrice": 10000,
+    "timestamp": "29 Jul 11:47 am",
+    "gender": "Cả hai"
   }
 ]
