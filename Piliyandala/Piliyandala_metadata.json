@@ -3638,5 +3638,45 @@
     "rawPrice": 25000,
     "timestamp": "12 Jul 1:32 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2816,
+    "title": "Room for Rent Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10299",
+    "rawPrice": 15000,
+    "timestamp": "31 Jul 2:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2820,
+    "title": "Brand-New Room for Rent – Egodawatta, Pannipitiya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-egodawatta-pannipitiya-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "31 Jul 11:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2825,
+    "title": "Room Space for Rent Girls – Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-girls-negombo-for-rent-gampaha",
+    "rawPrice": 10000,
+    "timestamp": "29 Jul 11:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2830,
+    "title": "Semi Furnished Studio Room for Rent – Asgiriya, Kandy",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/semi-furnished-studio-room-for-rent-asgiriya-kandy-for-rent-kandy",
+    "rawPrice": 45000,
+    "timestamp": "23 Jul 7:03 pm",
+    "gender": "Cả hai"
   }
 ]

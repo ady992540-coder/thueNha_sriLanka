@@ -3008,5 +3008,25 @@
     "rawPrice": 45000,
     "timestamp": "23 Jul 7:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2417,
+    "title": "Room for Rent in Kotikawatta",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-rent-colombo-2",
+    "rawPrice": 52000,
+    "timestamp": "13 Jul 2:13 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2422,
+    "title": "Room Space for Rent Girls – Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-girls-negombo-for-rent-gampaha",
+    "rawPrice": 10000,
+    "timestamp": "29 Jul 11:47 am",
+    "gender": "Cả hai"
   }
 ]

@@ -4758,5 +4758,55 @@
     "rawPrice": 25000,
     "timestamp": "12 Jul 1:32 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3586,
+    "title": "Room for Rent in Seeduwa",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-seeduwa-for-rent-gampaha-8",
+    "rawPrice": 9000,
+    "timestamp": "15 Jul 2:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3591,
+    "title": "Room for Rent Maharagama",
+    "price": "Rs 19,500 /tháng (~ 1.657.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-employed-girl-for-rent-colombo",
+    "rawPrice": 19500,
+    "timestamp": "31 Jul 8:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3595,
+    "title": "Sharing Room ( Only Girls ) For Rent in Maharagama ,Navinna",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-only-girls-for-rent-in-maharagama-navinna-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "31 Jul 4:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3600,
+    "title": "Room for Rent in Kotikawatta",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-rent-colombo-2",
+    "rawPrice": 52000,
+    "timestamp": "13 Jul 2:13 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3605,
+    "title": "Brand-New Room for Rent – Egodawatta, Pannipitiya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-egodawatta-pannipitiya-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "31 Jul 11:16 am",
+    "gender": "Cả hai"
   }
 ]

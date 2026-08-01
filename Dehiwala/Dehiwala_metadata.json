@@ -5718,5 +5718,45 @@
     "rawPrice": 10000,
     "timestamp": "29 Jul 11:47 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4074,
+    "title": "Brand-New Room for Rent – Egodawatta, Pannipitiya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-egodawatta-pannipitiya-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "31 Jul 11:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4079,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ratmalana-newly-built-annex-for-rent-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "31 Jul 3:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4083,
+    "title": "Annex for Rent Ja-Ela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-gampaha-1537",
+    "rawPrice": 25000,
+    "timestamp": "12 Jul 1:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4088,
+    "title": "Room for Rent in Kotikawatta",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-rent-colombo-2",
+    "rawPrice": 52000,
+    "timestamp": "13 Jul 2:13 pm",
+    "gender": "Cả hai"
   }
 ]

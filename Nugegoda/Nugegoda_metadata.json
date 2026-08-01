@@ -6648,5 +6648,55 @@
     "rawPrice": 8500,
     "timestamp": "28 Jul 11:35 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5205,
+    "title": "Room for Rent-Nugegoda Near High Level Road",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-near-high-level-road-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "31 Jul 11:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5209,
+    "title": "An annex and two rooms for girls",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/an-annex-and-two-rooms-for-girls-for-rent-colombo",
+    "rawPrice": 18500,
+    "timestamp": "31 Jul 11:17 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5214,
+    "title": "Semi Furnished Studio Room for Rent – Asgiriya, Kandy",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/semi-furnished-studio-room-for-rent-asgiriya-kandy-for-rent-kandy",
+    "rawPrice": 45000,
+    "timestamp": "23 Jul 7:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5219,
+    "title": "Brand-New Room for Rent – Egodawatta, Pannipitiya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-egodawatta-pannipitiya-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "31 Jul 11:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5224,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ratmalana-newly-built-annex-for-rent-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "31 Jul 3:37 pm",
+    "gender": "Cả hai"
   }
 ]
