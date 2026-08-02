@@ -3028,5 +3028,35 @@
     "rawPrice": 10000,
     "timestamp": "29 Jul 11:47 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2435,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ratmalana-newly-built-annex-for-rent-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "31 Jul 3:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2439,
+    "title": "Sharing Room for Rent Girls Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-2",
+    "rawPrice": 17500,
+    "timestamp": "01 Aug 5:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2444,
+    "title": "මාතර නගරයෙන් අංග සම්පූර්ණ Annex බදු දීමට",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maatr-isdiin-ngryen-nviin-ang-smpuurnn-annex-ekk-bdu-diimtt-for-rent-matara",
+    "rawPrice": 30000,
+    "timestamp": "02 Aug 8:15 am",
+    "gender": "Cả hai"
   }
 ]

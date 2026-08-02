@@ -4808,5 +4808,105 @@
     "rawPrice": 40000,
     "timestamp": "31 Jul 11:16 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3622,
+    "title": "Room for Rent Malabe",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-malabe-for-rent-colombo-326",
+    "rawPrice": 25000,
+    "timestamp": "02 Aug 8:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3632,
+    "title": "Fully Furnished Studio Type Anex for Rent at Maharagama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-studio-type-anex-for-rent-at-maharagama-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "01 Aug 9:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3637,
+    "title": "Room For Rent (Male) Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-male-maharagama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "01 Aug 4:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3640,
+    "title": "මහරගම ආසන්නව කාන්තාවන් සහ පිරිමි සඳහා නවාතැන් පහසුකම් ඇත",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-aasnnv-kaantaavn-sh-pirimi-sndhaa-nvaataen-phsukm-aet-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "01 Aug 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3644,
+    "title": "Makuluduwa Road Maharagama Annex for Rent ( R- 756)",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/makuluduwa-road-maharagama-annex-for-rent-r-756-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "01 Aug 1:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3666,
+    "title": "Boys Bording for Rent in Maharagama Navinna",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-bording-for-rent-in-maharagama-navinna-for-rent-colombo-1",
+    "rawPrice": 12000,
+    "timestamp": "01 Aug 9:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3671,
+    "title": "Sharing Room for Rent Girls Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-2",
+    "rawPrice": 17500,
+    "timestamp": "01 Aug 5:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3676,
+    "title": "Semi Furnished Studio Room for Rent – Asgiriya, Kandy",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/semi-furnished-studio-room-for-rent-asgiriya-kandy-for-rent-kandy",
+    "rawPrice": 45000,
+    "timestamp": "23 Jul 7:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3681,
+    "title": "Annex for Rent Ratmalana",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ratmalana-newly-built-annex-for-rent-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "31 Jul 3:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3685,
+    "title": "Annex for Rent- Boys only Battaramulla Pelewatta",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-room-for-rent-boys-only-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Aug 11:57 am",
+    "gender": "Cả hai"
   }
 ]

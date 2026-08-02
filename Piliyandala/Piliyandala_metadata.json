@@ -3678,5 +3678,45 @@
     "rawPrice": 45000,
     "timestamp": "23 Jul 7:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2851,
+    "title": "Annex for Rent- Boys only Battaramulla Pelewatta",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-room-for-rent-boys-only-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Aug 11:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2855,
+    "title": "Sharing Room for Rent Girls Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-2",
+    "rawPrice": 17500,
+    "timestamp": "01 Aug 5:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2860,
+    "title": "Room for Rent Malabe",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-malabe-for-rent-colombo-326",
+    "rawPrice": 25000,
+    "timestamp": "02 Aug 8:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2870,
+    "title": "Room for Rent in Kotikawatta",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-rent-colombo-2",
+    "rawPrice": 52000,
+    "timestamp": "13 Jul 2:13 pm",
+    "gender": "Cả hai"
   }
 ]

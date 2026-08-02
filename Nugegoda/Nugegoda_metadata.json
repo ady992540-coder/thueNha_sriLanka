@@ -6698,5 +6698,105 @@
     "rawPrice": 42000,
     "timestamp": "31 Jul 3:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5241,
+    "title": "Room for Rent in Kotikawatta",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kotikawatta-for-rent-colombo-2",
+    "rawPrice": 52000,
+    "timestamp": "13 Jul 2:13 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5246,
+    "title": "Annex For Rent Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5294",
+    "rawPrice": 18000,
+    "timestamp": "02 Aug 8:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5251,
+    "title": "නුගේගොඩ මෙල්ඩා පෙදෙසේ කාමරයක් කුලියට දීමට ඇත (BOYS)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-melddaa-pedesee-kaamryk-kuliytt-diimtt-aet-boys-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "01 Aug 7:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5254,
+    "title": "Boarding Room for Rent – Nugegoda Wijerama Ladies",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-nugegoda-wijerama-ladies-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "01 Aug 4:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5259,
+    "title": "One Room Rent For Girls Kohuwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-room-rent-for-girls-kohuwala-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "01 Aug 7:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5276,
+    "title": "Room for Rent Malabe",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-malabe-for-rent-colombo-326",
+    "rawPrice": 25000,
+    "timestamp": "02 Aug 8:08 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5286,
+    "title": "Room Space for Rent Girls – Negombo",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-space-for-rent-girls-negombo-for-rent-gampaha",
+    "rawPrice": 10000,
+    "timestamp": "29 Jul 11:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5291,
+    "title": "Annex for Rent- Boys only Battaramulla Pelewatta",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-room-for-rent-boys-only-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Aug 11:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5295,
+    "title": "මාතර නගරයෙන් අංග සම්පූර්ණ Annex බදු දීමට",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maatr-isdiin-ngryen-nviin-ang-smpuurnn-annex-ekk-bdu-diimtt-for-rent-matara",
+    "rawPrice": 30000,
+    "timestamp": "02 Aug 8:15 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5299,
+    "title": "Annex for Rent Ja-Ela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-gampaha-1537",
+    "rawPrice": 25000,
+    "timestamp": "12 Jul 1:32 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -5758,5 +5758,45 @@
     "rawPrice": 52000,
     "timestamp": "13 Jul 2:13 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4111,
+    "title": "Room Rent for Male Executive Ethul Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-executive-gentleman-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "01 Aug 12:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4115,
+    "title": "Annex for boading behind Dehiwala Arpico",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-boading-behind-dehiwala-arpico-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "01 Aug 9:03 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4120,
+    "title": "Annex for Rent- Boys only Battaramulla Pelewatta",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-room-for-rent-boys-only-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Aug 11:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4124,
+    "title": "Room for Rent Malabe",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-malabe-for-rent-colombo-326",
+    "rawPrice": 25000,
+    "timestamp": "02 Aug 8:08 am",
+    "gender": "Cả hai"
   }
 ]
