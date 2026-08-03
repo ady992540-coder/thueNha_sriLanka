@@ -3058,5 +3058,25 @@
     "rawPrice": 30000,
     "timestamp": "02 Aug 8:15 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2454,
+    "title": "Brand-New Room for Rent – Egodawatta, Pannipitiya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-egodawatta-pannipitiya-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "31 Jul 11:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2459,
+    "title": "Room for Rent Malabe",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-malabe-for-rent-colombo-326",
+    "rawPrice": 25000,
+    "timestamp": "02 Aug 8:08 am",
+    "gender": "Cả hai"
   }
 ]

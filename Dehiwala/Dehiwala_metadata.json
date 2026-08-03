@@ -5798,5 +5798,25 @@
     "rawPrice": 25000,
     "timestamp": "02 Aug 8:08 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4150,
+    "title": "Private Room for Rent in Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/private-room-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Aug 8:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4154,
+    "title": "Sharing Room for Rent Girls Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-2",
+    "rawPrice": 17500,
+    "timestamp": "01 Aug 5:39 pm",
+    "gender": "Cả hai"
   }
 ]

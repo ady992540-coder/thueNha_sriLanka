@@ -6798,5 +6798,45 @@
     "rawPrice": 25000,
     "timestamp": "12 Jul 1:32 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5323,
+    "title": "Sharing Room for Rent Girls Nugegoda",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-nugegoda-for-rent-colombo-2",
+    "rawPrice": 17500,
+    "timestamp": "01 Aug 5:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5328,
+    "title": "නුගේගොඩ මෙල්ඩ පෙදෙසේ කාමරයක් කුලියට දීමට ඇත (BOYS)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-meldd-pedesee-kaamryk-kuliytt-diimtt-aet-boys-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Aug 11:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5331,
+    "title": "Annex for Rent Nugegoda",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5295",
+    "rawPrice": 60000,
+    "timestamp": "02 Aug 10:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5336,
+    "title": "Room for Rent Girl Nugegoda",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girl-nugegoda-for-rent-colombo-2",
+    "rawPrice": 23000,
+    "timestamp": "02 Aug 9:21 am",
+    "gender": "Cả hai"
   }
 ]
