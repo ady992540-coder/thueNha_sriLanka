@@ -5818,5 +5818,55 @@
     "rawPrice": 17500,
     "timestamp": "01 Aug 5:39 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4168,
+    "title": "මහරගම ආසන්නව කාන්තාවන් සහ පිරිමි සඳහා නවාතැන් පහසුකම් ඇත",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-aasnnv-kaantaavn-sh-pirimi-sndhaa-nvaataen-phsukm-aet-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "01 Aug 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4172,
+    "title": "Annex for Rent Dehiwela 3rd Floor",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-dehiwela-3rd-floor-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "04 Aug 8:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4177,
+    "title": "Sharing Boarding Rooms for Rent Boys - Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Aug 1:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4187,
+    "title": "Room Rent in Malabe for Girls",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-malabe-for-girls-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Aug 4:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4197,
+    "title": "Rooms for Rent Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2725",
+    "rawPrice": 25000,
+    "timestamp": "01 Aug 2:37 pm",
+    "gender": "Cả hai"
   }
 ]

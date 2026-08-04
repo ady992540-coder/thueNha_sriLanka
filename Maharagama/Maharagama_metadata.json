@@ -4938,5 +4938,45 @@
     "rawPrice": 50000,
     "timestamp": "02 Aug 11:04 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3714,
+    "title": "Single Room (Only for Girl) Rent in Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-only-for-girl-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Aug 1:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3717,
+    "title": "Room For Rent in Maharagma",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagma-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "03 Aug 11:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3721,
+    "title": "Rooms for Rent Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2725",
+    "rawPrice": 25000,
+    "timestamp": "01 Aug 2:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3723,
+    "title": "Room Rent in Malabe for Girls",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-malabe-for-girls-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Aug 4:32 pm",
+    "gender": "Cả hai"
   }
 ]

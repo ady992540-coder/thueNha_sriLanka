@@ -6838,5 +6838,65 @@
     "rawPrice": 23000,
     "timestamp": "02 Aug 9:21 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5357,
+    "title": "Sharing Boarding Rooms for Rent Boys - Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Aug 1:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5367,
+    "title": "Room (Only for Girl) Rent in Nugegoda,Wijerama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-for-girl-rent-in-nugegodawijerama-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Aug 3:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5371,
+    "title": "Rooms for Rent - Udahamulla (Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-udahamulla-girls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Aug 11:29 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5376,
+    "title": "Sharing Room Rent Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-nugegoda-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Aug 10:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5381,
+    "title": "නුගේගොඩ මෙල්ඩ පෙදෙසේ කාමරයක් කුලියට දීමට (BOYS)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-meldd-pedesee-kaamryk-kuliytt-diimtt-boys-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "03 Aug 10:49 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5402,
+    "title": "Boys Bording for Rent in Maharagama Navinna",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-bording-for-rent-in-maharagama-navinna-for-rent-colombo-1",
+    "rawPrice": 12000,
+    "timestamp": "01 Aug 9:56 am",
+    "gender": "Cả hai"
   }
 ]

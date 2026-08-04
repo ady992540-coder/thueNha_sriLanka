@@ -3728,5 +3728,45 @@
     "rawPrice": 42000,
     "timestamp": "02 Aug 7:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2908,
+    "title": "Room Rent in Malabe for Girls",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-malabe-for-girls-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Aug 4:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2918,
+    "title": "Boys Bording for Rent in Maharagama Navinna",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-bording-for-rent-in-maharagama-navinna-for-rent-colombo-1",
+    "rawPrice": 12000,
+    "timestamp": "01 Aug 9:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2923,
+    "title": "මහරගම ආසන්නව කාන්තාවන් සහ පිරිමි සඳහා නවාතැන් පහසුකම් ඇත",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-aasnnv-kaantaavn-sh-pirimi-sndhaa-nvaataen-phsukm-aet-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "01 Aug 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2927,
+    "title": "Sharing Boarding Rooms for Rent Boys - Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Aug 1:15 pm",
+    "gender": "Cả hai"
   }
 ]
