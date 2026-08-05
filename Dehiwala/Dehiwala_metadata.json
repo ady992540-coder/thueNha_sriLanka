@@ -5868,5 +5868,35 @@
     "rawPrice": 25000,
     "timestamp": "01 Aug 2:37 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4214,
+    "title": "Boarding Rooms in Kelaniya for Males",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-kelaniya-for-males-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "25 Jun 2:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4219,
+    "title": "room for rent in nedimala",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nedimala-for-rent-colombo-22",
+    "rawPrice": 28000,
+    "timestamp": "04 Aug 7:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4222,
+    "title": "annex for rent in nedimala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nedimala-for-rent-colombo-11",
+    "rawPrice": 20000,
+    "timestamp": "04 Aug 1:40 pm",
+    "gender": "Cả hai"
   }
 ]

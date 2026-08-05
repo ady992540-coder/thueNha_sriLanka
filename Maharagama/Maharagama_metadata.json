@@ -4978,5 +4978,55 @@
     "rawPrice": 25000,
     "timestamp": "03 Aug 4:32 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3753,
+    "title": "Sharing Boarding Rooms for Rent Boys - Malabe",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-boarding-rooms-for-rent-boys-malabe-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "03 Aug 1:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3763,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-975",
+    "rawPrice": 20000,
+    "timestamp": "05 Aug 8:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3767,
+    "title": "Room for Rent Girls Only Maharagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/for-girls-only-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "04 Aug 4:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3772,
+    "title": "Room for a Female Professional in Maharagama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-a-female-professional-in-maharagama-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "04 Aug 1:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3773,
+    "title": "Boarding Rooms in Kelaniya for Males",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-kelaniya-for-males-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "25 Jun 2:28 pm",
+    "gender": "Cả hai"
   }
 ]

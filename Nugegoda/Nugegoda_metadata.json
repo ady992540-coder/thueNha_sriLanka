@@ -6898,5 +6898,55 @@
     "rawPrice": 12000,
     "timestamp": "01 Aug 9:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5419,
+    "title": "Room Rent in Malabe for Girls",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-malabe-for-girls-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "03 Aug 4:32 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5429,
+    "title": "Annex in Pitakotte Rent",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-in-pitakotte-rent-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "05 Aug 7:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5434,
+    "title": "Nugegoda Room for Rent-Girls Only",
+    "price": "Rs 6,000 /tháng (~ 510.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-room-for-rent-girls-only-for-rent-colombo",
+    "rawPrice": 6000,
+    "timestamp": "04 Aug 11:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5439,
+    "title": "Ladies Sharing Room for Rent in Nugegoda",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-sharing-room-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "04 Aug 11:14 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5443,
+    "title": "Room for Rent - Nugegoda (girls)",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-girls-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "04 Aug 11:19 am",
+    "gender": "Cả hai"
   }
 ]

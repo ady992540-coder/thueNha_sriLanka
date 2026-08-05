@@ -3768,5 +3768,25 @@
     "rawPrice": 15000,
     "timestamp": "03 Aug 1:15 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2953,
+    "title": "Rooms for Rent Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2725",
+    "rawPrice": 25000,
+    "timestamp": "01 Aug 2:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2955,
+    "title": "AC Annex for rent in negombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-in-negombo-for-rent-gampaha-17",
+    "rawPrice": 30000,
+    "timestamp": "04 Aug 6:51 pm",
+    "gender": "Cả hai"
   }
 ]
