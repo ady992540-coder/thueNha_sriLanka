@@ -3788,5 +3788,25 @@
     "rawPrice": 30000,
     "timestamp": "04 Aug 6:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2971,
+    "title": "Room for Rent Ethul Kotte",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10313",
+    "rawPrice": 20000,
+    "timestamp": "05 Aug 2:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2976,
+    "title": "2 Bedroom Annex for Rent Colombo 08",
+    "price": "Rs 170,000 /tháng (~ 14.450.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-colombo-08-for-rent-colombo",
+    "rawPrice": 170000,
+    "timestamp": "05 Aug 11:07 am",
+    "gender": "Cả hai"
   }
 ]

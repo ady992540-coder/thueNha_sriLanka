@@ -6948,5 +6948,45 @@
     "rawPrice": 11500,
     "timestamp": "04 Aug 11:19 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5464,
+    "title": "මහරගම ආසන්නව කාන්තාවන් සහ පිරිමි සඳහා නවාතැන් පහසුකම් ඇත",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-aasnnv-kaantaavn-sh-pirimi-sndhaa-nvaataen-phsukm-aet-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "04 Aug 1:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5468,
+    "title": "Rooms for Rent Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2725",
+    "rawPrice": 25000,
+    "timestamp": "01 Aug 2:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5470,
+    "title": "Annexes in Pita Kotte for Rent",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annexes-in-pita-kotte-for-rent-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "06 Aug 5:06 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5475,
+    "title": "2 Bedroom Annex for Rent Colombo 08",
+    "price": "Rs 170,000 /tháng (~ 14.450.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-colombo-08-for-rent-colombo",
+    "rawPrice": 170000,
+    "timestamp": "05 Aug 11:07 am",
+    "gender": "Cả hai"
   }
 ]

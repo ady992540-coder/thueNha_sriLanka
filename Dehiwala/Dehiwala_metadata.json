@@ -5898,5 +5898,55 @@
     "rawPrice": 20000,
     "timestamp": "04 Aug 1:40 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4233,
+    "title": "Room for Rent Ethul Kotte",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10313",
+    "rawPrice": 20000,
+    "timestamp": "05 Aug 2:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4238,
+    "title": "Room for Rent Ladies Dehiwala",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-for-rent-colombo-8",
+    "rawPrice": 80000,
+    "timestamp": "05 Aug 11:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4243,
+    "title": "annex for rent in dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-696",
+    "rawPrice": 25000,
+    "timestamp": "05 Aug 5:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4248,
+    "title": "annex available for rent",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-available-for-rent-for-rent-colombo-13",
+    "rawPrice": 42000,
+    "timestamp": "05 Aug 1:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4253,
+    "title": "Boys Bording for Rent in Maharagama Navinna",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-bording-for-rent-in-maharagama-navinna-for-rent-colombo-1",
+    "rawPrice": 12000,
+    "timestamp": "01 Aug 9:56 am",
+    "gender": "Cả hai"
   }
 ]
