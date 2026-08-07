@@ -5948,5 +5948,35 @@
     "rawPrice": 12000,
     "timestamp": "01 Aug 9:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4270,
+    "title": "2 Bedroom Annex for Rent Colombo 08",
+    "price": "Rs 170,000 /tháng (~ 14.450.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-colombo-08-for-rent-colombo",
+    "rawPrice": 170000,
+    "timestamp": "05 Aug 11:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4275,
+    "title": "AC Annex for rent in negombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-in-negombo-for-rent-gampaha-17",
+    "rawPrice": 30000,
+    "timestamp": "04 Aug 6:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4280,
+    "title": "Annex for Rent in Homagama Panagoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-homagama-panagoda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "23 Jul 9:48 am",
+    "gender": "Cả hai"
   }
 ]

@@ -6988,5 +6988,55 @@
     "rawPrice": 170000,
     "timestamp": "05 Aug 11:07 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5499,
+    "title": "2 Br Annex in Boralesgamuwa",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-br-annex-in-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "06 Aug 4:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5504,
+    "title": "Fully Furnished Room For Rent",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-for-rent-colombo-7",
+    "rawPrice": 55000,
+    "timestamp": "06 Aug 3:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5507,
+    "title": "An Annex and Two Rooms for Girls Nugegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-annex-and-two-rooms-for-girls-nugegoda-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "07 Aug 7:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5512,
+    "title": "Annex for Rent in Homagama Panagoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-homagama-panagoda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "23 Jul 9:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5517,
+    "title": "Boarding Rooms in Dehiwala for Girls",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-dehiwala-for-girls-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "13 Jul 3:16 pm",
+    "gender": "Cả hai"
   }
 ]

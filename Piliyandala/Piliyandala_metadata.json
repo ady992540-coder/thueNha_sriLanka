@@ -3808,5 +3808,25 @@
     "rawPrice": 170000,
     "timestamp": "05 Aug 11:07 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2989,
+    "title": "Annex for Rent in Homagama Panagoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-homagama-panagoda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "23 Jul 9:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2994,
+    "title": "Boarding Rooms in Kelaniya for Males",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-kelaniya-for-males-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "25 Jun 2:28 pm",
+    "gender": "Cả hai"
   }
 ]
