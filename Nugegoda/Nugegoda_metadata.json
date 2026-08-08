@@ -7038,5 +7038,55 @@
     "rawPrice": 16000,
     "timestamp": "13 Jul 3:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5534,
+    "title": "Boarding Rooms in Kelaniya for Males",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-kelaniya-for-males-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "25 Jun 2:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5539,
+    "title": "Room for Rent Nugegoda Junction",
+    "price": "Rs 14,500 /tháng (~ 1.232.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-junction-for-rent-colombo-2",
+    "rawPrice": 14500,
+    "timestamp": "08 Aug 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5540,
+    "title": "House Room for rent in Nugegoda Pagoda road",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-room-for-rent-in-nugegoda-pagoda-road-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "07 Aug 5:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5545,
+    "title": "Room for Rent Ethul Kotte",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10313",
+    "rawPrice": 20000,
+    "timestamp": "05 Aug 2:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5550,
+    "title": "ගැහැනු ලමයි සඳහා කාමර පහසුකම් -කඩුවෙල",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaenu-lmyi-sndhaa-kaamr-phsukm-kdduvel-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "07 Aug 11:50 am",
+    "gender": "Cả hai"
   }
 ]

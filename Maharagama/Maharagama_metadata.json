@@ -5058,5 +5058,25 @@
     "rawPrice": 40000,
     "timestamp": "06 Aug 1:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3829,
+    "title": "Accommodation Available in Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-available-in-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "29 Jul 1:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3831,
+    "title": "Annex for Rent in Homagama Panagoda",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-homagama-panagoda-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "23 Jul 9:48 am",
+    "gender": "Cả hai"
   }
 ]

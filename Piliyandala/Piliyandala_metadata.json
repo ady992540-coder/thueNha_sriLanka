@@ -3828,5 +3828,45 @@
     "rawPrice": 8500,
     "timestamp": "25 Jun 2:28 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3007,
+    "title": "Accommodation Available in Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-available-in-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "29 Jul 1:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3009,
+    "title": "Rooms for Girls Rent in Piliyandala Town Center (only Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-rent-in-piliyandala-town-center-only-girls-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "07 Aug 12:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3015,
+    "title": "ගැහැනු ලමයි සඳහා කාමර පහසුකම් -කඩුවෙල",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaenu-lmyi-sndhaa-kaamr-phsukm-kdduvel-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "07 Aug 11:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3019,
+    "title": "Boarding Rooms in Dehiwala for Girls",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-dehiwala-for-girls-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "13 Jul 3:16 pm",
+    "gender": "Cả hai"
   }
 ]
