@@ -3208,5 +3208,45 @@
     "rawPrice": 12000,
     "timestamp": "01 Aug 9:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2599,
+    "title": "Annexes in Pita Kotte for Rent",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annexes-in-pita-kotte-for-rent-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "06 Aug 5:06 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2604,
+    "title": "Accommodation Available in Ratmalana",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-available-in-ratmalana-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "29 Jul 1:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2606,
+    "title": "Room for Rent Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-for-rent-colombo-376",
+    "rawPrice": 40000,
+    "timestamp": "06 Aug 1:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2611,
+    "title": "10 Rooms for Rent Puttalama",
+    "price": "Rs 825,000 /tháng (~ 70.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/10-rooms-for-rent-puttalama-for-rent-puttalam",
+    "rawPrice": 825000,
+    "timestamp": "07 Aug 6:20 pm",
+    "gender": "Cả hai"
   }
 ]

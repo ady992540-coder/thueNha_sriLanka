@@ -5078,5 +5078,55 @@
     "rawPrice": 12500,
     "timestamp": "23 Jul 9:48 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3847,
+    "title": "Annexes in Pita Kotte for Rent",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annexes-in-pita-kotte-for-rent-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "06 Aug 5:06 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3852,
+    "title": "Boarding Rooms in Dehiwala for Girls",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-rooms-in-dehiwala-for-girls-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "13 Jul 3:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3854,
+    "title": "Room for Rent at Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-maharagama-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "08 Aug 11:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3858,
+    "title": "Rooms for Rent – Maharagama (Ladies Only)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-ladies-only-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "08 Aug 5:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3863,
+    "title": "Room for Rent Working Female in Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-working-female-in-maharagama-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "08 Aug 12:36 pm",
+    "gender": "Cả hai"
   }
 ]
