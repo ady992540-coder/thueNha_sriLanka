@@ -7148,5 +7148,45 @@
     "rawPrice": 40000,
     "timestamp": "06 Aug 1:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5617,
+    "title": "10 Rooms for Rent Puttalama",
+    "price": "Rs 825,000 /tháng (~ 70.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/10-rooms-for-rent-puttalama-for-rent-puttalam",
+    "rawPrice": 825000,
+    "timestamp": "07 Aug 6:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5620,
+    "title": "Boarding Sharing Room for Rent Working Girls Maharagama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-sharing-room-for-rent-working-girls-maharagama-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "26 Jun 2:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5625,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 13,500 /tháng (~ 1.147.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1347",
+    "rawPrice": 13500,
+    "timestamp": "09 Aug 1:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5630,
+    "title": "Shearing Bed Space For Rent To Girls Kalubovila",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shearing-bed-space-for-rent-to-girls-kalubovila-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "09 Aug 9:46 am",
+    "gender": "Cả hai"
   }
 ]

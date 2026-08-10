@@ -5128,5 +5128,55 @@
     "rawPrice": 40000,
     "timestamp": "08 Aug 12:36 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3880,
+    "title": "ගැහැනු ලමයි සඳහා කාමර පහසුකම් -කඩුවෙල",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaenu-lmyi-sndhaa-kaamr-phsukm-kdduvel-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "07 Aug 11:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3884,
+    "title": "Room for Rent in Maharagama - Wattegedara",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-wattegedara-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "10 Aug 2:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3887,
+    "title": "Annex for Rent Pannipitiya",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-annex-for-rent-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "09 Aug 6:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3892,
+    "title": "Rooms for Rent Maharagama Boys",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-boys-for-rent-colombo",
+    "rawPrice": 21000,
+    "timestamp": "10 Aug 7:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3896,
+    "title": "Upstair Annex for Rent Kandy",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-for-rent-for-rent-kandy",
+    "rawPrice": 45000,
+    "timestamp": "20 Jul 2:10 pm",
+    "gender": "Cả hai"
   }
 ]
