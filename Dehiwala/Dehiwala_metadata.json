@@ -6058,5 +6058,35 @@
     "rawPrice": 8000,
     "timestamp": "26 Jun 2:46 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4361,
+    "title": "Room for Rent (Ladies) Dehiwala",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-dehiwala-for-rent-colombo-2",
+    "rawPrice": 70000,
+    "timestamp": "10 Aug 6:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4366,
+    "title": "Annex Rent in Pita Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-rent-in-pita-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Aug 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4371,
+    "title": "10 Rooms for Rent Puttalama",
+    "price": "Rs 825,000 /tháng (~ 70.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/10-rooms-for-rent-puttalama-for-rent-puttalam",
+    "rawPrice": 825000,
+    "timestamp": "07 Aug 6:20 pm",
+    "gender": "Cả hai"
   }
 ]

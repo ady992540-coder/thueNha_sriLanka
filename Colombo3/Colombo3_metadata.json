@@ -3248,5 +3248,35 @@
     "rawPrice": 825000,
     "timestamp": "07 Aug 6:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2628,
+    "title": "Boarding for Boys in Kollupitiya (colombo 03)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-boys-in-kollupitiya-colombo-03-for-rent-colombo-1",
+    "rawPrice": 13000,
+    "timestamp": "10 Aug 11:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2633,
+    "title": "Boarding Sharing Room for Rent Working Girls Maharagama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-sharing-room-for-rent-working-girls-maharagama-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "26 Jun 2:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2638,
+    "title": "Annex Rent in Pita Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-rent-in-pita-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Aug 6:50 am",
+    "gender": "Cả hai"
   }
 ]

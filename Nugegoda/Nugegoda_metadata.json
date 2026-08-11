@@ -7188,5 +7188,15 @@
     "rawPrice": 10000,
     "timestamp": "09 Aug 9:46 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5654,
+    "title": "Annex Rent in Pita Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-rent-in-pita-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Aug 6:50 am",
+    "gender": "Cả hai"
   }
 ]

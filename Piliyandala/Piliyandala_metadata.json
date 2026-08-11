@@ -3928,5 +3928,25 @@
     "rawPrice": 45000,
     "timestamp": "20 Jul 2:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3076,
+    "title": "Room for Rent in Ratmalana",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ratmalana-for-rent-colombo-381",
+    "rawPrice": 11500,
+    "timestamp": "11 Aug 12:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3078,
+    "title": "Annex Rent in Pita Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-rent-in-pita-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Aug 6:50 am",
+    "gender": "Cả hai"
   }
 ]
