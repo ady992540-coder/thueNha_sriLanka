@@ -3948,5 +3948,15 @@
     "rawPrice": 25000,
     "timestamp": "11 Aug 6:50 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3094,
+    "title": "Room For Girls Rent in Malabe",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-rent-in-malabe-thalahena-sharing-for-rent-colombo",
+    "rawPrice": 8500,
+    "timestamp": "29 Jun 12:59 pm",
+    "gender": "Cả hai"
   }
 ]

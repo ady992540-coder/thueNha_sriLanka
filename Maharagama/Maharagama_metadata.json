@@ -5188,5 +5188,35 @@
     "rawPrice": 9000,
     "timestamp": "10 Aug 5:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3930,
+    "title": "Room Rent in Maharagama",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-maharagama-for-rent-colombo-16",
+    "rawPrice": 17000,
+    "timestamp": "11 Aug 1:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3935,
+    "title": "Annex Rent in Pita Kotte",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-rent-in-pita-kotte-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "11 Aug 6:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3940,
+    "title": "AC Annex for rent in negombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-in-negombo-for-rent-gampaha-17",
+    "rawPrice": 30000,
+    "timestamp": "04 Aug 6:51 pm",
+    "gender": "Cả hai"
   }
 ]

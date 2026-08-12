@@ -7198,5 +7198,35 @@
     "rawPrice": 25000,
     "timestamp": "11 Aug 6:50 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5671,
+    "title": "Nugegoda - Annex for rent",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-annex-for-rent-for-rent-colombo-2",
+    "rawPrice": 55000,
+    "timestamp": "11 Aug 10:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5681,
+    "title": "House room for rent in Nugegoda Pagoda road",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-room-for-rent-in-nugegoda-pagoda-road-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "11 Aug 11:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5686,
+    "title": "Upstair Annex for Rent Kandy",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-for-rent-for-rent-kandy",
+    "rawPrice": 45000,
+    "timestamp": "20 Jul 2:10 pm",
+    "gender": "Cả hai"
   }
 ]

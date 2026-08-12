@@ -6088,5 +6088,35 @@
     "rawPrice": 825000,
     "timestamp": "07 Aug 6:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4380,
+    "title": "Annex for Rent in Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-698",
+    "rawPrice": 60000,
+    "timestamp": "12 Aug 6:20 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4387,
+    "title": "Large Room for Rent with in Dehiwela",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/large-room-for-rent-with-in-dehiwela-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "12 Aug 2:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4392,
+    "title": "Upstair Annex for Rent Kandy",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-for-rent-for-rent-kandy",
+    "rawPrice": 45000,
+    "timestamp": "20 Jul 2:10 pm",
+    "gender": "Cả hai"
   }
 ]
