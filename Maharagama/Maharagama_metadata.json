@@ -5218,5 +5218,45 @@
     "rawPrice": 30000,
     "timestamp": "04 Aug 6:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3949,
+    "title": "Maharagama Room Rent",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-room-rent-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "12 Aug 10:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3950,
+    "title": "Single / Sharing Room ( Only Girls) For Rent in Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-sharing-room-only-girls-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "12 Aug 10:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3955,
+    "title": "Room For Girls Rent in Malabe",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-rent-in-malabe-thalahena-sharing-for-rent-colombo",
+    "rawPrice": 8500,
+    "timestamp": "29 Jun 12:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3958,
+    "title": "Furnished A/C Room for Rent In Biyagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-a-c-room-for-rent-in-biyagama-for-rent-gampaha-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Jul 11:36 am",
+    "gender": "Cả hai"
   }
 ]

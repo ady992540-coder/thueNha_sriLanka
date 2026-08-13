@@ -6118,5 +6118,25 @@
     "rawPrice": 45000,
     "timestamp": "20 Jul 2:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4405,
+    "title": "Room for Rent in Kawdana Dehiwala Boys Only",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kawdana-dehiwala-boys-only-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "12 Aug 3:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4410,
+    "title": "Room For Girls Rent in Malabe",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-rent-in-malabe-thalahena-sharing-for-rent-colombo",
+    "rawPrice": 8500,
+    "timestamp": "29 Jun 12:59 pm",
+    "gender": "Cả hai"
   }
 ]

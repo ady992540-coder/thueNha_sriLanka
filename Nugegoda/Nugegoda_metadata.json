@@ -7228,5 +7228,75 @@
     "rawPrice": 45000,
     "timestamp": "20 Jul 2:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5699,
+    "title": "Furnished A/C Room for Rent In Biyagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-a-c-room-for-rent-in-biyagama-for-rent-gampaha-1",
+    "rawPrice": 25000,
+    "timestamp": "05 Jul 11:36 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5704,
+    "title": "Room For Girls Rent in Malabe",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-rent-in-malabe-thalahena-sharing-for-rent-colombo",
+    "rawPrice": 8500,
+    "timestamp": "29 Jun 12:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5707,
+    "title": "කන්තාවන් 2කුට කාමර කුලියට දීමට - නුගේගොඩ",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kntaavn-2kutt-kaamr-kuliytt-diimtt-nugeegodd-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "12 Aug 10:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5711,
+    "title": "Sharing Room for Ladies – Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-accommodation-ladies-nugegoda-kaantaa-nvaataen-phsukm-nugeegodd-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "13 Aug 7:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5716,
+    "title": "Room for Rent at Mirihana",
+    "price": "Rs 90,000 /tháng (~ 7.650.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-mirihana-for-rent-colombo",
+    "rawPrice": 90000,
+    "timestamp": "12 Aug 7:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5733,
+    "title": "Sharing Room (Only Girls) For Rent In Nugegoda ,Wijerama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-only-girls-for-rent-in-nugegoda-wijerama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "12 Aug 12:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5738,
+    "title": "Modern Annex for Rent in Nugegoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/modern-annex-for-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 70000,
+    "timestamp": "12 Aug 9:10 am",
+    "gender": "Cả hai"
   }
 ]
