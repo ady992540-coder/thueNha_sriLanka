@@ -7298,5 +7298,55 @@
     "rawPrice": 70000,
     "timestamp": "12 Aug 9:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5751,
+    "title": "Fully Completed Furnished Annex For Rent in Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-completed-furnished-annex-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "12 Aug 12:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5756,
+    "title": "Girls Accommodation (Room) Rent Mirihana",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-accommodation-room-rent-mirihana-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "14 Aug 6:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5761,
+    "title": "Fully Furnished Annex For Rent in Nugegoda",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-for-rent-in-nugegoda-for-rent-colombo-3",
+    "rawPrice": 100000,
+    "timestamp": "14 Aug 1:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5766,
+    "title": "Two Complete Rooms for Rent Monthly Girls Ja Ela",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/two-complete-rooms-for-rent-monthly-girls-ja-ela-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "13 Aug 10:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5771,
+    "title": "Room for Rent in Nugegoda (Girls )",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girls-for-rent-colombo-4",
+    "rawPrice": 14000,
+    "timestamp": "13 Aug 10:25 am",
+    "gender": "Cả hai"
   }
 ]

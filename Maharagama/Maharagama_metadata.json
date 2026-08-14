@@ -5258,5 +5258,45 @@
     "rawPrice": 25000,
     "timestamp": "05 Jul 11:36 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3979,
+    "title": "Two Complete Rooms for Rent Monthly Girls Ja Ela",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/two-complete-rooms-for-rent-monthly-girls-ja-ela-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "13 Aug 10:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3984,
+    "title": "Rooms Rent for Girls Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-maharagama-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "13 Aug 11:19 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3989,
+    "title": "Room for Rent Boys Maharagama",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boys-maharagama-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "13 Aug 2:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3990,
+    "title": "Rooms for Rent - Kandy",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-kandy-316",
+    "rawPrice": 10000,
+    "timestamp": "11 Jul 8:38 am",
+    "gender": "Cả hai"
   }
 ]

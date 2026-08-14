@@ -3958,5 +3958,25 @@
     "rawPrice": 8500,
     "timestamp": "29 Jun 12:59 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3111,
+    "title": "Room for Rent in Piliyandala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-piliyandala-for-rent-colombo-203",
+    "rawPrice": 16000,
+    "timestamp": "13 Aug 11:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3114,
+    "title": "Two Complete Rooms for Rent Monthly Girls Ja Ela",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/two-complete-rooms-for-rent-monthly-girls-ja-ela-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "13 Aug 10:59 pm",
+    "gender": "Cả hai"
   }
 ]

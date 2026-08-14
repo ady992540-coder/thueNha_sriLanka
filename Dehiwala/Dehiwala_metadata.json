@@ -6138,5 +6138,25 @@
     "rawPrice": 8500,
     "timestamp": "29 Jun 12:59 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4423,
+    "title": "Room for Rent – Boys only Katubedda, Moratuwa",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boys-only-katubedda-moratuwa-for-rent-colombo-1",
+    "rawPrice": 26000,
+    "timestamp": "13 Aug 8:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4428,
+    "title": "Rooms Rent for Girls Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-maharagama-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "13 Aug 11:19 am",
+    "gender": "Cả hai"
   }
 ]
