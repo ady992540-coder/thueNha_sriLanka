@@ -3318,5 +3318,35 @@
     "rawPrice": 45000,
     "timestamp": "20 Jul 2:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2683,
+    "title": "මහරගම කාමර 2 කක පහසුකම් තරුණ කාන්තාවන් / ශිෂ්‍යාවන්ට පමණී.",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-kaamr-2-kk-phsukm-trunn-kaantaavn-shissyaavntt-pmnnii-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "14 Aug 10:20 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2688,
+    "title": "Rooms for Rent - Kandy",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-kandy-316",
+    "rawPrice": 10000,
+    "timestamp": "11 Jul 8:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2693,
+    "title": "Annexes in Pita Kotte For Rent",
+    "price": "Rs 85,000 /tháng (~ 7.225.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annexes-in-pita-kotte-for-rent-for-rent-colombo-1",
+    "rawPrice": 85000,
+    "timestamp": "15 Aug 7:04 am",
+    "gender": "Cả hai"
   }
 ]
