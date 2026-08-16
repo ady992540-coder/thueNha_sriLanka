@@ -3348,5 +3348,35 @@
     "rawPrice": 85000,
     "timestamp": "15 Aug 7:04 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2702,
+    "title": "Two Complete Rooms for Rent Girls Ja Ela",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/two-complete-rooms-for-rent-girls-ja-ela-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "15 Aug 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2707,
+    "title": "Room for Rent in Dehiwala (Boys )",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-boys-for-rent-colombo-4",
+    "rawPrice": 25000,
+    "timestamp": "15 Aug 4:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2712,
+    "title": "Accommordation Boarding Room for Rent – Nugegoda Ladies",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommordation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "15 Aug 6:32 pm",
+    "gender": "Cả hai"
   }
 ]

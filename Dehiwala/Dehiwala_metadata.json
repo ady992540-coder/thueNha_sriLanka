@@ -6198,5 +6198,65 @@
     "rawPrice": 35000,
     "timestamp": "14 Aug 12:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4477,
+    "title": "room for rent in athidiya",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-athidiya-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "15 Aug 7:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4479,
+    "title": "Boarding Room for Rent (Girls) in Dehiwala",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-girls-in-dehiwala-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "15 Aug 4:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4483,
+    "title": "Room for Rent in Dehiwala (Boys )",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-boys-for-rent-colombo-4",
+    "rawPrice": 25000,
+    "timestamp": "15 Aug 4:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4488,
+    "title": "Room for Rent - Dehiwala ( Boys)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-boys-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "14 Aug 5:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4489,
+    "title": "Room for Rent Facing Hill Street, Dehiwela",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-facing-hill-street-dehiwela-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "15 Aug 1:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4506,
+    "title": "Accommordation Boarding Room for Rent – Nugegoda Ladies",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommordation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "15 Aug 6:32 pm",
+    "gender": "Cả hai"
   }
 ]
