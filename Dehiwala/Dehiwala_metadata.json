@@ -6258,5 +6258,25 @@
     "rawPrice": 70000,
     "timestamp": "15 Aug 6:32 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4523,
+    "title": "Boarding Room for Working Ladies – Dehiwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-working-ladies-dehiwala-for-rent-colombo-2",
+    "rawPrice": 20000,
+    "timestamp": "15 Aug 2:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4525,
+    "title": "Room for Rent at Ethulkotte (Girls only)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-ethulkotte-girls-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "16 Aug 11:30 am",
+    "gender": "Cả hai"
   }
 ]

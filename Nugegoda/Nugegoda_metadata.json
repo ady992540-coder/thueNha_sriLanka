@@ -7438,5 +7438,35 @@
     "rawPrice": 25000,
     "timestamp": "15 Aug 4:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5862,
+    "title": "Room for Rent at Ethulkotte (Girls only)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-ethulkotte-girls-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "16 Aug 11:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5864,
+    "title": "Two Complete Rooms for Rent Girls Ja Ela",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/two-complete-rooms-for-rent-girls-ja-ela-for-rent-gampaha",
+    "rawPrice": 8000,
+    "timestamp": "15 Aug 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5869,
+    "title": "AC Annex for rent in negombo",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-annex-for-rent-in-negombo-for-rent-gampaha-17",
+    "rawPrice": 30000,
+    "timestamp": "04 Aug 6:51 pm",
+    "gender": "Cả hai"
   }
 ]

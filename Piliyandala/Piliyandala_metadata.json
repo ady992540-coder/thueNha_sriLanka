@@ -4068,5 +4068,25 @@
     "rawPrice": 70000,
     "timestamp": "15 Aug 6:32 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3185,
+    "title": "Room for Rent at Ethulkotte (Girls only)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-at-ethulkotte-girls-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "16 Aug 11:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3187,
+    "title": "Annex for Rent - Balummahara, Gampaha",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-balummahara-gampaha-for-rent-gampaha-2",
+    "rawPrice": 30000,
+    "timestamp": "15 Aug 9:03 pm",
+    "gender": "Cả hai"
   }
 ]
