@@ -7468,5 +7468,25 @@
     "rawPrice": 30000,
     "timestamp": "04 Aug 6:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5881,
+    "title": "Annex for Rent in Nugegoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-712",
+    "rawPrice": 70000,
+    "timestamp": "17 Aug 2:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5886,
+    "title": "Nugegoda Melder Place - Annex for Rent",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-melder-place-annexe-for-rent-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "17 Aug 8:20 am",
+    "gender": "Cả hai"
   }
 ]

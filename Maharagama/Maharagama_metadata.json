@@ -5418,5 +5418,15 @@
     "rawPrice": 25000,
     "timestamp": "16 Aug 11:30 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4104,
+    "title": "Rooms for Rent Dematagoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-dematagoda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "17 Aug 4:25 pm",
+    "gender": "Cả hai"
   }
 ]
