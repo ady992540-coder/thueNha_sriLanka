@@ -3438,5 +3438,25 @@
     "rawPrice": 30000,
     "timestamp": "17 Aug 4:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2772,
+    "title": "Accommodation Boarding Room for Rent – Nugegoda Ladies",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "18 Aug 10:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2777,
+    "title": "Room for Girls in Mirihana",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-in-mirihana-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "15 Aug 8:41 pm",
+    "gender": "Cả hai"
   }
 ]

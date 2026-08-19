@@ -4108,5 +4108,25 @@
     "rawPrice": 25000,
     "timestamp": "05 Jul 11:36 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3221,
+    "title": "Rooms for Rent Kiribathgoda (ladies Only)",
+    "price": "Rs 4,500 /tháng (~ 382.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-kiribathgoda-ladies-only-for-rent-gampaha-1",
+    "rawPrice": 4500,
+    "timestamp": "10 Aug 5:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3225,
+    "title": "Shared Room for Rent - Ladies in Boralesgamuwa",
+    "price": "Rs 18,500 /tháng (~ 1.572.500 ₫)",
+    "url": "https://ikman.lk/en/ad/shared-room-for-rent-ladies-in-boralesgamuwa-for-rent-colombo",
+    "rawPrice": 18500,
+    "timestamp": "18 Aug 10:17 am",
+    "gender": "Cả hai"
   }
 ]
