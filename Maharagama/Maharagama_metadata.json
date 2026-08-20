@@ -5438,5 +5438,35 @@
     "rawPrice": 18500,
     "timestamp": "18 Aug 10:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4138,
+    "title": "Studio Type Room for Rent in Maharagama",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-room-for-rent-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "19 Aug 2:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4145,
+    "title": "Studio Type Room for Rent in Maharagama",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-room-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "19 Aug 1:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4155,
+    "title": "Room for Rent in Maharagama(Girls)",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagamagirls-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "19 Aug 12:39 pm",
+    "gender": "Cả hai"
   }
 ]
