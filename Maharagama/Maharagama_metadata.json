@@ -5468,5 +5468,25 @@
     "rawPrice": 30000,
     "timestamp": "19 Aug 12:39 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4172,
+    "title": "Accommodation Boarding Room for Rent – Nugegoda Ladies",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "18 Aug 10:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4177,
+    "title": "Room for Rent in Ratmalana ( Ladies Only)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ratmalana-ladies-only-for-rent-colombo-8",
+    "rawPrice": 20000,
+    "timestamp": "30 Jul 10:22 pm",
+    "gender": "Cả hai"
   }
 ]

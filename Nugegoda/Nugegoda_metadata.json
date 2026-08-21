@@ -7578,5 +7578,55 @@
     "rawPrice": 18500,
     "timestamp": "18 Aug 10:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5971,
+    "title": "Room for Rent in Ratmalana ( Ladies Only)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ratmalana-ladies-only-for-rent-colombo-8",
+    "rawPrice": 20000,
+    "timestamp": "30 Jul 10:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5976,
+    "title": "Annex For Rent Pitakotte",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-pitakotte-for-rent-colombo-5",
+    "rawPrice": 40000,
+    "timestamp": "21 Aug 1:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5979,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1350",
+    "rawPrice": 42000,
+    "timestamp": "20 Aug 11:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5984,
+    "title": "Room Rent Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-rent-colombo-334",
+    "rawPrice": 20000,
+    "timestamp": "20 Aug 10:06 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5989,
+    "title": "Room For Rent in Nugegoda , Wijerama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-wijerama-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "20 Aug 9:44 am",
+    "gender": "Cả hai"
   }
 ]

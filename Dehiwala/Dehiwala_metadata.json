@@ -6378,5 +6378,35 @@
     "rawPrice": 25000,
     "timestamp": "05 Jul 11:36 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4615,
+    "title": "Rooms for Rent Kiribathgoda (ladies Only)",
+    "price": "Rs 4,500 /tháng (~ 382.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-kiribathgoda-ladies-only-for-rent-gampaha-1",
+    "rawPrice": 4500,
+    "timestamp": "10 Aug 5:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4619,
+    "title": "annex for rent in dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-699",
+    "rawPrice": 35000,
+    "timestamp": "20 Aug 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4622,
+    "title": "annex available for rent",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-available-for-rent-for-rent-colombo-14",
+    "rawPrice": 45000,
+    "timestamp": "20 Aug 10:29 am",
+    "gender": "Cả hai"
   }
 ]
