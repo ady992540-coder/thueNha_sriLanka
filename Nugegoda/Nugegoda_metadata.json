@@ -7628,5 +7628,65 @@
     "rawPrice": 25000,
     "timestamp": "20 Aug 9:44 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6006,
+    "title": "Rooms For Rent - Udahamulla (Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-udahamulla-girls-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "20 Aug 4:36 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6011,
+    "title": "Room for A Working Girl Near Open University Nawala",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-a-working-girl-near-open-university-nawala-for-rent-colombo-1",
+    "rawPrice": 37000,
+    "timestamp": "22 Aug 12:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6016,
+    "title": "Rooms For Working Boys Pitakotte",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-working-boys-pitakotte-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "21 Aug 10:02 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6018,
+    "title": "Room (Only Girls) Rent in Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girls-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "21 Aug 5:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6021,
+    "title": "Room For Rent In Colombo | Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-colombo-nugegoda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "21 Aug 10:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6038,
+    "title": "Room For Rent Boy Nugegoda",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boy-nugegoda-for-rent-colombo-1",
+    "rawPrice": 28000,
+    "timestamp": "21 Aug 9:56 am",
+    "gender": "Cả hai"
   }
 ]

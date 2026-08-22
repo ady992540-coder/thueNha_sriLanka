@@ -5488,5 +5488,35 @@
     "rawPrice": 20000,
     "timestamp": "30 Jul 10:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4190,
+    "title": "Room for Girls in Mirihana",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-in-mirihana-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "15 Aug 8:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4195,
+    "title": "Room for Rent Maharagama-Working Girls Only",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-working-girls-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "21 Aug 9:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4198,
+    "title": "Upstair Annex for Rent in Maharagama",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-annex-for-rent-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 75000,
+    "timestamp": "21 Aug 10:26 am",
+    "gender": "Cả hai"
   }
 ]
