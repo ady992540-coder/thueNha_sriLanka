@@ -7688,5 +7688,55 @@
     "rawPrice": 28000,
     "timestamp": "21 Aug 9:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6055,
+    "title": "Annex for rent in Rathmalana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-139",
+    "rawPrice": 30000,
+    "timestamp": "17 Aug 9:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6060,
+    "title": "Room for Working Lady Nugegoda",
+    "price": "Rs 31,000 /tháng (~ 2.635.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-working-lady-nugegoda-for-rent-colombo-1",
+    "rawPrice": 31000,
+    "timestamp": "22 Aug 11:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6064,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 13,500 /tháng (~ 1.147.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1351",
+    "rawPrice": 13500,
+    "timestamp": "22 Aug 5:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6069,
+    "title": "Nugegoda Room Rent",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/girls-sharing-room-for-rent-in-embuldeniya-nugegoda-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "22 Aug 3:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6070,
+    "title": "Sri Jayawardenapura Kotte Room for Rent",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sri-jayawardenapura-kotte-fully-furnished-master-bedrooms-for-rent-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "17 Aug 4:21 pm",
+    "gender": "Cả hai"
   }
 ]

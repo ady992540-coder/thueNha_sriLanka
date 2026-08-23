@@ -5518,5 +5518,25 @@
     "rawPrice": 75000,
     "timestamp": "21 Aug 10:26 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4209,
+    "title": "Sharing Room Rent for Girls in Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-for-girls-in-dehiwala-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "16 Jul 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4213,
+    "title": "Room for Rent - Maharagama Ladies Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-ladies-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "22 Aug 11:31 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -6438,5 +6438,55 @@
     "rawPrice": 100000,
     "timestamp": "21 Aug 11:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4693,
+    "title": "Rooms for Rent Nugegoda - Girls",
+    "price": "Rs 9,300 /tháng (~ 790.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nugegoda-girls-for-rent-colombo",
+    "rawPrice": 9300,
+    "timestamp": "02 Jul 4:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4698,
+    "title": "Room for Rent 2 Tamil Speaking Girls Wellawatte",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-2-tamil-speaking-girls-wellawatte-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "22 Aug 8:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4700,
+    "title": "Room with Attached Study for Rent – Dehiwala | Males Only",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-with-attached-study-for-rent-dehiwala-males-only-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "22 Aug 10:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4705,
+    "title": "Room Available for Rent – Girls only | Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-available-for-rent-girls-only-dehiwala-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "22 Aug 10:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4709,
+    "title": "Rooms For Rent in Nedimala, Dehiwala (Boys)",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nedimala-dehiwala-boys-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "22 Aug 4:20 pm",
+    "gender": "Cả hai"
   }
 ]
