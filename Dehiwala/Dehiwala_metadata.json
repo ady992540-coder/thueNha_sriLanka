@@ -6488,5 +6488,25 @@
     "rawPrice": 30000,
     "timestamp": "22 Aug 4:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4726,
+    "title": "Room for Rent in Ratmalana ( Ladies Only)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ratmalana-ladies-only-for-rent-colombo-8",
+    "rawPrice": 20000,
+    "timestamp": "30 Jul 10:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4731,
+    "title": "Room For Rent in Maharagma",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagma-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "21 Aug 9:31 am",
+    "gender": "Cả hai"
   }
 ]

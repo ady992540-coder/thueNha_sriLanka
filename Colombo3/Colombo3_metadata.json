@@ -3478,5 +3478,15 @@
     "rawPrice": 16000,
     "timestamp": "16 Jul 11:23 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2824,
+    "title": "Boarding Room for Girls Colombo 03",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-girls-for-rent-colombo-53",
+    "rawPrice": 20000,
+    "timestamp": "24 Aug 12:55 pm",
+    "gender": "Cả hai"
   }
 ]

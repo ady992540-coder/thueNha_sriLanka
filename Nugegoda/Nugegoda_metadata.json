@@ -7758,5 +7758,45 @@
     "rawPrice": 50000,
     "timestamp": "21 Aug 4:46 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6106,
+    "title": "Room For Rent in Maharagma",
+    "price": "Rs 12,500 /tháng (~ 1.062.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagma-for-rent-colombo",
+    "rawPrice": 12500,
+    "timestamp": "21 Aug 9:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6110,
+    "title": "Furnished Room for Rent in Nugegoda (Ladies Only)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-nugegoda-ladies-only-for-rent-colombo-2",
+    "rawPrice": 32000,
+    "timestamp": "24 Aug 11:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6114,
+    "title": "Room for Rent - Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-executive-lady-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "24 Aug 10:05 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6119,
+    "title": "Rooms for Working Boys Pitakotte",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-working-boys-pitakotte-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "24 Aug 11:35 am",
+    "gender": "Cả hai"
   }
 ]

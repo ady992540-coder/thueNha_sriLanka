@@ -5558,5 +5558,45 @@
     "rawPrice": 12000,
     "timestamp": "23 Aug 4:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4245,
+    "title": "Rooms for Rent Nugegoda - Girls",
+    "price": "Rs 9,300 /tháng (~ 790.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nugegoda-girls-for-rent-colombo",
+    "rawPrice": 9300,
+    "timestamp": "02 Jul 4:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4250,
+    "title": "Sharing Room (Only Girls) For Rent in Maharagama",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-only-girls-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "24 Aug 1:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4255,
+    "title": "Room for Rent Maharagama-Working Girls",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-working-girls-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "24 Aug 9:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4258,
+    "title": "Annex for Rent in Kotikawatta",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-7",
+    "rawPrice": 50000,
+    "timestamp": "21 Aug 4:46 pm",
+    "gender": "Cả hai"
   }
 ]
