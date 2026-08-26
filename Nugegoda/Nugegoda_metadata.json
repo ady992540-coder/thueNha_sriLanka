@@ -7798,5 +7798,45 @@
     "rawPrice": 15000,
     "timestamp": "24 Aug 11:35 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6140,
+    "title": "Rooms for Rent Girls in Delkanda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-girls-in-delkanda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "26 Aug 1:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6145,
+    "title": "Room for Rent in Nugegoda Wijerama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-wijerama-for-rent-colombo-3",
+    "rawPrice": 45000,
+    "timestamp": "25 Aug 1:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6150,
+    "title": "Annex in Pita Kotte For Rent",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-in-pita-kotte-for-rent-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "25 Aug 10:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6155,
+    "title": "Rooms for Rent - Kandy",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-kandy-316",
+    "rawPrice": 10000,
+    "timestamp": "11 Jul 8:38 am",
+    "gender": "Cả hai"
   }
 ]

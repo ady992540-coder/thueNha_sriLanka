@@ -5598,5 +5598,15 @@
     "rawPrice": 50000,
     "timestamp": "21 Aug 4:46 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4279,
+    "title": "Annex for rent in Rathmalana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-139",
+    "rawPrice": 30000,
+    "timestamp": "17 Aug 9:28 am",
+    "gender": "Cả hai"
   }
 ]

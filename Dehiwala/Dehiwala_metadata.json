@@ -6508,5 +6508,15 @@
     "rawPrice": 12500,
     "timestamp": "21 Aug 9:31 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4744,
+    "title": "Room for Rent Kelaniya",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-for-room-for-rent-gampaha-18",
+    "rawPrice": 10000,
+    "timestamp": "24 Aug 7:03 pm",
+    "gender": "Cả hai"
   }
 ]
