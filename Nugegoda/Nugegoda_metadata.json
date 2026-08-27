@@ -7838,5 +7838,15 @@
     "rawPrice": 10000,
     "timestamp": "11 Jul 8:38 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6176,
+    "title": "Two Room Annex Nugegoda",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/two-room-annex-nugegoda-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "27 Aug 11:03 am",
+    "gender": "Cả hai"
   }
 ]

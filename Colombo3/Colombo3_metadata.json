@@ -3498,5 +3498,35 @@
     "rawPrice": 12500,
     "timestamp": "21 Aug 9:31 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2858,
+    "title": "Rooms for Rent Nugegoda - Girls",
+    "price": "Rs 9,300 /tháng (~ 790.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nugegoda-girls-for-rent-colombo",
+    "rawPrice": 9300,
+    "timestamp": "02 Jul 4:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2863,
+    "title": "Room for Rent in Ratmalana ( Ladies Only)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-ratmalana-ladies-only-for-rent-colombo-8",
+    "rawPrice": 20000,
+    "timestamp": "30 Jul 10:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2868,
+    "title": "2 Bedrooms Annex Rent Colombo 3",
+    "price": "Rs 78,000 /tháng (~ 6.630.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedrooms-annex-rent-colombo-3-for-rent-colombo-1",
+    "rawPrice": 78000,
+    "timestamp": "26 Aug 7:45 pm",
+    "gender": "Cả hai"
   }
 ]

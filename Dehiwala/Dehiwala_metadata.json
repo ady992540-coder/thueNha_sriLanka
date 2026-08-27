@@ -6518,5 +6518,55 @@
     "rawPrice": 10000,
     "timestamp": "24 Aug 7:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4761,
+    "title": "Annex for rent in Rathmalana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-rathmalana-for-rent-colombo-139",
+    "rawPrice": 30000,
+    "timestamp": "17 Aug 9:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4766,
+    "title": "Dehiwala 100m to Galle road 01 BR Fully Furnished Annex for Rent",
+    "price": "Rs 62,000 /tháng (~ 5.270.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-100m-to-galle-road-01-br-fully-furnished-annex-for-rent-for-rent-colombo",
+    "rawPrice": 62000,
+    "timestamp": "27 Aug 11:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4771,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1184",
+    "rawPrice": 70000,
+    "timestamp": "27 Aug 12:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4776,
+    "title": "BELLANVILA BRAND NEW 1BR & 1BATH UNFURNISHED ANNEX FOR RENT",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/bellanvila-brand-new-1br-and-1bath-unfurnished-annex-for-rent-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "27 Aug 10:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4781,
+    "title": "Annex For Rent Kalubowila",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kalubowila-for-rent-colombo-37",
+    "rawPrice": 80000,
+    "timestamp": "27 Aug 12:01 pm",
+    "gender": "Cả hai"
   }
 ]
