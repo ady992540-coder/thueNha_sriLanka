@@ -7848,5 +7848,65 @@
     "rawPrice": 75000,
     "timestamp": "27 Aug 11:03 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6202,
+    "title": "Room for Rent in Maharagama(Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagamagirls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "22 Aug 6:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6207,
+    "title": "Room for Rent in Wijerama Nugegoda",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-wijerama-nugegoda-for-rent-colombo-4",
+    "rawPrice": 26000,
+    "timestamp": "28 Aug 3:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6212,
+    "title": "Annex for Rent in Pitakotte",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-pitakotte-for-rent-colombo-21",
+    "rawPrice": 50000,
+    "timestamp": "28 Aug 12:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6217,
+    "title": "1 BHK Annex Semi Furnished for rent Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1-bhk-annex-semi-furnished-for-rent-nugegoda-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "28 Aug 10:43 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6221,
+    "title": "Annex for Rent - Pitakotte ( Near the Commercial Bank )",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-pitakotte-near-the-commercial-bank-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "27 Aug 11:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6238,
+    "title": "Room For Rent Nugegoda",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-570",
+    "rawPrice": 21000,
+    "timestamp": "27 Aug 3:43 pm",
+    "gender": "Cả hai"
   }
 ]

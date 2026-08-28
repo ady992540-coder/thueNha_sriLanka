@@ -6568,5 +6568,35 @@
     "rawPrice": 80000,
     "timestamp": "27 Aug 12:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4798,
+    "title": "Room for Rent in Maharagama(Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagamagirls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "22 Aug 6:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4803,
+    "title": "Dehiwela Room Rent",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/working-ladies-accommodation-dehiwela-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "28 Aug 3:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4808,
+    "title": "annex for rent in papliyana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-papliyana-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "28 Aug 12:23 pm",
+    "gender": "Cả hai"
   }
 ]

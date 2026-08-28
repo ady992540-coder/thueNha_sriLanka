@@ -3528,5 +3528,15 @@
     "rawPrice": 78000,
     "timestamp": "26 Aug 7:45 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2877,
+    "title": "Room for Rent in Maharagama(Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagamagirls-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "22 Aug 6:44 am",
+    "gender": "Cả hai"
   }
 ]

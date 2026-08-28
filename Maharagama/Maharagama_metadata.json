@@ -5618,5 +5618,35 @@
     "rawPrice": 25000,
     "timestamp": "27 Aug 2:04 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4313,
+    "title": "Furnished 2 Bed Rooms Property Room in Nawala for Rent",
+    "price": "Rs 125,000 /tháng (~ 10.625.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-2-bed-rooms-property-room-in-nawala-for-rent-for-rent-colombo",
+    "rawPrice": 125000,
+    "timestamp": "18 Aug 5:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4318,
+    "title": "මහරගම කාමර 2 කක පහසුකම් තරුණ කාන්තාවන් / ශිෂ්‍යාවන්ට .",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-kaamr-2-kk-phsukm-trunn-kaantaavn-shissyaavntt-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "28 Aug 8:11 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4323,
+    "title": "Room For Rent In Nawinna",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nawinna-for-rent-colombo-10",
+    "rawPrice": 22000,
+    "timestamp": "28 Aug 12:05 pm",
+    "gender": "Cả hai"
   }
 ]
