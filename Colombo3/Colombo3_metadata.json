@@ -3538,5 +3538,15 @@
     "rawPrice": 15000,
     "timestamp": "22 Aug 6:44 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2894,
+    "title": "Room for Rent Kawdana",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-colombo-1029",
+    "rawPrice": 10500,
+    "timestamp": "17 Aug 5:54 am",
+    "gender": "Cả hai"
   }
 ]

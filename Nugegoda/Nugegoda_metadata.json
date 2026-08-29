@@ -7908,5 +7908,25 @@
     "rawPrice": 21000,
     "timestamp": "27 Aug 3:43 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6255,
+    "title": "Sharing Room Rent for Girls in Dehiwala",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-rent-for-girls-in-dehiwala-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "16 Jul 11:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6259,
+    "title": "Room for Rent Kawdana",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-colombo-1029",
+    "rawPrice": 10500,
+    "timestamp": "17 Aug 5:54 am",
+    "gender": "Cả hai"
   }
 ]

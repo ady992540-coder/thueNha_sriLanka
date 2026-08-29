@@ -5648,5 +5648,25 @@
     "rawPrice": 22000,
     "timestamp": "28 Aug 12:05 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4332,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-981",
+    "rawPrice": 24000,
+    "timestamp": "29 Aug 10:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4335,
+    "title": "Room For Rent In Nawinna (Lady)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nawinna-lady-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "29 Aug 5:59 am",
+    "gender": "Cả hai"
   }
 ]
