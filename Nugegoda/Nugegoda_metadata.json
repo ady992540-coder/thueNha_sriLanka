@@ -7928,5 +7928,35 @@
     "rawPrice": 10500,
     "timestamp": "17 Aug 5:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6273,
+    "title": "Annex for Rent – Gangodawila, Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-gangodawila-nugegoda-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "29 Aug 11:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6277,
+    "title": "Nugegoda Annex and Room Rent",
+    "price": "Rs 47,000 /tháng (~ 3.995.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-annex-and-room-rent-for-rent-colombo",
+    "rawPrice": 47000,
+    "timestamp": "29 Aug 1:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6281,
+    "title": "Furnished 2 Bed Rooms Property Room in Nawala for Rent",
+    "price": "Rs 125,000 /tháng (~ 10.625.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-2-bed-rooms-property-room-in-nawala-for-rent-for-rent-colombo",
+    "rawPrice": 125000,
+    "timestamp": "18 Aug 5:54 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -4218,5 +4218,15 @@
     "rawPrice": 15000,
     "timestamp": "28 Aug 4:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3360,
+    "title": "Furnished 2 Bed Rooms Property Room in Nawala for Rent",
+    "price": "Rs 125,000 /tháng (~ 10.625.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-2-bed-rooms-property-room-in-nawala-for-rent-for-rent-colombo",
+    "rawPrice": 125000,
+    "timestamp": "18 Aug 5:54 pm",
+    "gender": "Cả hai"
   }
 ]
