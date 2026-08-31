@@ -7958,5 +7958,65 @@
     "rawPrice": 125000,
     "timestamp": "18 Aug 5:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6292,
+    "title": "Room for Rent - Nugegoda ( Girls )",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-girls-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "31 Aug 10:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6297,
+    "title": "Single Room for Rent – Nugegoda , Wijerama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-nugegoda-wijerama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "31 Aug 9:14 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6302,
+    "title": "Rooms for Rent Working Girls - Wijerama",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-girls-wijerama-for-rent-colombo-16",
+    "rawPrice": 27000,
+    "timestamp": "30 Aug 2:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6307,
+    "title": "Room for Rent in Nugegoda Wijerama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-wijerama-for-rent-colombo-4",
+    "rawPrice": 35000,
+    "timestamp": "30 Aug 2:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6310,
+    "title": "Room For Rent-Nugegoda Near High Level Road",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-near-high-level-road-for-rent-colombo-2",
+    "rawPrice": 18000,
+    "timestamp": "30 Aug 3:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6327,
+    "title": "Brand New Rooms for Rent in Maharagama (Male Only)",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-rooms-for-rent-in-maharagama-male-only-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "30 Aug 1:55 pm",
+    "gender": "Cả hai"
   }
 ]

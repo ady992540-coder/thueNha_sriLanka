@@ -6638,5 +6638,55 @@
     "rawPrice": 25000,
     "timestamp": "30 Aug 5:29 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4865,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1186",
+    "rawPrice": 28000,
+    "timestamp": "30 Aug 7:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4867,
+    "title": "Room For Rent In Dehiwala- Papiliyana",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-papiliyana-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "30 Aug 4:19 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4872,
+    "title": "Boarding Place for Girls Bellanwila",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-place-for-girls-bellanwila-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "30 Aug 2:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4877,
+    "title": "Furnished Room for Rent in Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-dehiwala-for-rent-colombo-2",
+    "rawPrice": 60000,
+    "timestamp": "30 Aug 2:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4882,
+    "title": "Room for Rent One Girl in Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-one-girl-in-dehiwala-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "30 Aug 12:02 pm",
+    "gender": "Cả hai"
   }
 ]
