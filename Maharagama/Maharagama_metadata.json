@@ -5708,5 +5708,45 @@
     "rawPrice": 10500,
     "timestamp": "17 Aug 5:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4380,
+    "title": "Annex for Rent in Maharagama-HR 572",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-hr-572-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "01 Sep 8:29 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4383,
+    "title": "Room ( Working Girls On;ly) For Rent in Maharagama",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-working-girls-only-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "31 Aug 3:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4388,
+    "title": "Rooms for Rent Maharagama",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-available-for-rent-in-a-convenient-locationonly-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "31 Aug 3:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4393,
+    "title": "Room for Rent මාලබේ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maalbee-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "31 Aug 10:17 pm",
+    "gender": "Cả hai"
   }
 ]

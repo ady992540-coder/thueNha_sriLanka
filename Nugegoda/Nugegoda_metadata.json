@@ -8018,5 +8018,45 @@
     "rawPrice": 30000,
     "timestamp": "30 Aug 1:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6344,
+    "title": "Room for Rent මාලබේ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/pirimi-llmun-sdhaa-nvaataen-phsukm-aet-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "31 Aug 10:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6349,
+    "title": "Furnished Room for Rent Nugegoda",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-19",
+    "rawPrice": 10000,
+    "timestamp": "31 Aug 3:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6354,
+    "title": "Room for Rent මාලබේ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maalbee-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "31 Aug 10:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6359,
+    "title": "Accommodation Boarding Room For Rent – Nugegoda Ladies",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "01 Sep 9:41 am",
+    "gender": "Cả hai"
   }
 ]

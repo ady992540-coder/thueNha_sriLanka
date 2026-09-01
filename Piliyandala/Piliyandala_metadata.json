@@ -4258,5 +4258,55 @@
     "rawPrice": 25000,
     "timestamp": "29 Aug 11:47 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3406,
+    "title": "Fully furnished room rent for girl only",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-rent-for-girl-only-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "31 Aug 10:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3409,
+    "title": "Rooms Rent for Boys Piliyandala",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-boys-for-rent-colombo-15",
+    "rawPrice": 8500,
+    "timestamp": "31 Aug 7:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3413,
+    "title": "Rooms for Rent in Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-piliyandala-for-rent-colombo-18",
+    "rawPrice": 15000,
+    "timestamp": "31 Aug 8:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3418,
+    "title": "Room for Rent මාලබේ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maalbee-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "31 Aug 10:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3423,
+    "title": "Brand New Rooms for Rent in Maharagama (Male Only)",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-rooms-for-rent-in-maharagama-male-only-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "30 Aug 1:55 pm",
+    "gender": "Cả hai"
   }
 ]

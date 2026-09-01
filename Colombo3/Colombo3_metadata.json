@@ -3578,5 +3578,15 @@
     "rawPrice": 30000,
     "timestamp": "30 Aug 1:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2937,
+    "title": "Room for Rent මාලබේ",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maalbee-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "31 Aug 10:17 pm",
+    "gender": "Cả hai"
   }
 ]
