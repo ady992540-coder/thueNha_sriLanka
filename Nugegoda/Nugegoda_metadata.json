@@ -8058,5 +8058,55 @@
     "rawPrice": 50000,
     "timestamp": "01 Sep 9:41 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6380,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1352",
+    "rawPrice": 22000,
+    "timestamp": "01 Sep 5:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6385,
+    "title": "නුගේගොඩ ජම්බුගස්මුල්ල පාරේ කාමරයක් කුලියට දීමට ඇත",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-jmbugsmull-paaree-kaamryk-kuliytt-diimtt-aet-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "01 Sep 2:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6394,
+    "title": "Furnished room for Rent Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-20",
+    "rawPrice": 40000,
+    "timestamp": "01 Sep 12:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6399,
+    "title": "Rooms and Annex Rent in Nugegoda",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-and-annex-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "01 Sep 10:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6404,
+    "title": "Battaramulla Room For Rent",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/battaramulla-room-for-rent-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Sep 1:35 pm",
+    "gender": "Cả hai"
   }
 ]

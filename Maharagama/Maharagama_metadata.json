@@ -5748,5 +5748,15 @@
     "rawPrice": 25000,
     "timestamp": "31 Aug 10:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4410,
+    "title": "Accommodation Boarding Room For Rent – Nugegoda Ladies",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "01 Sep 9:41 am",
+    "gender": "Cả hai"
   }
 ]

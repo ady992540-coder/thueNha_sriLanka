@@ -3588,5 +3588,45 @@
     "rawPrice": 25000,
     "timestamp": "31 Aug 10:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2954,
+    "title": "Accommodation Boarding Room For Rent – Nugegoda Ladies",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "01 Sep 9:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2959,
+    "title": "Battaramulla Room For Rent",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/battaramulla-room-for-rent-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Sep 1:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2963,
+    "title": "Rooms for Rent Maharagama",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-available-for-rent-in-a-convenient-locationonly-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "31 Aug 3:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 2968,
+    "title": "Room for Rent - Pilimathalawa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-house-in-pilimathalawa-for-rent-kandy",
+    "rawPrice": 15000,
+    "timestamp": "31 Aug 8:15 pm",
+    "gender": "Cả hai"
   }
 ]
