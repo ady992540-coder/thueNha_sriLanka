@@ -6798,5 +6798,35 @@
     "rawPrice": 18000,
     "timestamp": "31 Aug 3:04 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4990,
+    "title": "Battaramulla Room For Rent",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/battaramulla-room-for-rent-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Sep 1:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4994,
+    "title": "Room for Rent in Dehiwala (Male)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-male-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "02 Sep 11:12 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4997,
+    "title": "Room Rent in Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-dehiwala-for-rent-colombo-3",
+    "rawPrice": 30000,
+    "timestamp": "02 Sep 9:22 pm",
+    "gender": "Cả hai"
   }
 ]

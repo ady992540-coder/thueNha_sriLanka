@@ -8108,5 +8108,55 @@
     "rawPrice": 35000,
     "timestamp": "01 Sep 1:35 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6417,
+    "title": "නුගේගොඩ මෙල්ද පෙදෙසේ කාමරයක් කුලියට දීමට ඇත",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-meld-pedesee-kaamryk-kuliytt-diimtt-aet-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Sep 10:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6420,
+    "title": "Rooms For Girls Nugegoda. (Wijayarama /Udahamulla)",
+    "price": "Rs 9,300 /tháng (~ 790.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-nugegoda-wijayarama-udahamulla-for-rent-colombo-2",
+    "rawPrice": 9300,
+    "timestamp": "02 Sep 8:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6425,
+    "title": "Rooms for Working Girls Rent Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-rooms-for-working-non-married-girls-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "02 Sep 11:25 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6430,
+    "title": "උඩුමහලේ ගැහැනු ලමයෙක් සදහා නවාතැන් පහසුකම් නුගේගොඩ",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/demhl-nivsk-uddumhlee-gaehaenu-lmyek-sdhaa-nvaataen-phsukm-tibee-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "02 Sep 9:36 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6435,
+    "title": "Annex in Pita Kotte For Rent - Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-in-pita-kotte-for-rent-nugegoda-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "02 Sep 9:20 pm",
+    "gender": "Cả hai"
   }
 ]

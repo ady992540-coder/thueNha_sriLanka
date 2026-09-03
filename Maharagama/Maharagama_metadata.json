@@ -5758,5 +5758,65 @@
     "rawPrice": 50000,
     "timestamp": "01 Sep 9:41 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4427,
+    "title": "Room for Rent - Pilimathalawa",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-house-in-pilimathalawa-for-rent-kandy",
+    "rawPrice": 15000,
+    "timestamp": "31 Aug 8:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4431,
+    "title": "Boarding House For Ladies in Nawinna Maharagama",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-house-for-ladies-in-nawinna-maharagama-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "03 Sep 7:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4436,
+    "title": "Annex for Rent - Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-maharagama-for-rent-colombo-269",
+    "rawPrice": 30000,
+    "timestamp": "02 Sep 6:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4440,
+    "title": "1 Bed Room Annex for Rent Maharagama Town",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1-bed-room-annex-for-rent-maharagama-town-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "02 Sep 11:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4443,
+    "title": "Rooms for Rent Maharagama(Working Girls)",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagamaworking-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "02 Sep 10:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4460,
+    "title": "Battaramulla Room For Rent",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/battaramulla-room-for-rent-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "01 Sep 1:35 pm",
+    "gender": "Cả hai"
   }
 ]
