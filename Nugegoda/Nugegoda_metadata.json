@@ -8158,5 +8158,35 @@
     "rawPrice": 50000,
     "timestamp": "02 Sep 9:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6452,
+    "title": "Rooms for Rent Maharagama(Working Girls)",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagamaworking-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "02 Sep 10:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6457,
+    "title": "Annex for Rent in Nugegoda",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-713",
+    "rawPrice": 80000,
+    "timestamp": "04 Sep 8:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6462,
+    "title": "2 Bedroom Annex for Rent Asgiriya",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-asgiriya-for-rent-kandy",
+    "rawPrice": 36000,
+    "timestamp": "03 Sep 12:18 pm",
+    "gender": "Cả hai"
   }
 ]

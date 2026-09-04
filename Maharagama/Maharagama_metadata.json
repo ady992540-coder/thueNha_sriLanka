@@ -5818,5 +5818,55 @@
     "rawPrice": 35000,
     "timestamp": "01 Sep 1:35 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4477,
+    "title": "Anex for Rent Maharagama",
+    "price": "Rs 52,000 /tháng (~ 4.420.000 ₫)",
+    "url": "https://ikman.lk/en/ad/anex-for-rent-maharagama-for-rent-colombo",
+    "rawPrice": 52000,
+    "timestamp": "02 Sep 9:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4481,
+    "title": "2 Bedroom Annex for Rent Asgiriya",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-asgiriya-for-rent-kandy",
+    "rawPrice": 36000,
+    "timestamp": "03 Sep 12:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4486,
+    "title": "Annex (Single / Sharing) for Rent in Maharagama Town Center",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-single-sharing-for-rent-in-maharagama-town-center-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "03 Sep 1:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4491,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-982",
+    "rawPrice": 40000,
+    "timestamp": "03 Sep 11:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4495,
+    "title": "Room for Rent in Nawinna Lady",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nawinna-lady-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "03 Sep 8:42 pm",
+    "gender": "Cả hai"
   }
 ]

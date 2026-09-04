@@ -4348,5 +4348,25 @@
     "rawPrice": 18000,
     "timestamp": "02 Sep 10:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3490,
+    "title": "2 Bedroom Annex for Rent Asgiriya",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-asgiriya-for-rent-kandy",
+    "rawPrice": 36000,
+    "timestamp": "03 Sep 12:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3495,
+    "title": "Accommodation Boarding Room For Rent – Nugegoda Ladies",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-boarding-room-for-rent-nugegoda-ladies-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "01 Sep 9:41 am",
+    "gender": "Cả hai"
   }
 ]

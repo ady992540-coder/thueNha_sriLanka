@@ -6828,5 +6828,45 @@
     "rawPrice": 30000,
     "timestamp": "02 Sep 9:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5025,
+    "title": "2 Bedroom Annex for Rent Asgiriya",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-asgiriya-for-rent-kandy",
+    "rawPrice": 36000,
+    "timestamp": "03 Sep 12:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5030,
+    "title": "ගැහැණු ළමයෙකු සඳහා කාමරයක් කුලියට දීමට රත්මලාන.",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaennu-llmyeku-sndhaa-kaamryk-kuliytt-diimtt-aet-for-rent-colombo",
+    "rawPrice": 10500,
+    "timestamp": "04 Sep 7:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5033,
+    "title": "room for rent in dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1187",
+    "rawPrice": 40000,
+    "timestamp": "03 Sep 5:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5037,
+    "title": "Rooms for Rent Maharagama(Working Girls)",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagamaworking-girls-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "02 Sep 10:10 am",
+    "gender": "Cả hai"
   }
 ]

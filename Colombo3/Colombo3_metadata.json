@@ -3638,5 +3638,25 @@
     "rawPrice": 18000,
     "timestamp": "02 Sep 10:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3004,
+    "title": "NUGEGODA : 3-BR (2,500 SQFT) UPSTAIRS HOUSE FOR RENT IN JUBILEE POST",
+    "price": "Rs 160,000 /tháng (~ 13.600.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-3-br-2500-sqft-upstairs-house-for-rent-in-jubilee-post-for-rent-colombo",
+    "rawPrice": 160000,
+    "timestamp": "03 Sep 9:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3014,
+    "title": "2 Bedroom Annex for Rent Asgiriya",
+    "price": "Rs 36,000 /tháng (~ 3.060.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-bedroom-annex-for-rent-asgiriya-for-rent-kandy",
+    "rawPrice": 36000,
+    "timestamp": "03 Sep 12:18 pm",
+    "gender": "Cả hai"
   }
 ]
