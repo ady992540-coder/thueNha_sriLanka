@@ -5868,5 +5868,25 @@
     "rawPrice": 20000,
     "timestamp": "03 Sep 8:42 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4509,
+    "title": "Studio Type Annex (Single / Sharing) for Rent in Maharagama Town Center",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-single-sharing-for-rent-in-maharagama-town-center-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "04 Sep 4:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4514,
+    "title": "Rooms for Rent Maharagama (Working Girls)",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-working-girls-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "05 Sep 8:56 am",
+    "gender": "Cả hai"
   }
 ]

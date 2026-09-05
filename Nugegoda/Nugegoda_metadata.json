@@ -8188,5 +8188,55 @@
     "rawPrice": 36000,
     "timestamp": "03 Sep 12:18 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6471,
+    "title": "Rent Rooms for Employed Boys Only Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-rooms-for-employed-boys-only-nugegoda-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "04 Sep 10:29 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6476,
+    "title": "නුගේගොඩ මෙල්ද පෙදෙසේ කාමරයක් කුලියට දීමට තිබේ",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-meld-pedesee-kaamryk-kuliytt-diimtt-tibee-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "04 Sep 11:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6479,
+    "title": "නුගේගොඩ ජම්බුගස්මුල්ල පාරේ කාමරයක් කුලියට දීමට ඇත GIRLS ONLY",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-jmbugsmull-paaree-kaamryk-kuliytt-diimtt-aet-girls-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "04 Sep 11:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6489,
+    "title": "Rooms For Girls Rent In Kothalawala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-rent-in-kothalawala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "01 Sep 2:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6494,
+    "title": "Rooms for Rent Maharagama (Working Girls)",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-working-girls-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "05 Sep 8:56 am",
+    "gender": "Cả hai"
   }
 ]

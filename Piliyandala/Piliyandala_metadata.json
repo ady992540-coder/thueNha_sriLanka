@@ -4368,5 +4368,25 @@
     "rawPrice": 50000,
     "timestamp": "01 Sep 9:41 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3508,
+    "title": "Rooms For Girls Rent In Kothalawala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-rent-in-kothalawala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "01 Sep 2:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3513,
+    "title": "Rooms for Rent Maharagama (Working Girls)",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-working-girls-for-rent-colombo",
+    "rawPrice": 28000,
+    "timestamp": "05 Sep 8:56 am",
+    "gender": "Cả hai"
   }
 ]
