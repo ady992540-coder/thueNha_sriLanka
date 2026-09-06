@@ -5888,5 +5888,55 @@
     "rawPrice": 28000,
     "timestamp": "05 Sep 8:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4527,
+    "title": "Room for Rent in Kaduwela",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kaduwela-for-rent-colombo-83",
+    "rawPrice": 22500,
+    "timestamp": "05 Sep 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4531,
+    "title": "Sharing Room for Rent in Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "05 Sep 12:36 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4533,
+    "title": "Rooms for Rent in Maharagama Gen",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-maharagama-gen-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "05 Sep 12:31 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4538,
+    "title": "Rooms For Girls Rent In Kothalawala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-rent-in-kothalawala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "01 Sep 2:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4543,
+    "title": "Single Room for Rent in Obesekarapura",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-obesekarapura-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "06 Sep 9:12 am",
+    "gender": "Cả hai"
   }
 ]

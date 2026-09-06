@@ -4388,5 +4388,45 @@
     "rawPrice": 28000,
     "timestamp": "05 Sep 8:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3526,
+    "title": "Rooms for Rent Boys Piliyandala",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-piliyandala-for-rent-colombo-2",
+    "rawPrice": 11500,
+    "timestamp": "06 Sep 7:29 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3531,
+    "title": "Rooms for Girls / ගැහැණු ළමුන් සඳහා කාමර පහසුකම් – පිළියන්දල",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-gaehaennu-llmun-sndhaa-kaamr-phsukm-pilliyndl-for-rent-colombo-1",
+    "rawPrice": 11000,
+    "timestamp": "05 Sep 12:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3536,
+    "title": "Room for Rent in Kaduwela",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kaduwela-for-rent-colombo-83",
+    "rawPrice": 22500,
+    "timestamp": "05 Sep 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3540,
+    "title": "Single Room for Rent in Obesekarapura",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-obesekarapura-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "06 Sep 9:12 am",
+    "gender": "Cả hai"
   }
 ]

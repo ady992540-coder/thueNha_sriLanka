@@ -8238,5 +8238,35 @@
     "rawPrice": 28000,
     "timestamp": "05 Sep 8:56 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6511,
+    "title": "Annex for Rent Kekanadura",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-matara-20",
+    "rawPrice": 15000,
+    "timestamp": "04 Sep 3:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6516,
+    "title": "Room for Rent in Kaduwela",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kaduwela-for-rent-colombo-83",
+    "rawPrice": 22500,
+    "timestamp": "05 Sep 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6520,
+    "title": "Single Room for Rent in Obesekarapura",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-obesekarapura-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "06 Sep 9:12 am",
+    "gender": "Cả hai"
   }
 ]
