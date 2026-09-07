@@ -6938,5 +6938,45 @@
     "rawPrice": 22500,
     "timestamp": "05 Sep 2:11 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5112,
+    "title": "Single Room for Rent in Obesekarapura",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-obesekarapura-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "06 Sep 9:12 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5117,
+    "title": "Sharing Rooms for Girls in Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-girls-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "06 Sep 9:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5122,
+    "title": "Room For Rent In Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1188",
+    "rawPrice": 25000,
+    "timestamp": "06 Sep 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5124,
+    "title": "Upstair Anex for Rent Biyagama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-anex-for-rent-biyagama-for-rent-gampaha",
+    "rawPrice": 35000,
+    "timestamp": "18 Aug 12:24 am",
+    "gender": "Cả hai"
   }
 ]

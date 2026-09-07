@@ -5938,5 +5938,25 @@
     "rawPrice": 25000,
     "timestamp": "06 Sep 9:12 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4560,
+    "title": "Rooms Rent for Maharagama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-gents-boys-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "06 Sep 11:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4565,
+    "title": "Upstair Anex for Rent Biyagama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-anex-for-rent-biyagama-for-rent-gampaha",
+    "rawPrice": 35000,
+    "timestamp": "18 Aug 12:24 am",
+    "gender": "Cả hai"
   }
 ]
