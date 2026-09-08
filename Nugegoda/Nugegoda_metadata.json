@@ -8288,5 +8288,55 @@
     "rawPrice": 20000,
     "timestamp": "06 Sep 9:52 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6548,
+    "title": "Upstair Anex for Rent Biyagama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-anex-for-rent-biyagama-for-rent-gampaha",
+    "rawPrice": 35000,
+    "timestamp": "18 Aug 12:24 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6553,
+    "title": "Room For Rent in Kaduwela",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kaduwela-for-rent-colombo-85",
+    "rawPrice": 8500,
+    "timestamp": "07 Sep 2:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6557,
+    "title": "Annex for Rent Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nugegoda-for-rent-colombo-313",
+    "rawPrice": 35000,
+    "timestamp": "08 Sep 6:52 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6558,
+    "title": "Annex for Rent in Pagoda Road Nugegoda",
+    "price": "Rs 120,000 /tháng (~ 10.200.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-pagoda-road-nugegoda-for-rent-colombo",
+    "rawPrice": 120000,
+    "timestamp": "07 Sep 12:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6565,
+    "title": "Annex For Rent Kalubowila",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kalubowila-for-rent-colombo-37",
+    "rawPrice": 80000,
+    "timestamp": "27 Aug 12:01 pm",
+    "gender": "Cả hai"
   }
 ]

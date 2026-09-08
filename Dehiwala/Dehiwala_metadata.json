@@ -6978,5 +6978,35 @@
     "rawPrice": 35000,
     "timestamp": "18 Aug 12:24 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5140,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-568",
+    "rawPrice": 15000,
+    "timestamp": "08 Sep 8:12 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5143,
+    "title": "House for Rent in Kawdana Dehiwala Broadway",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-in-kawdana-dehiwala-broadway-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "07 Sep 6:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5146,
+    "title": "Shared Room for Rent in Dehiwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shared-room-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "07 Sep 9:14 pm",
+    "gender": "Cả hai"
   }
 ]

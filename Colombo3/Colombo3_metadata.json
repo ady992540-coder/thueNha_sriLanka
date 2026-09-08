@@ -3718,5 +3718,35 @@
     "rawPrice": 35000,
     "timestamp": "18 Aug 12:24 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3100,
+    "title": "Annex For Rent Kalubowila",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kalubowila-for-rent-colombo-37",
+    "rawPrice": 80000,
+    "timestamp": "27 Aug 12:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3105,
+    "title": "Annex for Rent – Colombo 03 | Prime Residential Location",
+    "price": "Rs 250,000 /tháng (~ 21.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-colombo-03-prime-residential-location-for-rent-colombo-1",
+    "rawPrice": 250000,
+    "timestamp": "08 Sep 8:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3108,
+    "title": "Room For Rent in Kaduwela",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kaduwela-for-rent-colombo-85",
+    "rawPrice": 8500,
+    "timestamp": "07 Sep 2:24 pm",
+    "gender": "Cả hai"
   }
 ]
