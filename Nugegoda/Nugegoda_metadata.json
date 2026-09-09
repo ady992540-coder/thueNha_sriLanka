@@ -8338,5 +8338,45 @@
     "rawPrice": 80000,
     "timestamp": "27 Aug 12:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6582,
+    "title": "Annex Room for Rent in Nugegoda Pagoda Road",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-room-for-rent-in-nugegoda-pagoda-road-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "08 Sep 4:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6586,
+    "title": "නුගේගොඩ මෙල්ඩ පෙදෙසේ කාමරයක් කුලියට දීමට",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-meldd-pedesee-kaamryk-kuliytt-diimtt-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "08 Sep 2:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6589,
+    "title": "Room for Rent in Nugegoda (Girls/couples)",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girls-couples-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "08 Sep 8:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6594,
+    "title": "Room for Rent Nugegoda Delkanda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-delkanda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "08 Sep 2:23 pm",
+    "gender": "Cả hai"
   }
 ]

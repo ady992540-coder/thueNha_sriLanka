@@ -7008,5 +7008,25 @@
     "rawPrice": 20000,
     "timestamp": "07 Sep 9:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5159,
+    "title": "Room For Rent Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-569",
+    "rawPrice": 15000,
+    "timestamp": "09 Sep 9:20 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5163,
+    "title": "Room For Rent in Kaduwela",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kaduwela-for-rent-colombo-85",
+    "rawPrice": 8500,
+    "timestamp": "07 Sep 2:24 pm",
+    "gender": "Cả hai"
   }
 ]

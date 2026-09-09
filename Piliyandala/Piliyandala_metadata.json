@@ -4478,5 +4478,35 @@
     "rawPrice": 8500,
     "timestamp": "07 Sep 2:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3598,
+    "title": "Upstair Anex for Rent Biyagama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstair-anex-for-rent-biyagama-for-rent-gampaha",
+    "rawPrice": 35000,
+    "timestamp": "18 Aug 12:24 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3603,
+    "title": "Annex for Rent -Kundasale, Kandy",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kundasale-kandy-for-rent-kandy",
+    "rawPrice": 35000,
+    "timestamp": "06 Sep 3:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3608,
+    "title": "Annex For Rent Kalubowila",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kalubowila-for-rent-colombo-37",
+    "rawPrice": 80000,
+    "timestamp": "27 Aug 12:01 pm",
+    "gender": "Cả hai"
   }
 ]

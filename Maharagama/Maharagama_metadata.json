@@ -5968,5 +5968,15 @@
     "rawPrice": 80000,
     "timestamp": "27 Aug 12:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4595,
+    "title": "Room For Rent in Kaduwela",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kaduwela-for-rent-colombo-85",
+    "rawPrice": 8500,
+    "timestamp": "07 Sep 2:24 pm",
+    "gender": "Cả hai"
   }
 ]
