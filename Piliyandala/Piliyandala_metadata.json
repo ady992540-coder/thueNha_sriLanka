@@ -4508,5 +4508,25 @@
     "rawPrice": 80000,
     "timestamp": "27 Aug 12:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3617,
+    "title": "Malabe Boarding Room for Rent only Girls",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/malabe-boarding-room-for-rent-only-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "02 Sep 3:49 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3622,
+    "title": "Annex for Rent - Angoda",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rental-for-rent-colombo-4",
+    "rawPrice": 28000,
+    "timestamp": "30 Jul 12:00 pm",
+    "gender": "Cả hai"
   }
 ]
