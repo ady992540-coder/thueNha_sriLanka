@@ -8418,5 +8418,35 @@
     "rawPrice": 28000,
     "timestamp": "30 Jul 12:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6651,
+    "title": "Room for Rent - Nugegoda",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/a-boarding-place-for-rent-colombo-1",
+    "rawPrice": 16500,
+    "timestamp": "10 Sep 4:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6655,
+    "title": "Sharing Room for Boys Nugegoda",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-boys-for-rent-colombo-1",
+    "rawPrice": 9000,
+    "timestamp": "10 Sep 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6659,
+    "title": "Malabe Boarding Room for Rent only Girls",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/malabe-boarding-room-for-rent-only-girls-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "02 Sep 3:49 pm",
+    "gender": "Cả hai"
   }
 ]

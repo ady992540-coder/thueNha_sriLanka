@@ -6008,5 +6008,25 @@
     "rawPrice": 35000,
     "timestamp": "06 Sep 3:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4631,
+    "title": "Room For Rent Maharagama",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-for-rent-colombo-380",
+    "rawPrice": 11000,
+    "timestamp": "11 Sep 8:46 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4636,
+    "title": "Boarding For Boys In Kollupitiya (Colombo 03)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-boys-in-kollupitiya-colombo-03-for-rent-colombo-2",
+    "rawPrice": 13000,
+    "timestamp": "09 Sep 11:00 am",
+    "gender": "Cả hai"
   }
 ]

@@ -7058,5 +7058,35 @@
     "rawPrice": 16500,
     "timestamp": "02 Sep 3:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5196,
+    "title": "Boarding For Boys In Kollupitiya (Colombo 03)",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-boys-in-kollupitiya-colombo-03-for-rent-colombo-2",
+    "rawPrice": 13000,
+    "timestamp": "09 Sep 11:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5201,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-for-room-for-rent-colombo-358",
+    "rawPrice": 10500,
+    "timestamp": "10 Sep 1:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5203,
+    "title": "Annex for Rent -Kundasale, Kandy",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-kundasale-kandy-for-rent-kandy",
+    "rawPrice": 35000,
+    "timestamp": "06 Sep 3:00 pm",
+    "gender": "Cả hai"
   }
 ]
