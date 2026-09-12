@@ -7088,5 +7088,35 @@
     "rawPrice": 35000,
     "timestamp": "06 Sep 3:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5215,
+    "title": "1BHK Annex Rent Dehiwala Kadawatha Road",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bhk-annex-rent-dehiwala-kadawatha-road-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "12 Sep 4:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5219,
+    "title": "Dehiwala Room Rent",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-room-rent-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "11 Sep 3:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5224,
+    "title": "Annex for Rent - Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/anex-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "11 Sep 12:38 pm",
+    "gender": "Cả hai"
   }
 ]
