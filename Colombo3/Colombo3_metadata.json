@@ -3788,5 +3788,25 @@
     "rawPrice": 35000,
     "timestamp": "06 Sep 3:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3163,
+    "title": "Boarding Rooms(girls Only) Colombo 08",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-roomsgirls-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "20 Aug 3:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3168,
+    "title": "Luxury Modern Rooms for Rent in Maharagama",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-modern-rooms-for-rent-in-maharagama-near-apeksha-hospital-for-rent-colombo-1",
+    "rawPrice": 70000,
+    "timestamp": "12 Sep 6:50 pm",
+    "gender": "Cả hai"
   }
 ]

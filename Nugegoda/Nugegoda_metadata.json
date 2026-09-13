@@ -8508,5 +8508,65 @@
     "rawPrice": 13000,
     "timestamp": "09 Sep 11:00 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6724,
+    "title": "Rooms For Rent - Udahamulla (Girls) In Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-udahamulla-girls-in-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Sep 10:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6729,
+    "title": "Room for Rent Nugegoda",
+    "price": "Rs 13,500 /tháng (~ 1.147.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10344",
+    "rawPrice": 13500,
+    "timestamp": "12 Sep 7:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6734,
+    "title": "Annex For Rent In Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-colombo-1033",
+    "rawPrice": 65000,
+    "timestamp": "13 Sep 7:09 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6739,
+    "title": "Room For Rent In Delkanda Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-delkanda-nugegoda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "12 Sep 12:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6743,
+    "title": "Room for rent near open University ( girls ) Nawala",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-near-open-university-girls-nawala-for-rent-colombo",
+    "rawPrice": 37000,
+    "timestamp": "12 Sep 11:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6760,
+    "title": "Room for Rent (furniture /AC) -Ishipathana Mawatha-Colombo 05",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-furniture-ac-ishipathana-mawatha-colombo-05-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "11 Sep 2:21 pm",
+    "gender": "Cả hai"
   }
 ]

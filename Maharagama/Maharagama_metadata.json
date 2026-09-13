@@ -6078,5 +6078,45 @@
     "rawPrice": 9000,
     "timestamp": "11 Sep 1:34 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4681,
+    "title": "Luxury Modern Rooms for Rent in Maharagama",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-modern-rooms-for-rent-in-maharagama-near-apeksha-hospital-for-rent-colombo-1",
+    "rawPrice": 70000,
+    "timestamp": "12 Sep 6:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4685,
+    "title": "Room For Rent – Ladies Only - Navinna, Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-ladies-only-navinna-maharagama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "12 Sep 6:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4690,
+    "title": "Boarding Rooms(girls Only) Colombo 08",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-roomsgirls-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "20 Aug 3:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4695,
+    "title": "Room for Rent (furniture /AC) -Ishipathana Mawatha-Colombo 05",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-furniture-ac-ishipathana-mawatha-colombo-05-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "11 Sep 2:21 pm",
+    "gender": "Cả hai"
   }
 ]
