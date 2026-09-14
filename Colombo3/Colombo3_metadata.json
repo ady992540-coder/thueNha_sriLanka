@@ -3808,5 +3808,25 @@
     "rawPrice": 70000,
     "timestamp": "12 Sep 6:50 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3181,
+    "title": "Room for Rent (furniture /AC) -Ishipathana Mawatha-Colombo 05",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-furniture-ac-ishipathana-mawatha-colombo-05-for-rent-colombo",
+    "rawPrice": 80000,
+    "timestamp": "11 Sep 2:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3186,
+    "title": "AC Room For Rent – Malabe",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-room-for-rent-malabe-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "12 Sep 9:17 am",
+    "gender": "Cả hai"
   }
 ]

@@ -8568,5 +8568,55 @@
     "rawPrice": 80000,
     "timestamp": "11 Sep 2:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6777,
+    "title": "Boarding Rooms(girls Only) Colombo 08",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-roomsgirls-only-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "20 Aug 3:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6782,
+    "title": "Luxury Modern Rooms for Rent in Maharagama",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-modern-rooms-for-rent-in-maharagama-near-apeksha-hospital-for-rent-colombo-1",
+    "rawPrice": 70000,
+    "timestamp": "12 Sep 6:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6786,
+    "title": "AC Room For Rent – Malabe",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-room-for-rent-malabe-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "12 Sep 9:17 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6791,
+    "title": "Furnished Room for Rent Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-22",
+    "rawPrice": 25000,
+    "timestamp": "13 Sep 2:36 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6793,
+    "title": "Room for Rent in Mirihana",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10331",
+    "rawPrice": 25000,
+    "timestamp": "13 Sep 10:35 am",
+    "gender": "Cả hai"
   }
 ]

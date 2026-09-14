@@ -4588,5 +4588,45 @@
     "rawPrice": 70000,
     "timestamp": "12 Sep 6:50 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3689,
+    "title": "AC Room For Rent – Malabe",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-room-for-rent-malabe-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "12 Sep 9:17 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3694,
+    "title": "Bed Room for Rent Piliyandala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/bed-room-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "14 Sep 6:46 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3698,
+    "title": "Room For Rent In Pelenwaththa Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pelenwaththa-piliyandala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "14 Sep 6:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3703,
+    "title": "Room for Rent Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10340",
+    "rawPrice": 15000,
+    "timestamp": "13 Sep 3:20 pm",
+    "gender": "Cả hai"
   }
 ]

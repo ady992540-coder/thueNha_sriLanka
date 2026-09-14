@@ -7158,5 +7158,25 @@
     "rawPrice": 70000,
     "timestamp": "12 Sep 6:50 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5269,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1189",
+    "rawPrice": 60000,
+    "timestamp": "14 Sep 9:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5274,
+    "title": "House for rent in Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-in-dehiwala-for-rent-colombo-6174",
+    "rawPrice": 60000,
+    "timestamp": "13 Sep 4:53 pm",
+    "gender": "Cả hai"
   }
 ]
