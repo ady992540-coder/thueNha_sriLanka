@@ -6138,5 +6138,55 @@
     "rawPrice": 12000,
     "timestamp": "13 Sep 10:04 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4734,
+    "title": "Room For Rent in Maharagama",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-984",
+    "rawPrice": 15000,
+    "timestamp": "14 Sep 11:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4739,
+    "title": "Room ( Working Girls Only) For Rent in Maharagama",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-working-girls-only-for-rent-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 26000,
+    "timestamp": "14 Sep 11:27 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4744,
+    "title": "Dehiwala Room Rent",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-room-rent-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "14 Sep 4:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4749,
+    "title": "Boys Boarding Rooms – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-boarding-rooms-available-katubedda-moratuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Sep 2:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4753,
+    "title": "AC Room For Rent – Malabe",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-room-for-rent-malabe-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "12 Sep 9:17 am",
+    "gender": "Cả hai"
   }
 ]

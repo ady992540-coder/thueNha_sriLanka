@@ -8618,5 +8618,35 @@
     "rawPrice": 25000,
     "timestamp": "13 Sep 10:35 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6810,
+    "title": "Dehiwala Room Rent",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-room-rent-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "14 Sep 4:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6815,
+    "title": "Annex for Rented in Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rented-in-nugegoda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "15 Sep 9:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6818,
+    "title": "Boys Boarding Rooms – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-boarding-rooms-available-katubedda-moratuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Sep 2:22 pm",
+    "gender": "Cả hai"
   }
 ]

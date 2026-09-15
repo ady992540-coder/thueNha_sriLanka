@@ -4628,5 +4628,35 @@
     "rawPrice": 15000,
     "timestamp": "13 Sep 3:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3724,
+    "title": "Room for Rent Piliyandala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-for-rent-colombo-40",
+    "rawPrice": 20000,
+    "timestamp": "14 Sep 1:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3728,
+    "title": "Rooms For Boys In Piliyandala",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-boys-in-piliyandala-for-rent-colombo-1",
+    "rawPrice": 10500,
+    "timestamp": "14 Sep 1:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3733,
+    "title": "Boys Boarding Rooms – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-boarding-rooms-available-katubedda-moratuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Sep 2:22 pm",
+    "gender": "Cả hai"
   }
 ]

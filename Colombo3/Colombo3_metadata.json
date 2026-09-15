@@ -3828,5 +3828,25 @@
     "rawPrice": 33000,
     "timestamp": "12 Sep 9:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3199,
+    "title": "Boys Boarding Rooms – Katubedda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-boarding-rooms-available-katubedda-moratuwa-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "11 Sep 2:22 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3203,
+    "title": "Dehiwala Room Rent",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-room-rent-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "14 Sep 4:17 pm",
+    "gender": "Cả hai"
   }
 ]
