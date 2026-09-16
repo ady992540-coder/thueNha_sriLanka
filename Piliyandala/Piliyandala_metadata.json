@@ -4658,5 +4658,25 @@
     "rawPrice": 15000,
     "timestamp": "11 Sep 2:22 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3743,
+    "title": "Furnished Room For Rent Male Student At Battaramulla Kumaragewatta",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-male-student-at-battaramulla-kumaragewatta-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "15 Sep 12:36 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3748,
+    "title": "Dehiwala Room Rent",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-room-rent-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "14 Sep 4:17 pm",
+    "gender": "Cả hai"
   }
 ]

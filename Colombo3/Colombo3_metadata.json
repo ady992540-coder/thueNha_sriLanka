@@ -3848,5 +3848,25 @@
     "rawPrice": 20000,
     "timestamp": "14 Sep 4:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3217,
+    "title": "Furnished Rooms for Rent in Colombo 3 (Ladies Only)",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-rooms-for-rent-in-colombo-3-ladies-only-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "15 Sep 4:07 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3223,
+    "title": "1 Bedroom Annex for Rent - Colombo 3",
+    "price": "Rs 250,000 /tháng (~ 21.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1-bedroom-annex-for-rent-colombo-3-for-rent-colombo-2",
+    "rawPrice": 250000,
+    "timestamp": "15 Sep 11:13 am",
+    "gender": "Cả hai"
   }
 ]
