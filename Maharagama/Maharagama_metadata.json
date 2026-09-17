@@ -6208,5 +6208,35 @@
     "rawPrice": 40000,
     "timestamp": "15 Sep 12:36 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4788,
+    "title": "Sharing Boarding Room for Girls Maharagama",
+    "price": "Rs 11,500 /tháng (~ 977.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-boarding-room-for-girls-for-rent-colombo",
+    "rawPrice": 11500,
+    "timestamp": "16 Sep 8:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4793,
+    "title": "මහරගම කාමර 2 ක් ආහාර සමඟ ශිෂ්‍යාවන්ට / තරුණ කාන්තාවන්ට පමණි",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mhrgm-kaamr-2-k-aahaar-smnng-shissyaavntt-trunn-kaantaavntt-pmnni-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "16 Sep 10:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4798,
+    "title": "Room for Rent Kandy",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kandy-for-rent-kandy-87",
+    "rawPrice": 15000,
+    "timestamp": "07 Sep 1:20 pm",
+    "gender": "Cả hai"
   }
 ]

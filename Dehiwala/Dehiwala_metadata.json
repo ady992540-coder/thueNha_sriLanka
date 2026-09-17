@@ -7208,5 +7208,15 @@
     "rawPrice": 40000,
     "timestamp": "15 Sep 12:36 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5322,
+    "title": "AC Room For Rent – Malabe",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ac-room-for-rent-malabe-for-rent-colombo-1",
+    "rawPrice": 33000,
+    "timestamp": "12 Sep 9:17 am",
+    "gender": "Cả hai"
   }
 ]

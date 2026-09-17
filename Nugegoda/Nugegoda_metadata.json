@@ -8698,5 +8698,65 @@
     "rawPrice": 68000,
     "timestamp": "16 Sep 8:47 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6864,
+    "title": "Furnished Room For Rent Male Student At Battaramulla Kumaragewatta",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-male-student-at-battaramulla-kumaragewatta-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "15 Sep 12:36 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6869,
+    "title": "Single Storey 2 Bedroom House Rent In Colombo 4 - 4081U",
+    "price": "Rs 225,000 /tháng (~ 19.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-storey-2-bedroom-house-rent-in-colombo-4-4081u-for-rent-colombo-1",
+    "rawPrice": 225000,
+    "timestamp": "17 Sep 7:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6879,
+    "title": "Available Comfortable Room at Madiwela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/available-comfortable-room-at-madiwela-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "16 Sep 6:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6884,
+    "title": "Nugegoda Gansaba Juncton Room For Rent (LADY)",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-gansaba-juncton-room-for-rent-lady-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "16 Sep 1:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6889,
+    "title": "Room for Rent Kandy",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kandy-for-rent-kandy-87",
+    "rawPrice": 15000,
+    "timestamp": "07 Sep 1:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6902,
+    "title": "Furnishing Upstair Boarding Room for Rent in Visaka Watta Jaela",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishing-upstair-boarding-room-for-rent-in-visaka-watta-jaela-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "16 Sep 7:20 pm",
+    "gender": "Cả hai"
   }
 ]
