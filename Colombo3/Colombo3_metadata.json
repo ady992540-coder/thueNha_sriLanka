@@ -3888,5 +3888,25 @@
     "rawPrice": 40000,
     "timestamp": "15 Sep 12:36 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3266,
+    "title": "Sharing Room for Rent in Nugegoda Wijerama",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-wijerama-for-rent-colombo",
+    "rawPrice": 17500,
+    "timestamp": "15 Sep 12:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3269,
+    "title": "Room for Rent Kandy",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kandy-for-rent-kandy-87",
+    "rawPrice": 15000,
+    "timestamp": "07 Sep 1:20 pm",
+    "gender": "Cả hai"
   }
 ]

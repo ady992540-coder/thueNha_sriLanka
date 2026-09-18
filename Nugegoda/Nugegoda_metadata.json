@@ -8758,5 +8758,45 @@
     "rawPrice": 17000,
     "timestamp": "16 Sep 7:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6927,
+    "title": "Rooms for Rent in Nugegoda Wijerama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-nugegoda-wijerama-for-rent-colombo-4",
+    "rawPrice": 45000,
+    "timestamp": "18 Sep 7:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6931,
+    "title": "Room For Rent In Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1355",
+    "rawPrice": 25000,
+    "timestamp": "18 Sep 8:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6936,
+    "title": "Rooms for Rent – University Girls (wijerama,nugegoda)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-university-girls-wijeramanugegoda-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "17 Sep 11:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6941,
+    "title": "Sharing Room for Rent in Maharagama Girls Only",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-maharagama-girls-only-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "17 Sep 3:03 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -4688,5 +4688,45 @@
     "rawPrice": 35000,
     "timestamp": "17 Sep 12:39 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3778,
+    "title": "Room for Rent – Thumbovila, Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-thumbovila-piliyandala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "17 Sep 6:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3782,
+    "title": "Room for Rent in Pelenwaththa Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-pelenwaththa-piliyandala-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "17 Sep 1:31 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3787,
+    "title": "Sharing Room for Rent in Maharagama Girls Only",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-maharagama-girls-only-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "17 Sep 3:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3789,
+    "title": "Sharing Room for Rent in Nugegoda Wijerama",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-wijerama-for-rent-colombo",
+    "rawPrice": 17500,
+    "timestamp": "15 Sep 12:35 pm",
+    "gender": "Cả hai"
   }
 ]
