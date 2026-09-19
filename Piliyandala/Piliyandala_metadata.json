@@ -4728,5 +4728,15 @@
     "rawPrice": 17500,
     "timestamp": "15 Sep 12:35 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3810,
+    "title": "Room in Borella, Colombo 08",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-borella-colombo-08-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "19 Sep 6:16 am",
+    "gender": "Cả hai"
   }
 ]

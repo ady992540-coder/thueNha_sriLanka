@@ -3908,5 +3908,45 @@
     "rawPrice": 15000,
     "timestamp": "07 Sep 1:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3284,
+    "title": "Sharing Room for Rent in Maharagama Girls Only",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-maharagama-girls-only-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "17 Sep 3:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3286,
+    "title": "ROOMS FOR RENT COIOMBO 12",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-coiombo-12-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "18 Sep 10:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3291,
+    "title": "Room in Borella, Colombo 08",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-borella-colombo-08-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "19 Sep 6:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3294,
+    "title": "Rooms for Rent in Kiribathgoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kiribathgoda-for-rent-gampaha-21",
+    "rawPrice": 25000,
+    "timestamp": "07 Aug 2:31 pm",
+    "gender": "Cả hai"
   }
 ]
