@@ -7298,5 +7298,15 @@
     "rawPrice": 20000,
     "timestamp": "19 Sep 6:16 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5408,
+    "title": "(SLS3) Room for Rent in Kalubovila,Dehiwala ( Only Boys)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sls3-room-for-rent-in-kaluboviladehiwala-only-boys-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "19 Sep 1:33 pm",
+    "gender": "Cả hai"
   }
 ]

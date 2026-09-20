@@ -8868,5 +8868,45 @@
     "rawPrice": 20000,
     "timestamp": "19 Sep 6:16 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7015,
+    "title": "Nugegoda Studio Type Annex",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-studio-type-annex-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "18 Sep 8:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7020,
+    "title": "Annex For Rent In Pita Kotte",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-pita-kotte-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "19 Sep 4:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7025,
+    "title": "ROOMS FOR RENT COIOMBO 12",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-coiombo-12-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "18 Sep 10:28 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7030,
+    "title": "Rooms for Rent in Kiribathgoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kiribathgoda-for-rent-gampaha-21",
+    "rawPrice": 25000,
+    "timestamp": "07 Aug 2:31 pm",
+    "gender": "Cả hai"
   }
 ]
