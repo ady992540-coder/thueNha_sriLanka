@@ -8908,5 +8908,35 @@
     "rawPrice": 25000,
     "timestamp": "07 Aug 2:31 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7051,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-for-room-for-rent-colombo-358",
+    "rawPrice": 10500,
+    "timestamp": "10 Sep 1:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7053,
+    "title": "DELKANDA : 2-BR (1,000 SQFT) GROUND FLOOR HOUSE FOR RENT",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/delkanda-2-br-1000-sqft-ground-floor-house-for-rent-for-rent-colombo",
+    "rawPrice": 100000,
+    "timestamp": "20 Sep 6:09 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7054,
+    "title": "Rooms Rent in Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-in-nugegoda-for-rent-colombo-2",
+    "rawPrice": 18000,
+    "timestamp": "20 Sep 11:43 am",
+    "gender": "Cả hai"
   }
 ]

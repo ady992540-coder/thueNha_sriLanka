@@ -4768,5 +4768,25 @@
     "rawPrice": 10500,
     "timestamp": "10 Sep 1:05 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3846,
+    "title": "Room for Rent Kandy",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kandy-for-rent-kandy-87",
+    "rawPrice": 15000,
+    "timestamp": "07 Sep 1:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3850,
+    "title": "Rooms for Rent in Kiribathgoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kiribathgoda-for-rent-gampaha-21",
+    "rawPrice": 25000,
+    "timestamp": "07 Aug 2:31 pm",
+    "gender": "Cả hai"
   }
 ]

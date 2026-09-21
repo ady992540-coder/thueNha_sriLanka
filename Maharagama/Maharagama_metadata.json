@@ -6318,5 +6318,15 @@
     "rawPrice": 10500,
     "timestamp": "10 Sep 1:05 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4870,
+    "title": "Rent Room in Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rent-room-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "20 Sep 10:08 am",
+    "gender": "Cả hai"
   }
 ]
