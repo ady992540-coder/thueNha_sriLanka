@@ -4788,5 +4788,35 @@
     "rawPrice": 25000,
     "timestamp": "07 Aug 2:31 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3864,
+    "title": "Furnishing Upstair Boarding Room for Rent in Visaka Watta Jaela",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishing-upstair-boarding-room-for-rent-in-visaka-watta-jaela-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "16 Sep 7:20 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3873,
+    "title": "Boarding Room For Rent Ladies - Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-ladies-nugegoda-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "21 Sep 10:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3878,
+    "title": "Room For Rent Piliyandala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-for-rent-colombo-41",
+    "rawPrice": 20000,
+    "timestamp": "21 Sep 4:17 pm",
+    "gender": "Cả hai"
   }
 ]

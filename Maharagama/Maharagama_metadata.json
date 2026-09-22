@@ -6328,5 +6328,25 @@
     "rawPrice": 25000,
     "timestamp": "20 Sep 10:08 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4887,
+    "title": "Boarding Room For Rent Ladies - Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-ladies-nugegoda-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "21 Sep 10:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4892,
+    "title": "Boarding Facility for Working Ladies",
+    "price": "Rs 27,500 /tháng (~ 2.337.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-facility-for-working-ladies-for-rent-colombo-1",
+    "rawPrice": 27500,
+    "timestamp": "21 Sep 2:35 pm",
+    "gender": "Cả hai"
   }
 ]

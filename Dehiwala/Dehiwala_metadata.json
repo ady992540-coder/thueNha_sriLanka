@@ -7338,5 +7338,25 @@
     "rawPrice": 85000,
     "timestamp": "20 Sep 11:05 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5466,
+    "title": "Boarding Room For Rent Ladies - Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-ladies-nugegoda-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "21 Sep 10:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5471,
+    "title": "Single Room For Rent In Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-dehiwala-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "21 Sep 2:56 pm",
+    "gender": "Cả hai"
   }
 ]

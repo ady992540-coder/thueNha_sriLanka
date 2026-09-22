@@ -8938,5 +8938,35 @@
     "rawPrice": 18000,
     "timestamp": "20 Sep 11:43 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7069,
+    "title": "Boarding Room For Rent Ladies - Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-ladies-nugegoda-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "21 Sep 10:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7074,
+    "title": "Room for Rent in Nugegoda.",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1356",
+    "rawPrice": 40000,
+    "timestamp": "22 Sep 9:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7077,
+    "title": "Sharing Room for Employees - Nugegoda",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-employed-men-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "21 Sep 1:43 pm",
+    "gender": "Cả hai"
   }
 ]
