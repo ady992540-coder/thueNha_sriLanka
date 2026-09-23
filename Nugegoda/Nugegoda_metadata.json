@@ -8968,5 +8968,15 @@
     "rawPrice": 9000,
     "timestamp": "21 Sep 1:43 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7088,
+    "title": "Accommodation Available Exclusively for a Group of Girls - Delkada",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accommodation-available-exclusively-for-a-group-of-girls-delkada-for-rent-colombo",
+    "rawPrice": 100000,
+    "timestamp": "22 Sep 4:26 pm",
+    "gender": "Cả hai"
   }
 ]

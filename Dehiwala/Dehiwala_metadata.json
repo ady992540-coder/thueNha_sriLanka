@@ -7358,5 +7358,45 @@
     "rawPrice": 25000,
     "timestamp": "21 Sep 2:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5484,
+    "title": "Anex for Rent Dehiwela Hill St",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/anex-for-rent-dehiwela-hill-st-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "22 Sep 5:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5489,
+    "title": "Annex for Rent in Karakampitiya,Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-karakampitiyadehiwala-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "22 Sep 1:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5494,
+    "title": "Furnished Room For Rent - Attidiya",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-attidiya-for-rent-colombo-4",
+    "rawPrice": 50000,
+    "timestamp": "22 Sep 11:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5498,
+    "title": "Furnishing Upstair Boarding Room for Rent in Visaka Watta Jaela",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnishing-upstair-boarding-room-for-rent-in-visaka-watta-jaela-for-rent-gampaha",
+    "rawPrice": 17000,
+    "timestamp": "16 Sep 7:20 pm",
+    "gender": "Cả hai"
   }
 ]
