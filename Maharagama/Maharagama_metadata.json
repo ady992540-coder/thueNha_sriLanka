@@ -6358,5 +6358,45 @@
     "rawPrice": 17000,
     "timestamp": "16 Sep 7:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4930,
+    "title": "Room ( Only Girl) For Rent in Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girl-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "24 Sep 9:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4934,
+    "title": "Sharing Room For Rent (Girls) Maharagama",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-girls-maharagama-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "23 Sep 8:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4937,
+    "title": "Annex for Rent in Maharagama",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-804",
+    "rawPrice": 65000,
+    "timestamp": "23 Sep 6:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4942,
+    "title": "Fully Furnished Private Rooftop Annex Maharagama",
+    "price": "Rs 48,000 /tháng (~ 4.080.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-private-rooftop-annex-with-water-electricity-included-for-rent-colombo",
+    "rawPrice": 48000,
+    "timestamp": "23 Sep 12:55 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -8978,5 +8978,15 @@
     "rawPrice": 100000,
     "timestamp": "22 Sep 4:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7112,
+    "title": "Room for Rent in Pitakotte",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gaehaenu-lmun-sndhaa-kaamr-aet-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "23 Sep 10:00 am",
+    "gender": "Cả hai"
   }
 ]
