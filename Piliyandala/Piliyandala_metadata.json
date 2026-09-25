@@ -4818,5 +4818,35 @@
     "rawPrice": 20000,
     "timestamp": "21 Sep 4:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3891,
+    "title": "Shared Rooms for Girls- Piliyandala Miriswatta",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/shared-rooms-for-girls-piliyandala-miriswatta-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "24 Sep 11:40 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3896,
+    "title": "Room ( Only Ladies ) for Rent in Piliyandala, Miriswatta",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-ladies-for-rent-in-piliyandala-miriswatta-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "24 Sep 11:26 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3901,
+    "title": "Annex For Rent in Ampitiya - Kandy",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ampitiya-kandy-for-rent-kandy",
+    "rawPrice": 25000,
+    "timestamp": "24 Sep 9:17 am",
+    "gender": "Cả hai"
   }
 ]

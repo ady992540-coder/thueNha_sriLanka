@@ -6398,5 +6398,15 @@
     "rawPrice": 48000,
     "timestamp": "23 Sep 12:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4963,
+    "title": "Annex For Rent in Ampitiya - Kandy",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ampitiya-kandy-for-rent-kandy",
+    "rawPrice": 25000,
+    "timestamp": "24 Sep 9:17 am",
+    "gender": "Cả hai"
   }
 ]

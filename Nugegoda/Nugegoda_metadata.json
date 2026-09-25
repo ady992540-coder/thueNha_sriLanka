@@ -8988,5 +8988,25 @@
     "rawPrice": 15000,
     "timestamp": "23 Sep 10:00 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7129,
+    "title": "Annex For Rent in Ampitiya - Kandy",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-ampitiya-kandy-for-rent-kandy",
+    "rawPrice": 25000,
+    "timestamp": "24 Sep 9:17 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7133,
+    "title": "Boarding Room for rent - Ladies in Wijerama, Nugegoda",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-ladies-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "24 Sep 11:19 am",
+    "gender": "Cả hai"
   }
 ]
