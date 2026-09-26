@@ -9008,5 +9008,25 @@
     "rawPrice": 9000,
     "timestamp": "24 Sep 11:19 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7147,
+    "title": "Room for Rent in Wijerama Nugegoda",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-wijerama-nugegoda-for-rent-colombo-5",
+    "rawPrice": 26000,
+    "timestamp": "26 Sep 7:33 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7152,
+    "title": "Furnished Room For Rent In Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-nugegoda-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "26 Sep 7:13 am",
+    "gender": "Cả hai"
   }
 ]

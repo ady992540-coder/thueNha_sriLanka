@@ -7408,5 +7408,55 @@
     "rawPrice": 25000,
     "timestamp": "24 Sep 9:17 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5544,
+    "title": "1BR Fully Furnished Room with Seperate Entrance in Dehiwala",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1br-fully-furnished-room-with-seperate-entrance-in-dehiwala-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "26 Sep 9:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5550,
+    "title": "Annex for Rent in Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-707",
+    "rawPrice": 40000,
+    "timestamp": "26 Sep 9:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5552,
+    "title": "Annex Near Galle Road Dehiwala For Ladies",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-near-galle-road-dehiwala-for-ladies-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "26 Sep 9:42 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5557,
+    "title": "Larger Room For Rent - Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/larger-room-for-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "26 Sep 8:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5562,
+    "title": "Sharing rooms for rent Dehiwala (Only boys)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-rent-dehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "25 Sep 4:35 pm",
+    "gender": "Cả hai"
   }
 ]
