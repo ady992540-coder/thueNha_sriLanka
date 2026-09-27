@@ -4858,5 +4858,25 @@
     "rawPrice": 160000,
     "timestamp": "25 Sep 5:49 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3936,
+    "title": "Luxury Rooms in Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-rooms-in-maharagama-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "26 Sep 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3941,
+    "title": "Room For Rent Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-piliyandala-for-rent-colombo-42",
+    "rawPrice": 15000,
+    "timestamp": "27 Sep 7:57 am",
+    "gender": "Cả hai"
   }
 ]

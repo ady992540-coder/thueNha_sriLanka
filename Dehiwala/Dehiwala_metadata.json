@@ -7458,5 +7458,25 @@
     "rawPrice": 20000,
     "timestamp": "25 Sep 4:35 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5583,
+    "title": "Luxury Rooms in Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-rooms-in-maharagama-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "26 Sep 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5588,
+    "title": "Dehiwala Fully Furnish Annex (Near Junction)",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-fully-furnish-annex-near-junction-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "27 Sep 8:21 am",
+    "gender": "Cả hai"
   }
 ]

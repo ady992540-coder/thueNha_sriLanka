@@ -9028,5 +9028,45 @@
     "rawPrice": 25000,
     "timestamp": "26 Sep 7:13 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7165,
+    "title": "Room for Rent Nugegoda (Girls Only)",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/accomodation-for-girls-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "27 Sep 10:14 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7167,
+    "title": "Single Room for Working Girls Rent - Delkanda",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-working-graduate-girl-for-rent-colombo",
+    "rawPrice": 16000,
+    "timestamp": "27 Sep 8:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7172,
+    "title": "Separate Room for a Girl – Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/separate-room-for-a-girl-nugegoda-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "26 Sep 12:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7177,
+    "title": "Luxury Rooms in Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-rooms-in-maharagama-for-rent-colombo-2",
+    "rawPrice": 50000,
+    "timestamp": "26 Sep 2:11 pm",
+    "gender": "Cả hai"
   }
 ]
