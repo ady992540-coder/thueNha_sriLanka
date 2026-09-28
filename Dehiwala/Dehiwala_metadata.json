@@ -7478,5 +7478,35 @@
     "rawPrice": 60000,
     "timestamp": "27 Sep 8:21 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5601,
+    "title": "1BR Fully Furnished Room With Seperate Entrance In Dehiwala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1br-fully-furnished-room-with-seperate-entrance-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 60000,
+    "timestamp": "27 Sep 12:40 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5607,
+    "title": "Annex (Roof Top) for Rent in Dehiwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-roof-top-for-rent-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "27 Sep 2:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5612,
+    "title": "Room for Rent Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10356",
+    "rawPrice": 30000,
+    "timestamp": "27 Sep 10:14 am",
+    "gender": "Cả hai"
   }
 ]
