@@ -3988,5 +3988,15 @@
     "rawPrice": 50000,
     "timestamp": "26 Sep 2:11 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3384,
+    "title": "Upstairs Annex for Rent – Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-for-rent-nugegoda-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "29 Sep 1:26 am",
+    "gender": "Cả hai"
   }
 ]

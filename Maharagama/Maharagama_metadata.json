@@ -6428,5 +6428,25 @@
     "rawPrice": 26000,
     "timestamp": "27 Sep 2:55 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5014,
+    "title": "Upstairs Annex for Rent – Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-for-rent-nugegoda-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "29 Sep 1:26 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5019,
+    "title": "Rooms for Rent in Maharagama",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-maharagama-for-rent-colombo-85",
+    "rawPrice": 27000,
+    "timestamp": "28 Sep 11:00 am",
+    "gender": "Cả hai"
   }
 ]
