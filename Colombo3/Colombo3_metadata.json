@@ -3998,5 +3998,15 @@
     "rawPrice": 65000,
     "timestamp": "29 Sep 1:26 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3401,
+    "title": "Upstairs Portion for a Single Male",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-portion-for-a-single-male-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "29 Sep 12:46 pm",
+    "gender": "Cả hai"
   }
 ]

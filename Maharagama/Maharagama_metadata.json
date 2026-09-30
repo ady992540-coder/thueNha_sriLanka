@@ -6448,5 +6448,15 @@
     "rawPrice": 27000,
     "timestamp": "28 Sep 11:00 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5032,
+    "title": "Boarding Room for Rent Maharagama",
+    "price": "Rs 24,000 /tháng (~ 2.040.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-for-rent-colombo",
+    "rawPrice": 24000,
+    "timestamp": "30 Sep 8:55 am",
+    "gender": "Cả hai"
   }
 ]
