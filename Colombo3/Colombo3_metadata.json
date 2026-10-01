@@ -4008,5 +4008,25 @@
     "rawPrice": 50000,
     "timestamp": "29 Sep 12:46 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3418,
+    "title": "1BED ANNEX FOR RENT IN BATTARAMULLA (SP1116)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bed-annex-for-rent-in-battaramulla-sp1116-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "18 Sep 9:33 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3423,
+    "title": "Colombo 3 - For Rent In Ladies Twin Sharing Furnished Room",
+    "price": "Rs 35,625 /tháng (~ 3.028.125 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-3-for-rent-in-ladies-twin-sharing-furnished-room-for-rent-colombo",
+    "rawPrice": 35625,
+    "timestamp": "01 Oct 10:43 am",
+    "gender": "Cả hai"
   }
 ]

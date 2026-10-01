@@ -6458,5 +6458,35 @@
     "rawPrice": 24000,
     "timestamp": "30 Sep 8:55 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5049,
+    "title": "1BED ANNEX FOR RENT IN BATTARAMULLA (SP1116)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bed-annex-for-rent-in-battaramulla-sp1116-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "18 Sep 9:33 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5054,
+    "title": "Room For Rent Girls In Maharagama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "30 Sep 5:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5057,
+    "title": "Upstairs Portion for a Single Male",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-portion-for-a-single-male-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "29 Sep 12:46 pm",
+    "gender": "Cả hai"
   }
 ]
