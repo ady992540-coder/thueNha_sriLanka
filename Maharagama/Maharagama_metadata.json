@@ -6488,5 +6488,25 @@
     "rawPrice": 50000,
     "timestamp": "29 Sep 12:46 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5068,
+    "title": "Annex for Rent at Battaramulla",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-battaramulla-for-rent-colombo-3",
+    "rawPrice": 80000,
+    "timestamp": "29 Sep 9:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5073,
+    "title": "Annex for Rent in Nugegoda - Pita Kotte",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-pita-kotte-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "01 Oct 10:10 am",
+    "gender": "Cả hai"
   }
 ]

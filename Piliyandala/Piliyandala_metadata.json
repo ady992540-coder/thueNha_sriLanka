@@ -4888,5 +4888,55 @@
     "rawPrice": 65000,
     "timestamp": "29 Sep 1:26 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3971,
+    "title": "Upstairs Portion for a Single Male",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-portion-for-a-single-male-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "29 Sep 12:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3976,
+    "title": "Annex for Rent in Nugegoda - Pita Kotte",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-pita-kotte-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "01 Oct 10:10 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3981,
+    "title": "1BED ANNEX FOR RENT IN PILIYANDALA (SP1365)",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bed-annex-for-rent-in-piliyandala-sp1365-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "01 Oct 10:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3986,
+    "title": "Annex for Rent at Battaramulla",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-at-battaramulla-for-rent-colombo-3",
+    "rawPrice": 80000,
+    "timestamp": "29 Sep 9:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3991,
+    "title": "1BED ANNEX FOR RENT IN BATTARAMULLA (SP1116)",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bed-annex-for-rent-in-battaramulla-sp1116-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "18 Sep 9:33 am",
+    "gender": "Cả hai"
   }
 ]
