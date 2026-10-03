@@ -7608,5 +7608,35 @@
     "rawPrice": 80000,
     "timestamp": "29 Sep 9:18 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5729,
+    "title": "Dehiwa Room for Rent",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwa-room-for-rent-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "02 Oct 3:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5734,
+    "title": "annex for rent in nedimala",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nedimala-for-rent-colombo-12",
+    "rawPrice": 28000,
+    "timestamp": "02 Oct 2:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5736,
+    "title": "furnith annex for rent in nedimala",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnith-annex-for-rent-in-nedimala-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "02 Oct 2:39 pm",
+    "gender": "Cả hai"
   }
 ]

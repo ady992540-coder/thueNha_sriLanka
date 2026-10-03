@@ -6508,5 +6508,15 @@
     "rawPrice": 50000,
     "timestamp": "01 Oct 10:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5086,
+    "title": "Annex for Rent - Maharagama",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-maharagama-for-rent-colombo-273",
+    "rawPrice": 40000,
+    "timestamp": "02 Oct 6:33 pm",
+    "gender": "Cả hai"
   }
 ]
