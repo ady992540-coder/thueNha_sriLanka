@@ -9218,5 +9218,55 @@
     "rawPrice": 10000,
     "timestamp": "03 Oct 10:09 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7338,
+    "title": "Furnished Room for Rent Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-25",
+    "rawPrice": 15000,
+    "timestamp": "04 Oct 10:29 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7343,
+    "title": "NUGEGODA PAGODA EDIRIGODA ROAD ANNEX FOR RENT",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-pagoda-edirigoda-road-annex-for-rent-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "04 Oct 8:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7352,
+    "title": "Room For Rent Kohuwala",
+    "price": "Rs 22,500 /tháng (~ 1.912.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-kohuwala-for-rent-colombo-41",
+    "rawPrice": 22500,
+    "timestamp": "03 Oct 2:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7357,
+    "title": "Room For Rent Pagoda Nugegoda",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-pagoda-nugegoda-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "03 Oct 1:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7362,
+    "title": "Sharing Room (Only Boys) For Rent in Nugegoda, Wijerama",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-only-boys-for-rent-in-nugegoda-wijerama-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "03 Oct 12:40 pm",
+    "gender": "Cả hai"
   }
 ]

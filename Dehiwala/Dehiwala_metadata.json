@@ -7638,5 +7638,15 @@
     "rawPrice": 60000,
     "timestamp": "02 Oct 2:39 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5748,
+    "title": "Rooms For Rent In Kandana (Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kandana-girls-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "03 Oct 10:06 am",
+    "gender": "Cả hai"
   }
 ]

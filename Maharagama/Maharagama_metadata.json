@@ -6518,5 +6518,25 @@
     "rawPrice": 40000,
     "timestamp": "02 Oct 6:33 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5103,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-sharing-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "03 Oct 12:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5107,
+    "title": "Rooms For Rent In Kandana (Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kandana-girls-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "03 Oct 10:06 am",
+    "gender": "Cả hai"
   }
 ]
