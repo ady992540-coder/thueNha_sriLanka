@@ -4948,5 +4948,15 @@
     "rawPrice": 15000,
     "timestamp": "03 Oct 10:06 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4025,
+    "title": "Annex for Rent in Hotel Road Mount Lavinia",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "04 Oct 11:07 am",
+    "gender": "Cả hai"
   }
 ]

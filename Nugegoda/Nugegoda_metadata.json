@@ -9268,5 +9268,55 @@
     "rawPrice": 8000,
     "timestamp": "03 Oct 12:40 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7379,
+    "title": "Boarding Room for Female Student/Working Girls in Wijerama Nugegoda",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-female-student-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7384,
+    "title": "Rooms For Rent In Kandana (Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kandana-girls-for-rent-gampaha",
+    "rawPrice": 15000,
+    "timestamp": "03 Oct 10:06 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7387,
+    "title": "Furnished Room For Rent Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-nugegoda-for-rent-colombo-26",
+    "rawPrice": 15000,
+    "timestamp": "05 Oct 10:15 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7392,
+    "title": "Room For Rent In Wijerama Nugegoda",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-wijerama-nugegoda-for-rent-colombo-6",
+    "rawPrice": 26000,
+    "timestamp": "04 Oct 2:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7397,
+    "title": "Room For Rent in Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1358",
+    "rawPrice": 18000,
+    "timestamp": "04 Oct 1:36 pm",
+    "gender": "Cả hai"
   }
 ]

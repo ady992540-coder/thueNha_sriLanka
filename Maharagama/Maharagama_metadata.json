@@ -6538,5 +6538,25 @@
     "rawPrice": 15000,
     "timestamp": "03 Oct 10:06 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5121,
+    "title": "Annex for Rent in Hotel Road Mount Lavinia",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "04 Oct 11:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5126,
+    "title": "Boarding Room for Rent (Girls only)Maharagama",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-girls-onlymaharagama-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "05 Oct 8:04 am",
+    "gender": "Cả hai"
   }
 ]
