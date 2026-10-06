@@ -4088,5 +4088,15 @@
     "rawPrice": 45000,
     "timestamp": "04 Oct 11:07 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3506,
+    "title": "Room For Rent Katubadda Moratuwa",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-katubadda-moratuwa-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "01 Oct 11:10 pm",
+    "gender": "Cả hai"
   }
 ]

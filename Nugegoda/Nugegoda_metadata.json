@@ -9318,5 +9318,55 @@
     "rawPrice": 18000,
     "timestamp": "04 Oct 1:36 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7414,
+    "title": "Annex for Rent in Hotel Road Mount Lavinia",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "04 Oct 11:07 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7419,
+    "title": "Boarding Room For Rent - Ladies/Student In Wijerama, Nugegoda",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-ladies-student-in-wijerama-nugegoda-for-rent-colombo-1",
+    "rawPrice": 9000,
+    "timestamp": "05 Oct 10:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7424,
+    "title": "Boarding Room for Female Student/Working Girls in Wijerama Nugegoda",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-female-student-working-girls-in-wijerama-nugegoda-for-rent-colombo",
+    "rawPrice": 8000,
+    "timestamp": "05 Oct 11:09 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7429,
+    "title": "Fully Tiled A/C luxury Room for Rent in Wijerama",
+    "price": "Rs 58,000 /tháng (~ 4.930.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-tiled-a-c-luxury-room-for-rent-in-wijerama-for-rent-colombo",
+    "rawPrice": 58000,
+    "timestamp": "06 Oct 11:19 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7434,
+    "title": "Room For Rent Katubadda Moratuwa",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-katubadda-moratuwa-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "01 Oct 11:10 pm",
+    "gender": "Cả hai"
   }
 ]

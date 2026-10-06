@@ -7668,5 +7668,35 @@
     "rawPrice": 45000,
     "timestamp": "04 Oct 11:07 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5783,
+    "title": "AIR-CONDITIONED DOUBLE ROOM FOR RENT IN DEHIWALA",
+    "price": "Rs 160,000 /tháng (~ 13.600.000 ₫)",
+    "url": "https://ikman.lk/en/ad/air-conditioned-double-room-for-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 160000,
+    "timestamp": "06 Oct 2:26 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5788,
+    "title": "කාමර 9ක් බදු දීමට ඇත",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamr-9k-bdu-diimtt-aet-for-rent-gampaha",
+    "rawPrice": 80000,
+    "timestamp": "10 Sep 7:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5793,
+    "title": "Room For Rent Katubadda Moratuwa",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-katubadda-moratuwa-for-rent-colombo-1",
+    "rawPrice": 22000,
+    "timestamp": "01 Oct 11:10 pm",
+    "gender": "Cả hai"
   }
 ]
