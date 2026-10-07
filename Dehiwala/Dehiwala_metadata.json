@@ -7698,5 +7698,25 @@
     "rawPrice": 22000,
     "timestamp": "01 Oct 11:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5802,
+    "title": "Room For Rent in Dehiwala",
+    "price": "Rs 9,500 /tháng (~ 807.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1191",
+    "rawPrice": 9500,
+    "timestamp": "06 Oct 5:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5804,
+    "title": "Room Rent for Kalubowila, Dehiwala - Boys Only",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-kalubowila-dehiwala-boys-only-for-rent-colombo-1",
+    "rawPrice": 10000,
+    "timestamp": "06 Oct 5:33 pm",
+    "gender": "Cả hai"
   }
 ]

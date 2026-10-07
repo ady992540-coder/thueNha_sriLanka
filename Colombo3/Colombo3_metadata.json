@@ -4098,5 +4098,25 @@
     "rawPrice": 22000,
     "timestamp": "01 Oct 11:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3523,
+    "title": "Boarding For Boys In Kollupitiya Colombo 3",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-boys-in-kollupitiya-colombo-3-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "07 Oct 8:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3528,
+    "title": "කාමර 9ක් බදු දීමට ඇත",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamr-9k-bdu-diimtt-aet-for-rent-gampaha",
+    "rawPrice": 80000,
+    "timestamp": "10 Sep 7:44 pm",
+    "gender": "Cả hai"
   }
 ]
