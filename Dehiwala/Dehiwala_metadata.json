@@ -7718,5 +7718,35 @@
     "rawPrice": 10000,
     "timestamp": "06 Oct 5:33 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5820,
+    "title": "Studio Type Annex (Single / Sharing) for Rent in Maharagama Town Center",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-single-sharing-for-rent-in-maharagama-town-center-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "08 Oct 9:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5825,
+    "title": "annex for rent in nedimala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nedimala-for-rent-colombo-13",
+    "rawPrice": 30000,
+    "timestamp": "07 Oct 3:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5827,
+    "title": "2 Br Rooms for Rent in Delkanda - Working Boys",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-br-rooms-for-rent-in-delkanda-working-boys-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "07 Oct 7:21 pm",
+    "gender": "Cả hai"
   }
 ]

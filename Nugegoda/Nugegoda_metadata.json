@@ -9418,5 +9418,25 @@
     "rawPrice": 17000,
     "timestamp": "06 Oct 6:34 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7485,
+    "title": "Rooms for Working Girls Nugegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-working-girls-nugegoda-for-rent-colombo",
+    "rawPrice": 17000,
+    "timestamp": "08 Oct 8:04 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7488,
+    "title": "Studio Type Annex (Single / Sharing) for Rent in Maharagama Town Center",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-single-sharing-for-rent-in-maharagama-town-center-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "08 Oct 9:51 am",
+    "gender": "Cả hai"
   }
 ]

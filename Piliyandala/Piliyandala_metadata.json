@@ -4988,5 +4988,25 @@
     "rawPrice": 80000,
     "timestamp": "10 Sep 7:44 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4061,
+    "title": "Room Rent – Piliyandala / Katubedda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-piliyandala-katubedda-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "07 Oct 2:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4066,
+    "title": "Studio Type Annex (Single / Sharing) for Rent in Maharagama Town Center",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-single-sharing-for-rent-in-maharagama-town-center-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "08 Oct 9:51 am",
+    "gender": "Cả hai"
   }
 ]
