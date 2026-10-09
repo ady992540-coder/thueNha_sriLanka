@@ -7748,5 +7748,45 @@
     "rawPrice": 60000,
     "timestamp": "07 Oct 7:21 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5839,
+    "title": "Rooms With Annex Rent In Nugegoda",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-with-annex-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "08 Oct 5:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5843,
+    "title": "Annex For Rent In Nugegoda - Pita Kotte",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-pita-kotte-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "08 Oct 5:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5848,
+    "title": "Studio Type Annex for Rent Peliyagoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-for-rent-peliyagoda-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "09 Oct 8:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5853,
+    "title": "2 Br House for Rent in Delkanda - Working Boys",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-br-house-for-rent-in-delkanda-working-boys-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "08 Oct 7:16 pm",
+    "gender": "Cả hai"
   }
 ]

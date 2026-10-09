@@ -6578,5 +6578,35 @@
     "rawPrice": 80000,
     "timestamp": "10 Sep 7:44 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5173,
+    "title": "Annex For Rent In Nugegoda - Pita Kotte",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-pita-kotte-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "08 Oct 5:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5178,
+    "title": "Rooms for Rent in Kelaniya (boys)",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kelaniya-boys-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "23 Aug 5:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5183,
+    "title": "Rooms With Annex Rent In Nugegoda",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-with-annex-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 14000,
+    "timestamp": "08 Oct 5:16 pm",
+    "gender": "Cả hai"
   }
 ]
