@@ -4158,5 +4158,25 @@
     "rawPrice": 8500,
     "timestamp": "23 Aug 5:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3590,
+    "title": "Rooms for Rent Kadawatha",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-gampaha-686",
+    "rawPrice": 21000,
+    "timestamp": "09 Oct 5:40 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3595,
+    "title": "Annex for Rent – Nagoda, Kandana",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nagoda-kandana-for-rent-gampaha",
+    "rawPrice": 23000,
+    "timestamp": "24 Sep 8:45 am",
+    "gender": "Cả hai"
   }
 ]

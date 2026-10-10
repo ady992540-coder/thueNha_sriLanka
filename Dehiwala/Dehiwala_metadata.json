@@ -7788,5 +7788,55 @@
     "rawPrice": 60000,
     "timestamp": "08 Oct 7:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5874,
+    "title": "Studio type annex for rent in dehiwala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-type-annex-for-rent-in-dehiwala-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "10 Oct 8:15 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5880,
+    "title": "Room for rent - Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-571",
+    "rawPrice": 15000,
+    "timestamp": "09 Oct 3:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5881,
+    "title": "New Ground Floor Studio Annex Rent In Attidiya( Separate Unit)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/new-ground-floor-studio-annex-rent-in-attidiya-separate-unit-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "09 Oct 1:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5886,
+    "title": "Rooms for Rent Kadawatha",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-gampaha-686",
+    "rawPrice": 21000,
+    "timestamp": "09 Oct 5:40 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5891,
+    "title": "Annex for Rent – Nagoda, Kandana",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nagoda-kandana-for-rent-gampaha",
+    "rawPrice": 23000,
+    "timestamp": "24 Sep 8:45 am",
+    "gender": "Cả hai"
   }
 ]

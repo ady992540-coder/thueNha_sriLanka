@@ -6608,5 +6608,35 @@
     "rawPrice": 14000,
     "timestamp": "08 Oct 5:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5192,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-for-rent-colombo-987",
+    "rawPrice": 25000,
+    "timestamp": "10 Oct 10:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5194,
+    "title": "Downstair Annex For Immediate Rent At Maharagama",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/downstair-annex-for-immediate-rent-at-maharagama-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "10 Oct 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5199,
+    "title": "Annex for Rent – Nagoda, Kandana",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nagoda-kandana-for-rent-gampaha",
+    "rawPrice": 23000,
+    "timestamp": "24 Sep 8:45 am",
+    "gender": "Cả hai"
   }
 ]

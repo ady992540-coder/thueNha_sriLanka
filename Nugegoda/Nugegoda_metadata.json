@@ -9478,5 +9478,35 @@
     "rawPrice": 8500,
     "timestamp": "23 Aug 5:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7534,
+    "title": "නුගේගොඩ මෙල්ඩා පෙදෙසේ කාමරයක් කුලියට දීමට ඇත",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-melddaa-pedesee-kaamryk-kuliytt-diimtt-aet-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "09 Oct 2:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7537,
+    "title": "Room for Rent in Embuldeniya (Ladies)",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-embuldeniya-ladies-only-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "09 Oct 12:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7541,
+    "title": "Sharing Room for Rent Nugegoda (boys)",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-nugegoda-boys-for-rent-colombo-2",
+    "rawPrice": 8000,
+    "timestamp": "10 Oct 10:35 am",
+    "gender": "Cả hai"
   }
 ]
