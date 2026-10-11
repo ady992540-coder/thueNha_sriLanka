@@ -7838,5 +7838,25 @@
     "rawPrice": 23000,
     "timestamp": "24 Sep 8:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5912,
+    "title": "Rooms for Rent in Kelaniya (boys)",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-kelaniya-boys-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "23 Aug 5:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5917,
+    "title": "room for rent in nedimala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nedimala-for-rent-colombo-23",
+    "rawPrice": 15000,
+    "timestamp": "10 Oct 1:40 pm",
+    "gender": "Cả hai"
   }
 ]

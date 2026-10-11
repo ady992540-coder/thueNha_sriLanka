@@ -6638,5 +6638,45 @@
     "rawPrice": 23000,
     "timestamp": "24 Sep 8:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5211,
+    "title": "Fully Furnished 1-Bedroom Annex for Rent – Maharagama",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-1-bedroom-annex-for-rent-maharagama-for-rent-colombo-1",
+    "rawPrice": 80000,
+    "timestamp": "11 Oct 8:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5221,
+    "title": "Rooms For Rent Maharagama - Ladies Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-ladies-only-for-rent-colombo-3",
+    "rawPrice": 20000,
+    "timestamp": "10 Oct 9:36 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5225,
+    "title": "Rooms for Rent Maharagama",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-maharagama-for-rent-colombo-20",
+    "rawPrice": 22000,
+    "timestamp": "10 Oct 12:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5230,
+    "title": "Rooms for Rent Kadawatha",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-gampaha-686",
+    "rawPrice": 21000,
+    "timestamp": "09 Oct 5:40 pm",
+    "gender": "Cả hai"
   }
 ]
