@@ -7858,5 +7858,35 @@
     "rawPrice": 15000,
     "timestamp": "10 Oct 1:40 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5930,
+    "title": "annex for rent in dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-710",
+    "rawPrice": 25000,
+    "timestamp": "12 Oct 7:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5932,
+    "title": "Room for Rent in Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-for-rent-colombo-1192",
+    "rawPrice": 40000,
+    "timestamp": "11 Oct 11:18 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5934,
+    "title": "Gents Only – Rooms for Rent in Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gents-only-rooms-for-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "19 Aug 5:34 pm",
+    "gender": "Cả hai"
   }
 ]

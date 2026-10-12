@@ -9558,5 +9558,45 @@
     "rawPrice": 23000,
     "timestamp": "24 Sep 8:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7583,
+    "title": "Room for rent Nugegoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-on-rental-for-executives-newly-married-couple-or-professionals-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "11 Oct 10:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7588,
+    "title": "Mirihana, Nugegoda – Studio Unit for Rent (MG1432)",
+    "price": "Rs 95,000 /tháng (~ 8.075.000 ₫)",
+    "url": "https://ikman.lk/en/ad/mirihana-nugegoda-studio-unit-for-rent-mg1432-for-rent-colombo",
+    "rawPrice": 95000,
+    "timestamp": "11 Oct 2:43 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7598,
+    "title": "Luxury Fully Furnished Room For Rent",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-for-rent-for-rent-colombo-8",
+    "rawPrice": 55000,
+    "timestamp": "11 Oct 2:34 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7602,
+    "title": "Room for Rent - Nugegoda",
+    "price": "Rs 8,000 /tháng (~ 680.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10368",
+    "rawPrice": 8000,
+    "timestamp": "11 Oct 1:38 pm",
+    "gender": "Cả hai"
   }
 ]

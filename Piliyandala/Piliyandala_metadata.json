@@ -5068,5 +5068,15 @@
     "rawPrice": 40000,
     "timestamp": "10 Oct 12:02 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4138,
+    "title": "Gents Only – Rooms for Rent in Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gents-only-rooms-for-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "19 Aug 5:34 pm",
+    "gender": "Cả hai"
   }
 ]
