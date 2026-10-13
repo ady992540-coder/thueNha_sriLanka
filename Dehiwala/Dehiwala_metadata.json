@@ -7888,5 +7888,35 @@
     "rawPrice": 18000,
     "timestamp": "19 Aug 5:34 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5965,
+    "title": "Rooms with Annex Rent in Nugegoda",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-with-annex-rent-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 14000,
+    "timestamp": "12 Oct 12:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5969,
+    "title": "1 Bedroom Annex For Rent In Anderson Road Dehiwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1-bedroom-annex-for-rent-in-anderson-road-dehiwala-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "12 Oct 4:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5971,
+    "title": "Room For Rent In Katunayake Seeduwa",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-katunayake-seeduwa-for-rent-gampaha-1",
+    "rawPrice": 17000,
+    "timestamp": "13 Oct 9:50 am",
+    "gender": "Cả hai"
   }
 ]
