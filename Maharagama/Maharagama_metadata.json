@@ -6708,5 +6708,35 @@
     "rawPrice": 17000,
     "timestamp": "13 Oct 9:50 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5275,
+    "title": "Large Room for Rent in Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/a-large-room-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "13 Oct 7:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5280,
+    "title": "Fully Furnished Room for Rent in Kotte",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/modern-fully-furnished-room-for-rent-in-kotte-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "14 Oct 9:26 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5285,
+    "title": "Luxury Air Condition Unit (full Furniture ) Rent Katunayake",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-air-condition-unit-full-furniture-rent-katunayake-for-rent-gampaha",
+    "rawPrice": 80000,
+    "timestamp": "10 Oct 12:26 pm",
+    "gender": "Cả hai"
   }
 ]

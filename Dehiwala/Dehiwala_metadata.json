@@ -7918,5 +7918,25 @@
     "rawPrice": 17000,
     "timestamp": "13 Oct 9:50 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5984,
+    "title": "Room for Rent Dehiwala Boys Only",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-boys-only-for-rent-colombo-7",
+    "rawPrice": 11000,
+    "timestamp": "14 Oct 12:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5987,
+    "title": "Fully Furnished Room for Rent in Kotte",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/modern-fully-furnished-room-for-rent-in-kotte-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "14 Oct 9:26 am",
+    "gender": "Cả hai"
   }
 ]
