@@ -9638,5 +9638,25 @@
     "rawPrice": 17000,
     "timestamp": "13 Oct 9:50 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7659,
+    "title": "නුගේගොඩ මෙල්ඩා පෙදෙසේ පිරිමි ලමෙකුට නැවතීමේ කාමරයක් ඇත",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-melddaa-pedesee-pirimi-lmekutt-naevtiimee-kaamryk-aet-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "14 Oct 3:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7662,
+    "title": "Rooms For Rent – University Girls (wijerama,nugegoda)",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-university-girls-wijeramanugegoda-for-rent-colombo-3",
+    "rawPrice": 25000,
+    "timestamp": "15 Oct 9:21 am",
+    "gender": "Cả hai"
   }
 ]

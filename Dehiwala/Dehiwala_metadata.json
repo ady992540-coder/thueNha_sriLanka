@@ -7938,5 +7938,35 @@
     "rawPrice": 55000,
     "timestamp": "14 Oct 9:26 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6002,
+    "title": "Valueble annex for rent in nadimala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/valueble-annex-for-rent-in-nadimala-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "14 Oct 5:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6012,
+    "title": "Annex For Rent In Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-712",
+    "rawPrice": 35000,
+    "timestamp": "14 Oct 11:39 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6015,
+    "title": "Luxury Air Condition Unit (full Furniture ) Rent Katunayake",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-air-condition-unit-full-furniture-rent-katunayake-for-rent-gampaha",
+    "rawPrice": 80000,
+    "timestamp": "10 Oct 12:26 pm",
+    "gender": "Cả hai"
   }
 ]
