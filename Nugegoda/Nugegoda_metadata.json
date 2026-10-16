@@ -9658,5 +9658,25 @@
     "rawPrice": 25000,
     "timestamp": "15 Oct 9:21 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7677,
+    "title": "Luxury Air Condition Unit (full Furniture ) Rent Katunayake",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-air-condition-unit-full-furniture-rent-katunayake-for-rent-gampaha",
+    "rawPrice": 80000,
+    "timestamp": "10 Oct 12:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7682,
+    "title": "Furnished Room for Rent in Nugegoda (Ladies Only)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-nugegoda-ladies-only-for-rent-colombo-3",
+    "rawPrice": 32000,
+    "timestamp": "15 Oct 10:08 pm",
+    "gender": "Cả hai"
   }
 ]

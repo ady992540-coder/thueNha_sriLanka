@@ -7968,5 +7968,15 @@
     "rawPrice": 80000,
     "timestamp": "10 Oct 12:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6030,
+    "title": "Annex for rent in dehiwala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-713",
+    "rawPrice": 50000,
+    "timestamp": "15 Oct 12:36 pm",
+    "gender": "Cả hai"
   }
 ]
