@@ -9678,5 +9678,25 @@
     "rawPrice": 32000,
     "timestamp": "15 Oct 10:08 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7712,
+    "title": "Rooms for Rent Nugegoda",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nugegoda-for-rent-colombo-25",
+    "rawPrice": 22000,
+    "timestamp": "16 Oct 10:49 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7717,
+    "title": "Single Room For Girl/S In Delkanda Nugegoda",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-girl-s-in-delkanda-nugegoda-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "17 Oct 8:12 am",
+    "gender": "Cả hai"
   }
 ]
