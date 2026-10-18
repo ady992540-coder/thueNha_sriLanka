@@ -6748,5 +6748,35 @@
     "rawPrice": 20000,
     "timestamp": "16 Oct 6:34 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5311,
+    "title": "Rooms for Rent in Maharagama – Opposite the Railway Station",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-maharagama-opposite-the-railway-station-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "17 Oct 5:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5316,
+    "title": "Apartment For Rent In Hotel Road Mount Lavinia",
+    "price": "Rs 130,000 /tháng (~ 11.050.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo",
+    "rawPrice": 130000,
+    "timestamp": "18 Oct 8:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5318,
+    "title": "Annex For Rent In Kotikawatta",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-9",
+    "rawPrice": 55000,
+    "timestamp": "11 Oct 7:04 am",
+    "gender": "Cả hai"
   }
 ]

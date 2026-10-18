@@ -9698,5 +9698,35 @@
     "rawPrice": 11000,
     "timestamp": "17 Oct 8:12 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7746,
+    "title": "Rooms For Rent – Nugegoda Executive Ladies &University Students (Girls)",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-nugegoda-executive-ladies-and-university-students-girls-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "17 Oct 12:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7751,
+    "title": "Apartment For Rent In Hotel Road Mount Lavinia",
+    "price": "Rs 130,000 /tháng (~ 11.050.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo",
+    "rawPrice": 130000,
+    "timestamp": "18 Oct 8:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7753,
+    "title": "Annex For Rent In Kotikawatta",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-9",
+    "rawPrice": 55000,
+    "timestamp": "11 Oct 7:04 am",
+    "gender": "Cả hai"
   }
 ]

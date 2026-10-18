@@ -8008,5 +8008,55 @@
     "rawPrice": 60000,
     "timestamp": "16 Oct 1:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6066,
+    "title": "Annex for Rent ( Ladies only ) Dehiwala",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-ladies-only-dehiwala-for-rent-colombo",
+    "rawPrice": 33000,
+    "timestamp": "18 Oct 7:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6071,
+    "title": "Two-Bedroom Annex for Rent – Attidiya Main Road",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/two-bedroom-annex-for-rent-attidiya-main-road-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "17 Oct 1:21 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6080,
+    "title": "annex for rent in nedimala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nedimala-for-rent-colombo-14",
+    "rawPrice": 25000,
+    "timestamp": "17 Oct 11:51 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6085,
+    "title": "Annex For Rent In Kotikawatta",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-9",
+    "rawPrice": 55000,
+    "timestamp": "11 Oct 7:04 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6090,
+    "title": "Apartment For Rent In Hotel Road Mount Lavinia",
+    "price": "Rs 130,000 /tháng (~ 11.050.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo",
+    "rawPrice": 130000,
+    "timestamp": "18 Oct 8:35 am",
+    "gender": "Cả hai"
   }
 ]

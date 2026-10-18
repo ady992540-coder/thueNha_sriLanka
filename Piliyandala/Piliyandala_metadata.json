@@ -5118,5 +5118,35 @@
     "rawPrice": 80000,
     "timestamp": "10 Oct 12:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4207,
+    "title": "Luxurious Room for Rent - Piliyandala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxurious-room-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "17 Oct 1:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4212,
+    "title": "Apartment For Rent In Hotel Road Mount Lavinia",
+    "price": "Rs 130,000 /tháng (~ 11.050.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo",
+    "rawPrice": 130000,
+    "timestamp": "18 Oct 8:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4214,
+    "title": "Annex For Rent In Kotikawatta",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-9",
+    "rawPrice": 55000,
+    "timestamp": "11 Oct 7:04 am",
+    "gender": "Cả hai"
   }
 ]
