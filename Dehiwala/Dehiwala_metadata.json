@@ -8058,5 +8058,35 @@
     "rawPrice": 130000,
     "timestamp": "18 Oct 8:35 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6107,
+    "title": "Annex For Rent in Dehiwale",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwale-for-rent-colombo-1",
+    "rawPrice": 55000,
+    "timestamp": "19 Oct 9:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6112,
+    "title": "1BHK Furnished Studio Type NO AC In Dehiwala",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1bhk-furnished-studio-type-no-ac-in-dehiwala-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "18 Oct 9:47 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6116,
+    "title": "Furnished Room for Rent - Attidiya",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-attidiya-for-rent-colombo-5",
+    "rawPrice": 50000,
+    "timestamp": "18 Oct 4:58 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -4248,5 +4248,15 @@
     "rawPrice": 75000,
     "timestamp": "17 Oct 3:39 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3695,
+    "title": "Annex For Rent In Kotikawatta",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-kotikawatta-for-rent-colombo-9",
+    "rawPrice": 55000,
+    "timestamp": "11 Oct 7:04 am",
+    "gender": "Cả hai"
   }
 ]
