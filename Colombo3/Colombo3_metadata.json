@@ -4258,5 +4258,25 @@
     "rawPrice": 55000,
     "timestamp": "11 Oct 7:04 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3712,
+    "title": "ඇනෙක්ස් එකක් අවශ්‍යයි",
+    "price": "Thỏa thuận",
+    "url": "https://ikman.lk/en/ad/aeneks-ekk-avshyyi-to-rent-colombo",
+    "rawPrice": 0,
+    "timestamp": "19 Oct 11:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3713,
+    "title": "LADIES ONLY ROOMS FOR RENT KADAWATHA TOWN FACING KANDY ROAD",
+    "price": "Rs 8,750 /tháng (~ 743.750 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-rooms-for-rent-kadawatha-town-facing-kandy-road-for-rent-gampaha",
+    "rawPrice": 8750,
+    "timestamp": "18 Oct 10:35 am",
+    "gender": "Cả hai"
   }
 ]

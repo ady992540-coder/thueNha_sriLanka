@@ -9738,5 +9738,25 @@
     "rawPrice": 8000,
     "timestamp": "18 Oct 4:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7782,
+    "title": "ඇනෙක්ස් එකක් අවශ්‍යයි",
+    "price": "Thỏa thuận",
+    "url": "https://ikman.lk/en/ad/aeneks-ekk-avshyyi-to-rent-colombo",
+    "rawPrice": 0,
+    "timestamp": "19 Oct 11:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7783,
+    "title": "Room For Rent In Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1363",
+    "rawPrice": 15000,
+    "timestamp": "20 Oct 9:30 am",
+    "gender": "Cả hai"
   }
 ]

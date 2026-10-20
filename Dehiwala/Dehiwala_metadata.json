@@ -8088,5 +8088,35 @@
     "rawPrice": 50000,
     "timestamp": "18 Oct 4:58 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6126,
+    "title": "Room For Rent – Dehiwala",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-boarding-available-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "20 Oct 1:36 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6131,
+    "title": "Annex For Rent In Athidiya Road, Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-athidiya-road-dehiwala-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "19 Oct 2:48 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6136,
+    "title": "LADIES ONLY ROOMS FOR RENT KADAWATHA TOWN FACING KANDY ROAD",
+    "price": "Rs 8,750 /tháng (~ 743.750 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-rooms-for-rent-kadawatha-town-facing-kandy-road-for-rent-gampaha",
+    "rawPrice": 8750,
+    "timestamp": "18 Oct 10:35 am",
+    "gender": "Cả hai"
   }
 ]
