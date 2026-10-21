@@ -9758,5 +9758,55 @@
     "rawPrice": 15000,
     "timestamp": "20 Oct 9:30 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7800,
+    "title": "Fully Furnished Room for Rent – Gentlemen Only",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-gentlemen-only-for-rent-colombo",
+    "rawPrice": 26000,
+    "timestamp": "21 Oct 9:33 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7805,
+    "title": "2 Seperate Rooms for Rent Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-seperate-rooms-for-rental-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "20 Oct 9:53 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7810,
+    "title": "Rooms For Boys Kotte Area",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-boys-kotte-area-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "20 Oct 11:56 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7812,
+    "title": "Rooms For Working Girls Kotte Area",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-working-girls-kotte-area-for-rent-colombo-1",
+    "rawPrice": 17000,
+    "timestamp": "20 Oct 11:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7815,
+    "title": "LADIES ONLY ROOMS FOR RENT KADAWATHA TOWN FACING KANDY ROAD",
+    "price": "Rs 8,750 /tháng (~ 743.750 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-rooms-for-rent-kadawatha-town-facing-kandy-road-for-rent-gampaha",
+    "rawPrice": 8750,
+    "timestamp": "18 Oct 10:35 am",
+    "gender": "Cả hai"
   }
 ]
