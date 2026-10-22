@@ -9808,5 +9808,45 @@
     "rawPrice": 8750,
     "timestamp": "18 Oct 10:35 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7832,
+    "title": "Room For Rent In Nugegoda (Girls)",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-girls-for-rent-colombo-12",
+    "rawPrice": 14000,
+    "timestamp": "21 Oct 3:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7837,
+    "title": "Sharing Room For Rent In Nugegoda Wijerama",
+    "price": "Rs 19,000 /tháng (~ 1.615.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-rent-in-nugegoda-wijerama-for-rent-colombo-2",
+    "rawPrice": 19000,
+    "timestamp": "21 Oct 12:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7840,
+    "title": "කාන්තාවන් සඳහා කාමර කුලියට - බත්තරමුල්ල",
+    "price": "Rs 10,500 /tháng (~ 892.500 ₫)",
+    "url": "https://ikman.lk/en/ad/kaantaavn-sndhaa-kaamr-kuliytt-bttrmull-for-rent-colombo",
+    "rawPrice": 10500,
+    "timestamp": "20 Oct 12:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7845,
+    "title": "Annex for Rent Homagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5320",
+    "rawPrice": 25000,
+    "timestamp": "21 Oct 9:01 pm",
+    "gender": "Cả hai"
   }
 ]
