@@ -5218,5 +5218,45 @@
     "rawPrice": 25000,
     "timestamp": "21 Oct 1:12 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4281,
+    "title": "Annex for Rent Homagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5320",
+    "rawPrice": 25000,
+    "timestamp": "21 Oct 9:01 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4286,
+    "title": "කාමරයක් කුලීයට දීමට Millewa",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliiytt-diimtt-aet-for-rent-kalutara",
+    "rawPrice": 12000,
+    "timestamp": "22 Oct 12:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4290,
+    "title": "Room In A Villa For Rent Mount Lavinia",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-a-villa-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "23 Oct 9:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4295,
+    "title": "Rooms Rent for Girls Only - Pitakotte",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-only-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "03 Sep 4:11 pm",
+    "gender": "Cả hai"
   }
 ]

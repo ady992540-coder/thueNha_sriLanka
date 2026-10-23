@@ -8168,5 +8168,55 @@
     "rawPrice": 25000,
     "timestamp": "21 Oct 9:01 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6198,
+    "title": "Rooms Rent for Girls Only - Pitakotte",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-rent-for-girls-only-for-rent-colombo",
+    "rawPrice": 9000,
+    "timestamp": "03 Sep 4:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6203,
+    "title": "Room In A Villa For Rent Mount Lavinia",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-in-a-villa-for-rent-mount-lavinia-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "23 Oct 9:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6208,
+    "title": "Furnished Room for Rent in Attidiya – Girls",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-attidiya-girls-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "23 Oct 8:49 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6209,
+    "title": "Room For Rent Dehiwela In Dehiwala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwela-in-dehiwala-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "22 Oct 8:15 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6214,
+    "title": "Room Rent In Dehiwala (Girls Only)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-in-dehiwala-girls-only-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "22 Oct 3:16 pm",
+    "gender": "Cả hai"
   }
 ]
