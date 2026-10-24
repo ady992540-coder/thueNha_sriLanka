@@ -9898,5 +9898,55 @@
     "rawPrice": 12000,
     "timestamp": "22 Oct 12:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7896,
+    "title": "Annex For Rent In Hotel Road Mount Lavinia",
+    "price": "Rs 100,000 /tháng (~ 8.500.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-hotel-road-mount-lavinia-for-rent-colombo-4",
+    "rawPrice": 100000,
+    "timestamp": "23 Oct 3:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7906,
+    "title": "Annex for Rent – Delkanda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-delkanda-for-rent-colombo-2",
+    "rawPrice": 65000,
+    "timestamp": "24 Oct 5:32 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7911,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1365",
+    "rawPrice": 27000,
+    "timestamp": "23 Oct 4:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7916,
+    "title": "Room for Rent in Nugegoda - Only girls",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-only-girls-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "23 Oct 10:35 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7921,
+    "title": "Room Rent -Battaramulla",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-battaramulla-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "10 Oct 9:57 pm",
+    "gender": "Cả hai"
   }
 ]
