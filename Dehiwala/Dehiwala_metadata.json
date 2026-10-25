@@ -8238,5 +8238,15 @@
     "rawPrice": 12000,
     "timestamp": "22 Oct 12:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6258,
+    "title": "Room Rent -Battaramulla",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-battaramulla-for-rent-colombo",
+    "rawPrice": 35000,
+    "timestamp": "10 Oct 9:57 pm",
+    "gender": "Cả hai"
   }
 ]

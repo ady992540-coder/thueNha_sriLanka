@@ -6948,5 +6948,45 @@
     "rawPrice": 35000,
     "timestamp": "10 Oct 9:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5468,
+    "title": "Rooms for Rent Office Boys - Maharagama",
+    "price": "Rs 21,000 /tháng (~ 1.785.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-office-boys-for-rent-colombo",
+    "rawPrice": 21000,
+    "timestamp": "24 Oct 12:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5472,
+    "title": "Annex (Only Girls) For Rent in Magaragama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-only-girls-for-rent-in-magaragama-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "24 Oct 11:55 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5477,
+    "title": "Furnished Room (Only Gent) For Rent in Maharagma",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-only-gent-for-rent-in-maharagma-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "24 Oct 11:49 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5482,
+    "title": "Rooms for Rent in Maharagama",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-maharagama-for-rent-colombo-86",
+    "rawPrice": 10000,
+    "timestamp": "24 Oct 8:48 pm",
+    "gender": "Cả hai"
   }
 ]

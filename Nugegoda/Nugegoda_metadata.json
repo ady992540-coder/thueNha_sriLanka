@@ -9948,5 +9948,25 @@
     "rawPrice": 35000,
     "timestamp": "10 Oct 9:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7942,
+    "title": "නුගේගොඩ නාවින්න අනෙක්ස් එකක් කුලියට",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-naavinn-aneks-ekk-kuliytt-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "24 Oct 10:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7947,
+    "title": "Room For Rent In Battaramulla",
+    "price": "Rs 31,000 /tháng (~ 2.635.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-battaramulla-for-rent-colombo-462",
+    "rawPrice": 31000,
+    "timestamp": "24 Oct 1:44 pm",
+    "gender": "Cả hai"
   }
 ]
