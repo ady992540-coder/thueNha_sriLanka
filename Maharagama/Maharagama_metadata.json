@@ -6988,5 +6988,35 @@
     "rawPrice": 10000,
     "timestamp": "24 Oct 8:48 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5499,
+    "title": "Room for A Rent in Mahagarama Male",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-a-rent-in-mahagarama-male-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "26 Oct 1:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5502,
+    "title": "Boys’ Rooms in Katubedda Moratuwa",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-in-katubedda-moratuwa-next-to-university-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "25 Oct 5:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5507,
+    "title": "Rooms for Rent (Boys) Kelaniya",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-kelaniya-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "24 Oct 4:44 pm",
+    "gender": "Cả hai"
   }
 ]

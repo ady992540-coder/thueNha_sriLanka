@@ -8248,5 +8248,25 @@
     "rawPrice": 35000,
     "timestamp": "10 Oct 9:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6275,
+    "title": "Boys’ Rooms in Katubedda Moratuwa",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-in-katubedda-moratuwa-next-to-university-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "25 Oct 5:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6280,
+    "title": "Rooms for Rent (Boys) Kelaniya",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-kelaniya-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "24 Oct 4:44 pm",
+    "gender": "Cả hai"
   }
 ]

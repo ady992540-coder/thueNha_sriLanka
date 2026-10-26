@@ -9968,5 +9968,55 @@
     "rawPrice": 31000,
     "timestamp": "24 Oct 1:44 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7960,
+    "title": "2 Rooms for Rent in Kotte",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2-rooms-for-rent-in-kotte-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "25 Oct 7:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7964,
+    "title": "Room with Attached Bathroom for Rent - Nugegoda",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-with-attached-bathroom-for-rent-colombo-39",
+    "rawPrice": 22000,
+    "timestamp": "25 Oct 10:48 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7967,
+    "title": "One Sharing Room for Rent Girls - Kohuwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-sharing-room-for-girls-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "25 Oct 10:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7969,
+    "title": "Room for Rent Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-572",
+    "rawPrice": 15000,
+    "timestamp": "26 Oct 9:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7972,
+    "title": "Boys’ Rooms in Katubedda Moratuwa",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-in-katubedda-moratuwa-next-to-university-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "25 Oct 5:16 pm",
+    "gender": "Cả hai"
   }
 ]
