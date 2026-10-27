@@ -10018,5 +10018,35 @@
     "rawPrice": 18000,
     "timestamp": "25 Oct 5:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7989,
+    "title": "Rooms Or An Annex For Rent Nugegoda, Gangodawilla",
+    "price": "Rs 150,000 /tháng (~ 12.750.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-or-an-annex-for-rent-nugegoda-gangodawilla-for-rent-colombo-1",
+    "rawPrice": 150000,
+    "timestamp": "27 Oct 9:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7994,
+    "title": "Udahamulla, Nugegoda, Unfurnished Ground Floor for Rent (MG1435)",
+    "price": "Rs 165,000 /tháng (~ 14.025.000 ₫)",
+    "url": "https://ikman.lk/en/ad/udahamulla-nugegoda-unfurnished-ground-floor-for-rent-mg1435-for-rent-colombo",
+    "rawPrice": 165000,
+    "timestamp": "26 Oct 1:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 7998,
+    "title": "Rooms for Rent (Boys) Kelaniya",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-boys-kelaniya-for-rent-gampaha",
+    "rawPrice": 8500,
+    "timestamp": "24 Oct 4:44 pm",
+    "gender": "Cả hai"
   }
 ]

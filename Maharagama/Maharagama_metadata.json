@@ -7018,5 +7018,35 @@
     "rawPrice": 8500,
     "timestamp": "24 Oct 4:44 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5518,
+    "title": "Maharagama, Furnished Upper-Floor House for Rent (MG1440)",
+    "price": "Rs 125,000 /tháng (~ 10.625.000 ₫)",
+    "url": "https://ikman.lk/en/ad/maharagama-furnished-upper-floor-house-for-rent-mg1440-for-rent-colombo",
+    "rawPrice": 125000,
+    "timestamp": "26 Oct 1:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5527,
+    "title": "Rooms For Rent In Maharagama",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-maharagama-for-rent-colombo-87",
+    "rawPrice": 10000,
+    "timestamp": "27 Oct 6:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5532,
+    "title": "Room For Rent - Nugegoda ( Girls )",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-girls-for-rent-colombo-2",
+    "rawPrice": 15000,
+    "timestamp": "10 Oct 6:51 pm",
+    "gender": "Cả hai"
   }
 ]
