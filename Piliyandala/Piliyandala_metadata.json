@@ -5328,5 +5328,35 @@
     "rawPrice": 17000,
     "timestamp": "27 Oct 12:36 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4380,
+    "title": "Furnished Room Rent in Bokundara - Girls Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-rent-bokundara-girl-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "27 Oct 7:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4385,
+    "title": "Furnished Room Rent in Bokundara - Girls Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-rent-in-bokundara-girls-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "27 Oct 7:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4390,
+    "title": "Fully Furnished Room Rent for Girls Only - Piliyandala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-rent-for-girls-only-piliyandala-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "27 Oct 7:30 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -7048,5 +7048,15 @@
     "rawPrice": 15000,
     "timestamp": "10 Oct 6:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5545,
+    "title": "Room (Only Girl) For Rent in Maharagama,Navinna",
+    "price": "Rs 10,000 /tháng (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girl-for-rent-in-maharagamanavinna-for-rent-colombo",
+    "rawPrice": 10000,
+    "timestamp": "27 Oct 4:05 pm",
+    "gender": "Cả hai"
   }
 ]

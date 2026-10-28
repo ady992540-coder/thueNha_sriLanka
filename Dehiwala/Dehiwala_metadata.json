@@ -8288,5 +8288,25 @@
     "rawPrice": 25000,
     "timestamp": "26 Oct 5:29 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6311,
+    "title": "2nd Floor 1 Bedroom Annex For Rent In Dehiwala Town",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/2nd-floor-1-bedroom-annex-for-rent-in-dehiwala-town-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "27 Oct 5:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6316,
+    "title": "Ground Floor 1Bedroom Annex For Rent In Anderson Road Dehiwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ground-floor-1bedroom-annex-for-rent-in-anderson-road-dehiwala-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "27 Oct 3:16 pm",
+    "gender": "Cả hai"
   }
 ]
