@@ -10068,5 +10068,35 @@
     "rawPrice": 15000,
     "timestamp": "27 Oct 7:26 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8029,
+    "title": "Annex For Rent Narahenpita In Colombo 5",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-narahenpita-in-colombo-5-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "21 Oct 3:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8034,
+    "title": "Gents Only – Rooms for Rent in Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gents-only-rooms-for-rent-in-nugegoda-for-rent-colombo-2",
+    "rawPrice": 18000,
+    "timestamp": "28 Oct 2:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8039,
+    "title": "Fully furnished upstairs annex for rent in nugegoda",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-upstairs-annex-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "28 Oct 11:46 am",
+    "gender": "Cả hai"
   }
 ]

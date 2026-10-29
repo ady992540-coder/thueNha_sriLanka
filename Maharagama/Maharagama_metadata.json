@@ -7058,5 +7058,25 @@
     "rawPrice": 10000,
     "timestamp": "27 Oct 4:05 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5562,
+    "title": "Female students / working girls Food & lodging at Maharagama Arrawwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/female-students-working-girls-food-and-lodging-at-maharagama-arrawwala-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "28 Oct 3:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5567,
+    "title": "Annex For Rent Narahenpita In Colombo 5",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-narahenpita-in-colombo-5-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "21 Oct 3:08 pm",
+    "gender": "Cả hai"
   }
 ]

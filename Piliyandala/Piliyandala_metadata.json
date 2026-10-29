@@ -5358,5 +5358,25 @@
     "rawPrice": 15000,
     "timestamp": "27 Oct 7:30 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4415,
+    "title": "Rooms (Boys and Girls) for Rent Piliyandala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-boys-and-girls-for-rent-piliyandala-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "28 Oct 8:38 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4420,
+    "title": "Annex For Rent Narahenpita In Colombo 5",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-narahenpita-in-colombo-5-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "21 Oct 3:08 pm",
+    "gender": "Cả hai"
   }
 ]

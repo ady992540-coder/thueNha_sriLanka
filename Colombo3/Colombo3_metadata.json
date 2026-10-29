@@ -4388,5 +4388,15 @@
     "rawPrice": 15000,
     "timestamp": "10 Oct 6:51 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3843,
+    "title": "Annex For Rent Narahenpita In Colombo 5",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-narahenpita-in-colombo-5-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "21 Oct 3:08 pm",
+    "gender": "Cả hai"
   }
 ]
