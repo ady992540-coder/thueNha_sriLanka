@@ -8348,5 +8348,25 @@
     "rawPrice": 60000,
     "timestamp": "21 Oct 3:08 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6360,
+    "title": "Room For Rent In Karakampitiya, Dehiwala ( Only Girls)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-karakampitiya-dehiwala-only-girls-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "29 Oct 4:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6363,
+    "title": "Sharing Room for Office Girls Maharagama",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-room-for-office-girls-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "13 Sep 10:04 am",
+    "gender": "Cả hai"
   }
 ]

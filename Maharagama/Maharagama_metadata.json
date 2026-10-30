@@ -7078,5 +7078,25 @@
     "rawPrice": 60000,
     "timestamp": "21 Oct 3:08 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5580,
+    "title": "Fully Furnished Room For Rent In Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 25000,
+    "timestamp": "30 Oct 10:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5584,
+    "title": "Room For Working Girls In Maharagama",
+    "price": "Rs 9,000 /tháng (~ 765.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-working-girls-in-maharagama-for-rent-colombo-1",
+    "rawPrice": 9000,
+    "timestamp": "30 Oct 10:12 am",
+    "gender": "Cả hai"
   }
 ]
