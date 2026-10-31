@@ -10138,5 +10138,55 @@
     "rawPrice": 12000,
     "timestamp": "13 Sep 10:04 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8088,
+    "title": "Room Rental For Girls Nugegoda/Maharagama",
+    "price": "Rs 7,500 /tháng (~ 637.500 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rental-for-girls-nugegoda-maharagama-for-rent-colombo-1",
+    "rawPrice": 7500,
+    "timestamp": "30 Oct 4:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8093,
+    "title": "Room for Rent only Working Girls Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-only-working-girls-nugegoda-for-rent-colombo",
+    "rawPrice": 12000,
+    "timestamp": "30 Oct 2:30 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8098,
+    "title": "Boarding Room Rent for Girls in Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-rent-for-girls-in-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "30 Oct 10:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8101,
+    "title": "Room For A Male In Katubedda Moratuwa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-a-male-in-katubedda-moratuwa-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "31 Oct 10:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8104,
+    "title": "Annex for Rent Colombo 6",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5322",
+    "rawPrice": 35000,
+    "timestamp": "30 Oct 10:17 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -7098,5 +7098,25 @@
     "rawPrice": 9000,
     "timestamp": "30 Oct 10:12 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5598,
+    "title": "Room For A Male In Katubedda Moratuwa",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-a-male-in-katubedda-moratuwa-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "31 Oct 10:21 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5601,
+    "title": "Annex for Rent Colombo 6",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5322",
+    "rawPrice": 35000,
+    "timestamp": "30 Oct 10:17 pm",
+    "gender": "Cả hai"
   }
 ]

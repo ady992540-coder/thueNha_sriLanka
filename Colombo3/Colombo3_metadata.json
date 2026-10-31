@@ -4408,5 +4408,15 @@
     "rawPrice": 12000,
     "timestamp": "13 Sep 10:04 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3877,
+    "title": "Annex for Rent Colombo 6",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5322",
+    "rawPrice": 35000,
+    "timestamp": "30 Oct 10:17 pm",
+    "gender": "Cả hai"
   }
 ]
