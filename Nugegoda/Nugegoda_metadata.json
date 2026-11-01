@@ -10188,5 +10188,35 @@
     "rawPrice": 35000,
     "timestamp": "30 Oct 10:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8121,
+    "title": "Rooms for Rent Office Girls Nugegoda",
+    "price": "Rs 12,000 /tháng (~ 1.020.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-office-girls-on-sharing-basis-for-rent-colombo-1",
+    "rawPrice": 12000,
+    "timestamp": "01 Nov 9:31 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8126,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1366",
+    "rawPrice": 32000,
+    "timestamp": "01 Nov 7:37 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8131,
+    "title": "NUGEGODA JAMBUGASMULLA ROAD ANNEX AVAILABLE FOR RENT",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-jambugasmulla-road-annex-available-for-rent-for-rent-colombo",
+    "rawPrice": 75000,
+    "timestamp": "31 Oct 12:54 pm",
+    "gender": "Cả hai"
   }
 ]

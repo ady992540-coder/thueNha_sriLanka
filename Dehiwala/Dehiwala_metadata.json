@@ -8418,5 +8418,55 @@
     "rawPrice": 25000,
     "timestamp": "31 Oct 10:21 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6413,
+    "title": "Room for rent dehiwala boys only",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-boys-only-for-rent-colombo-8",
+    "rawPrice": 15000,
+    "timestamp": "31 Oct 11:05 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6416,
+    "title": "1st Floor Annex Rent In Attidiya Bekariya Junction",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1st-floor-annex-rent-in-attidiya-bekariya-junction-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "31 Oct 9:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6419,
+    "title": "1st Floor Annex For Rent In Attidiya Main Road (Commercial/Residence)",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/1st-floor-annex-for-rent-in-attidiya-main-road-commercial-residence-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "31 Oct 9:12 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6424,
+    "title": "Dehiwala Fully Furniture Annex For Rent in (SM02)",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/dehiwala-fully-furniture-annex-for-rent-in-sm02-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "31 Oct 3:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6434,
+    "title": "Annex for rent - Walpola",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-walpola-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "30 Oct 4:41 pm",
+    "gender": "Cả hai"
   }
 ]

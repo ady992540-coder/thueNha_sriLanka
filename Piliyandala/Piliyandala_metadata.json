@@ -5408,5 +5408,35 @@
     "rawPrice": 35000,
     "timestamp": "30 Oct 10:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4468,
+    "title": "Furnished Room for Rent in Bokundara - Girls Only",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-bokundara-girls-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "31 Oct 11:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4473,
+    "title": "Room (Only Girl) For Rent in Piliyandala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-only-girl-for-rent-in-piliyandala-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "31 Oct 11:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4478,
+    "title": "Annex for rent - Walpola",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-walpola-for-rent-colombo-1",
+    "rawPrice": 35000,
+    "timestamp": "30 Oct 4:41 pm",
+    "gender": "Cả hai"
   }
 ]
