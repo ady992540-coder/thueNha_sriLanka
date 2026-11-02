@@ -7128,5 +7128,15 @@
     "rawPrice": 35000,
     "timestamp": "30 Oct 4:41 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5633,
+    "title": "Private Room for Rent in Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/private-room-for-rent-in-maharagama-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "02 Nov 7:20 am",
+    "gender": "Cả hai"
   }
 ]
