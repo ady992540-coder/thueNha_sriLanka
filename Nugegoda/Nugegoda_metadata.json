@@ -10268,5 +10268,45 @@
     "rawPrice": 35000,
     "timestamp": "02 Nov 9:23 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8182,
+    "title": "An Annex For A Girl In Nugegoda",
+    "price": "Rs 22,000 /tháng (~ 1.870.000 ₫)",
+    "url": "https://ikman.lk/en/ad/an-annex-for-a-girl-for-rent-colombo",
+    "rawPrice": 22000,
+    "timestamp": "03 Nov 8:45 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8187,
+    "title": "Room For Rent Nugegoda – Males Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-males-only-for-rent-colombo-3",
+    "rawPrice": 20000,
+    "timestamp": "02 Nov 3:33 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8192,
+    "title": "Room For Rent Dehiwala",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-dehiwala-for-rent-colombo-574",
+    "rawPrice": 42000,
+    "timestamp": "03 Nov 9:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8197,
+    "title": "Nugegoda Melder Place Room For Rent",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-melder-place-room-for-rent-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "02 Nov 1:05 pm",
+    "gender": "Cả hai"
   }
 ]

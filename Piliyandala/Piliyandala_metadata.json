@@ -5448,5 +5448,25 @@
     "rawPrice": 35000,
     "timestamp": "02 Nov 9:23 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4504,
+    "title": "Annex for Rent in Polgasowita",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-polgasowita-for-rent-colombo",
+    "rawPrice": 37000,
+    "timestamp": "03 Nov 9:46 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4509,
+    "title": "Upstairs Annex Unit for Rent – Ladies Only in Piliyandala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-unit-for-rent-ladies-only-in-piliyandala-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "03 Nov 9:43 am",
+    "gender": "Cả hai"
   }
 ]
