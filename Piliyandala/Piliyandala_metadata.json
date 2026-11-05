@@ -5468,5 +5468,45 @@
     "rawPrice": 45000,
     "timestamp": "03 Nov 9:43 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4522,
+    "title": "Rooms For Girls Rent In Piliyandala Town Center (Only Girls)",
+    "price": "Rs 16,000 /tháng (~ 1.360.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-girls-rent-in-piliyandala-town-center-only-girls-for-rent-colombo-3",
+    "rawPrice": 16000,
+    "timestamp": "05 Nov 11:36 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4526,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-sharing-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "03 Nov 12:39 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4530,
+    "title": "Delkanda Rooms Rent for Ladies",
+    "price": "Rs 5,000 /tháng (~ 425.000 ₫)",
+    "url": "https://ikman.lk/en/ad/delkanda-rooms-rent-for-ladies-for-rent-colombo",
+    "rawPrice": 5000,
+    "timestamp": "30 Oct 12:17 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4535,
+    "title": "Fully Furnished Annex for Rent in Kolonnawa",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-to-rent-in-kolonnawa-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "02 Nov 10:10 pm",
+    "gender": "Cả hai"
   }
 ]

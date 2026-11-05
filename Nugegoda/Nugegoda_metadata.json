@@ -10308,5 +10308,75 @@
     "rawPrice": 25000,
     "timestamp": "02 Nov 1:05 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8217,
+    "title": "Room for rent in Nugegoda |",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1367",
+    "rawPrice": 15000,
+    "timestamp": "05 Nov 9:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8221,
+    "title": "Room For Rent In Nugegoda – Wijerama (Single Male Only)",
+    "price": "Rs 42,000 /tháng (~ 3.570.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-wijerama-single-male-only-for-rent-colombo",
+    "rawPrice": 42000,
+    "timestamp": "04 Nov 6:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8225,
+    "title": "කාමරයක්",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/kaamryk-kuliytt-diimtt-aet-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "04 Nov 4:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8226,
+    "title": "Room for Rent (Girls) Nugegoda",
+    "price": "Rs 48,000 /tháng (~ 4.080.000 ₫)",
+    "url": "https://ikman.lk/en/ad/singal-room-for-a-girl-for-rent-colombo",
+    "rawPrice": 48000,
+    "timestamp": "04 Nov 2:40 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8229,
+    "title": "NUGEGODA Mirihana Furnished Annex Available For Rent",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-mirihana-furnished-annex-available-for-rent-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "04 Nov 12:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8255,
+    "title": "Room Annex for Rent in Nugegoda – Pagoda Road",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-annex-for-rent-in-nugegoda-pagoda-road-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "04 Nov 4:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8259,
+    "title": "Room for Rent in Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-sharing-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "03 Nov 12:39 pm",
+    "gender": "Cả hai"
   }
 ]
