@@ -8578,5 +8578,35 @@
     "rawPrice": 40000,
     "timestamp": "02 Nov 10:10 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6540,
+    "title": "Single Room For Rent In Navinna(Girls Only) Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-navinnagirls-only-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "05 Nov 1:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6545,
+    "title": "Room For Rent - Girls Only In Dehiwala",
+    "price": "Rs 33,000 /tháng (~ 2.805.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-girls-only-for-rent-colombo-226",
+    "rawPrice": 33000,
+    "timestamp": "06 Nov 10:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6550,
+    "title": "Delkanda Rooms Rent for Ladies",
+    "price": "Rs 5,000 /tháng (~ 425.000 ₫)",
+    "url": "https://ikman.lk/en/ad/delkanda-rooms-rent-for-ladies-for-rent-colombo",
+    "rawPrice": 5000,
+    "timestamp": "30 Oct 12:17 pm",
+    "gender": "Cả hai"
   }
 ]

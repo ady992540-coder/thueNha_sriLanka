@@ -10378,5 +10378,55 @@
     "rawPrice": 20000,
     "timestamp": "03 Nov 12:39 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8273,
+    "title": "Fully Furnished Room For Rent – Kohuwala, Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-room-for-rent-kohuwala-nugegoda-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "05 Nov 12:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8278,
+    "title": "Annex for Rent Nawala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-nawala-for-rent-colombo-6",
+    "rawPrice": 25000,
+    "timestamp": "06 Nov 11:16 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8283,
+    "title": "NUGEGODA MIRIHANA Furnished Annex Available For Rent",
+    "price": "Rs 75,000 /tháng (~ 6.375.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-mirihana-furnished-annex-available-for-rent-for-rent-colombo-2",
+    "rawPrice": 75000,
+    "timestamp": "05 Nov 12:37 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8293,
+    "title": "Fully Furnished Annex for Rent in Kolonnawa",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-annex-to-rent-in-kolonnawa-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "02 Nov 10:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8298,
+    "title": "Single Room For Rent In Navinna(Girls Only) Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-navinnagirls-only-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "05 Nov 1:55 pm",
+    "gender": "Cả hai"
   }
 ]
