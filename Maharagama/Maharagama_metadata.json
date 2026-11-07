@@ -7238,5 +7238,45 @@
     "rawPrice": 60000,
     "timestamp": "22 Oct 10:58 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5736,
+    "title": "Annex for Rent in Maharagama",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-maharagama-for-rent-colombo-807",
+    "rawPrice": 65000,
+    "timestamp": "06 Nov 6:35 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5741,
+    "title": "Room For Rent In Maharagama 3 Professional Males",
+    "price": "Rs 13,000 /tháng (~ 1.105.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-maharagama-3-professional-males-for-rent-colombo",
+    "rawPrice": 13000,
+    "timestamp": "06 Nov 2:11 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5742,
+    "title": "Room For Rent With Furniture In Maharagama",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-with-furniture-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "06 Nov 12:56 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5746,
+    "title": "LADIES ONLY ROOMS FOR RENT KADAWATHA TOWN FACING KANDY ROAD",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-rooms-for-rent-kadawatha-town-facing-kandy-road-for-rent-gampaha-1",
+    "rawPrice": 8500,
+    "timestamp": "05 Nov 12:38 pm",
+    "gender": "Cả hai"
   }
 ]

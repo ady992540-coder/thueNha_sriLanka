@@ -4498,5 +4498,25 @@
     "rawPrice": 8500,
     "timestamp": "05 Nov 12:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3981,
+    "title": "Boarding For Girls IN Kollupitiya Colombo 3",
+    "price": "Rs 23,000 /tháng (~ 1.955.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-for-girls-in-kollupitiya-colombo-3-for-rent-colombo-3",
+    "rawPrice": 23000,
+    "timestamp": "07 Nov 7:19 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 3986,
+    "title": "Single Room For Rent In Navinna(Girls Only) Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-room-for-rent-in-navinnagirls-only-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "05 Nov 1:55 pm",
+    "gender": "Cả hai"
   }
 ]

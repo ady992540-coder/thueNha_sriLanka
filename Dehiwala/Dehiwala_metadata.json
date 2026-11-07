@@ -8608,5 +8608,35 @@
     "rawPrice": 5000,
     "timestamp": "30 Oct 12:17 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6559,
+    "title": "Room For Rent ( Boys ) In Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-boys-in-dehiwala-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "06 Nov 10:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6564,
+    "title": "Annex for Rent Near Kelaniya Temple",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-near-kelaniya-temple-for-rent-gampaha",
+    "rawPrice": 60000,
+    "timestamp": "22 Oct 10:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6569,
+    "title": "LADIES ONLY ROOMS FOR RENT KADAWATHA TOWN FACING KANDY ROAD",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-rooms-for-rent-kadawatha-town-facing-kandy-road-for-rent-gampaha-1",
+    "rawPrice": 8500,
+    "timestamp": "05 Nov 12:38 pm",
+    "gender": "Cả hai"
   }
 ]
