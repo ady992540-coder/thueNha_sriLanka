@@ -7278,5 +7278,25 @@
     "rawPrice": 8500,
     "timestamp": "05 Nov 12:38 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5771,
+    "title": "Luxury Semi-Serviced Room For Rent In Sri Jayawardenapura Kotte",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-semi-serviced-room-for-rent-in-sri-jayawardenapura-kotte-for-rent-colombo-2",
+    "rawPrice": 70000,
+    "timestamp": "07 Nov 2:57 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5776,
+    "title": "Annex for Rent in Polgasowita",
+    "price": "Rs 37,000 /tháng (~ 3.145.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-polgasowita-for-rent-colombo",
+    "rawPrice": 37000,
+    "timestamp": "03 Nov 9:46 am",
+    "gender": "Cả hai"
   }
 ]
