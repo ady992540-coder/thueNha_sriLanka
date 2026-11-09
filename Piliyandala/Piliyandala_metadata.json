@@ -5568,5 +5568,15 @@
     "rawPrice": 15000,
     "timestamp": "07 Nov 11:45 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4610,
+    "title": "Valuble 20 Bed annex for rent in piliyandala",
+    "price": "Rs 160,000 /tháng (~ 13.600.000 ₫)",
+    "url": "https://ikman.lk/en/ad/valuble-20-bed-annex-for-rent-in-piliyandala-for-rent-colombo",
+    "rawPrice": 160000,
+    "timestamp": "08 Nov 11:54 am",
+    "gender": "Cả hai"
   }
 ]
