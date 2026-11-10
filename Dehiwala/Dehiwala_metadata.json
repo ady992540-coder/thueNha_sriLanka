@@ -8678,5 +8678,35 @@
     "rawPrice": 70000,
     "timestamp": "07 Nov 2:57 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6612,
+    "title": "Colombo 8 - For Rent Ladies Furnished Room With Security",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-for-rent-ladies-furnished-room-with-security-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "10 Nov 9:25 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6617,
+    "title": "Newly Built Luxury Rooms for Rent – Ladies Only",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-luxury-rooms-for-rent-ladies-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "09 Nov 5:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6622,
+    "title": "Colombo 3 - For Rent Ladies Furnished Twin Sharing Room Single Lady",
+    "price": "Rs 35,625 /tháng (~ 3.028.125 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-3-for-rent-ladies-furnished-twin-sharing-room-single-lady-for-rent-colombo",
+    "rawPrice": 35625,
+    "timestamp": "01 Oct 6:58 pm",
+    "gender": "Cả hai"
   }
 ]

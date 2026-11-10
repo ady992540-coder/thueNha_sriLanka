@@ -4558,5 +4558,45 @@
     "rawPrice": 60000,
     "timestamp": "22 Oct 10:58 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4035,
+    "title": "Colombo 8 - For Rent Ladies Furnished Room With Security",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-for-rent-ladies-furnished-room-with-security-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "10 Nov 9:25 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4040,
+    "title": "Newly Built Luxury Rooms for Rent – Ladies Only",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-luxury-rooms-for-rent-ladies-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "09 Nov 5:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4045,
+    "title": "single house for rent in nedimala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/single-house-for-rent-in-nedimala-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "08 Nov 12:45 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4048,
+    "title": "furnished annex for rent in nedimala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-nedimala-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "08 Nov 12:45 pm",
+    "gender": "Cả hai"
   }
 ]

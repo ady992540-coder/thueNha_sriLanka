@@ -5578,5 +5578,55 @@
     "rawPrice": 160000,
     "timestamp": "08 Nov 11:54 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4627,
+    "title": "Colombo 8 - For Rent Ladies Furnished Room With Security",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-8-for-rent-ladies-furnished-room-with-security-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "10 Nov 9:25 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4632,
+    "title": "Newly Built Luxury Rooms for Rent – Ladies Only",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-luxury-rooms-for-rent-ladies-only-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "09 Nov 5:06 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4637,
+    "title": "Rooms (Boys ) For Rent Piliyandala",
+    "price": "Rs 17,500 /tháng (~ 1.487.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-boys-for-rent-piliyandala-for-rent-colombo-1",
+    "rawPrice": 17500,
+    "timestamp": "09 Nov 9:46 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4642,
+    "title": "Room For Rent In Karakampitiya, Dehiwala ( Only Girls)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-karakampitiya-dehiwala-only-girls-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "29 Oct 4:25 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4645,
+    "title": "Colombo 3 - For Rent Ladies Furnished Twin Sharing Room Single Lady",
+    "price": "Rs 35,625 /tháng (~ 3.028.125 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-3-for-rent-ladies-furnished-twin-sharing-room-single-lady-for-rent-colombo",
+    "rawPrice": 35625,
+    "timestamp": "01 Oct 6:58 pm",
+    "gender": "Cả hai"
   }
 ]
