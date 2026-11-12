@@ -5648,5 +5648,35 @@
     "rawPrice": 9300,
     "timestamp": "10 Nov 12:40 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4680,
+    "title": "Rooms for Rent in Malabe to SLIIT Boys",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-malabe-sliit-boys-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "05 Oct 5:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4684,
+    "title": "Annex For Rent In Piliyandala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-piliyandala-for-rent-colombo-369",
+    "rawPrice": 20000,
+    "timestamp": "11 Nov 12:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4689,
+    "title": "furnished annex for rent in nedimala",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-for-rent-in-nedimala-for-rent-colombo",
+    "rawPrice": 50000,
+    "timestamp": "08 Nov 12:45 pm",
+    "gender": "Cả hai"
   }
 ]
