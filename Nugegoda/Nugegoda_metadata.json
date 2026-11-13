@@ -10628,5 +10628,25 @@
     "rawPrice": 11000,
     "timestamp": "05 Oct 5:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8461,
+    "title": "Luxury Room For Rent In Colombo",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-room-for-rent-in-colombo-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "12 Nov 10:10 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8466,
+    "title": "Rooms For Rent - Udahamulla (Girls Only) After 10TH December In Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-udahamulla-girls-only-after-10th-december-in-nugegoda-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "12 Nov 4:25 pm",
+    "gender": "Cả hai"
   }
 ]

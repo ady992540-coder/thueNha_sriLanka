@@ -7418,5 +7418,15 @@
     "rawPrice": 25000,
     "timestamp": "08 Nov 12:45 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5892,
+    "title": "Rooms for Rent in Malabe to SLIIT Boys",
+    "price": "Rs 11,000 /tháng (~ 935.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-malabe-sliit-boys-for-rent-colombo",
+    "rawPrice": 11000,
+    "timestamp": "05 Oct 5:00 pm",
+    "gender": "Cả hai"
   }
 ]
