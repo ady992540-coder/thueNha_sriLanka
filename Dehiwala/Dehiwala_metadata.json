@@ -8748,5 +8748,25 @@
     "rawPrice": 11000,
     "timestamp": "05 Oct 5:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6667,
+    "title": "Rooms for Rent Working Ladies or Students Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-ladies-or-students-maharagama-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "24 Oct 9:20 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6671,
+    "title": "Room for Rent Battaramulla Gals Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-battaramulla-gals-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "31 Oct 5:52 pm",
+    "gender": "Cả hai"
   }
 ]

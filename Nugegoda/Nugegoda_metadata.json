@@ -10648,5 +10648,75 @@
     "rawPrice": 15000,
     "timestamp": "12 Nov 4:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8479,
+    "title": "Room for Rent Battaramulla Gals Only",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-battaramulla-gals-only-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "31 Oct 5:52 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8484,
+    "title": "නුගේගොඩ පාගොඩ පාරේ nsb බැංකුව අසල annex එකක් කුලියට දීමට ඇත",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-paagodd-paaree-nsb-baenkuv-asl-annex-ekk-kuliytt-diimtt-aet-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "14 Nov 7:13 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8489,
+    "title": "Room For Working Girls In Pagoda Road Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-working-girls-in-pagoda-road-nugegoda-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "14 Nov 8:11 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8494,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1368",
+    "rawPrice": 15000,
+    "timestamp": "13 Nov 4:26 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8499,
+    "title": "Rooms for Rent Office Girls Nugegoda",
+    "price": "Rs 15,500 /tháng (~ 1.317.500 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-office-girls-nugegoda-for-rent-colombo-1",
+    "rawPrice": 15500,
+    "timestamp": "14 Nov 9:41 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8516,
+    "title": "Ladies only Rooms for Rent Kadawatha Town",
+    "price": "Rs 8,500 /tháng (~ 722.500 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-rooms-for-rent-kadawatha-town-for-rent-gampaha-1",
+    "rawPrice": 8500,
+    "timestamp": "13 Nov 1:14 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8521,
+    "title": "Rooms for Rent Working Ladies or Students Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-working-ladies-or-students-maharagama-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "24 Oct 9:20 am",
+    "gender": "Cả hai"
   }
 ]
