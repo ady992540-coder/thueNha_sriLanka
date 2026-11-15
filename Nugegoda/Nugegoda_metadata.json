@@ -10718,5 +10718,55 @@
     "rawPrice": 20000,
     "timestamp": "24 Oct 9:20 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8534,
+    "title": "Sharing Space Rent - Udahamulla (Girls) After 10TH December In Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-space-rent-udahamulla-girls-after-10th-december-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 15000,
+    "timestamp": "13 Nov 9:50 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8538,
+    "title": "Annex For Rent In Nugegoda Embuldeniya",
+    "price": "Rs 80,000 /tháng (~ 6.800.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-embuldeniya-for-rent-colombo-1",
+    "rawPrice": 80000,
+    "timestamp": "15 Nov 11:01 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8543,
+    "title": "නුගේගොඩ පාගොඩ පාරේ nsb බැංකුව අසල annex එකක් කුලියට දීමට ඇත",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-paagodd-paaree-nsb-baenkuv-asl-annex-ekk-kuliytt-diimtt-aet-for-rent-colombo-1",
+    "rawPrice": 45000,
+    "timestamp": "15 Nov 7:38 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8548,
+    "title": "Annex For Rent In Nugegoda",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-nugegoda-for-rent-colombo-718",
+    "rawPrice": 14000,
+    "timestamp": "14 Nov 2:23 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8553,
+    "title": "Room For Rent Nugegoda",
+    "price": "Rs 14,000 /tháng (~ 1.190.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-nugegoda-for-rent-colombo-574",
+    "rawPrice": 14000,
+    "timestamp": "14 Nov 12:46 pm",
+    "gender": "Cả hai"
   }
 ]
