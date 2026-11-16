@@ -7468,5 +7468,15 @@
     "rawPrice": 16000,
     "timestamp": "14 Nov 12:43 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5945,
+    "title": "Studio Apartment For Rent In Nawala",
+    "price": "Rs 125,000 /tháng (~ 10.625.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-apartment-for-rent-for-rent-colombo-22",
+    "rawPrice": 125000,
+    "timestamp": "16 Nov 8:30 am",
+    "gender": "Cả hai"
   }
 ]

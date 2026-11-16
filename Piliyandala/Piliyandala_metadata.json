@@ -5718,5 +5718,25 @@
     "rawPrice": 8500,
     "timestamp": "13 Nov 1:14 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4734,
+    "title": "Studio Apartment For Rent In Nawala",
+    "price": "Rs 125,000 /tháng (~ 10.625.000 ₫)",
+    "url": "https://ikman.lk/en/ad/studio-apartment-for-rent-for-rent-colombo-22",
+    "rawPrice": 125000,
+    "timestamp": "16 Nov 8:30 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4742,
+    "title": "Room For Rent In Piliyandala",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10391",
+    "rawPrice": 18000,
+    "timestamp": "16 Nov 11:14 am",
+    "gender": "Cả hai"
   }
 ]
