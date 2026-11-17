@@ -10778,5 +10778,45 @@
     "rawPrice": 125000,
     "timestamp": "16 Nov 8:30 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8594,
+    "title": "2BHK Furnished Apartment for Short Term Rent in Nugegoda",
+    "price": "Rs 7,500 /night (~ 637.500 ₫)",
+    "url": "https://ikman.lk/en/ad/2bhk-furnished-apartment-for-short-term-rental-in-nugegoda-for-rent-colombo",
+    "rawPrice": 7500,
+    "timestamp": "04 Nov 4:59 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8599,
+    "title": "Room For Rent In Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1370",
+    "rawPrice": 20000,
+    "timestamp": "17 Nov 7:04 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8601,
+    "title": "Rooms for Ladies Nugegoda",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-ladies-nugegoda-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "17 Nov 7:00 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8606,
+    "title": "Furnished room in nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-in-nugegoda-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "16 Nov 5:44 pm",
+    "gender": "Cả hai"
   }
 ]

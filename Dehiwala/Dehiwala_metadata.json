@@ -8768,5 +8768,55 @@
     "rawPrice": 20000,
     "timestamp": "31 Oct 5:52 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6685,
+    "title": "Comfortable Rooms Rent in Dehiwala",
+    "price": "Rs 3,000 /night (~ 255.000 ₫)",
+    "url": "https://ikman.lk/en/ad/comfortable-rooms-rent-in-dehiwala-for-rent-colombo-2",
+    "rawPrice": 3000,
+    "timestamp": "16 Nov 10:02 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6690,
+    "title": "Budget Comfortable Rooms Rent in Dehiwala",
+    "price": "Rs 3,000 /night (~ 255.000 ₫)",
+    "url": "https://ikman.lk/en/ad/budget-comfortable-rooms-rent-in-dehiwala-for-rent-colombo",
+    "rawPrice": 3000,
+    "timestamp": "16 Nov 10:03 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6695,
+    "title": "annex for rent in dehiwala",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-715",
+    "rawPrice": 32000,
+    "timestamp": "17 Nov 12:51 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6698,
+    "title": "Rooms For Gents In Dehiwala",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-gents-in-dehiwala-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "17 Nov 12:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6703,
+    "title": "Holiday Fully Furnished 2 Bedroom Seaview Apartment Border of Wellawatta",
+    "price": "Rs 12,300 /night (~ 1.045.500 ₫)",
+    "url": "https://ikman.lk/en/ad/holiday-fully-furnished-2-bedroom-seaview-apartment-border-of-wellawatta-for-rent-colombo",
+    "rawPrice": 12300,
+    "timestamp": "16 Nov 5:54 pm",
+    "gender": "Cả hai"
   }
 ]
