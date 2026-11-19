@@ -8818,5 +8818,25 @@
     "rawPrice": 12300,
     "timestamp": "16 Nov 5:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6720,
+    "title": "Room For Rent - Pepiliyana In Dehiwala",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-pepiliyana-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "19 Nov 12:08 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6723,
+    "title": "New 1 Bedroom Annex For Rent In Galvihara Road Dehiwala",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/new-1-bedroom-annex-for-rent-in-galvihara-road-dehiwala-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "19 Nov 7:05 am",
+    "gender": "Cả hai"
   }
 ]

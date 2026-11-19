@@ -5748,5 +5748,15 @@
     "rawPrice": 6500,
     "timestamp": "14 Oct 6:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4776,
+    "title": "Spacious One-Bedroom Upstairs Unit For Rent In Colombo 9",
+    "price": "Rs 70,000 /tháng (~ 5.950.000 ₫)",
+    "url": "https://ikman.lk/en/ad/spacious-one-bedroom-upstairs-unit-for-rent-for-rent-colombo",
+    "rawPrice": 70000,
+    "timestamp": "05 Nov 2:29 pm",
+    "gender": "Cả hai"
   }
 ]

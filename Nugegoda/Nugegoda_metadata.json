@@ -10828,5 +10828,35 @@
     "rawPrice": 70000,
     "timestamp": "05 Nov 2:29 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8652,
+    "title": "Annex For Rent In Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-for-rent-colombo-5331",
+    "rawPrice": 35000,
+    "timestamp": "19 Nov 1:58 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8657,
+    "title": "Nugegoda- Second Floor-Ensuite Unit",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-second-floor-ensuite-unit-for-rent-colombo",
+    "rawPrice": 38000,
+    "timestamp": "18 Nov 9:27 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8661,
+    "title": "Rooms For Ladies Nugegoda",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-ladies-nugegoda-for-rent-colombo-1",
+    "rawPrice": 40000,
+    "timestamp": "19 Nov 7:22 am",
+    "gender": "Cả hai"
   }
 ]
