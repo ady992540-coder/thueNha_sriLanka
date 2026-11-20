@@ -10858,5 +10858,25 @@
     "rawPrice": 40000,
     "timestamp": "19 Nov 7:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8671,
+    "title": "Annex For Rent Upper Floor In Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-upper-floor-for-rent-colombo-1",
+    "rawPrice": 65000,
+    "timestamp": "20 Nov 9:33 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8676,
+    "title": "Room for Rent in Nugegoda",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-nugegoda-for-rent-colombo-1371",
+    "rawPrice": 35000,
+    "timestamp": "19 Nov 1:53 pm",
+    "gender": "Cả hai"
   }
 ]

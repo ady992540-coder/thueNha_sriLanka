@@ -8838,5 +8838,55 @@
     "rawPrice": 45000,
     "timestamp": "19 Nov 7:05 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6738,
+    "title": "Apartment For Short Term Rent In Dehiwala",
+    "price": "Rs 10,000 /night (~ 850.000 ₫)",
+    "url": "https://ikman.lk/en/ad/apartment-for-short-term-rent-in-dehiwala-for-rent-colombo-7",
+    "rawPrice": 10000,
+    "timestamp": "13 Oct 9:23 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6743,
+    "title": "Room For Rent In Dehiwala - Boys",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-dehiwala-boys-for-rent-colombo-6",
+    "rawPrice": 27000,
+    "timestamp": "20 Nov 11:49 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6748,
+    "title": "Annex For Rent In Dehiwala",
+    "price": "Rs 48,000 /tháng (~ 4.080.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwala-for-rent-colombo-716",
+    "rawPrice": 48000,
+    "timestamp": "19 Nov 5:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6754,
+    "title": "House For Rent In Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/house-for-rent-for-rent-colombo-32918",
+    "rawPrice": 40000,
+    "timestamp": "19 Nov 1:58 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6759,
+    "title": "Luxury Fully Furnished Room Short Term Rent Dehiwala",
+    "price": "Rs 5,000 /night (~ 425.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-fully-furnished-room-short-term-rent-dehiwala-for-rent-colombo",
+    "rawPrice": 5000,
+    "timestamp": "30 Oct 10:01 am",
+    "gender": "Cả hai"
   }
 ]

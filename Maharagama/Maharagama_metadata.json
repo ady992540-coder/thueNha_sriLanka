@@ -7498,5 +7498,25 @@
     "rawPrice": 30000,
     "timestamp": "16 Nov 12:50 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5987,
+    "title": "One Room Annex In Maharagama",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/one-room-annex-available-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "20 Nov 9:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 5992,
+    "title": "Room Rent In Maharagama",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-rent-colombo-341",
+    "rawPrice": 20000,
+    "timestamp": "20 Nov 9:10 am",
+    "gender": "Cả hai"
   }
 ]
