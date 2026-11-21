@@ -7518,5 +7518,25 @@
     "rawPrice": 20000,
     "timestamp": "20 Nov 9:10 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6005,
+    "title": "Room For Girls In Maharagama",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-girls-in-maharagama-for-rent-colombo",
+    "rawPrice": 30000,
+    "timestamp": "20 Nov 5:18 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6010,
+    "title": "Brand New Room For Rent In Maharagama (Male Only)",
+    "price": "Rs 32,000 /tháng (~ 2.720.000 ₫)",
+    "url": "https://ikman.lk/en/ad/brand-new-room-for-rent-in-maharagama-male-only-for-rent-colombo",
+    "rawPrice": 32000,
+    "timestamp": "20 Nov 3:20 pm",
+    "gender": "Cả hai"
   }
 ]

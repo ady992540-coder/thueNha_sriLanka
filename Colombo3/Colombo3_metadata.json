@@ -4678,5 +4678,45 @@
     "rawPrice": 70000,
     "timestamp": "05 Nov 2:29 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4181,
+    "title": "Room For Rent In Rajagiriya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-rajagiriya-for-rent-colombo-656",
+    "rawPrice": 40000,
+    "timestamp": "18 Nov 10:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4185,
+    "title": "Furnished Annex Rent In Delkanda Nugegoda",
+    "price": "Rs 55,000 /tháng (~ 4.675.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-annex-rent-in-delkanda-nugegoda-for-rent-colombo",
+    "rawPrice": 55000,
+    "timestamp": "21 Nov 8:22 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4194,
+    "title": "Rooms For Rent In Nawala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2743",
+    "rawPrice": 20000,
+    "timestamp": "20 Nov 3:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4199,
+    "title": "Moratuwa Room Rent",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/moratuwa-room-rent-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "25 Oct 5:56 pm",
+    "gender": "Cả hai"
   }
 ]
