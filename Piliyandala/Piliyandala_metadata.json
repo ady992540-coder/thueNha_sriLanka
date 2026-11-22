@@ -5778,5 +5778,35 @@
     "rawPrice": 55000,
     "timestamp": "21 Nov 8:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4819,
+    "title": "Rooms for rent in Rathmalana",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-for-rent-colombo-48",
+    "rawPrice": 28000,
+    "timestamp": "04 Nov 2:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4824,
+    "title": "Room For Rent In Piliyandala",
+    "price": "Rs 35,000 /tháng (~ 2.975.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10394",
+    "rawPrice": 35000,
+    "timestamp": "21 Nov 10:47 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4829,
+    "title": "Room For Rent In Rajagiriya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-rajagiriya-for-rent-colombo-656",
+    "rawPrice": 40000,
+    "timestamp": "18 Nov 10:50 am",
+    "gender": "Cả hai"
   }
 ]

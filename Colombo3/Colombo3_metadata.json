@@ -4718,5 +4718,15 @@
     "rawPrice": 15000,
     "timestamp": "25 Oct 5:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4220,
+    "title": "Rooms for rent in Rathmalana",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-for-rent-colombo-48",
+    "rawPrice": 28000,
+    "timestamp": "04 Nov 2:16 pm",
+    "gender": "Cả hai"
   }
 ]

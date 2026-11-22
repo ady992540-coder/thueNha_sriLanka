@@ -8908,5 +8908,15 @@
     "rawPrice": 27000,
     "timestamp": "20 Nov 8:03 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6790,
+    "title": "Ladies Only In Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/ladies-only-for-rent-colombo-3",
+    "rawPrice": 40000,
+    "timestamp": "22 Nov 10:27 am",
+    "gender": "Cả hai"
   }
 ]

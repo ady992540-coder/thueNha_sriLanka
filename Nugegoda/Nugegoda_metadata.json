@@ -10888,5 +10888,25 @@
     "rawPrice": 55000,
     "timestamp": "21 Nov 8:22 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8714,
+    "title": "(SR-1393) Valuable Annex Rent in Nugegoda",
+    "price": "Rs 65,000 /tháng (~ 5.525.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sr-1393-valuable-annex-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 65000,
+    "timestamp": "22 Nov 8:53 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8724,
+    "title": "Upstairs Annex For Rent (Working Girl Only) In Nugegoda",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/upstairs-annex-for-rent-working-girl-only-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "21 Nov 7:31 pm",
+    "gender": "Cả hai"
   }
 ]
