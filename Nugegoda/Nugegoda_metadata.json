@@ -10908,5 +10908,55 @@
     "rawPrice": 15000,
     "timestamp": "21 Nov 7:31 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8741,
+    "title": "Rooms For Rent In Nawala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2743",
+    "rawPrice": 20000,
+    "timestamp": "20 Nov 3:24 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8746,
+    "title": "නුගේගොඩ පාගොඩ එදිරිගොඩ පාරේ annex එකක් කුලියට දීමට ඇත",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugeegodd-paagodd-edirigodd-paaree-annex-ekk-kuliytt-diimtt-aet-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "23 Nov 10:49 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8751,
+    "title": "Room Rent For Boys In Nugegoda",
+    "price": "Rs 17,000 /tháng (~ 1.445.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-rent-for-boys-for-rent-colombo-11",
+    "rawPrice": 17000,
+    "timestamp": "22 Nov 11:40 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8754,
+    "title": "Room For Rent In Rajagiriya",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-rajagiriya-for-rent-colombo-656",
+    "rawPrice": 40000,
+    "timestamp": "18 Nov 10:50 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8758,
+    "title": "Moratuwa Room Rent",
+    "price": "Rs 15,000 /tháng (~ 1.275.000 ₫)",
+    "url": "https://ikman.lk/en/ad/moratuwa-room-rent-for-rent-colombo",
+    "rawPrice": 15000,
+    "timestamp": "25 Oct 5:56 pm",
+    "gender": "Cả hai"
   }
 ]

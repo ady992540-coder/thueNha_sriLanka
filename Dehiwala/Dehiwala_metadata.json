@@ -8918,5 +8918,25 @@
     "rawPrice": 40000,
     "timestamp": "22 Nov 10:27 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6807,
+    "title": "Annex For Rent In Dehiwale",
+    "price": "Rs 47,000 /tháng (~ 3.995.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-for-rent-in-dehiwale-for-rent-colombo-3",
+    "rawPrice": 47000,
+    "timestamp": "22 Nov 12:41 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6813,
+    "title": "Tamil Working Ladies Prefer In Dehiwala",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/tamil-working-ladies-prefer-in-dehiwala-for-rent-colombo",
+    "rawPrice": 40000,
+    "timestamp": "23 Nov 10:49 am",
+    "gender": "Cả hai"
   }
 ]
