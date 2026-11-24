@@ -4728,5 +4728,25 @@
     "rawPrice": 28000,
     "timestamp": "04 Nov 2:16 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4237,
+    "title": "Colombo 3 - For Rent Ladies Twin Sharing Room Single Lady",
+    "price": "Rs 35,625 /tháng (~ 3.028.125 ₫)",
+    "url": "https://ikman.lk/en/ad/colombo-3-for-rent-ladies-twin-sharing-room-single-lady-for-rent-colombo",
+    "rawPrice": 35625,
+    "timestamp": "23 Nov 10:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4242,
+    "title": "Nugegoda Annex For Rent",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-annex-for-rent-for-rent-colombo-4",
+    "rawPrice": 40000,
+    "timestamp": "24 Nov 1:55 pm",
+    "gender": "Cả hai"
   }
 ]

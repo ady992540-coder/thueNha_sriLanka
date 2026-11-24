@@ -10958,5 +10958,35 @@
     "rawPrice": 15000,
     "timestamp": "25 Oct 5:56 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8775,
+    "title": "Rooms for rent in Rathmalana",
+    "price": "Rs 28,000 /tháng (~ 2.380.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-rathmalana-for-rent-colombo-48",
+    "rawPrice": 28000,
+    "timestamp": "04 Nov 2:16 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8780,
+    "title": "Nugegoda Annex For Rent",
+    "price": "Rs 40,000 /tháng (~ 3.400.000 ₫)",
+    "url": "https://ikman.lk/en/ad/nugegoda-annex-for-rent-for-rent-colombo-4",
+    "rawPrice": 40000,
+    "timestamp": "24 Nov 1:55 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8782,
+    "title": "Boarding Room For Rent In Nugegoda",
+    "price": "Rs 16,500 /tháng (~ 1.402.500 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-room-for-rent-in-nugegoda-for-rent-colombo",
+    "rawPrice": 16500,
+    "timestamp": "23 Nov 3:43 pm",
+    "gender": "Cả hai"
   }
 ]
