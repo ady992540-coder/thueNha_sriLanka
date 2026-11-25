@@ -10988,5 +10988,25 @@
     "rawPrice": 16500,
     "timestamp": "23 Nov 3:43 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8794,
+    "title": "Fully Furnished Air-Conditioned Single Room Annex in Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-air-conditioned-single-room-annex-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "25 Nov 11:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8799,
+    "title": "Rooms For Ladies At Nugegoda",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-ladies-at-nugegoda-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "24 Nov 6:56 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -8938,5 +8938,25 @@
     "rawPrice": 40000,
     "timestamp": "23 Nov 10:49 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6830,
+    "title": "Sharing Rooms For Rent in Dehiwala-(Only boys)",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/sharing-rooms-for-rent-in-dehiwala-only-boys-for-rent-colombo",
+    "rawPrice": 20000,
+    "timestamp": "25 Nov 12:28 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6835,
+    "title": "Furnished Room for Rent in Attidiya – Girls.",
+    "price": "Rs 30,000 /tháng (~ 2.550.000 ₫)",
+    "url": "https://ikman.lk/en/ad/furnished-room-for-rent-in-attidiya-girls-for-rent-colombo-1",
+    "rawPrice": 30000,
+    "timestamp": "24 Nov 6:41 pm",
+    "gender": "Cả hai"
   }
 ]
