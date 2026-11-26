@@ -7538,5 +7538,15 @@
     "rawPrice": 32000,
     "timestamp": "20 Nov 3:20 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6023,
+    "title": "Boarding Place For Girls In Maharagama",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boarding-place-for-girls-in-maharagama-for-rent-colombo-2",
+    "rawPrice": 25000,
+    "timestamp": "26 Nov 12:07 am",
+    "gender": "Cả hai"
   }
 ]

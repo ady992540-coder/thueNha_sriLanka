@@ -5808,5 +5808,35 @@
     "rawPrice": 40000,
     "timestamp": "18 Nov 10:50 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4838,
+    "title": "Gents Only – Rooms for Rent in Nugegoda",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/gents-only-rooms-for-rent-in-nugegoda-for-rent-colombo-2",
+    "rawPrice": 18000,
+    "timestamp": "25 Nov 9:00 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4843,
+    "title": "Fully Furnished Air-Conditioned Single Room Annex in Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-air-conditioned-single-room-annex-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "25 Nov 11:57 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4848,
+    "title": "Rooms For Rent In Nawala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-for-rent-colombo-2743",
+    "rawPrice": 20000,
+    "timestamp": "20 Nov 3:24 pm",
+    "gender": "Cả hai"
   }
 ]
