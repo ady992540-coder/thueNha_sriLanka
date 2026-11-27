@@ -11038,5 +11038,25 @@
     "rawPrice": 37000,
     "timestamp": "25 Nov 2:23 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8831,
+    "title": "Fully Tilld 1st Floor Annex Rent In Pepiliyana (1 bedroom )",
+    "price": "Rs 45,000 /tháng (~ 3.825.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-tilld-1st-floor-annex-rent-in-pepiliyana-1-bedroom-for-rent-colombo",
+    "rawPrice": 45000,
+    "timestamp": "26 Nov 4:04 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 8836,
+    "title": "Room For Rent In Nugegoda",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-for-rent-colombo-10397",
+    "rawPrice": 20000,
+    "timestamp": "26 Nov 2:29 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -5838,5 +5838,25 @@
     "rawPrice": 20000,
     "timestamp": "20 Nov 3:24 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4857,
+    "title": "Luxury Room For Rent In Colombo",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-room-for-rent-in-colombo-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "25 Nov 10:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4862,
+    "title": "Room For Rent In Hokandara (Only Boy) Athurugiriya",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-hokandara-only-boy-athurugiriya-for-rent-colombo",
+    "rawPrice": 27000,
+    "timestamp": "26 Nov 1:54 pm",
+    "gender": "Cả hai"
   }
 ]

@@ -4758,5 +4758,35 @@
     "rawPrice": 18000,
     "timestamp": "25 Nov 9:00 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4272,
+    "title": "Rooms For Rent In Katunayake",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "19 Nov 2:42 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4277,
+    "title": "Luxury Room For Rent In Colombo",
+    "price": "Rs 60,000 /tháng (~ 5.100.000 ₫)",
+    "url": "https://ikman.lk/en/ad/luxury-room-for-rent-in-colombo-for-rent-colombo",
+    "rawPrice": 60000,
+    "timestamp": "25 Nov 10:44 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4282,
+    "title": "Fully Furnished Air-Conditioned Single Room Annex in Nugegoda",
+    "price": "Rs 50,000 /tháng (~ 4.250.000 ₫)",
+    "url": "https://ikman.lk/en/ad/fully-furnished-air-conditioned-single-room-annex-in-nugegoda-for-rent-colombo-1",
+    "rawPrice": 50000,
+    "timestamp": "25 Nov 11:57 am",
+    "gender": "Cả hai"
   }
 ]
