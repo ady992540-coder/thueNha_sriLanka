@@ -8968,5 +8968,25 @@
     "rawPrice": 16000,
     "timestamp": "27 Nov 1:16 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6865,
+    "title": "Newly Built Luxury Rooms for Rent – Ladies Only Kaduwela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-luxury-rooms-for-rent-ladies-only-kaduwela-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "28 Nov 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6870,
+    "title": "Room For Rent In Kalubowila, Dehiwala",
+    "price": "Rs 20,000 /tháng (~ 1.700.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-kalubowila-dehiwala-for-rent-colombo-1",
+    "rawPrice": 20000,
+    "timestamp": "27 Nov 3:24 pm",
+    "gender": "Cả hai"
   }
 ]

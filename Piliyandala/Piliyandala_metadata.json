@@ -5858,5 +5858,45 @@
     "rawPrice": 27000,
     "timestamp": "26 Nov 1:54 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4875,
+    "title": "Newly Built Luxury Rooms for Rent – Ladies Only Kaduwela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-luxury-rooms-for-rent-ladies-only-kaduwela-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "28 Nov 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4880,
+    "title": "Boys’ Rooms In Katubedda Moratuwa",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-in-katubedda-moratuwa-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "28 Nov 2:29 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4885,
+    "title": "Room for Rent in Boralesgamuwa",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-boralesgamuwa-for-rent-colombo-392",
+    "rawPrice": 27000,
+    "timestamp": "19 Nov 4:03 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4889,
+    "title": "Rooms For Rent In Katunayake",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/rooms-for-rent-in-katunayake-for-rent-colombo-1",
+    "rawPrice": 18000,
+    "timestamp": "19 Nov 2:42 pm",
+    "gender": "Cả hai"
   }
 ]

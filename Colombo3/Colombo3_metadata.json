@@ -4788,5 +4788,35 @@
     "rawPrice": 50000,
     "timestamp": "25 Nov 11:57 am",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4291,
+    "title": "Newly Built Luxury Rooms for Rent – Ladies Only Kaduwela",
+    "price": "Rs 25,000 /tháng (~ 2.125.000 ₫)",
+    "url": "https://ikman.lk/en/ad/newly-built-luxury-rooms-for-rent-ladies-only-kaduwela-for-rent-colombo",
+    "rawPrice": 25000,
+    "timestamp": "28 Nov 9:54 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4296,
+    "title": "Room For Rent In Hokandara (Only Boy) Athurugiriya",
+    "price": "Rs 27,000 /tháng (~ 2.295.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-in-hokandara-only-boy-athurugiriya-for-rent-colombo",
+    "rawPrice": 27000,
+    "timestamp": "26 Nov 1:54 pm",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 4300,
+    "title": "Boys’ Rooms In Katubedda Moratuwa",
+    "price": "Rs 18,000 /tháng (~ 1.530.000 ₫)",
+    "url": "https://ikman.lk/en/ad/boys-rooms-in-katubedda-moratuwa-for-rent-colombo",
+    "rawPrice": 18000,
+    "timestamp": "28 Nov 2:29 am",
+    "gender": "Cả hai"
   }
 ]

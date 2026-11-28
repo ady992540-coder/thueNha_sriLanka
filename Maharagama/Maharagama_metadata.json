@@ -7558,5 +7558,25 @@
     "rawPrice": 9000,
     "timestamp": "26 Nov 2:25 pm",
     "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6066,
+    "title": "Annex On Rent In Maharagama",
+    "price": "Rs 38,000 /tháng (~ 3.230.000 ₫)",
+    "url": "https://ikman.lk/en/ad/annex-on-rent-for-rent-colombo-1",
+    "rawPrice": 38000,
+    "timestamp": "28 Nov 8:44 am",
+    "gender": "Cả hai"
+  },
+  {
+    "success": true,
+    "messageId": 6071,
+    "title": "Room For Rent – Maharagama (Saman Uyana)",
+    "price": "Rs 26,000 /tháng (~ 2.210.000 ₫)",
+    "url": "https://ikman.lk/en/ad/room-for-rent-maharagama-saman-uyana-for-rent-colombo-2",
+    "rawPrice": 26000,
+    "timestamp": "28 Nov 8:20 am",
+    "gender": "Cả hai"
   }
 ]
